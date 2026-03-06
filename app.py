@@ -1,0 +1,1 @@
+print("AI Fitness Coach Project")
