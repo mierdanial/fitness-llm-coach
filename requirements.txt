@@ -3,3 +3,4 @@ openai
 langchain
 chromadb
 sentence-transformers
+python-dotenv
