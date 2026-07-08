@@ -2,6 +2,8 @@
 
 This is my Final Year Project. It's an AI fitness coach that uses an LLM combined with RAG (Retrieval-Augmented Generation) to give workout plan recommendations based on actual sports science research instead of just the model guessing.
 
+**Live demo:** https://llm-fitness-coach.streamlit.app/
+
 ## What it does
 
 Basically you chat with it about your fitness goals and it generates a personalized workout plan. Instead of just relying on what the LLM already knows, it pulls from a set of research papers and articles I collected (things like hypertrophy, progressive overload, recovery, injury prevention, nutrition for athletes etc) so the recommendations are backed by actual studies.
