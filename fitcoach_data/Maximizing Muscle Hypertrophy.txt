@@ -1,0 +1,459 @@
+International Journal of Environmental Research and Public Health
+
+Review
+Maximizing Muscle Hypertrophy: A Systematic Review of Advanced Resistance Training Techniques and Methods
+Michal Krzysztofik *, Michal Wilk, Grzegorz Wojdala and Artur Golas´
+Institute of Sport Sciences, Jerzy Kukuczka Academy of Physical Education in Katowice, ul. Mikolowska 72a, 40-065 Katowice, Poland; m.wilk@awf.katowice.pl (M.W.); wojdala.grzegorz@gmail.com (G.W.); a.golas@awf.katowice.pl (A.G.)
+* Correspondence: m.krzysztofik@awf.katowice.pl
+
+
+Received: 12 October 2019; Accepted: 3 December 2019; Published: 4 December 2019
+
+check for
+updates
+
+Abstract: Background: Effective hypertrophy-oriented resistance training (RT) should comprise a combination of mechanical tension and metabolic stress. Regarding training variables, the most effective values are widely described in the literature. However, there is still a lack of consensus regarding the efficiency of advanced RT techniques and methods in comparison to traditional approaches. Methods: MEDLINE and SPORTDiscus databases were searched from 1996 to September 2019 for all studies investigating the effects of advanced RT techniques and methods on muscle hypertrophy and training variables. Thirty articles met the inclusion criteria and were consequently included for the quality assessment and data extraction. Results: Concerning the time-efficiency of training, the use of agonist-antagonist, upper-lower body supersets, drop and cluster sets, sarcoplasma stimulating training, employment of fast, but controlled duration of eccentric contractions (~2s), and high-load RT supplemented with low-load RT under blood flow restriction may provide an additional stimulus and an advantage to traditional training protocols. With regard to the higher degree of mechanical tension, the use of accentuated eccentric loading in RT should be considered. Implementation of drop sets, sarcoplasma stimulating training, low-load RT in conjunction with low-load RT under blood flow restriction could provide time-efficient solutions to increased metabolic stress. Conclusions: Due to insufficient evidence, it is difficult to provide specific guidelines for volume, intensity of effort, and frequency of previously mentioned RT techniques and methods. However, well-trained athletes may integrate advanced RT techniques and methods into their routines as an additional stimulus to break through plateaus and to prevent training monotony.
+
+Keywords: muscle growth; drop sets; supersets; accentuated eccentric work; blood flow restriction; pre-exhaustion; sarcoplasma stimulating training; movement tempo
+
+
+1. Introduction
+    Resistance training (RT) is a primary exercise intervention used to develop strength and stimulate muscle hypertrophy. Increases in muscle mass constitute key components of conditioning in various sports due to the correlation between muscle cross-sectional area and muscle strength [1,2]. Additionally, an increase in muscle mass is one of the goals of bodybuilding [3], and many recreationally strength-trained individuals. Furthermore, adequate levels of muscle mass are an important issue from a health standpoint because its low levels are associated with increased risks of several diseases such as cardiovascular disease [4] and cardio-metabolic risk in adolescents [5] as well as type II diabetes in middle aged and older adults [6].
+    Muscle hypertrophy occurs when muscle protein synthesis exceeds muscle protein breakdown and results in positive net protein balance in cumulative periods [7]. This could be achieved with
+
+Int. J. Environ. Res. Public Health 2019, 16, 4897; doi:10.3390/ijerph16244897	www.mdpi.com/journal/ijerph
+
+
+both RT and protein ingestion, which stimulates muscle protein synthesis and leads to decreases in muscle protein breakdown [8]. From the nutrition point of view, protein intake alongside RT is a potent stimulus for muscle protein synthesis. With regard to RT, manipulation of its variables such as intensity and volume of effort, exercise order, number of performed repetitions and sets, tempo of movement, and the duration of rest periods between sets and exercises and training status have been extensively explored and discussed to maximize muscle adaptations [9,10]. Volume and intensity of effort are basic components with a direct impact on muscular adaptations [11,12]. The American College of Sports Medicine (ACSM) recommends 1-3 sets per exercise of 8-12 repetitions with 70-85% of one repetition maximum (1RM) for novice and 3-6 sets of 1-12 repetitions with 70-100% 1RM for advanced individuals [13]. However, the recent literature shows a much wider range of training options. Several studies have found that training with low-loads (30-60% 1RM) results in similar hypertrophy to training with moderate and high-loads (>60% 1RM) when volitional fatigue occurs [11,14-16]. Moreover, reaching volitional fatigue at all times is not necessary to make significant gains in hypertrophy [17], especially when training with high-loads is considered [18]. Evidence indicates that significant muscle growth occurs when the majority of training sets are performed with
+~3-4 repetitions in reserve (with moderate to high-loads) [19]. Furthermore, it has been established that the volume of RT, defined as the total number of repetitions (repetitions x sets), together with loads used for a given exercise, is the key element of adaptation in terms of muscle hypertrophy; moreover, it has been suggested that higher volumes of effort are warranted for maximizing muscle growth response in diverse populations [12,20-23]. However, following years of training, it becomes difficult to induce further muscle hypertrophy [24], therefore individuals seek advanced resistance training techniques.
+     The purpose of the present paper was to provide an objective and critical review related to advanced RT methods and techniques influencing skeletal muscle, which may contribute to maximizing muscle hypertrophy in both recreational and competitive athletes.
+2. Methods
+
+2.1. Literature Search
+     MEDLINE and SPORTDiscus databases were searched from 1996 to September 2019 for all studies investigating the effects of advanced resistance training techniques and methods on muscle hypertrophy and training variables. The search was performed using the following keyword combinations: ('strength training' OR 'resistance training' OR 'hypertrophy training' OR 'muscle') AND ('time under tension' OR 'movement velocity' OR 'eccentric overload' OR 'accentuated eccentric' OR 'blood flow restriction' OR 'blood flow restricted' OR occlusion OR 'cluster set' OR 'superset OR 'agonist-antagonist' OR 'pre-exhaustion' OR 'drop set' OR 'sarcoplasma' OR 'advanced training techniques' OR 'cross-sectional area' OR 'eccentric duration'). The present review includes studies that (1) presented original research data on healthy adult participants in an age range of 19-44 years old; (2) were published in peer-reviewed journals; and (3) were published in the English language. No sex restrictions were imposed during the search stage.
+2.2. Inclusion and Exclusion Criteria
+     Research studies investigating the effects of advanced resistance training techniques and methods on muscle hypertrophy and training variables were the primary focus of the literature search. Early screening of the articles was based on titles and abstracts. A total of 1088 studies were initially identified for further scrutiny.
+    The next step was to select studies with respect to their internal validity: (1) comparison of different advanced RT techniques and methods with the RT programs performed in traditional training protocols, (2) muscle hypertrophy and/or muscle strength and/or training volume were assessed pre- and post-intervention; for muscle hypertrophy both muscle cross-sectional area changes (magnetic
+
+
+resonance imaging, dual-energy x-ray absorptiometry) and changes in muscle thickness (ultrasound imaging) were considered, while for muscle strength, tests with a repetition maximum (RM) component (e.g., % 1RM or 5RM) were considered; for training volume changes in the number of repetitions, total load and time under tension to muscular failure were considered. The researchers conducted the literature review independently based on inclusion and exclusion criteria. In total, 30 studies met the inclusion criteria for the review (Figure 1).
+
+
+
+
+2.3. Results
+
+Figure 1. The different phases of the search and study selection.
+
+Experimental details of the studies included in the review (Table 1).
+
+
+Table 1. Experimental details of the studies included in the review.
+
+
+  Training Method/Technique
+
+
+Training Duration
+
+
+  Exercise Prescription
+
+
+Were Repetitions
+Conditions		Performed to Volitional Fatigue?
+
+
+Measurement Variables
+
+
+
+Conclusions
+
+Wilk et al., 2018 [25]
+
+42 trained males	Tempo ECC	Acute	Bench Press	2/0/2/0 vs. 5/0/3/0 vs. 6/0/4/0	Yes	TVOL	Regular movement tempo resulted in highest REP to failure
+
+Hatfield et al., 2006 [26]
+Sakamoto and
+
+9 trained males	Tempo ECC	Acute	Back Squat and
+
+10/0/10/0 vs. volitional movement tempo
+
+slow vs, medium vs. fast
+
+
+Yes	TVOL	Volitional movement tempo resulted in higher REP to failure.
+
+Sinclair 2006 [27]
+
+13 males	Tempo ECC	Acute	Bench Press
+
+vs. ballistic	Yes	TVOL	Fast movement velocity resulted in the highest REP to failure.
+
+Burd et al., 2012 [28]
+
+
+8 males	Tempo ECC	Acute	Knee Extension	6/0/6/0 vs. 1/0/1/0	Yes	TVOL	Slow movement tempo resulted in higher TUT.
+
+Shibata et al., 2018 [29]
+
+24 male soccer players
+
+Tempo ECC	6 weeks	Parallel Back Squat	4/0/2/0 vs. 2/0/2/0	Yes	HT, STH	Both protocols lead to significant increase in muscle HT, but
+ff
+
+
+2014 [30]
+
+
+
+
+
+2016 [32]
+
+
+et al., 2010 [33]
+
+Extensions
+
+ECC
+
+
+trained
+
+
+2006 [35]
+
+Extensions
+
+without BFR
+
+
+
+2014 [36]
+Farup et al., 2015 [37]
+
+without BFR
+10 males	BFR	6 weeks	Dumbbell Curls	40% 1RM BFR vs. 40% 1RM
+
+
+
+Both protocols lead to significant increase in muscle HT, with reduced REP to failure in BFR.
+
+Ellefsen et al., 2015 [38]
+
+Laurentino et al., 2012 [39]
+
+Lixandrao et al., 2015 [40]
+
+Unilateral Knee Extensions
+
+Bilateral Knee Extension
+
+Bilateral Knee Extension
+
+30% 1RM BFR vs. 6-10RM
+without BFR
+20% 1RM without BFR vs. 20%1RM BFR vs. 80%1RM
+without BFR
+20 or 40% 1RM + BFR (40 or
+80%AOP) vs. 80% 1RM
+without BFR
+
+
+Yes	HT	Both protocols lead to significant increase in muscle HT.
+
+BFR lead to increase in muscle HT and STH with the same degree as high-intensity RT.
+
+                                  When BFR protocols are performed at very low intensities No	HT, STH	higher AOP is required. BFR protocols significantly improved
+muscle HT and STH, but with less effect in STH.
+
+Yamanaka et al., 2012 [41]
+
+Bench Press and Back Squat
+
+
+20% 1RM BFR vs. 20% 1RM	No	HT, STH	BFR significantly improved muscle HT and STH.
+
+
+
+
+
+
+
+
+
+  Training Method/Technique
+
+
+
+
+Training Duration
+
+
+
+
+  Exercise Prescription
+
+Table 1. Cont.
+Were Repetitions
+Conditions		Performed to Volitional Fatigue?
+
+
+
+
+Measurement Variables
+
+
+
+
+Conclusions
+
+Cook et al., 2018 [42]
+
+18 males	BFR	6 weeks	Leg Press and Knee
+
+70% 1RM vs. 20% 1RM BFR	Yes (only last set)	HT, STH	Both protocols significantly improved muscle HT and STH, but
+ff
+
+Yasuda et al., 2011 [43]
+
+30 males	BFR	6 weeks	Bench Press	75% 1RM vs. 30% 1RM BFR	No	HT, STH	Both protocols significantly improved muscle HT and STH, but
+ff
+23 (12 trained
+
+Oliver et al., 2015 [44]
+
+and 11 untrained) males
+
+4 sets of 10 REP vs. 4 sets of 2 CS of 5 REP at 70% 1RM
+
+No	TVOL	CS allowed to lift a greater TVOL load with reduced TUT.
+
+
+et al., 2014 [45]
+
+
+2017 [46]
+
+
+2019 [47]	/
+
+
+Robbins et al., 2010 [48]
+
+
+Weakley et al.,
+
+16 trained males  SS/Pre-Exhaustion	Acute	Bench Press, Bench
+Back Squat, Bench Press, Romanian
+
+
+SS vs. TS	Yes	TVOL	SS (agonist-antagonist) increased total TVOL load.
+
+
+SS (upper-lower body, agonist-antagonist) and tri-sets
+
+2017 [49]	14 trained males  SS/Pre-Exhaustion	Acute
+
+Deadlift, Dumbbell Shoulder Press, Bent Over Row, Upright Row
+
+TS vs. SS vs. tri-sets	No	TVOL
+
+protocols were more efficient (kilograms lifted per minute) than TS.
+
+
+2016 [50]
+
+
+2018 [51]
+Angleri et al., 2017 [52]
+
+de Almeida
+
+
+32 males	DS/SST	12 weeks	Leg Press and Knee
+Biceps Curls and
+12 trained males	DS SST	Acute
+
+DS vs. TS vs. crescent pyramid	Yes		HT, STH		All protocols significantly improved muscle HT and ST. TS vs. SST	Yes	HT, TVOL	SST lead to greater acute muscle HT, with reduced training
+
+et al., 2019 [53]
+
+Ozaki et al.,
+
+/
+
+
+9 untrained
+
+Triceps Pulley
+Extensions
+
+
+3 sets of 80%1RM vs. 3 sets of
+
+time, even with a lower total TVOL load.
+
+A single high-load set with additional four DS increased
+
+
+2018 [54]
+
+males	DS/SST	8 weeks	Dumbbell Curls
+
+30%1RM vs. 1 set of 80%1RM and then four DS at 65%, 50%, 40% and 30%1RM
+
+Yes	HT, STH, TVOL
+
+muscle HT and STH as well as work capacity (REP to failure), with an reduced training time.
+
+
+
+ECC: eccentric; TVOL: training volume; HT: hypertrophy; STH: strength; REP: repetitions; TUT: time under tension; AEL: accentuated eccentric loading; 1RM: one-repetition maximum; ECC: eccentric; BFR: blood flow restriction; RT: resistance training; AOP: arterial occlusion pressure; CS: cluster set; TS: traditional set; SS: superset; DS: drop sets; SST: sarcoplasma stimulating training.
+
+3. Discussion
+
+3.1. Training Considerations
+    Three major factors are emphasized in the conventional hypertrophy model: mechanical tension, metabolic stress, and muscle damage [55]. These factors can occur by optimal manipulation of RT variables and through a wide range of RT techniques. Progressive mechanical tension overload is considered one of the major factors of muscle growth and changes in muscle architecture, which are attained by increasing RT intensity of effort. RT with high-loads (>85% 1RM), and a low number of repetitions (1-5) as well as long rest intervals (~3-5 min) is largely oriented toward a greater magnitude of mechanical tension, which primarily develops strength, while muscle hypertrophy is compromised [13]. RT with a lower number of repetitions, yet with high-loads emphasizes mechanical tension and results in high levels of neural recruitment (fast-twitch muscle fibers). Another critical variable influencing hypertrophy with an evidenced dose-response relationship is RT volume [11,56]. Higher RT volume (28-30 sets/muscle/week) is associated with greater increases in hypertrophy compared to lower volume (6-10 sets/muscle/week) in both untrained and trained populations [12,20]. Implementation of training with moderate number of repetitions (~6-12), multiple sets (3-6), moderate loads (60-80% 1RM), and short rest intervals (60 s) between sets elicits greater metabolic stress (in contrast with high-loads), which appears to be a potent stimulus for inducing muscle hypertrophy [57]. However, as long as RT is performed to volitional fatigue, training load might not affect exercise-induced muscle growth. Findings by Schoenfeld et al. [11] indicate that both low-load RT (=60% 1RM) performed to volitional fatigue and moderate-load RT (>60% 1RM) elicit significant increases in muscle hypertrophy among well-trained young men. However, the participants following the low-load RT protocol performed approximately three times the total training volume compared to the high-load group (sets × repetitions). Similar findings were also demonstrated in a study by Ikezoe et al. [58], which highlighted the importance of performing exercise to volitional fatigue when low-loads were used to maximize muscle hypertrophy outcomes. These authors compared increments in muscle thickness (rectus femoris) after eight weeks of training with low-load, higher volume (30% 1RM, 12 sets x 8 repetitions) to training with high-load, lower volume (80% 1RM, 3 sets x 8 repetitions) leg extensions in young men. Considering that the training volume in the high-load group was significantly lower than that in the low-load, the degree of muscle thickness attained after intervention was almost twice as high in the high-load group [58]. However, it should be noted that if RT is not conducted to volitional fatigue, reaching the minimum RT intensity threshold (>60%1RM) is necessary to maximize muscle hypertrophy [59].
+    Furthermore, implementation of advanced RT techniques could provide an additional stimulus to break through plateaus for trained subjects [24] and prevent excessive monotony in training. The most recent RT techniques and methods frequently used by practitioners and coaches include accentuated eccentric loading, prolonged eccentric tempo, cluster sets, high-load RT combined with low-load RT under blood flow restriction, supersets, drop sets, pre-exhaustion, and sarcoplasma stimulating training.
+3.2. Tempo Eccentric Technique
+    One of the advanced RT techniques is based on a prolonged duration of the eccentric phase of the movement. The duration of each repetition can be identified by movement tempo, which is determined by four digits (e.g., 2/0/1/0) corresponding to the duration (in seconds) of particular phases of movement (eccentric, transition, concentric, transition) [30]. Changes in the movement tempo during RT impacts the maximal number of repetitions performed in a set, the maximal time under tension, and the final exercise volume [25-27]. Several studies have indicated that the use of a faster movement tempo (e.g., 2/0/2/0) results in a significant increase in the maximal number of performed repetitions when compared to the slower tempo (e.g., 6/0/2/0) [25-27]. In contrast, a slower tempo of movement, especially during the eccentric phase (e.g., 6/0/2/0), decreases the number of performed repetitions, but
+
+extends the time under tension, which may contribute to greater muscle hypertrophy [28]. On the other hand, a meta-analysis of Schoenfeld et al. [60] indicates that similar hypertrophic responses occur when the duration of repetitions ranges from 0.5 to 8 s, although it must be noted that they [60] did not control the duration of particular phases of movement (eccentric vs. concentric), thus making it difficult to draw definite conclusions. Furthermore, a study by Shibata et al. [29] showed that the dominant leg thigh cross-sectional area increased in a similar manner following both the slow (4 s) and the fast (2 s) eccentric phase during the back squat exercise performed to volitional fatigue in a group of male soccer players. In light of the greater force capacity of eccentric actions, and the fact that the energy requirements are typically 4-fold smaller than during the concentric contraction of the same load [61], it would seem logical that lower metabolic stress may occur, which could limit the responses to this training technique.
+    However, studies indicate a wide range of manipulation of the duration of the eccentric phase of movement can be employed if the primary goal of training is to maximize muscle hypertrophy [29,60]. Although, it is not currently clear whether slow tempo provides a superior stimulus for muscle hypertrophy, from a practical point of view, employing a fast but controlled duration of the eccentric phase (~2s) may allow for a high time-efficiency of training and prevent the excessive time of training sessions.
+3.3. Accentuated Eccentric Loading Method
+    Another useful method that can be used during RT, based on eccentric contractions includes accentuated eccentric loading (AEL). This training strategy is based on the muscles' ability to generate greater force during maximal eccentric (~20-60%) versus other types of contraction. The use of weight releasers allow for overloading the muscles during the eccentric phase of movement due to its specific construction. The weight can be unloaded in the transition from the eccentric to the concentric phase of movement. The use of high-loads during the eccentric phase of movement is associated with significant exercise induced muscle damage and mechanical tension, which have been associated with a hypertrophic response [55]. Furthermore, some studies have shown that performing eccentric-only contractions led to higher gains in muscle mass when compared to concentric-only actions [30,62]. Nonetheless, recent literature has indicated that when the volume of training was matched, both AEL and high-load RT led to similar hypertrophic responses in groups of strength-trained athletes [31,32,63]. Furthermore, RT protocols that did not promote significant muscle damage still induced similar muscle hypertrophy in comparison with those protocols that promoted initial muscle damage [7]. However, differences appear in muscle architecture adaptations. Training with the concentric-only phase led to muscle growth mainly by the addition of sarcomeres in parallel (increased pennation angle with little change in fascicle length), while training with eccentric-only contractions led by the addition of sarcomeres in series (increased fascicle length and a small increase in the pennation angle) [64].
+Furthermore, due to the greater mechanical tension, it could provide an additional hypertrophic
+stimulus [31,33,65]. Although it must be noted that the main disadvantage of this technique is the necessity of weight releasers or the presence of experienced spotters during training. Moreover AEL, requires the eccentric load to reload after every repetition, thus is possible that the inter-repetition rest may excessively extend the time of particular repetitions and the whole training session.
+3.4. Low-Load Resistance Training Under Blood Flow Restriction
+    Another RT method that allows for the avoidance of high mechanical stress associated with high-load RT and the high training volumes required when exercising with low-loads to volitional fatigue is to combine RT under blood flow restriction (BFR) [34,66,67]. The BFR method involves the application of a restrictive device (a tourniquet, an inflatable cuff, or elastic wraps) on the proximal part of the limb to reduce the arterial blood flow and to occlude the venous return [67]. Such an intervention results in an accumulation of metabolic products distal to the restriction and when coupled with RT, drastically increases metabolic stress. However, with regard to low-load RT under BFR, a
+
+significant increase in the muscle cross-sectional area was observed even without reaching volitional fatigue in particular sets [35]. Furthermore, several studies have suggested that increases in muscle mass following low-load RT under BFR (20-30% 1RM) do not exceed those observed after the use of high-load RT (80% 1RM) without BFR [36-38]. The effectiveness of using BFR concerns various populations such as non-athletes [39,40], moderately experienced participants (>1 year) [36], and elite athletes [41,42]. High-load RT with additional low-load sets under BFR may elicit beneficial muscular responses in healthy athletes [68].
+    The most frequently and evidence-based repetition and set scheme involves 30 repetitions in the first set followed by three sets of 15 repetitions with 30 s rests in between with 20-40% 1RM and pressure, which contribute to 40-80% of arterial occlusion pressure [69]. However, it must be noted that BFR induced muscle growth is limited to the limb muscles [43].
+3.5. Cluster Sets Technique
+     Another RT technique that partly allows for the balance of both mechanical tension and metabolic stress consists of cluster sets. In a traditional scheme of sets, repetitions, a chosen group of exercises are performed consecutively, with a long inter-set rest interval, are then followed by another set of repetitions. On the contrary, cluster sets include short, inter-set rest intervals (20-60s) with a lower number of repetitions [70]. Previous research has mostly investigated the effects of cluster sets on force production, power output, and movement velocity, while findings related to muscle hypertrophy are limited [44]. Nevertheless, implementation of inter-set rest intervals allows for a greater RT volume to be achieved for a particular external load when compared with a traditional scheme of sets [44,45] in trained and untrained men, possibly providing an additional stimulus for muscle hypertrophy. However, it should be noted that cluster sets induce less metabolic stress, but greater emphasis is placed on mechanical stress due to the use of higher training intensities of effort in comparison with traditional sets [44-46,71]. Thus, the implementation of cluster sets with short inter-set rest intervals could be a useful strategy to carry out high-volume sessions of high-loads, while keeping a high time-efficiency of training (training volume/time). Furthermore, cluster sets may serve as an alternative to traditional sets for promoting muscle hypertrophy over time during parallel periodization models [46], and prevent monotony in training. Moreover, future studies should investigate the direct effects of cluster sets on exercise-induced muscle growth.
+3.6. Supersets and Pre-exhaustion Technique
+    Supersets and pre-exhaustion during RT can be defined as a pair of different exercise sets performed without rest. Supersets most commonly consist of two exercises for the same muscle group [47], agonist-antagonist muscles [48,72] or alternating upper and lower body muscle groups [49] consecutively followed by a recovery period; pre-exhaustion involves performing a single-joint before a multi-joint exercise for the same muscle group (e.g., dumbbell fly before the bench press). In a study by Wallace et al. [47], supersets (flat bench press followed by the incline bench press) resulted in a significantly lower volume of training than a traditional exercise order in strength-trained males. However, with regard to agonist-antagonist supersets, investigation by Robbins et al. [48] (bench pull paired with the bench press) indicated a significantly higher training volume when compared to a traditional exercise order. Furthermore, this type of superset as well as upper-lower body supersets were found to be more time-efficient than traditional exercise order sessions [48,49].
+    The pre-exhaustion technique is commonly used by bodybuilders seeking to enhance the muscle growth of target muscles. The rationale for this technique is that performing a single-joint exercise first fatigues the agonist in isolation, thereby placing greater stress on the agonist and increasing its activation during multi-joint exercise and potentiating its hypertrophy [73]. Another variation is the reverse pre-exhaustion (e.g., triceps pushdown before the bench press), and the justification for this approach is that the fatigued synergist contributes less to the subsequent multi-joint exercise, thereby placing greater stress on the agonist group [74]. However, a study by Golas et al. [75] partially
+
+disagreed with this statement as the results indicated that a pre-exhaustion exercise (incline dumbbell fly) did not affect the pectoralis major activity during the flat bench press exercise at 95% 1RM. Despite that, pre-exhaustion of the synergist muscles (triceps brachii and anterior deltoid before the bench press) led to their higher activation during the multi-joint movement (bench press) as compared to the baseline [75]. Furthermore, results of a study by Soares et al. [50] suggested that pre-exhaustion (triceps pushdown followed by the bench press) decreased the maximal number of repetitions performed during a set to volitional fatigue.
+    In conclusion, practitioners aiming to maximize training volume and intensity of effort may be well advised to consider the use of supersets (agonist-antagonist and upper-lower body) in their RT programs. The use of these exercise orders may be more time-efficient than the traditional approach, and especially useful when time limitations exist in the planning of training sessions.
+3.7. Drop Sets and Sarcoplasma Stimulating Training Technique
+    Drop sets involve performing a set to volitional fatigue with a given load and then immediately reducing the load (e.g., ~20%) and continuing the exercise until subsequent volitional fatigue [76]. Briefly, the rationale for this technique is high metabolic stress induced due to a high number of repetitions performed with short rest intervals. Accordingly, a study by Fink et al. [51] showed significantly higher muscle thickness after drop sets in comparison with RT following a traditional sets scheme, which can be considered as a potential marker for metabolic stress [57]. Furthermore, results of the study by Fink et al. [51] showed significant increases in the triceps cross-sectional area after six weeks of drop sets training when compared to traditional sets. Nevertheless, it must be noted that participants taking part in this research were recreational trained persons with little experience in RT (did not regularly train for more than one year). On the other hand, Angleri et al. [52] demonstrated that drop sets did not promote greater lower body muscle growth when compared with traditional sets in well-trained males when training volume was equalized.
+     Similarly to drop sets, sarcoplasm stimulating training (SST) consists of sets of exercises performed at 70-80% 1RM to volitional fatigue and then repeating this protocol twice more with 20 s rest intervals in between. The next step is to reduce the external load by 20% and perform an additional set with a 4/0/1/0 tempo; following a 20 s rest interval, 20% of the external load is reduced again, and a set with 4/0/1/0 tempo is completed to volitional fatigue. In the last set, the load is further decreased by 20% and after its completion, following a 20 s rest interval, a static hold is performed (e.g., at 90? of elbow flexion) to volitional fatigue [53]. Another SST variation refers to the performance of eight sets of exercises at 70-80% 1RM to volitional fatigue with programmed rest intervals between subsequent sets (45, 30, 15, 5, 5, 15, 30, and 45 s) without reducing the load [53]. Similarly, to drop sets, the main aim of SST is to induce high metabolic stress [53]. Recently, de Almeida et al. [53] demonstrated that SST resulted in greater acute biceps brachii and triceps brachii muscle thickness when compared to a traditional set scheme in trained subjects, even when total training volume was higher in a traditional set scheme RT.
+    Evidence suggests the beneficial effects of both drop sets and SST in acute increases in triceps brachii muscle thickness [53] in both amateur and well-trained subjects, even with lower training volume versus a traditional set scheme RT. However, studies that have investigated the chronic effects of drop sets did not show a superior hypertrophy response when compared with traditional sets [52,54]. Moreover, the chronic effects of SST on muscle growth have not been examined yet.
+3.8. Limitations
+    The present review has several limitations that should be addressed. The majority of included studies did not control nutritional intake, which can affect the magnitude of muscle adaptations. Another limitation relates to studies that examined the influence of advanced methods and techniques on training variables, but did not analyze hypertrophic responses and/or strength improvements,
+
+which would be the basis for explaining their efficiency. In addition, only one study [44] directly compared the responses between trained and untrained participants.
+4. Conclusions
+     Considering the aforementioned studies, effective hypertrophy-oriented training should comprise a combination of mechanical tension and metabolic stress. In summary, foundations for individuals seeking to maximize muscle growth should be hypertrophy-oriented RT consisting of multiple sets (3-6) of six to 12 repetitions with short rest intervals (60 s) and moderate intensity of effort (60-80% 1RM) with subsequent increases in training volume (12-28 sets/muscle/week) [20]. Moreover, trained athletes may consider integrating advanced resistance training techniques and methods to provide an additional stimulus to break through plateaus, prevent monotony, and reduce the time of training sessions. Evidence suggests some beneficial effects for selected RT techniques especially in the case of training volume, time-efficiency, and intensity of effort. Furthermore, even though most of these techniques and methods did not show a superior hypertrophy response compared to the traditional approach, it may serve as an alternative to prevent monotony or it could improve readiness to training sessions. To maintain high time-efficiency of training and when time limitations exist, the use of agonist-antagonist, upper-lower body supersets, drop sets, SST, and cluster sets may provide an advantage to the traditional approach. Furthermore, the employment of fast but controlled tempo (~2 s) and supplementation of high-load RT with low-load RT under BFR may allow for high time-efficiency of training and prevent excessively long training sessions. With regard to the higher degree of mechanical tension, the use of AEL in RT should be considered, therefore, in cases where time is limited, cluster sets might be a better choice. The implementation of drop sets, SST, and low-load RT under BFR could provide time-efficient techniques to increase metabolic stress. In summary, currently there is not sufficient evidence to provide specific guidelines for volume, intensity of effort, and frequency of the previously mentioned resistance training techniques.
+Furthermore, persistence in training and diet is essential. Recently, research has shown that
+muscle hypertrophy that occurs at initial stages of RT (~4 sessions) is mostly attributable to muscle damage induced cell swelling with the majority of strength gains resulting from neural adaptations (8-12 sessions). Within the latter phase of RT (6-10 weeks), muscle growth begins to become the dominant factor [7].
+Author Contributions: Study concept and design: M.K. and G.W.; Acquisition of data: M.K. and G.W.; Analysis and interpretation of data: M.K. and G.W.; Writing-original draft: M.K.; Writing-review and editing: A.G. and M.W.; Supervision: A.G. and M.W.
+Funding: This research received no external funding.
+Acknowledgments: The study was supported and funded by the statutory research project of the Jerzy Kukuczka Academy of Physical Education in Katowice, Poland.
+Conflicts of Interest: The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+References
+1. Herman, J.R.; Rana, S.R.; Chleboun, G.S.; Gilders, R.M.; Hageman, F.C.; Hikida, R.S.; Kushnick, M.R.; Ragg, K.E.; Staron, R.S.; Toma, K. Correlation Between Muscle Fiber Cross-Sectional Area and Strength Gain Using Three Different Resistance-Training Programs In College-Aged Women. J. Strength Cond. Res. 2010, 24,
+1. [CrossRef]
+2. Jones, E.J.; Bishop, P.A.; Woods, A.K.; Green, J.M. Cross-Sectional Area and Muscular Strength: A Brief Review. Sports Med. 2008, 38, 987-994. [CrossRef] [PubMed]
+3. Hackett, D.A.; Johnson, N.A.; Chow, C.M. Training Practices and Ergogenic Aids Used by Male Bodybuilders.
+J. Strength Cond. Res. 2013, 27, 1609-1617. [CrossRef] [PubMed]
+4. Srikanthan, P.; Horwich, T.B.; Tseng, C.H. Relation of Muscle Mass and Fat Mass to Cardiovascular Disease Mortality. Am. J. Cardiol. 2016, 117, 1355-1360. [CrossRef]
+
+5. Burrows, R.; Correa-Burrows, P.; Reyes, M.; Blanco, E.; Albala, C.; Gahagan, S. Low muscle mass is associated with cardiometabolic risk regardless of nutritional status in adolescents: A cross-sectional study in a Chilean birth cohort. Pediatr. Diabetes 2017, 18, 895-902. [CrossRef]
+6. Son, J.W.; Lee, S.S.; Kim, S.R.; Yoo, S.J.; Cha, B.Y.; Son, H.Y.; Cho, N.H. Low muscle mass and risk of type 2 diabetes in middle-aged and older adults: Findings from the KoGES. Diabetologia 2017, 60, 865-872. [CrossRef]
+7. Damas, F.; Libardi, C.A.; Ugrinowitsch, C. The development of skeletal muscle hypertrophy through resistance training: The role of muscle damage and muscle protein synthesis. Eur. J. Appl. Physiol. 2018, 118, 485-500. [CrossRef]
+8. Phillips, S.M. A Brief Review of Critical Processes in Exercise-Induced Muscular Hypertrophy. Sports Med.
+2014, 44, 71-77. [CrossRef]
+9. Bird, S.P.; Tarpenning, K.M.; Marino, F.E. Designing resistance training programmes to enhance muscular fitness: A review of the acute programme variables. Sports Med. 2005, 35, 841-851. [CrossRef]
+10. Ralston, G.W.; Kilgore, L.; Wyatt, F.B.; Buchan, D.; Baker, J.S. Weekly Training Frequency Effects on Strength Gain: A Meta-Analysis. Sports Med. Open 2018, 4, 36. [CrossRef]
+11. Schoenfeld, B.J.; Peterson, M.D.; Ogborn, D.; Contreras, B.; Sonmez, G.T. Effects of Low- vs. High-Load Resistance Training on Muscle Strength and Hypertrophy in Well-Trained Men. J. Strength Cond. Res. 2015, 29, 2954-2963. [CrossRef] [PubMed]
+12. Schoenfeld, B.J.; Ogborn, D.; Krieger, J.W. Dose-response relationship between weekly resistance training volume and increases in muscle mass: A systematic review and meta-analysis. J. Sports Sci. 2017, 35, 1073-1082. [CrossRef] [PubMed]
+13. American College of Sports Medicine American College of Sports Medicine Position Stand. Progression models in resistance training for healthy adults. Med. Sci. Sports Exerc. 2009, 41, 687-708. [CrossRef] [PubMed]
+14. Burd, N.A.; West, D.W.D.; Staples, A.W.; Atherton, P.J.; Baker, J.M.; Moore, D.R.; Holwerda, A.M.; Parise, G.; Rennie, M.J.; Baker, S.K.; et al. Low-load high volume resistance exercise stimulates muscle protein synthesis more than high-load low volume resistance exercise in young men. PLoS ONE 2010, 5, e12033. [CrossRef]
+15. Mitchell, C.J.; Churchward-Venne, T.A.; West, D.W.D.; Burd, N.A.; Breen, L.; Baker, S.K.; Phillips, S.M. Resistance exercise load does not determine training-mediated hypertrophic gains in young men.
+J. Appl. Physiol. 2012, 113, 71-77. [CrossRef]
+16. Wernbom, M.; Järrebring, R.; Andreasson, M.A.; Augustsson, J. Acute effects of blood flow restriction on muscle activity and endurance during fatiguing dynamic knee extensions at low load. J. Strength Cond. Res. 2009, 23, 2389-2395. [CrossRef]
+17. Sampson, J.A.; Groeller, H. Is repetition failure critical for the development of muscle hypertrophy and strength? Failure is not necessary for strength gain. Scand. J. Med. Sci. Sports 2016, 26, 375-383. [CrossRef]
+18. Ogasawara, R.; Loenneke, J.P.; Thiebaud, R.S.; Abe, T. Low-Load Bench Press Training to Fatigue Results in Muscle Hypertrophy Similar to High-Load Bench Press Training. Int. J. Clin. Med. 2013, 4, 114-121. [CrossRef]
+19. Helms, E.R.; Byrnes, R.K.; Cooke, D.M.; Haischer, M.H.; Carzoli, J.P.; Johnson, T.K.; Cross, M.R.; Cronin, J.B.; Storey, A.G.; Zourdos, M.C. RPE vs. Percentage 1RM Loading in Periodized Programs Matched for Sets and Repetitions. Front. Physiol. 2018, 9, 247. [CrossRef]
+20. Schoenfeld, B.J.; Contreras, B.; Krieger, J.; Grgic, J.; Delcastillo, K.; Belliard, R.; Alto, A. Resistance Training Volume Enhances Muscle Hypertrophy. Med. Sci. Sports Exerc. 2019, 51, 94. [CrossRef]
+21. Wolfe, B.L.; Lemura, L.M.; Cole, P.J. Quantitative analysis of single- vs, multiple-set programs in resistence training. J. Strength Cond. Res. 2004, 18, 35-47. [PubMed]
+22. Terzis, G.; Spengos, K.; Mascher, H.; Georgiadis, G.; Manta, P.; Blomstrand, E. The degree of p70 S6k and S6 phosphorylation in human skeletal muscle in response to resistance exercise depends on the training volume. Eur. J. Appl. Physiol. 2010, 110, 835-843. [CrossRef] [PubMed]
+23. Krieger, J.W. Single vs. Multiple Sets of Resistance Exercise for Muscle Hypertrophy: A Meta-Analysis.
+J. Strength Cond. Res. 2010, 24, 1150-1159. [CrossRef] [PubMed]
+24. Counts, B.R.; Buckner, S.L.; Mouser, J.G.; Dankel, S.J.; Jessee, M.B.; Mattocks, K.T.; Loenneke, J.P. Muscle growth: To infinity and beyond?: Muscle Hypertrophy Time Course. Muscle Nerve 2017, 56, 1022-1030. [CrossRef]
+
+25. Wilk, M.; Golas, A.; Stastny, P.; Nawrocka, M.; Krzysztofik, M.; Zajac, A. Does Tempo of Resistance Exercise Impact Training Volume? J. Hum. Kinet. 2018, 62, 241-250. [CrossRef]
+26. Hatfield, D.L.; Kraemer, W.J.; Spiering, B.A.; Häkkinen, K.; Volek, J.S.; Shimano, T.; Spreuwenberg, L.P.B.; Silvestre, R.; Vingren, J.L.; Fragala, M.S.; et al. The impact of velocity of movement on performance factors in resistance exercise. J. Strength Cond. Res. 2006, 20, 760-766.
+27. Sakamoto, A.; Sinclair, P.J. Effect of movement velocity on the relationship between training load and the number of repetitions of bench press. J. Strength Cond. Res. 2006, 20, 523-527.
+28. Burd, N.A.; Andrews, R.J.; West, D.W.D.; Little, J.P.; Cochran, A.J.R.; Hector, A.J.; Cashaback, J.G.A.; Gibala, M.J.; Potvin, J.R.; Baker, S.K.; et al. Muscle time under tension during resistance exercise stimulates differential muscle protein sub-fractional synthetic responses in men. J. Physiol. 2012, 590, 351-362. [CrossRef]
+29. Shibata, K.; Takizawa, K.; Nosaka, K.; Mizuno, M. Effects of Prolonging Eccentric Phase Duration in Parallel Back-Squat Training to Momentary Failure on Muscle Cross-Sectional Area, Squat One Repetition Maximum, and Performance Tests in University Soccer Players. J. Strength Cond. Res. 2018. Ahead of Print. [CrossRef]
+30. English, K.L.; Loehr, J.A.; Lee, S.M.C.; Smith, S.M. Early-phase musculoskeletal adaptations to different levels of eccentric resistance after 8 weeks of lower body training. Eur. J. Appl. Physiol. 2014, 114, 2263-2280. [CrossRef]
+31. Brandenburg, J.P.; Docherty, D. The effects of accentuated eccentric loading on strength, muscle hypertrophy, and neural adaptations in trained individuals. J. Strength Cond. Res. 2002, 16, 25-32. [PubMed]
+32. Walker, S.; Blazevich, A.J.; Haff, G.G.; Tufano, J.J.; Newton, R.U.; Häkkinen, K. Greater Strength Gains after Training with Accentuated Eccentric than Traditional Isoinertial Loads in Already Strength-Trained Men. Front. Physiol. 2016, 7, 149. [CrossRef] [PubMed]
+33. Friedmann-Bette, B.; Bauer, T.; Kinscherf, R.; Vorwald, S.; Klute, K.; Bischoff, D.; Müller, H.; Weber, M.A.; Metz, J.; Kauczor, H.-U.; et al. Effects of strength training with eccentric overload on muscle adaptation in male athletes. Eur. J. Appl. Physiol. 2010, 108, 821-836. [CrossRef] [PubMed]
+34. Loenneke, J.P.; Balapur, A.; Thrower, A.D.; Barnes, J.; Pujol, T.J. Blood flow restriction reduces time to muscular failure. Eur. J. Sport Sci. 2012, 12, 238-243. [CrossRef]
+35. Kubo, K.; Komuro, T.; Ishiguro, N.; Tsunoda, N.; Sato, Y.; Ishii, N.; Kanehisa, H.; Fukunaga, T. Effects of low-load resistance training with vascular occlusion on the mechanical properties of muscle and tendon.
+J. Appl. Biomech. 2006, 22, 112-119. [CrossRef]
+36. Lowery, R.P.; Joy, J.M.; Loenneke, J.P.; de Souza, E.O.; Machado, M.; Dudeck, J.E.; Wilson, J.M. Practical blood flow restriction training increases muscle hypertrophy during a periodized resistance training programme. Clin. Physiol. Funct. Imaging 2014, 34, 317-321. [CrossRef]
+37. Farup, J.; de Paoli, F.; Bjerg, K.; Riis, S.; Ringgard, S.; Vissing, K. Blood flow restricted and traditional resistance training performed to fatigue produce equal muscle hypertrophy. Scand. J. Med. Sci. Sports 2015, 25, 754-763. [CrossRef]
+38. Ellefsen, S.; Hammarström, D.; Strand, T.A.; Zacharoff, E.; Whist, J.E.; Rauk, I.; Nygaard, H.; Vegge, G.; Hanestadhaugen, M.; Wernbom, M.; et al. Blood flow-restricted strength training displays high functional and biological efficacy in women: A within-subject comparison with high-load strength training. Am. J. Physiol. Regul. Integr. Comp. Physiol. 2015, 309, R767-R779. [CrossRef]
+39. Laurentino, G.C.; Ugrinowitsch, C.; Roschel, H.; Aoki, M.S.; Soares, A.G.; Neves, M.; Aihara, A.Y.; Fernandes Ada, R.C.; Tricoli, V. Strength training with blood flow restriction diminishes myostatin gene expression. Med. Sci. Sports Exerc. 2012, 44, 406-412. [CrossRef]
+40. Lixandrão, M.E.; Ugrinowitsch, C.; Laurentino, G.; Libardi, C.A.; Aihara, A.Y.; Cardoso, F.N.; Tricoli, V.; Roschel, H. Effects of exercise intensity and occlusion pressure after 12 weeks of resistance training with blood-flow restriction. Eur. J. Appl. Physiol. 2015, 115, 2471-2480. [CrossRef]
+41. Yamanaka, T.; Farley, R.S.; Caputo, J.L. Occlusion Training Increases Muscular Strength in Division IA Football Players. J. Strength Cond. Res. 2012, 26, 2523-2529. [CrossRef] [PubMed]
+42. Cook, S.B.; Scott, B.R.; Hayes, K.L.; Murphy, B.G. Neuromuscular Adaptations to Low-Load Blood Flow Restricted Resistance Training. J. Sports Sci. Med. 2018, 17, 66-73. [PubMed]
+43. Yasuda, T.; Ogasawara, R.; Sakamaki, M.; Bemben, M.G.; Abe, T. Relationship between limb and trunk muscle hypertrophy following high-intensity resistance training and blood flow-restricted low-intensity resistance training: Effect of BFR training on trunk muscle size. Clin. Physiol. Funct. Imaging 2011, 31, 347-351. [CrossRef] [PubMed]
+
+44. Oliver, J.M.; Kreutzer, A.; Jenke, S.; Phillips, M.D.; Mitchell, J.B.; Jones, M.T. Acute response to cluster sets in trained and untrained men. Eur. J. Appl. Physiol. 2015, 115, 2383-2393. [CrossRef]
+45. Iglesias-Soler, E.; Carballeira, E.; Sánchez-Otero, T.; Mayo, X.; Fernández-del-Olmo, M. Performance of Maximum Number of Repetitions with Cluster-Set Configuration. Int. J. Sport Physiol. 2014, 9, 637-642. [CrossRef]
+46. Tufano, J.J.; Conlon, J.A.; Nimphius, S.; Brown, L.E.; Banyard, H.G.; Williamson, B.D.; Bishop, L.G.; Hopper, A.J.; Haff, G.G. Cluster Sets: Permitting Greater Mechanical Stress Without Decreasing Relative Velocity. Int. J. Sports Physiol. 2017, 12, 463-469. [CrossRef]
+47. Wallace, W.; Ugrinowitsch, C.; Stefan, M.; Rauch, J.; Barakat, C.; Shields, K.; Barninger, A.; Barroso, R.; De Souza, E.O. Repeated Bouts of Advanced Strength Training Techniques: Effects on Volume Load, Metabolic Responses, and Muscle Activation in Trained Individuals. Sports 2019, 7, 14. [CrossRef]
+48. Robbins, D.W.; Young, W.B.; Behm, D.G. The Effect of an Upper-Body Agonist-Antagonist Resistance Training Protocol on Volume Load and Efficiency. J. Strength Cond. Res. 2010, 24, 2632-2640. [CrossRef]
+49. Weakley, J.J.S.; Till, K.; Read, D.B.; Roe, G.A.B.; Darrall-Jones, J.; Phibbs, P.J.; Jones, B. The effects of traditional, superset, and tri-set resistance training structures on perceived intensity and physiological responses. Eur. J. Appl. Physiol. 2017, 117, 1877-1889. [CrossRef]
+50. Soares, E.G.; Brown, L.E.; Gomes, W.A.; Corrêa, D.A.; Serpa, É.P.; da Silva, J.J.; Junior, G.D.; Fioravanti, G.Z.; Aoki, M.S.; Lopes, C.R.; et al. Comparison Between Pre-Exhaustion and Traditional Exercise Order on Muscle Activation and Performance in Trained Men. J. Sports Sci. Med. 2016, 15, 111-117.
+51. Fink, J.; Schoenfeld, B.J.; Kikuchi, N.; Nakazato, K. Effects of drop set resistance training on acute stress indicators and long-term muscle hypertrophy and strength. J. Sports Med. Phys. Fit. 2017, 58, 597-605. [CrossRef]
+52. Angleri, V.; Ugrinowitsch, C.; Libardi, C.A. Crescent pyramid and drop-set systems do not promote greater strength gains, muscle hypertrophy, and changes on muscle architecture compared with traditional resistance training in well-trained men. Eur. J. Appl. Physiol. 2017, 117, 359-369. [CrossRef] [PubMed]
+53. De Almeida, F.N.; Lopes, C.R.; Conceição, R.M.; Oenning, L.; Crisp, A.H.; de Sousa, N.M.F.; Trindade, T.B.; Willardson, J.M.; Prestes, J. Acute Effects of the New Method Sarcoplasma Stimulating Training Versus Traditional Resistance Training on Total Training Volume, Lactate and Muscle Thickness. Front. Physiol. 2019, 10, 579. [CrossRef] [PubMed]
+54. Ozaki, H.; Kubota, A.; Natsume, T.; Loenneke, J.P.; Abe, T.; Machida, S.; Naito, H. Effects of drop sets with resistance training on increases in muscle CSA, strength, and endurance: A pilot study. J. Sports Sci. 2018, 36, 691-696. [CrossRef]
+55. Schoenfeld, B.J. The mechanisms of muscle hypertrophy and their application to resistance training. J. Strength Cond. Res. 2010, 24, 2857-2872. [CrossRef]
+56. Haun, C.T.; Vann, C.G.; Mobley, C.B.; Roberson, P.A.; Osburn, S.C.; Holmes, H.M.; Mumford, P.M.; Romero, M.A.; Young, K.C.; Moon, J.R.; et al. Effects of Graded Whey Supplementation During Extreme-Volume Resistance Training. Front. Nutr. 2018, 5, 84. [CrossRef]
+57. Schoenfeld, B.J. Potential Mechanisms for a Role of Metabolic Stress in Hypertrophic Adaptations to Resistance Training. Sports Med. 2013, 43, 179-194. [CrossRef]
+58. Ikezoe, T.; Kobayashi, T.; Nakamura, M.; Ichihashi, N. Effects of low-load, higher-repetition versus high-load, lower-repetition resistance training not performed to failure on muscle strength, mass, and echo intensity in healthy young men: A time-course study. J. Strength Cond. Res. 2017. [CrossRef]
+59. Lasevicius, T.; Ugrinowitsch, C.; Schoenfeld, B.J.; Roschel, H.; Tavares, L.D.; De Souza, E.O.; Laurentino, G.; Tricoli, V. Effects of different intensities of resistance training with equated volume load on muscle strength and hypertrophy. Eur. J Sport Sci. 2018, 18, 772-780. [CrossRef]
+60. Schoenfeld, B.J.; Ogborn, D.I.; Krieger, J.W. Effect of repetition duration during resistance training on muscle hypertrophy: A systematic review and meta-analysis. Sports Med. 2015, 45, 577-585. [CrossRef]
+61. Hoppeler, H. Moderate Load Eccentric Exercise; A Distinct Novel Training Modality. Front. Physiol. 2016, 7,
+483. [CrossRef] [PubMed]
+62. Douglas, J.; Pearson, S.; Ross, A.; McGuigan, M. Chronic Adaptations to Eccentric Training: A Systematic Review. Sports Med. 2017, 47, 917-941. [CrossRef] [PubMed]
+
+63. Franchi, M.V.; Reeves, N.D.; Narici, M.V. Skeletal Muscle Remodeling in Response to Eccentric vs. Concentric Loading: Morphological, Molecular, and Metabolic Adaptations. Front. Physiol. 2017, 8, 447. [CrossRef] [PubMed]
+64. Narici, M.; Franchi, M.; Maganaris, C. Muscle structural assembly and functional consequences. J. Exp. Biol.
+2016, 219, 276-284. [CrossRef]
+65. Gehlert, S.; Suhr, F.; Gutsche, K.; Willkomm, L.; Kern, J.; Jacko, D.; Knicker, A.; Schiffer, T.; Wackerhage, H.; Bloch, W. High force development augments skeletal muscle signalling in resistance exercise modes equalized for time under tension. Pflug. Arch. Eur. J. Physiol. 2015, 467, 1343-1356. [CrossRef]
+66. Loenneke, J.P.; Pujol, T.J. The Use of Occlusion Training to Produce Muscle Hypertrophy. Strength Cond. J.
+2009, 31, 77-84. [CrossRef]
+67. Wilk, M.; Krzysztofik, M.; Gepfert, M.; Poprzecki, S.; Golas´, A.; Maszczyk, A. Technical and Training Related Aspects of Resistance Training Using Blood Flow Restriction in Competitive Sport-A Review. J. Hum. Kinet. 2018, 65, 249-260. [CrossRef]
+68. Scott, B.R.; Loenneke, J.P.; Slattery, K.M.; Dascombe, B.J. Exercise with blood flow restriction: An updated evidence-based approach for enhanced muscular development. Sports Med. 2015, 45, 313-325. [CrossRef]
+69. Patterson, S.D.; Hughes, L.; Warmington, S.; Burr, J.; Scott, B.R.; Owens, J.; Abe, T.; Nielsen, J.L.; Libardi, C.A.; Laurentino, G.; et al. Blood Flow Restriction Exercise Position Stand: Considerations of Methodology, Application, and Safety. Front. Physiol. 2019, 10, 533. [CrossRef]
+70. Tufano, J.J.; Conlon, J.A.; Nimphius, S.; Brown, L.E.; Seitz, L.B.; Williamson, B.D.; Haff, G.G. Maintenance of Velocity and Power with Cluster Sets During High-Volume Back Squats. Int. J. Sport Physiol. 2016, 11, 885-892. [CrossRef]
+71. Tufano, J.J.; Conlon, J.A.; Nimphius, S.; Brown, L.E.; Petkovic, A.; Frick, J.; Gregory Haff, G. Effects of Cluster Sets and Rest-Redistribution on Mechanical Responses to Back Squats in Trained Men. J. Hum. Kinet. 2017, 58, 35-43. [CrossRef] [PubMed]
+72. Kelleher, A.R.; Hackney, K.J.; Fairchild, T.J.; Keslacy, S.; Ploutz-Snyder, L.L. The Metabolic Costs of Reciprocal Supersets vs. Traditional Resistance Exercise in Young Recreationally Active Adults. J. Strength Cond. Res. 2010, 24, 1043-1051. [CrossRef] [PubMed]
+73. Fleck, S.J.; Kraemer, W.J. Designing Resistance Training Programs, 4th ed.; Human Kinetics: Champaign, IL, USA, 2014; ISBN 978-0-7360-8170-2.
+74. Ribeiro, A.S.; Nunes, J.P.; Cunha, P.M.; Aguiar, A.F.; Schoenfeld, B.J. Potential Role of Pre-Exhaustion Training in Maximizing Muscle Hypertrophy: A Review of the Literature. Strength Cond. J. 2019, 41, 75-80. [CrossRef]
+75. Golas, A.; Maszczyk, A.; Pietraszewski, P.; Stastny, P.; Tufano, J.J.; Zaja?c, A. Effects of Pre-exhaustion on the Patterns of Muscular Activity in the Flat Bench Press. J. Strength Cond. Res. 2017, 31, 1919-1924. [CrossRef] [PubMed]
+76. Schoenfeld, B. The Use of Specialized Training Techniques to Maximize Muscle Hypertrophy. Strength Cond.
+J. 2011, 33, 60-65. [CrossRef]
+
+(c) 2019 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+
+
+
+
+
+

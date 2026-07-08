@@ -1,0 +1,390 @@
+Serafim et al.
+Journal of Orthopaedic Surgery and Research	(2023) 18:296
+https://doi.org/10.1186/s13018-023-03781-x
+
+Journal of Orthopaedic Surgery and Research
+
+
+
+
+
+Which resistance training is safest to practice? A systematic review
+Thiago Teixeira Serafim1, Eliton Stanley de Oliveira1, Nicola Maffulli2,3,4, Filippo Migliorini5*	and Rodrigo Okubo1
+
+
+Abstract
+Background The combination of resistance training (RT) and aerobic training is believed to achieve the best effects. Several different aerobic training methods have emerged in combination with or as a substitute for traditional RT. This study wished to verify which RT is safest in terms of injury prevalence and incidence. Also, it ascertained the charac- teristics of the injured subjects, the level of severity of the injuries and what definitions of injuries the available studies use.
+Methods This systematic review followed the PRISMA recommendations and was registered in PROSPERO with the number CRD42021257010. The searches were performed in the PubMed, Cochrane and Web of Science, electronic databases using the Medical Subject Headings terms "Resistance training" or "Strength training" or "Crossfit" or "Weightlifting" or "Powerlifting" combined (AND) with "Injury" or "Injuries" or "Sprain" AND "Incidence" or "Prevalence" AND "Epidemiology" or "Epidemiological" in the title or abstract. The last search was performed on March 2023. To be included in the review, the studies had to be available as full text, be clinical trials focusing on epidemiological injuries of resistance training. There was no time limit for the selection of articles. To assess the quality of the studies, the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) was used.
+Results The initial literature search resulted in 4982 studies. After reading the titles, abstracts and full text, 28 articles were selected for data extraction. Seventeen investigated the injuries in HIFT/CrossFit, three in powerlifting, three
+in strength training, three in weightlifting and one in strongman. In addition, one study examined the HIFT/CrossFit and weightlifting. The incidence of injuries presented in the studies ranged from 0.21/1000 h to 18.9/1000 h and the prevalence of injuries was 10% to 82%. In the quality assessment for STROBE, five studies were classified at level A, 21 at level B and two at level C.
+Conclusion This systematic review showed that traditional strength training is the safest RT method, and strongman is the least safe regarding injuries. Few studies have been rated highly according to STROBE. Furthermore, few studies have been published on some RT methods. These two factors make it difficult to generalize the results.
+Keywords Resistance training, Injury, Strength training, High-intensity functional training, Weightlifting
+
+
+
+
+
+
+
+
+*Correspondence:
+Filippo Migliorini migliorini.md@gmail.com
+Full list of author information is available at the end of the article
+
+(c) The Author(s) 2023. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativeco mmons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+
+
+
+
+
+Background
+The combination of resistance training (RT) associated with aerobic training is ideal for the best performance [1-3]. With the growth of such information and the encouragement for the greater practice of physical exer- cise, different RT methods have emerged [4-6]. Within these modalities, when considering health, well-being and quality of life, there was less concern only with aes- thetics or performance gains within the sport [1, 2]. Therefore, studies that evaluate variables related to exer- cise safety are important [7]. Studies on the incidence and prevalence of injuries are important to identify risk factors within the modality and develop preventive strat- egies [8, 9]. The comparison between one modality and another is also important for practitioners to choose the best and safest RT method. This study wished to verify which RT is safest in terms of injury prevalence and incidence. Also, it ascertained the characteristics of the injured subjects, the level of severity of the injuries and what definitions of injuries the available studies use.
+Methods
+Protocol registration
+This systematic review followed the Preferred Report- ing Items for Systematic Reviews and Meta-Analyses (PRISMA) recommendations [10] and was registered in PROSPERO (ID CRD42021257010). The searches were performed in the PubMed, SPORTDiscuss and Web of Science, electronic databases using the follow- ing keywords (Additional file 1): "Resistance training" or "Strength training" or "CrossFit" or "Weightlifting" OR "Powerlifting" AND "Injury" or "Injuries" or "Sprain" AND "Incidence" or "Prevalence" AND "Epidemiology" or "Epidemiological". The last update of the database search was conducted on March 2023.
+Eligibility criteria
+Studies were deemed eligible according to the PICOS criteria [10, 11] (Table 1). To be included in the review, the studies had to be available as full text, and be clinical
+
+trials focusing on epidemiological aspects of injuries that occurred with RT. There was no time limit for the selection of articles. Literature reviews, case reports, edi- torials, letters to the editor, technical notes and articles published in languages other than English were excluded.
+Selection of studies and data extraction
+The studies were independently screened by two review- ers (TTS and ESO) for inclusion. Each reviewer studied the title of each article identified through the search, fol- lowed by examination of the abstracts. Subsequently, the full text of the articles which passed the previous stages was analysed. Disagreements between reviewers were resolved by a third senior reviewer experienced in sys- tematic reviews and meta-analyses (RO).
+Data extraction
+The data collected by two authors (TTS and ESO) from the articles referred to the sample size, type of resistance training, incidence and prevalence of injuries, associated factors, severity, and definition of injuries. The Ameri- can College of Sports Medicine (ACSM) defines resist- ance training for health and fitness as "a form of physical activity that is designed to improve muscle fitness by exercising a muscle or muscle group against external resistance" [12]. Resistance or strength training is widely performed in contemporary health and fitness environ- ments through the use of equipment such as free weights, sectorized weight machines, plate loaded machines, weighted balls, resistance bands, and body weight resist- ance equipment [13].
+Quality assessment
+To assess the quality of the studies, the Strengthening the Reporting of Observational Studies in Epidemiol- ogy (STROBE) was used. The scale has a checklist with 22 items that receive scores from 0 (does not meet) to 1 (complies). Depending on the sum of items reached by the study [14, 15] when the study fulfilled more than 80% of the criteria established in the STROBE, the study
+
+
+
+Table 1 PICOS framework
+
+Criteria	Inclusion	Exclusion
+
+P	Adults	< 18 years old
+
+I	Weightlifting, powerlifting, Crossfit, HIFT, strongman, traditional strength training, bodybuilding
+
+HIIT, calisthenics, military training, gymnastics
+
+C	Others physical activity	-
+O	Injury prevalence and/or incidence	-
+S	Observational or clinical trials	Literature reviews, case reports, editorials, letters to the editor, technical notes
+
+HIFT high-intensity functional training, HIIT high-intensity interval training
+
+
+
+
+
+is considered high quality if 50% to 80% of the STROBE criteria are met [16]. On the other hand, if the consid- ered study met less than 50% of the STROBE criteria, low quality if detected [16].
+Results
+Search results
+The initial literature search resulted in 4982 studies. After reading the titles, 4899 were excluded, leaving 63 for evaluating the abstracts. Twelve studies were excluded at this stage, leaving 51 for further evaluation. 21 were selected for data extraction. Seven investigations were selected searching the references by hand. Eventually, 28 articles were selected for data extraction (Fig. 1).
+Patient demographic
+Data from 13.127 RT practitioners were collected. The mean age was 28.7 ± 6.4 years. Their average weekly training was 2 to 6.10 workouts per week. The generali-
+ties and patient demographic of the included studies is shown in Table 2.
+  Seventeen studies evaluated the number of injuries in HIFT/CrossFit, three in powerlifting, three in strength training, three in weightlifting, and one in Strongman. In addition, one study looked at HIFT/CrossFit and weight- lifting. Overall, the incidence of injuries ranged from 0.21/1000 h to 18.9/1000 h [17, 18] and the prevalence of injuries was 10% to 82% [19, 20]. Within the HIFT/Cross- Fit, the mean injury was 4.2/1000 h and 52.5%, respec- tively. In powerlifting, the mean prevalence of injuries was 56.6% and the incidence of 4/1000 h. Strength train- ing studies did not show the incidence of injuries, with a mean prevalence of 12.6%. The only study on strong- man reported an injury incidence of 5.5/1000 h and an injury prevalence of 82%. Weightlifting practitioners had
+3.2/1000 h of injury incidence and 46.2% of injury preva- lence, respectively. The greatest number of injuries were located in the shoulders [21-26], followed by the back [27-29]. Some studies analysed factors associated with injuries, as well as their severity and cause. Of the 28 studies included, 21 had explicitly defined an "injury" in their methods (Table 3).
+Quality assessment
+The studies were evaluated using the STROBE Checklist. The range of points acquired by the studies on the scale ranged from 8 [30] to 19 [31-33]. Five studies were classi- fied at level A, 21 at level B and two at level C.
+Discussion
+This study investigates the injury rate among resist- ance training partitioners. Traditional strength training showed a lower injury rate, unlike Strongman, which
+
+was the RT method with the highest injury rate in the selected studies. In general, the reported injuries are of high severity, with shoulders and back being the most commonly affected anatomical areas. The injuries defini- tions were different between the selected studies.
+  Within sports, there is a particularity that makes it dif- ficult to characterize an injury. Sport, unlike other con- texts, makes the athlete or practitioner continue their training or participate in some competition even with pain or loss of function. Therefore, the simple absence from training or competition cannot always be char- acterized as an injury [34, 35]. With this in mind, most selected studies characterised the injury as any pain or change in performance within the training modality and exercises performed. Other studies were less stringent, and only considered injuries when the subject did not practice for some time. This agrees with the definition of a sport injury as a pathological process that interrupts training or competition and can lead the athlete to seek medical treatment [36]. There is a perceived difficulty in standardizing the definition of injuries in studies. No matter how difficult it may be, this must include within its definition the inability to perform the sport [34].
+  Traditional ST presented the lowest prevalence of inju- ries, at an average of 13%, demonstrating the safety of the practice of traditional ST. The low incidence (< 1/1000 h) indicated the safety of the practice [4]. The safety of tradi- tional ST can also be explained by the different profiles of the training method [37, 38]. While other RT modalities put a greater focus on the task and constant challenge related to performing complex movements at higher intensities, traditional ST mostly focuses on specific muscle contraction [38]. Powerlifting had a low incidence of injury, very similar to HIFT/CrossFit and weightlift- ing [39, 40]. Powerlifting usually occurs from the high loads used in deadlift, squat and bench press [41]. Using high loads requires excellent technique and reduces the chances of injuries [42, 43]. Most of the studies identi- fied on HIFT/CrossFit, with an average of 4.22 lesions per each 1000 h of exposure. Even with a low average, two studies showed a high rate of injury incidence [18, 44]. Szeles et al. evidenced an incidence of 18.9/1000 h lesions, well above the others [18]. This difference of almost 5 times the mean value can be explained by the different methods used to define an injury. The main justification is the non-standardization of the defini- tion of injury. In this review, for example, seven studies had no definition of injury. Furthermore, many studies have different definitions, which increases the subjec- tivity of the interpretation [4]. Hak et al. found almost double the prevalence of injuries [45]. In one of the first epidemiological studies of HIFT/Crossfit conducted online, the online questionnaire, depending on how it is
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1 Flow chart of the literature search
+
+
+
+disseminated, may be biased towards the target audience of the survey [46, 47], as a study of injuries in a sport can draw more attention to subjects who have already had an injury. Studies with higher injury prevalence often define injuries as any pain or loss of function that makes the subject change training or results in a reduction in train- ing performance. Other studies with lower rates have less stringent definitions with a lower degree of rigidity or no
+
+definition at all. This further increases the importance of standardizing the method of studies [48, 49].
+  The injury rate in weightlifting is similar to HIFT/ CrossFit. However, a smaller number of studies were found, which makes it more difficult to consider fewer results as accurate as the HIFT/CrossFit. A systematic review showed values similar to those of this review [50]. The severity of injuries in this study varied greatly, and
+
+
+
+
+Table 2 Generalities and patient demographic of the included studies
+
+Author and yearN (M; W)AgeRTTraining/weekInjury incidence/1000 hInjury prevalenceMoran et al. [27]117 (66; 51)35.10HIFT/Crossfit-2.1012.80%Larsen et al. [32]168 (51; 117)29.20HIFT/Crossfit-2.6613.10%Feito et al. [20]3049 (1566; 1483)37.30HIFT/Crossfit-0.2116.00%Weisenthal et al. [61]381 (231; 150)-HIFT/Crossfit--22.00%Montalvo et al. [22]191 (94; 97)31.69HIFT/Crossfit4.392.326.18%Feito et al. [17]3049 (1566; 1483)36.80HIFT/Crossfit-0.7430.50%Szeles et al. [18]406 (198; 208)32.10HIFT/Crossfit3.9018.9032.80%Alekseyev et al. [62]885 (589; 296)29.00HIFT/Crossfit--33.30%Aune and Powers [25]247 (142; 105)38.90HIFT/Crossfit3.502.7134.00%Teixeira et al. [44]213 (112; 101)29.74HIFT/Crossfit-7.1038.50%Toledo et al. [63]184 (97; 87)28.70HIFT/Crossfit4.603.3038.60%Tafuri et al. [55]454 (325; 129)28.80HIFT/Crossfit4.00-39.90%Cheng et aal [64]244 (117; 127)33.20HIFT/Crossfit--46.00%Escalante et al. [65]159 (88; 71)31.30HIFT/Crossfit4.303.3046.50%Mehrab et al. [66]449 (266; 183)31.90HIFT/Crossfit3.90-56.10%Tawfik et al. [30]270 (137; 132)34.00HIFT/Crossfit--62.20%Hak et al. [45]132 (93; 39)32.20HIFT/Crossfit-3.1073.50%Elkin et al. [33]411-122 CrossFit;
+289 weightlift- ing (-)HIFT/CrossFit (37.45);
+weightlifting (31.62)HiFT/Crossfit and Weightlifting4.40 (HIFT/Crossfit);
+4.50 (Weightlifting)-60.67% (HIFT/CrossFit);
+46.71% (weightlifting)Siewe et al. [56]245 (219; 26)37.80Powerlifting--43.30%Strömbäck et al. [39]104 (-)28.30Powerlifting3.60-70.00%Keogh et al. [40]101 (82; 19)36.60Powerlifting6.104.00-Surakka et al. [19]226 (83; 143)44.00Strength training2.00-10.00%Little et al. [67]167 (63; 104)69.00Strength training2.00-13.80%Kim et al. [68]210 (125; 85)-Strength training--14.00%Winwood et al. [52]213 (213; 0)31.70Strongman-5.5082.00%Junge et al. [69]255 (-)-Weightlifting--16.90%Calhoon et al. [57]873 (-)-Weightlifting-3.30-Raske and Norlin [70]135 (-)30.10Weightlifting-2.7048-76%M men, W woman, HIFT high-intensity interval training, RT resistance training
+
+
+this may occur because some accidents take place dur- ing training [50, 51]. The highest prevalence found in the studies was that of Strongman [52], a sport in which athletes perform with high loads and varied movements. Specific training is responsible for increasing the chances of injury by 1.9 times when compared to traditional ST [52].
+  Most injuries occurred in the shoulders, followed by the back. These results are in line with previous studies in HIFT/CrossFit, weightlifting and powerlifting [46, 50], given the high loads and large ranges of motion [50, 53, 54]. It is necessary to have good stability of the scapulothoracic complex to allow less overload on the glenohumeral joint. Lower trapezius and serratus anterior activation are critical in overhead movements [47]. A single training method altered the pattern of shoulder and back injuries. Only one of the traditional
+
+RT studies verified this and realized that injuries in the lower limbs probably occurred through running and jumping [19]. Most injuries were classified as mod- erate, but few studies included this variable in their results [27, 52, 55-57]. Furthermore, the small number of studies that verified the severity of injuries does not allow generalization of the results. As these sports do not involve a constant change of direction and physi- cal contact, injuries tend to be less severe [47, 58, 59]. Most studies did not find an association between the practitioner's sex and the occurrence of injuries. Pre- vious untreated injuries seem to predispose to new injuries. Some of these RT methods are recent, which makes their practitioners come from other sports with an injury already treated [47, 60]. Individuals who start practising HIFT/CrossFit are 3.75 times more likely to get injured in practice [60]. Athletes with previous
+
+Table 3 Injury characteristics
+
+Author and yearInjuryAssociated factorsSeverityInjury definitionMoran et al. [27]Back 33,3%
+Knee 20%
+Wrist 13.3%Male sex (+); Previous injury (+); Asym- metry on the FMS (+); Previous experience of Olympic lifting and/or gymnastics (-); Coaching exposure (-); Age (-); BMI (-)15 ± 24 daysAny physical complaint that was sustained during CrossFit training that resulted in a participant being unable to take a full part in future CrossFit training (i.e. a "time-loss" definition)Larsen et al. [32]Back 25%
+Knee 21.4%
+Elbow/Hand 17.9%Sex (-); Age (-); BMI (-); Exercise prior HIFT/Crossfit (-)-Pain, soreness, stiffness or swellingFeito et al. [20]-< 3 days/week more injuries (+); < 6 months experience training (+); Age (-); Sex (-)-Any muscle, tendon, bone, joint, or ligament injury sustained while doing CrossFit that resulted in your consultation with a physician, or healthcare provider AND caused you to stop or reduce your usual physical activ-
+ity, your typical participation in CrossFit, or caused you to have surgeryWeisenthal et al. [61]Shoulder 25% Back14.2% Knee 13%Not supervision (+); Male sex (+);-Any new musculoskeletal pain, feeling, or injury that results from a CrossFit workout and leads to 1 or more of the following options: Total removal from CrossFit training and other outside routine physical activities for > 1 week; Modification of normal training activities in duration, intensity, or mode
+for > 2 weeks; Any physical complaint severe enough to warrant a visit to a health profes- sionalMontalvo et al. [22]Shoulder 22.6%
+Knee 16.1%
+Back 12.9%Competitor (+); Physical active outside Crossfit (+); Sex (-); Fitness level before Crossfit (-); Warm up (-); Cool down (-)-Any physical damage to a body part that caused them to miss or modify one or more training sessions or hindered activities of daily livingFeito et al. [17]Shoulders 39%
+Back 36%
+Knees 15%> 3 years experience training (+); Male sex (+)-Any muscle, tendon, bone, joint, or ligament injury sustained while doing CrossFit that resulted in your consultation with a physician, or health care provider, AND caused you to stop or reduce your usual physical activ-
+ity, your typical participation in CrossFit, or caused you to have surgerySzeles et al. [18]Shoulders 19%
+Back 15%
+Knees 11.7%Previous injury (+); Quality of movement (+); Alternating Rx/scaled (+); Protective equipment (-); Stretching exercises (-); Sex (-); Preventive exercises (-); Practice of other sports (-)Injury is defined as any musculoskeletal injury or pain (in joints, bones, ligaments, tendons, or muscles) that prevented an athlete from exercising for at least 1 dayAlekseyev et al. [62]Back 32.2%
+Shoulder 20.79%
+Knee 17%Sex (-); > 1 year experience training (+); > 9 h training/week; Stretch before exercise (+)--
+Table 3 (continued)Author and yearInjuryAssociated factorsSeverityInjury definitionAune and Powers [25]Shoulders 15%
+Back 12%
+Knees 12%---Teixeira et al. [44]Shoulder 36.6%
+Back 19.5%
+Knee 12.2%Competitor national level (+); > 2 years practice time (+); Sex (-); Objective (-); Exercise before Crossfit (-); Physical active outside Crossfit (-); Category (-)-Any pain or injury that has impaired the life routine or modified the participant's training sessionsToledo et al. [63]Shoulder Wrist AnkleSex (-); Experience training (+); < 3 train- ing/week for women (+)Any damage sustained during training that prevented the participant from training, working, or competing in any way and for any periodTafuri et al. [55]Experience time (+); Clean ceiling (+); Previ-
+ous injury (+); On-ramp course (+)22.6 ± 31 daysCheng et al. [64]Back 88%
+Shoulder 84%
+Wrist 62%Previous injury (+); Sex (-); nonaffiliated (+); Experience training (-); Fitness level (-); BMI (-); Age (-)-An injury was defined as a new musculo- skeletal pain, sensation, or discomfort that resulted in any of the following26: Total removal from CrossFit training and other out- side routine physical activities for > 1 week; Modification of normal training activities in duration, intensity, or mode for > 2 weeks; Any physical complaint severe enough to warrant a visit to a health professionalEscalante et al. [65]Back 18.1%
+Knee 12.5%
+Wrist 10.2%--An injury that met one of the following criteria within the last 12 months of CrossFit(r) participation: required the individual to seek a healthcare professional to diagnose/treat the injury; modification of normal training activities for more than two weeks; total removal from CrossFit(r) and other physical activity for more than one week; or any injury that required loss of time from employment. The survey also asked about injury location as well as the diagnosis (if applicable), sever- ity, time lost from training, and history of a related injury
+
+Table 3 (continued)Author and yearInjuryAssociated factorsSeverityInjury definitionMehrab et al. [66]Shoulders 28.7%
+Back 15.8%
+Knees 8.3%< 6 months experience training (+); Sex (-); BMI (-); Participation in other sports (-); Warmup (-)-Any new musculoskeletal pain, feeling, or dis- comfort as a result of a CrossFit workout that met 1 of the following criteria: Total removal from CrossFit training and other outside rou- tine physical activities for > 1 week; Modifica- tion of normal training activities in duration, intensity, or mode for > 2 weeks; Any physical complaint severe enough to warrant a visit to a health professionalTawfik et al. [30]---A CrossFit related injury was defined as any of the following which occurred as the result of CrossFit training: (1) inability to train for greater than one week; (2) needing to modify training duration, activity, or intensity for greater than two weeks; (3) any complaint that led to a doctor visitHak et al. [45]----Elkin et al. [33]Shoulder 46.41%
+Back 38.28%
+Hip 9.09%-Siewe et al. [56]Shoulder 16.3%
+Back 15.1%;
+Lower extremity 13.9%-Most injuries had a mild (39%) to moderate (39%) effect (severity) on training, meaning that the lifters only had to make relatively minor modifications to the prescribeAn incident leading to an interruption in training or competition. The fourth part focused on general disorders, and finally the fifth part assessed parameters regarding life style, nutrition, and medical therapyStrömbäck et al. [39]Lobopelvic area 31.5%
+Hip 27.4%
+Shoulder 26%Personal best in the deadlift (+); alcohol ingestion (+); Male sex (+); Frequency training (-)-A condition of pain or impairment of bodily function that affected powerlifters' trainingKeogh et al. [40]Shoulder 36% Back 24%--Any physical damage to the body that caused the lifter to miss or modify one or more training sessions or to miss a competi- tionSurakka et al. [19]Thigh 37% Ankle 19%
+Knee 19%---Little et al. [67]-Injury is defined as a self-reported muscle, tendon, bone, ligament, or joint injury?Kim et al. [68]----Winwood et al. [52]Back 24% Shoulder 21% Biceps 11%< 30 years old (+); > 105 kg (+)Moderate 47%; Mild 33%; Major 20%Any "physical damage to the body that caused the strongman athlete to miss or modify one or more training sessions or miss a competition"
+
+
+
+
+
+
+
+
+
+
+
+
+Table 3 (continued)Author and yearInjuryAssociated factorsSeverityInjury definitionJunge et al. [69]---Any musculoskeletal complaint (traumatic and overuse) newly incurred due to com- petition and/or training during the XXIXth Olympiad in Beijing that received medical attention regardless of the consequences with respect to absence from competition or trainingCalhoon et al. [57]Back Shoulder-< 7 daysInjury classifications were acute, chronic, recurrent, or complication. Acute injuries are "injuries with rapid onset due to a traumatic episode, but with short duration."6 A chronic injury is "an injury with long onset and dura- tion."6 A recurring injury involves recovery and reinjury for a particular conditionRaske and Norlin [70]Shoulder Back--An inability to train or compete as planned because of symptomsBMI body max index, HIFT high-intensity functional training
+
+shoulder injuries are eight times more likely to injure the area compared to athletes with healthy shoulders [25]. In the practical context, all RT methods seem safe. Strongman reported the highest rate of injuries, but only one study was included in the analysis.
+
+Conclusions
+Traditional strength training is the safest RT method, and Strongman is the least safe regarding injuries. The anatomical sites with the highest rate of injuries are the shoulders and the lumbar region. Study methods need to be better standardized to prevent discrepant and heterogeneous results.
+
+Abbreviations
+RT	Resistance training
+STROBE	Strengthening the Reporting of Observational Studies in Epidemiology
+PRISMA	Preferred Reporting Items for Systematic Reviews and Meta-Analyses
+MeSH	Medical Subject Headings
+ACSM	American College of Sports Medicine HIFT	High-intensity functional training
+ST	Strength training
+
+Supplementary Information
+The online version contains supplementary material available at https://doi. org/10.1186/s13018-023-03781-x.
+
+
+Acknowledgements
+None.
+
+Authors' contributions
+The authors TTS and ESO performed the data extraction and contributed to the writing. NM, RO and FM performed the writing of the manuscript, as well as for the refinement of data interpretation. All authors agree with the final version of this study. All authors read and approved the final manuscript.
+
+Funding
+Open Access funding enabled and organized by Projekt DEAL. No external source of funding was used.
+
+Availability of data and materials
+The data that support the findings of this study are available from Thiago Teixeira Serafim, but restrictions apply to the availability of these data, which were used under license for the current study, and so are not publicly avail- able. Data are, however, available from the authors upon reasonable request and with permission of Thiago Teixeira Serafim via e-mail.
+
+Declarations
+Ethics approval and consent to participate
+This article does not contain any studies with human participants or animals performed by any of the authors.
+
+Consent for publication
+All the author approved the manuscript.
+
+Competing interests
+The authors declare that they have no conflicts of interest.
+
+Author details
+1Physiotherapy Nucleus Orthopedic Trauma of Health and Sports Science of the Santa Catarina State (UDESC), Florianópolis, Brazil. 2Department
+of Medicine, Surgery and Dentistry, University of Salerno, 84081 Baronissi,
+SA, Italy. 3School of Pharmacy and Bioengineering, Keele University Faculty
+of Medicine, Stoke on Trent ST4 7QB, England. 4Queen Mary University of Lon- don, Barts and the London School of Medicine and Dentistry, Centre for Sports and Exercise Medicine, Mile End Hospital, London E1 4DG, England. 5Depart- ment of Orthopaedic, Trauma, and Reconstructive Surgery, RWTH University Hospital, Pauwelsstraße 30, 52074 Aachen, Germany.
+
+Received: 29 May 2022 Accepted: 4 April 2023
+
+
+
+References
+1. Saeidifard F, Medina-Inojosa JR, West CP, Olson TP, Somers VK, Bonikowske AR, et al. The association of resistance training with mortality: a system- atic review and meta-analysis. Eur J Prev Cardiol. 2019;26:1647-65.
+2. Westcott WL. Resistance training is medicine: effects of strength training on health. Curr Sports Med Rep. 2012;11:209-16.
+3. Kraemer WJ, Ratamess NA. Fundamentals of resistance training: progres- sion and exercise prescription. Med Sci Sports Exerc. 2004;36:674-88.
+4. Keogh JWL, Winwood PW. The epidemiology of injuries across the weight-training sports. Sports Med. 2017;47:479-501.
+5. Medicine AC of S. American College of Sports Medicine position stand. Progression models in resistance training for healthy adults. Med Sci Sports Exerc 2002;34:364-80.
+6. Kraemer WJ, Ratamess NA, French DN. Resistance training for health and performance. Curr Sports Med Rep. 2002;1:165-71.
+7. Hafner M, Yerushalmi E, Stepanek M, Phillips W, Pollard J, Deshpande A, et al. Estimating the global economic benefits of physically active populations over 30 years (2020-2050). Br J Sports Med [Internet]. 2020;54:1482-7.
+8. Oliveria SA, Christos PJ, Berwick M. The role of epidemiology in cancer prevention. Proc Soc Exp Biol Med. 1997;216:142-50.
+9. Syed A, Talbot-Smith A, Gemmell I. The use of epidemiological measures to estimate the impact of primary prevention interventions on CHD, stroke and cancer outcomes: experiences from Herefordshire, UK. J Epidemiol Glob Health. 2012;2:111-24.
+10. Moher D, Shamseer L, Clarke M, Ghersi D, Liberati A, Petticrew M, et al. Preferred reporting items for systematic review and meta-analysis proto- cols (PRISMA-P) 2015 statement. Syst Rev England. 2015;4:1.
+11. Frandsen TF, Nielsen MFB, Lindhardt CL, Eriksen MB. Using the full PICO model as a search tool for systematic reviews resulted in lower recall for some PICO elements. J Clin Epidemiol. 2020;127:69-75.
+12. American College of Sports Medicine. American College of Sports Medi- cine position stand. Progression models in resistance training for healthy adults. Med Sci Sports Exerc. 2009;41:687-708.
+13. Hurley KS, Flippin KJ, Blom LC, Bolin JE, Hoover DL, Judge LW. Practices, perceived benefits, and barriers to resistance training among women enrolled in college. Int J Exerc Sci [Internet]. 2018;11:226.
+14. Vandenbroucke JP, von Elm E, Altman DG, Gøtzsche PC, Mulrow CD, Pocock SJ, et al. Strengthening the Reporting of Observational Studies in Epidemiology (STROBE): explanation and elaboration. Int J Surg. 2014;12:1500-24.
+15. von Elm E, Altman DA, Egger M, Pocock SJ, Gøtzsche P, Vandenbroucke JP. The strengthening the reporting of observational studies in epidemiol- ogy (STROBE) statement: guidelines for reporting observational studies. Int J Surg. 2014;12:1495-9.
+16. Mataratzis PSR, Accioly E, de Padilha PC. Deficiências de micronutri- entes em crianças e adolescentes com anemia falciforme: uma revisão sistemática. Rev Bras Hematol Hemoter. 2010;32:247-56.
+17. Feito Y, Burrows EK, Tabb LP. A 4-year analysis of the incidence of injuries among crossfit-trained participants. Orthop J Sport Med. 2018;6:1-8.
+
+18. Szeles PRDQ, Costa TSD, Cunha RAD, Hespanhol L, Pochini ADC, Ramos LA, et al. CrossFit and the epidemiology of musculoskeletal injuries: a prospective 12-week cohort study. Orthop J Sport Med. 2020;8:1-9.
+19. Surakka J, Aunola S, Nordblad T, Karppi SL, Alanen E. Feasibility of power-type strength training for middle aged men and women: self perception, musculoskeletal symptoms, and injury rates. Br J Sports Med. 2003;37:131-6.
+20. Feito Y, Burrows E, Tabb L, Ciesielka KA. Breaking the myths of com- petition: a cross-sectional analysis of injuries among CrossFit trained participants. BMJ Open Sport Exerc Med. 2020;6:1-9.
+21. Weisenthal BM, Beck CA, Maloney MD, DeHaven KE, Giordano BD. Injury rate and patterns among crossfit athletes. Orthop J Sport Med. 2014;2:1-7.
+22. Montalvo AM, Shaefer H, Rodriguez B, Li T, Epnere K, Myer GD. Retro- spective injury epidemiology and risk factors for injury in CrossFit. J Sport Sci Med. 2017;16:53-9.
+23. Feito Y, Burrows EK, Tabb LP. A 4-Year analysis of the incidence of injuries among crossfit-trained participants. Orthop J Sport Med. 2018;6:1-7.
+24. de Szeles PRQ, da Costa TS, da Cunha RA, Hespanhol L, de Pochini AC, Ramos LA. CrossFit and the epidemiology of musculoskeletal injuries: a prospective 12-week cohort study. Orthop J Sport Med [Internet]. 2020;8:1-9.
+25. Aune KT, Powers JM. Injuries in an extreme conditioning program. Sports Health. 2017;9:52-8.
+26. Keogh JWL, Winwood PW. The epidemiology of injuries across the weight-training sports. Sport Med. 2017;47:479-501.
+27. Moran S, Booker H, Staines J, Williams S. Rates and risk factors of injury in CrossFitTM: a prospective cohort study. J Sports Med Phys Fitness. 2017;57:1147-53.
+28. Larsen RT, Hessner AL, Ishøi L, Langberg H, Christensen J. Injuries in novice participants during an eight-week start up crossfit program-a prospective cohort study. Sports. 2020;8:1-12.
+29. Cheng T, Liu T, Zhang G, Peng X, Zhang X. Does minimally invasive surgery improve short-term recovery in total knee arthroplasty? Clin Orthop Relat Res. 2010;468:1635-48.
+30. Tawfik A, Katt BM, Sirch F, Simon ME, Padua F, Fletcher D, et al. A Study on the incidence of hand or wrist injuries in CrossFit athletes. Cureus. 2021;13:3-10.
+31. Strömbäck E, Aasa U, Gilenstam K, Berglund L. Prevalence and conse- quences of injuries in powerlifting: a cross-sectional study. Orthop J Sport Med. 2018;6:1-10.
+32. Larsen RT, Hessner AL, Ishoi L, Langberg H, Christensen J. Injuries in novice participants during an eight-week. Sports. 2020;8:1-12.
+33. Elkin JL, Kammerman JS, Kunselman AR, Gallo RA. Likelihood of injury and medical care between CrossFit and traditional weightlifting par- ticipants. Orthop J Sport Med. 2019;7:1-8.
+34. Timpka T, Jacobsson J, Bickenbach J, Finch CF, Ekberg J, Nordenfelt L. What is a sports injury? Sports Med. 2014;44:423-8.
+35. Clarsen B, Myklebust G, Bahr R. Development and validation of a new method for the registration of overuse injuries in sports injury epide- miology: the Oslo Sports Trauma Research Centre (OSTRC) overuse injury questionnaire. Br J Sports Med. 2013;47:495-502.
+36. Micheo W, Sánchez LA. Rehabilitation in musculoskeletal and sports injuries in older adults. Geriatr Rehabil. 2018;80:161-8.
+37. Dominski FH, Serafim TT, Siqueira TC, Andrade A. Psychological vari- ables of CrossFit participants: a systematic review. Sport Sci Health. 2021;17(1):21-41.
+38. Dominski FH, Matias TS, Serafim TT, Feito Y. Motivation to CrossFit train- ing: a narrative review. Sport Sci Health. 2020;16:195-206.
+39. Strömbäck E, Aasa U, Gilenstam K, Berglund L. Prevalence and conse- quences of injuries in powerlifting: a cross-sectional study. Orthop J Sport Med. 2018;6:1-10.
+40. Keogh J, Hume PA, Pearson S. Retrospective injury epidemiology of one hundred one competitive oceania power lifters: The effects of age, body mass, competitive standard, and gender. J Strength Cond Res. 2006;20:672-81.
+41. Bengtsson V, Berglund L, Aasa U. Narrative review of injuries in power- lifting with special reference to their association to the squat, bench press and deadlift. BMJ open Sport Exerc Med. 2018;4:1-8.
+42. 
+Gabbett TJ. The training-injury prevention paradox: should athletes be training smarter and harder? Br J Sports Med. 2016;50:273-80.
+43. Wilk M, Gepfert M, Krzysztofik M, Golas A, Mostowik A, Maszczyk A,
+et al. The influence of grip width on training volume during the bench press with different movement tempos. J Hum Kinet. 2019;68:49.
+44. Teixeira RV, Dantas M, De MDG, Gantois P, Aidar FJ, Dantas PMS, et al. Retrospective study of risk factors and the prevalence of injuries in HIFT. Int J Sports Med. 2020;41:168-74.
+45. Hak PT, Hodzovic E, Hickey B. The nature and prevalence of injury dur- ing crossfit training. J Strength Cond Res. 2013;1:1-9.
+46. Dominski FH, Siqueira TC, Tibana RA, Andrade A. Injuries in functional fitness: an updated systematic review. J Sports Med Phys Fitness. 2021;5:673-83.
+47. Dominski FH, Siqueira TC, Serafim TT, Andrade A. Injury profile in Cross- Fit pratitioners: a systematic review. Fisioter e Pesqui. 2018;25:229-39.
+48. Itri JN, Bakow E, Probyn L, Kadom N, Duong P-AT, Gettle LM, et al. The Science of Quality Improvement. Acad Radiol [Internet]. Acad Radiol; 2017 [cited 2021 Sep 12];24:253-62.
+49. Lohr KN. Rating the strength of scientific evidence: relevance for qual- ity improvement programs. Int J Qual Health Care. 2004;16:9-18.
+50. Aasa U, Svartholm I, Andersson F, Berglund L. Injuries among weightlifters and powerlifters: a systematic review. Br J Sports Med. 2017;51:211-9.
+51. Kerr ZY, Collins CL, Dawn CR. Epidemiology of weight training-related injuries presenting to United States emergency departments, 1990 to 2007. Am J Sports Med. 2010;38:765-71.
+52. Winwood PW, Hume PA, Cronin JB, Keogh JWL. Retrocpective injury epidemiology of strongman ethletes. J Strength Cond Res. 2014;28:28-42.
+53. Wilk KE, Obma P, Simpson CD, Cain EL, Dugas JR, Andrews JR. Shoulder injuries in the overhead athlete. J Orthop Sports Phys Ther. 2009;39:38-54.
+54. Tooth C, Gofflot A, Schwartz C, Croisier J-L, Beaudart C, Bruyère O,
+et al. Risk Factors of Overuse Shoulder Injuries in Overhead Athletes: A Systematic Review. Sports Health [Internet]. Sports Health; 2020 [cited 2021 Sep 14];12:478-87.
+55. Tafuri S, Salatino G, Napoletano PL, Monno A, Notarnicola A. The risk of injuries among CrossFit athletes: an Italian observational retrospective survey. J Sports Med Phys Fitn. 2019;59:1544-50.
+56. Siewe J, Rudat J, Röllinghoff M, Schlegel UJ, Eysel P, Michael JWP. Injuries and overuse syndromes in powerlifting. Int J Sports Med. 2011;32:703-11.
+57. Calhoon G, Fry AC. Injury rates and profiles of elite competitive weight- lifters. J Athl Train. 1999;34:232-8.
+58. Serner A, Mosler AB, Tol JL, Bahr R, Weir A. Mechanisms of acute adduc- tor longus injuries in male football players: a systematic visual video analysis. Br J Sports Med. 2019;53:158-64.
+59. Mack CD, Kent RW, Coughlin MJ, Shiue KY, Weiss LJ, Jastifer JR, et al. Incidence of lower extremity injury in the national football league: 2015 to 2018. Am J Sports Med. 2020;48:2287-94.
+60. Chachula LA, Cameron KL, Svoboda SJ. Association of prior injury with the report of new injuries sustained during CrossFit training. Athl Train Sport Heal Care. 2016;8:28-34.
+61. BM W, CA B, MD M, KE D, BD G. Injury Rate and Patterns Among Cross- Fit Athletes. Orthop J Sports Med. 2014;2.
+62. Alekseyev K, John A, Malek A, Lakdawala M, Verma N, Southall C, et al. Identifying the most common CrossFit injuries in a variety of athletes. Rehabil Process Outcome. 2020;9:117957271989706.
+63. Toledo R, Dias MR, Souza D, Soares R, Toledo R, Lácio M, Vianna J. Joint and muscle injuries in men and women CrossFit(r) training participants. Phys Sportsmed. 2021;50(3):205-11.
+64. Cheng TTJ, Mansor A, Lim YZ, Hossain Parash MT. Injury incidence, patterns, and risk factors in functional training athletes in an Asian Population. Orthop J Sport Med. 2020;8:1-6.
+65. Escalante G, Gentry CR, Kern BD, Waryasz GR. Injury patterns and rates of Costa Rican CrossFit(r) participants-a retrospective study. J Rom Sport Med Soc. 2017;13:2927-34.
+66. Mehrab M, de Vos R-J, Kraan GA, Mathijssen NMC. Injury incidence and patterns among dutch crossfit athletes. Ortopaedic J Sport Med. 2017;5:1-13.
+
+67. Little RMD, Paterson DH, Humphreys DA, Stathokostas L. A 12-month incidence of exercise-related injuries in previously sedentary community-dwelling older adults following an exercise intervention. BMJ Open. 2013;3:1-6.
+68. Kim JS, Park HS, Oh SS. An analysis of the characteristics of sports activities and injury experiences of leisure sports participants. J Exerc Rehabil. 2018;14:407-12.
+69. Junge A, Engebretsen L, Mountjoy ML, Alonso JM, Renström PAFH, Aubry MJ, et al. Sports injuries during the Summer Olympic Games 2008. Am J Sports Med. 2009;37:2165-72.
+70. Raske Å, Norlin R. Injury incidence and prevalence among elite weight and power lifters. Am J Sports Med. 2002;30:248-56.
+
+Publisher's Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub- lished maps and institutional affiliations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,286 @@
+BUILTIN_KNOWLEDGE = """
+==============================
+TOPIC: Progressive Overload
+==============================
+Progressive overload is the gradual increase of stress placed on the body during exercise.
+To build muscle and strength you must progressively increase weight, reps, sets, or intensity.
+
+Rules:
+- Increase load by 2.5–5% when all sets are completed with good form
+- Beginners: progress weekly
+- Intermediate: every 1–2 weeks
+- Advanced: every 3–4 weeks
+
+Methods:
+- Increase weight
+- Increase reps
+- Increase sets
+- Reduce rest time
+- Improve range of motion
+
+==============================
+TOPIC: Strength Training Guidelines
+==============================
+FITT Principle:
+- Frequency: 2–3 times per muscle group per week
+- Intensity: Based on % of 1RM
+- Time: 45–75 minutes per session
+- Type: Compound + isolation exercises
+
+Hypertrophy:
+- 3–5 sets
+- 6–12 reps
+- 67–85% 1RM
+- Rest: 60–90 seconds
+
+Strength:
+- 3–6 sets
+- 1–6 reps
+- 85–100% 1RM
+- Rest: 2–5 minutes
+
+Endurance:
+- 2–3 sets
+- 12–20 reps
+- 50–67% 1RM
+- Rest: 30–60 seconds
+
+Compound exercises:
+Squat, Deadlift, Bench Press, Overhead Press, Rows
+
+==============================
+TOPIC: Cardio and Endurance
+==============================
+ACSM Guidelines:
+- 150 minutes moderate OR 75 minutes vigorous cardio per week
+
+Zone 2 Training:
+- 60–70% max heart rate
+- Improves fat burning and endurance
+
+HIIT:
+- 20–40 sec high intensity (85–95% HR)
+- 40–80 sec rest
+- Repeat 6–10 rounds
+
+Max Heart Rate:
+220 – age
+
+==============================
+TOPIC: Weight Loss Principles
+==============================
+- Calorie deficit: 500–750 kcal/day
+- Expected fat loss: 0.5–0.75 kg/week
+
+Minimum intake:
+- Women: 1200 kcal
+- Men: 1500 kcal
+
+Protein:
+- 1.6–2.2g per kg bodyweight
+
+Important:
+- Combine resistance training + cardio
+- Preserve muscle during deficit
+
+==============================
+TOPIC: Muscle Building Nutrition
+==============================
+Calorie surplus:
++200–400 kcal above maintenance
+
+Macronutrients:
+- Protein: 1.6–2.2g/kg
+- Carbs: 4–7g/kg
+- Fats: 0.5–1.5g/kg
+
+Guidelines:
+- Eat protein across 3–5 meals
+- Post-workout: 20–40g protein + carbs within 2 hours
+
+==============================
+TOPIC: Recovery and Sleep
+==============================
+- Sleep: 7–9 hours per night
+- Muscles grow during rest
+
+Recovery methods:
+- Active recovery (walking, light cardio)
+- Stretching post-workout
+- Foam rolling
+
+Deload:
+- Every 4–8 weeks
+- Reduce volume by 40–50%
+
+==============================
+TOPIC: Beginner Guidelines
+==============================
+- Focus on proper form first
+- Use light weights initially
+- Train 3 days per week (full body)
+
+Core exercises:
+Squat, Push-up, Row, Deadlift, Plank
+
+Progress:
+- Beginners can gain 1–2 kg muscle/month initially
+- Consistency is key (8–12 weeks)
+
+==============================
+TOPIC: Exercise Library
+==============================
+Squat:
+- Muscles: Quads, Glutes
+- Beginner: Bodyweight squat
+- Intermediate: Goblet squat
+- Advanced: Barbell squat
+
+Deadlift:
+- Muscles: Hamstrings, Glutes, Lower back
+- Beginner: Romanian deadlift (light)
+- Advanced: Conventional deadlift
+
+Bench Press:
+- Muscles: Chest, Triceps
+- Regression: Push-ups
+- Progression: Incline/Decline bench
+
+Pull-up:
+- Muscles: Back, Biceps
+- Regression: Assisted pull-up / band
+- Progression: Weighted pull-up
+
+Overhead Press:
+- Muscles: Shoulders
+- Regression: Seated dumbbell press
+
+Row:
+- Muscles: Back
+- Variations: Dumbbell row, Barbell row
+
+==============================
+TOPIC: Training Splits
+==============================
+3-Day Full Body:
+- Train full body each session
+
+4-Day Upper/Lower:
+- Day 1: Upper
+- Day 2: Lower
+- Day 3: Rest
+- Day 4: Upper
+- Day 5: Lower
+
+5-Day Push Pull Legs:
+- Push: Chest, Shoulders, Triceps
+- Pull: Back, Biceps
+- Legs: Lower body
+
+==============================
+TOPIC: Goal-Based Training
+==============================
+Fat Loss:
+- Calorie deficit
+- Combine weights + cardio
+- Focus on compound lifts
+
+Muscle Gain:
+- Calorie surplus
+- Progressive overload
+- Moderate reps (6–12)
+
+Endurance:
+- High reps (12–20)
+- More cardio
+
+==============================
+TOPIC: Injury Modifications
+==============================
+Knee Pain:
+- Avoid deep squats
+- Use leg press, step-ups
+
+Lower Back Pain:
+- Avoid heavy deadlifts
+- Use light Romanian deadlifts
+- Strengthen core
+
+Shoulder Pain:
+- Avoid overhead pressing
+- Use resistance bands, lateral raises
+
+Rule:
+- Stop if sharp pain occurs
+
+==============================
+TOPIC: Flexibility and Mobility
+==============================
+- Dynamic stretching before workout
+- Static stretching after workout
+
+Guidelines:
+- Hold stretches 20–60 seconds
+- Train flexibility 2–3x/week
+
+Focus areas:
+- Hamstrings
+- Hip flexors
+- Chest
+- Ankles
+
+==============================
+TOPIC: Progression Rules
+==============================
+IF user completes all reps:
+→ Increase weight by 2.5–5%
+
+IF user struggles:
+→ Reduce weight by 5–10%
+
+IF plateau > 2 weeks:
+→ Change exercise variation
+→ Increase volume
+→ Adjust rest time
+
+==============================
+TOPIC: Nutrition Examples
+==============================
+Muscle Gain:
+- Breakfast: Eggs + oats
+- Lunch: Chicken + rice
+- Dinner: Fish + vegetables
+
+Fat Loss:
+- High protein meals
+- Reduce sugar and processed food
+
+==============================
+TOPIC: Decision Rules
+==============================
+IF goal = fat loss AND level = beginner:
+→ Use 3-day full body program
+
+IF goal = muscle gain AND equipment = gym:
+→ Use push pull legs split
+
+IF injury = knee pain:
+→ Replace squats with leg press
+
+IF no equipment:
+→ Use bodyweight exercises
+
+==============================
+TOPIC: BMI Reference
+==============================
+BMI = weight(kg) / height(m)^2
+
+Categories:
+- Underweight < 18.5
+- Normal 18.5–24.9
+- Overweight 25–29.9
+- Obese ≥ 30
+
+Note:
+BMI does not account for muscle mass
+"""

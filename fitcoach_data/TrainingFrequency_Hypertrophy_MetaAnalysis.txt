@@ -1,0 +1,341 @@
+
+
+Effects of Resistance Training Frequency on Measures of Muscle Hypertrophy: A Systematic Review and Meta-Analysis
+
+Brad J. Schoenfeld1 • Dan Ogborn2 • James W. Krieger3
+
+
+
+
+
+Published online: 21 April 2016
+(c) Springer International Publishing Switzerland 2016
+
+
+Abstract
+Background A number of resistance training (RT) pro- gram variables can be manipulated to maximize muscular hypertrophy. One variable of primary interest in this regard is RT frequency. Frequency can refer to the number of resistance training sessions performed in a given period of time, as well as to the number of times a specific muscle group is trained over a given period of time.
+Objective We conducted a systematic review and meta- analysis to determine the effects of resistance training frequency on hypertrophic outcomes.
+Methods Studies were deemed eligible for inclusion if they met the following criteria: (1) were an experimental trial published in an English-language refereed journal; (2) directly compared different weekly resistance training frequencies in traditional dynamic exercise using coupled concentric and eccentric actions; (3) measured morpho- logic changes via biopsy, imaging, circumference, and/or densitometry; (4) had a minimum duration of 4 weeks; and
+(5) 
+used human participants without chronic disease or injury. A total of ten studies were identified that investi- gated RT frequency in accordance with the criteria outlined.
+Results Analysis using binary frequency as a predictor variable revealed a significant impact of training frequency on hypertrophy effect size (P = 0.002), with higher fre- quency being associated with a greater effect size than lower frequency (0.49 ± 0.08 vs. 0.30 ± 0.07, respec- tively). Statistical analyses of studies investigating training session frequency when groups are matched for frequency of training per muscle group could not be carried out and reliable estimates could not be generated due to inadequate sample size.
+Conclusions When comparing studies that investigated training muscle groups between 1 to 3 days per week on a volume-equated basis, the current body of evidence indi- cates that frequencies of training twice a week promote superior hypertrophic outcomes to once a week. It can therefore be inferred that the major muscle groups should be trained at least twice a week to maximize muscle growth; whether training a muscle group three times per week is superior to a twice-per-week protocol remains to be determined.
+
+
+
+
+
+
+
+& Brad J. Schoenfeld brad@workout911.com
+
+1	Department of Health Science, Lehman College, Bronx, NY, USA
+2	McMaster University, Hamilton, ON, Canada
+3	Weightology, LLC, Issaquah, WA, USA
+
+1 3
+
+
+time. A recent survey of 127 competitive bodybuilders found that *69 % of respondents trained each muscle group once per week while the remaining *31 % trained muscles twice weekly [7]. These frequencies per muscle group were accomplished training a total of 5-6 days a week. Such training practices are largely based on tradition and intuition, however, as no definitive research-based guidelines exist as to the optimal RT frequency for maxi- mizing muscle hypertrophy.
+  A number of studies have examined the effects of dif- ferent RT frequencies on muscular adaptations [8-17]. The results of these studies have been rather disparate, and their small sample sizes make it difficult to draw practical inferences for program design. The purpose of this paper therefore is threefold: (1) to systematically and objectively review the literature that directly investigates the effects of RT frequency on muscle hypertrophy; (2) to quantify these effects via meta-analyses; and (3) to draw evidence-based conclusions on the topic to guide exercise program design.
+
+
+2 Methods
+
+2.1 Inclusion Criteria
+
+
+
+
+1 Introduction
+
+Resistance training (RT) is the primary means by which humans can significantly increase muscle hypertrophy across their lifespan [1]. Increases in muscle cross-sec- tional area (CSA) of more than 50 % have been reported in untrained men and women over a period of several months of consistent training, with marked interindividual differ- ences noted between subjects [2, 3]. Although the rate of muscle growth is attenuated in those with resistance training experience, well-trained subjects nevertheless can achieve significant hypertrophic increases when a novel overload stimulus is applied over time [4, 5].
+  A number of RT program variables can be manipulated to maximize muscular hypertrophy [6]. One variable of primary interest in this regard is RT frequency. On a basic level, frequency refers to the number of resistance training sessions performed in a given period of time, usually a week. From a muscle-building standpoint, it has been postulated that those without previous RT experience benefit from a general training frequency of 2-3 days per week while advanced lifters thrive on 4-6 weekly sessions [6].
+  Frequency can also refer to the number of times a specific muscle group is trained over a given period of
+
+Studies were deemed eligible for inclusion if they met the following criteria: (1) were an experimental trial published in an English-language refereed journal; (2) directly com- pared different weekly resistance training frequencies in traditional dynamic exercise using coupled concentric and eccentric actions; (3) measured morphologic changes via biopsy, imaging, circumference, and/or densitometry; (4) had a minimum duration of 4 weeks; and (5) used human participants without chronic disease or injury.
+
+2.2 Search Strategy
+
+The systematic literature search was conducted in accor- dance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines [18]. To carry out this review, English-language literature sear- ches of the PubMed, SPORTDiscus, and CINAHL data- bases were conducted from all time points up until 22 June 2015. Combinations of the following keywords were used as search terms: ''training frequency''; ''split training''; ''total body training''; ''workout frequency'' ''split rou- tine''; ''split weight training''. After conducting the initial search, the reference lists of articles retrieved were then screened for any additional articles that had relevance to the topic as described by Greenhalgh and Peacock [19].
+  A total of 486 studies were evaluated based on search criteria. After scrutinizing reference lists of relevant papers, five additional studies were subsequently identified
+
+
+1 3
+
+
+Fig. 1 Flow diagram of search process
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+as potentially meeting inclusion criteria for a total of 491 studies initially screened. To reduce the potential for selection bias, each of these studies were independently reviewed by two of the investigators (BJS and DIO), and a mutual decision was made as to whether or not they met basic inclusion criteria. Any inter-reviewer disagreements were settled by consensus and/or consultation with the third investigator. Of the studies initially reviewed, 16 were determined to be potentially relevant to the paper based on information contained in the abstracts. The full text of these articles was then screened and 11 were identified for possible inclusion in the paper. After consensus amongst the investigators, one additional study was excluded because of insufficient data to analyze necessary informa- tion [20]. Thus, a total of ten studies were considered for final analysis (see Fig. 1). Table 1 summarizes the studies analyzed.
+
+2.3 Coding of Studies
+
+Studies were read and individually coded by two of the investigators (BJS and DIO) for the following variables:
+
+descriptive information of subjects by group including sex, body mass index, training status (trained subjects were defined as those with at least 1 year's regular RT experi- ence), age, and stratified subject age (classified as either young [18-29 years], middle-aged [30-49 years], or elderly [50? years]; whether the study was a parallel or within-subject design; the number of subjects in each group; duration of the study; total training frequency (days per week); frequency of training each muscle (days per week); exercise volume (single set, multi-set, or both); whether volume was equated between groups; type of morphologic measurement (magnetic resonance imaging [MRI], computerized tomography [CT], ultrasound, biopsy, dual energy X-ray absorptiomety [DXA] and/or densitometry), and region/muscle of body measured (up- per, lower, or both). Coding was cross-checked between coders, and any discrepancies were resolved by mutual consensus. To assess potential coder drift, 30 % of the studies were randomly selected for recoding as described by Cooper et al. [21]. Per-case agreement was determined by dividing the number of variables coded the same by the
+
+
+
+Table 1 Studies meeting inclusion criteria
+Study	Subjects	Design	Study
+duration (weeks)
+
+
+
+Volume equated?
+
+
+
+Hypertrophy measurement
+
+
+
+Findings
+
+
+
+
+
+Arazi and Asadi [8]
+
+39 untrained young men
+
+Random assignment to a resistance training protocol performing 12 exercises targeting the entire body divided into either a 1-, 2-, or 3-day per week schedule. All subjects trained at 60-80 % 1 RM
+
+8	Yes	Circumference measurements
+
+No significant differences in arm or thigh girth between conditions
+
+Benton
+et al. [9]
+
+
+
+
+
+Calder
+et al. [10]
+
+
+
+
+
+Candow and Burke [11]
+
+Carneiro
+et al. [12]
+
+
+Gentil et al. [13]
+
+
+Lera Orsatti et al. [14]
+
+21 untrained, middle-aged women
+
+
+
+
+30 young, untrained women
+
+
+
+
+29 untrained, middle-aged men and women
+53 untrained elderly women
+
+30 untrained young men
+
+
+30 untrained elderly women
+
+Random assignment to resistance training either 3 non- consecutive days per week using a total-body protocol performing three sets of eights exercises or 4 consecutive days per week using an alternating split-body protocol performing three sets of six upper body exercises or six sets of three lower body exercises. All subjects performed 8-12 repetitions at 50-80 % 1 RM
+Random assignment to either a total body group performing four upper body exercises and three lower body exercises twice a week or a split body group performing the lower body exercises on separate days from the upper body exercises so that training was carried out over four weekly sessions. All subjects performed five sets of 6-12 RM to concentric muscle failure
+Random assignment to nine different resistance training exercises for the total body either twice per week performing three sets of ten repetitions or three times per week performing sets of ten repetitions
+Random assignment to a total body resistance training protocol performed either twice or thrice each week. All subjects performed a single set of 10-15 repetitions for eight exercises per session
+Random assignment to eight upper body resistance training exercises performed either in a single session once per week or split into two sessions of four exercises performed twice per week. Training consisted of three sets at 8-12 RM
+Random assignment to resistance training either 1, 2, or 3 days per week. All subjects performed 1-2 sets of ten exercises for the total body at 60-80 % 1 RM
+
+8	Yes	BodPod	No significant differences in lean body mass
+between conditions
+
+
+
+
+
+20	Yes	DXA	No significant differences in lean mass between
+groups
+
+
+
+
+
+6	Yes	DXA	No significant differences in lean body mass
+between conditions
+
+
+12	No	DXA	No significant differences in skeletal muscle mass
+between groups
+
+
+10	Yes	Ultrasound	No significant differences in elbow flexor
+thickness between groups
+
+
+16	No	BIA	No significant differences in whole body skeletal
+muscle mass between conditions
+
+McLester et al. [15]
+
+25
+recreationally trained young men and women
+
+Random assignment to resistance training either 1 day per week of three sets to failure or three days per week of one set to failure. All subjects performed nine exercises for the total body
+
+12	Yes	Skinfold technique and circumference measurements
+
+Non-significant trend for greater increases in lean body mass in the higher frequency condition
+
+
+
+
+total number of variables. Acceptance required a mean agreement of 0.90.
+
+2.4 Calculation of Effect Size
+
+For each hypertrophy outcome, an effect size (ES) was calculated as the pretest-post-test change, divided by the pooled pretest standard deviation (SD) [22]. A percentage change from pretest to post-test was also calculated. A small sample bias adjustment was applied to each ES [22]. The variance around each ES was calculated using the sample size in each study and mean ES across all studies [23].
+
+2.5 Statistical Analyses
+
+Meta-analyses were performed using robust variance meta- regression for hierarchical data structures, with adjustments for small samples [24, 25]. Separate meta-regressions were performed for studies where weekly muscle group fre- quency varied, but weekly volume remained the same, and where weekly muscle group frequency and volume were the same, but weekly training session frequency varied. Meta-regressions were performed on ESs and also percent changes. Meta-regressions were performed with muscle group frequency as a binary predictor (lower or higher), and as a categorical predictor (1, 2, or 3 days per week). Meta-regressions on training session frequency were per- formed only with session frequency as a binary predictor (lower or higher). Due to the small number of studies in the analyses, covariates such as training experience could not be included in the statistical models, and thus interactions with these variables could not be explored. All analyses were performed using package robumeta in R version 3.1.3 (The R Foundation for Statistical Computing, Vienna, Austria). Effects were considered significant at P B 0.05, and trends were declared at 0.05 \ P B 0.10. Data are reported as x ± standard error of the means (SEM) and 95 % confidence intervals (CIs).
+
+
+3 Results
+
+3.1 Muscle Group Frequency
+
+The analysis on muscle group frequency comprised seven studies involving 15 treatment groups and 200 subjects. Analysis using binary frequency as a predictor variable revealed a significant impact of training frequency on hypertrophy ES (P = 0.002), with higher frequency being associated with a greater ES than lower frequency (dif- ference = 0.19 ± 0.03; 95 % CI 0.11-0.28). The mean ES for  higher  frequency  was  0.49 ± 0.08  (95 %  CI
+
+
+
+
+Fig. 2 Forest plot of studies comparing the hypertrophic effects of different training frequencies per muscle group. The data shown are mean ± 95 % CI; the size of the plotted squares reflect the statistical weight of each study. ES effect size
+
+
+0.29-0.69), while the mean ES for lower frequency was
+0.30 ± 0.07 (95 % CI 0.12-0.47). Analyses of percent changes revealed similar results (difference = 3.1 ± 0.58 %; 95 % CI 1.6-4.6; P = 0.003); the mean percent change for higher frequency was 6.8 ± 0.7 % (95 % CI 4.9-8.6), while the mean percent change for lower fre- quency was 3.7 ± 0.5 % (95 % CI 2.2-5.1). When muscle group frequency was divided into 1, 2, or 3 days per week, reliable estimates could not be produced due to inadequate sample size. Figure 2 provides a forest plot of studies comparing the hypertrophic effects of different training frequencies per muscle group.
+
+3.2 Training Session Frequency
+
+There were a total of three studies on training session frequency when groups were matched for frequency of training per muscle group, comprising seven treatment groups and 54 subjects. Statistical analyses could not be carried out and reliable estimates could not be generated due to inadequate sample size.
+
+
+4 Discussion
+
+Optimizing RT frequency may have important implications for maximizing muscle hypertrophy; however, few sys- tematic analyses exist to guide the creation of strength training programs. Wernbom et al. [26] analyzed 47 studies finding most used session frequencies of two (22/47) or three (17/47) times per week, with no difference in the daily rate of change of quadriceps CSA between the two.
+
+Unfortunately the authors did not complete an integrative analysis of the data, likely owing to the fact that few of the included studies actually directly compared one training frequency against another (indirectness of evidence) and were heterogeneous in composition [27]. The American College of Sports Medicine (ACSM) position stand on progression models in resistance training indicates a fre- quency of 2-3 days per week for novice trainees using a total body program, increasing as the individual progresses towards a higher level of training with the use of split programs [28]. As acknowledged by the evidence cate- gories in the original statement, such recommendations are based on relatively little original research and lower levels of evidence, reinforcing the need for the present analysis. Anecdotal evidence from the training practices of body- builders reveals that a majority of competitors work each muscle group only once per week using a split routine [7]. Results of our meta-analysis provide evidence for a bene- ficial effect to training muscle groups more frequently on a volume-equated basis. A hypertrophic advantage for higher versus lower training frequencies was found both for effect size (0.49 ± 0.08 vs. 0.30 ± 0.07, respectively) as well as mean percent change in muscle growth (6.8 ± 0.7 vs. 3.7 ± 0.5 %, respectively). Scrutiny of the forest plot lends further support to this conclusion as effect sizes for all studies analyzed favored the higher frequency group. The meaningfulness of the effect size differences noted between RT frequencies (0.19) is subjective. Although this represents a 48 % difference on a relative basis, the absolute difference could be deemed modest. Based on the common classification for Cohen's d, the lower frequency condition is considered a small effect while the higher frequency condition borders a medium effect [29]. The practical implications of these differences would be specific to individual goals and desires.
+  On the surface, these findings would seem to indicate that the common bodybuilding practice to train each muscle group only once or twice per week using a split routine is misguided and that superior muscle growth can be achieved by increasing this frequency. However, it should be noted that our results are specific to protocols equating total weekly training volume. A proposed benefit of using a split routine is that it allows for a higher training volume per muscle group while maintaining intensity of effort and providing adequate recovery between sessions [17]. Given the evidence for a dose-response relationship between total weekly training volume and hypertrophy [30], it remains to be determined whether employing split routines with reduced weekly training frequencies per muscle group may be an effective strategy to enhance hypertrophic increases by allowing for the use of higher volumes over time. This hypothesis warrants further investigation.
+
+  Due to the relatively small sample of studies, reliable estimates of the differences between training muscle groups one, two, or three times per week could not be adequately assessed. There was substantial heterogeneity across the trials not only in the frequencies of training compared but also the age groups included, parameters of the strength training protocol, training status of the participants and the assessment techniques for the measurement of muscle growth. Relatively few trials supported a preferential effect of one frequency above another with respect to muscle growth. McLester et al. [15], while finding no statistically significant difference between training frequencies, con- cluded there was a trend to favor the approximate 8 % dif- ference in lean body mass training 3 days per week as compared to a 1 % change when training was completed only once per week. Schoenfeld et al. [17] compared a 3-day per week total body routine against a 3-day per week upper/ lower/upper body split. Such a design compares 3 days per week of training for all body parts against either 1 day per week of lower body training or 2 days per week of upper body training in the split protocol. The total and split training protocols produced comparable changes in the thickness of the elbow extensors and vastus lateralis; however, the total body training protocol resulted in greater growth in the elbow flexors. The remaining studies found comparable effects of training frequencies between one and three times per week across various populations [9, 11-14].
+  Moreover, no study meeting inclusion criteria examined the effects of training a muscle group more than three times per week. Data presented at the 2012 European College of Sports Science conference showed preliminary evidence that elite powerlifters experienced greater muscular adaptations when total training volume was partitioned over six versus three weekly training sessions for 15 weeks [31]. This study has yet to be published and thus the methodology cannot be properly scrutinized. Nevertheless, the findings raise the possibility that very high frequencies of training may be beneficial for enhancing muscle growth in experienced lif- ters. Future research should therefore endeavor to explore whether an advantage is conferred from training a muscle group in excess of three weekly sessions.
+  It is also important to note that studies on this topic were relatively short term in nature, with the vast majority lasting 10 weeks or less. There is evidence that very high training frequencies for a muscle group (daily) combined with high intensities of load rapidly leads to decrements in performance consistent with an overtrained state [32]. Although these findings cannot necessarily be extrapolated to training a muscle group with lesser frequencies (say 3 days per week) at reduced intensities, they do indicate a relationship between weekly training frequency and over- training. It is therefore conceivable that periodizing the number of times a muscle is trained over time and/or
+
+scheduling regular periods of reduced training frequencies every few weeks (deloading) might help to maximize muscular gains while reducing the potential for overtrain- ing. This hypothesis warrants further investigation.
+  There were three studies meeting inclusion criteria that investigated training session frequency while keeping muscle group frequency constant [8, 10, 16]. Unfortunately, the sample size in these studies was not large enough to produce reliable estimates. Arazi et al. [8] found no substantial dif- ference between groups that trained one, two, or three times per week on an 8-week, volume-equated program; however, only the participants who trained three times per week demonstrated statistically significant increases in both arm and thigh circumference. Calder et al. [10] compared twice- weekly total body training against an upper/lower body split routine over two 10-week training periods in young women. Whole body and site-specific lean tissue mass was assessed using DXA. At the cessation of training, both groups had comparable increases in arm lean tissue mass whereas the total body training also increased leg lean tissue mass. Whole body lean mass increased following training, but was not different between groups. Ribeiro et al. [16] compared lean body mass changes when training either four or six times per week with a volume and body-part equated protocol in highly trained participants (professional bodybuilders) over 4 weeks. While both groups improved over time, no statistically significant differences were detected for fat-free mass post-training; however, calculated effect sizes were greater for four times per week as compared to six (0.44 vs. 0.29). While meta- analysis was not possible on this topic, the combined evidence does not support that manipulations in training session fre- quency promote differential hypertrophic responses when groups are matched for weekly training volume with an equivalent frequency of training per muscle group.
+  Our analysis was limited by a lack of studies directly investigating site-specific muscle growth via imaging modalities. Only two studies used such site-specific imag- ing modalities [13, 17], and these studies employed single- site ultrasound measures which may not reflect hyper- trophic changes at the whole muscle level. The other studies included employed total body measures of lean mass and girth, which have inherent limitations when extrapolating results to muscular adaptations. Further research using state-of-the-art imaging techniques are therefore needed to provide greater clarity on the topic.
+
+
+5 Conclusion
+
+When comparing studies that investigated training muscle groups between 1 to 3 days per week on a volume-equated basis, the current body of evidence indicates that fre- quencies of training two times per week promote superior
+
+hypertrophic outcomes compared to one time. It can therefore be inferred that the major muscle groups should be trained at least twice a week to maximize muscle growth; whether training a muscle group three times per week is superior to a twice-per-week protocol remains to be determined. That said, training a muscle group once a week was shown to promote robust muscular hypertrophy and remains a viable strategy for program design. Due to an absence of data, it is not clear whether training muscle groups more than 3 days per week might enhance the hypertrophic response.
+  The limited body of evidence does not support a hypertrophic benefit for manipulating training session fre- quency when groups are matched for weekly training volume with an equivalent frequency of training per mus- cle group. Given the possibility of overtraining when employing consistently high training frequencies, there may be benefit to periodizing training frequency and including regular periods of deloading over the course of a training cycle. This hypothesis warrants further study.
+
+Compliance with Ethical Standards
+
+Funding No external sources of funding were used to assist in the preparation of this article.
+
+Conflicts of interest  Brad J. Schoenfeld, Dan Ogborn, and James
+W. Krieger declare that they have no conflicts of interest relevant to the content of this review.
+
+
+References
+
+1. Schoenfeld BJ. The mechanisms of muscle hypertrophy and their application to resistance training. J Strength Cond Res. 2010;24(10):2857-72.
+2. Hubal MJ, Gordish-Dressman H, Thompson PD, et al. Variability in muscle size and strength gain after unilateral resistance train- ing. Med Sci Sports Exerc. 2005;37(6):964-72.
+3. Bamman MM, Petrella JK, Kim JS, et al. Cluster analysis tests the importance of myogenic gene expression during myofiber hypertrophy in humans. J Appl Physiol. 2007;102(6):2232-9.
+4. Schoenfeld BJ, Ratamess NA, Peterson MD, et al. Effects of different volume-equated resistance training loading strategies on muscular adaptations in well-trained men. J Strength Cond Res. 2014;28(10):2909-18.
+5. Schoenfeld BJ, Peterson MD, Ogborn D, et al. Effects of low- versus high-load resistance training on muscle strength and hypertrophy in well-trained men. J Strength Cond Res. 2015;29(10):2954-63.
+6. Kraemer WJ, Ratamess NA. Fundamentals of resistance training: progression and exercise prescription. Med Sci Sports Exerc. 2004;36(4):674-88.
+7. Hackett DA, Johnson NA, Chow CM. Training practices and ergogenic aids used by male bodybuilders. J Strength Cond Res. 2013;27(6):1609-17.
+8. Arazi H, Asadi A. Effects of 8 weeks equal-volume resistance training with different workout frequency on maximal strength, endurance and body composition. Int J Sports Sci Eng. 2011;5(2):112-8.
+9. 
+Benton MJ, Kasper MJ, Raab SA, et al. Short-term effects of resistance training frequency on body composition and strength in middle-aged women. J Strength Cond Res. 2011;25(11):3142-9.
+10. Calder AW, Chilibeck PD, Webber CE, et al. Comparison of whole and split weight training routines in young women. Can J Appl Physiol. 1994;19(2):185-99.
+11. Candow DG, Burke DG. Effect of short-term equal-volume resistance training with different workout frequency on muscle mass and strength in untrained men and women. J Strength Cond Res. 2007;21(1):204-7.
+12. Carneiro NH, Ribeiro AS, Nascimento MA, et al. Effects of different resistance training frequencies on flexibility in older women. Clin Interv Aging. 2015;5(10):531-8.
+13. Gentil P, Fischer B, Martorelli AS, et al. Effects of equal-volume resistance training performed one or two times a week in upper body muscle size and strength of untrained young men. J Sports Med Phys Fitness. 2015;55(3):144-9.
+14. Lera Orsatti F, Nahas EA, Maesta N, et al. Effects of resistance training frequency on body composition and metabolics and inflammatory markers in overweight postmenopausal women. J Sports Med Phys Fitness. 2014;54(3):317-25.
+15. McLester JR, Bishop P, Guilliams ME. Comparison of 1 day and 3 days per week of equal-volume resistance training in experi- enced subjects. J Strength Cond Res. 2000;14:273-81.
+16. Ribeiro AS, Schoenfeld BJ, Silva DR, et al. Effect of two- versus three-way split resistance training routines on body composition and muscular strength in bodybuilders: A pilot study. Int J Sport Nutr Exerc Metab. 2015;25(6):559-65.
+17. Schoenfeld BJ, Ratamess NA, Peterson MD, et al. Influence of resistance training frequency on muscular adaptations in well- trained men. J Strength Cond Res. 2015;29(7):1821-9.
+18. Moher D, Liberati A, Tetzlaff J, PRISMA Group, et al. Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. PLoS Med. 2009;6(7):e1000097.
+19. Greenhalgh T, Peacock R. Effectiveness and efficiency of search methods in systematic reviews of complex evidence: audit of primary sources. BMJ. 2005;331(7524):1064-5.
+20. Brazzel-Roberts JV, Thomas LE. Effects of weight training fre- quency on the self-concept of college remales. J Appl Sports Sci Res. 1989;3(2):40-3.
+21. Cooper H, Hedges L, Valentine J. The handbook of research synthesis and meta-analysis. 2nd ed. New York: Russell Sage Foundation; 2009.
+22. Morris B. Estimating effect sizes from pretest-posttest-control group designs. Organ Res Meth. 2008;11(2):364-86.
+23. Borenstein M, Hedges LV, Higgins JPT. Effect sizes based on means. In: Introduction to meta-analysis. UK: John Wiley and Sons, LTD; 2009. p. 21-32.
+24. Hedges LV, Tipton E, Johnson MC. Robust variance estimation in meta-regression with dependent effect size estimates. Res Synth Methods. 2010;1(1):39-65.
+25. Tipton E. Small sample adjustments for robust variance estima- tion with meta-regression. Psychol Methods. 2015;20(3):375-93.
+26. Wernbom M, Augustsson J, Thomee R. The influence of fre- quency, intensity, volume and mode of strength training on whole muscle cross-sectional area in humans. Sports Med. 2007;37(3):225-64.
+27. Guyatt GH, Oxman AD, Kunz R, et al. GRADE guidelines: 8. Rating the quality of evidence-indirectness. J Clin Epidemiol. 2011;64(12):1303-10.
+28. American College of Sports Medicine. American College of Sports Medicine position stand. Progression models in resistance training for healthy adults. Med Sci Sports Exerc. 2009;41(3):687-708.
+29. Cohen J. Statistical power analysis for the behavioral sciences. 2nd ed. Hillsdale: Lawrence Erlbaum; 1988.
+
+30. Krieger JW. Single vs. multiple sets of resistance exercise for muscle hypertrophy: a meta-analysis. J Strength Cond Res. 2010;24(4):1150-9.
+31. Raastad T, Kirketeig A, Wolf D, et al. Powerlifters improved strength and muscular adaptations to a greater extent when equal total training volume was divided into 6 compared to 3 training
+
+sessions per week. 17th Annual Conference of the European College of Sport Science, Brugge, 2012.
+32. Fry AC, Kraemer WJ, van Borselen F, et al. Performance decrements with high-intensity resistance exercise overtraining. Med Sci Sports Exerc. 1994;26(9):1165-73.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

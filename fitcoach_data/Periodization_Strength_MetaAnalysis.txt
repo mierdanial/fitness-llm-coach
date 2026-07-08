@@ -1,0 +1,577 @@
+
+Sports Med
+DOI 10.1007/s40279-017-0734-y
+
+
+
+Comparison of Periodized and Non-Periodized Resistance Training on Maximal Strength: A Meta-Analysis
+
+Tyler D. Williams1,2 • Danilo V. Tolusso1 • Michael V. Fedewa1 • Michael R. Esco1
+
+
+
+
+
+
+(c) Springer International Publishing Switzerland 2017
+
+
+Abstract
+Background Periodization is a logical method of organiz- ing training into sequential phases and cyclical time peri- ods in order to increase the potential for achieving specific performance goals while minimizing the potential for overtraining. Periodized resistance training plans are pro- posed to be superior to non-periodized training plans for enhancing maximal strength.
+Objective The primary aim of this study was to examine the previous literature comparing periodized resistance training plans to non-periodized resistance training plans and determine a quantitative estimate of effect on maximal strength.
+Methods All studies included in the meta-analysis met the following inclusion criteria: (1) peer-reviewed publication;
+(2) published in English; (3) comparison of a periodized resistance training group to a non-periodized resistance training group; (4) maximal strength measured by 1-repe- tition maximum (1RM) squat, bench press, or leg press. Data were extracted and independently coded by two
+
+authors. Random-effects models were used to aggregate a mean effect size (ES), 95% confidence intervals (CIs) and potential moderators.
+Results The cumulative results of 81 effects gathered from 18 studies published between 1988 and 2015 indicated that the magnitude of improvement in 1RM following peri- odized resistance training was greater than non-periodized resistance training (ES = 0.43, 95% CI 0.27-0.58; P \ 0.001). Periodization model (b = 0.51; P = 0.0010), training status (b = -0.59; P = 0.0305), study length (b = 0.03; P = 0.0067), and training frequency (b = 0.46; P = 0.0123) were associated with a change in 1RM. These results indicate that undulating programs were more favorable for strength gains. Improvements in 1RM were greater among untrained participants. Additionally, higher training frequency and longer study length were associated with larger improvements in 1RM.
+Conclusion These results suggest that periodized resis- tance training plans have a moderate effect on 1RM com- pared to non-periodized training plans. Variation in training stimuli appears to be vital for increasing maximal
+
+		strength, and longer periods of higher training frequency
+
+& Tyler D. Williams tdwilliams4@crimson.ua.edu
+Danilo V. Tolusso dvtolusso@crimson.ua.edu
+Michael V. Fedewa michael.v.fedewa@ua.edu
+Michael R. Esco mresco@ua.edu
+
+1	Department of Kinesiology, The University of Alabama, 1013 Moore Hall, Box 870312, Tuscaloosa, AL 35487-0231, USA
+2	Department of Kinesiology, Samford University, 800 Lakeshore Drive, Birmingham, AL 35229, USA
+
+may be preferred.
+
+
+
+
+Key PointsThe overall concept of periodization is to manipulate the training variables in a cyclical, non-linear manner through specific fitness phases. Variations in training stimuli, a central component of periodization, appear to provide greater increases in maximal strength compared to non-periodized resistance training.Comparisons of different periodization models create confusion over accurate terminology and lead the readers to believe that these models are mutually exclusive. However, the fundamental concept of periodization consists of variations at multiple levels to enhance performance and minimize the risk of overtraining potential.While periodization is a ''long-term'' approach to training, a majority of the studies comparing periodized training to non-periodized training are less than 16 weeks in duration. The superior effect of periodization observed in our analysis may be a conservative estimate, as longer duration studies appear to show a greater enhancement in maximal strength.
+
+
+
+1 Introduction
+
+Resistance training is recognized as an important mode of exercise for achieving fitness and health-related goals [1]. Numerous health benefits have been documented, and resistance training exercise is prescribed to a wide range of individuals [2]. While resistance training can improve health and quality of daily living, one of the most common applications of this exercise modality is to enhance sports performance. Generally, resistance training is used by athletes to increase muscular strength, which is considered the amount of force that can be exerted by a muscle or group of muscles under specific conditions and is an essential component of human performance [3, 4]. Maxi- mal strength is the ability to produce a maximal voluntary muscular contraction against an external resistance and is commonly assessed by performing a 1-repetition maximum (1RM) during a dynamic exercise. Most strength and conditioning programs focus on improving 1RM as a component of general physical preparedness [3]. Maximal strength is highly related to power output [5-8], and stronger  athletes  have  greater  potential  for  power
+
+development [9]. A variety of sports-related skills, such as sprinting, jumping, and changing direction, require high power outputs, and maximal strength serves as a crucial component in expressing these abilities [10]. While maxi- mal strength may provide the foundation for developing and enhancing most sport-specific abilities, it serves as the primary performance outcome for the sport of powerlifting. However, the name may be misleading, because the fun- damental nature of powerlifting consists of the ability to display feats of maximal strength. Powerlifting requires high levels of force production during the completion of a 1RM for the squat, bench press, and deadlift [11]. In the attempt to increase maximal strength and improve power- lifting performance, various training methods are used.
+  Due to the increasing popularity of the sport of power- lifting, a wide variety of resistance training programs have been developed to enhance maximal strength. While these programs are designed to achieve the same training effect, the components of each program may differ greatly. Proper program design must account for several acute variables, which include the following: training intensity, training volume, training frequency, exercise selection and order, repetition velocity and rest intervals [2, 4]. Although each of these training variables is important, training volume and training intensity have received the greatest attention in regard to enhancing muscular strength [12]. Typically, training intensity and training volume share an inverse relationship. The amount of weight lifted directly and negatively correlates with the number of repetitions that are able to be performed [2, 4]. Due to the ability to stimulate high-threshold motor units, training with heavy loads (80% of 1RM and greater) appears to be more beneficial in developing maximal strength [2, 13-16]. However, exten- ded periods of training at a high intensity can greatly increase the risk of stagnation or overtraining [2, 17]. Therefore, a periodized training plan is often utilized to minimize overtraining while optimizing peak strength performance [18].
+  Periodization is a logical method of organizing training into sequential phases and cyclical time periods in order to increase the potential for achieving specific performance goals while minimizing the potential for overtraining [19-22]. Periodization is considered an integral part of the training process and provides the conceptual framework for designing a training program [23]. While periodization and programming are difficult to separate, they each focus on different aspects of the training process. Periodization introduces variation through cyclical phases and time periods, while programming consists of structuring the training variables (load, sets, repetitions, and exercise selection) within the phases to enhance the training effect [20]. Fundamentally, there are two models of periodization, parallel and sequential models. The classic works of
+
+
+
+Matveyev depict parallel models of periodization that consist of developing multiple training abilities simulta- neously. Conceptually, traditional models of periodization (TP) are generally classified as parallel models, whilst block models are considered sequential models. Block periodization (BLP) is based on the concept of concen- trating training loads into ''blocks'' in order to develop specific physiological systems and motor abilities [24, 25]. These concentrated workloads are used to address one of the major limitations of TP, wherein advanced athletes are incapable of developing multiple abilities at any one time, primarily because they are closer to their genetic potential and fatigue accumulation exceeds recovery capabilities due to extensive training loads [23]. In BLP, each training block emphasizes the development of a specific training goal, and when properly sequenced, these concentrated loads produce fitness after-effects that may enhance future training through phase potentiation. Additionally, these blocks can be structured to allow for multiple peaks, which are necessary in many modern sports. This provides another advantage over the traditional model, which limits the number of peaks that may occur, producing suboptimal competition performance [20, 24, 26]. As a result, BLP has been suggested as a superior training approach for aug- menting athletic performance [20, 26].
+  An annual training plan, consisting of a hierarchy of time periods and distinct fitness phases, is the yearly plan that outlines the competition schedule, projected testing sessions, and planned recovery periods. While the terms used to categorize these time periods may slightly differ among authors, an annual training plan is organized into distinct cycles: the macrocycle (long-length cycle), the mesocycle (middle-length cycle), the microcycle (short- length cycle), and the training session [18, 20, 27]. In addition to time periods, a periodized training plan uses sequential phases to transition from general preparation to sport-specific training as the athlete approaches a compe- tition. In the traditional model, the macrocycle and meso- cycle can be constructed from four sequential phases: [1] preparation, [2] competition, [3] peaking, and [4] transition or active rest [18, 20]. Similarly, BLP can be aligned within an annual training plan. Issurin showed how three types of mesocycle blocks can be sequenced appropriately within the annual plan based on the competition schedule [26]. These three mesocycle blocks consist of accumula- tion, transmutation, and realization blocks. Accumulation blocks focus on developing basic fitness abilities, while transmutation blocks are devoted to developing specific motor and technical abilities [26]. Realization blocks include pre-competition strategies and the active recovery that follows these previously intense workloads.
+  The appropriate sequencing of these mesocycle blocks and fitness phases is established through programmed
+
+variations in training frequency, intensity, volume, and exercise selection. Within the traditional model, a macro- cycle and mesocycle typically begins with high-volume, low-intensity training and gradually shifts to low-volume, high-intensity training by the end of the cycle. Due to this gradual increase in intensity and reduction in volume, TP has been falsely referred to as linear periodization (LP) [24, 27]. The term ''linear periodization'' is a misnomer, as the central tenet of periodization is to integrate training variation to remove linearity [20, 28]. Due to this mis- classification, non-linear or undulating periodization (UP) was introduced as an alternative model. UP is characterized by frequent variations in volume and intensity that occur daily or weekly [29, 30]. In reality, TP is an undulating model, as it consists of fluctuations in workloads at mul- tiple levels [24, 27, 28, 31, 32]. Therefore, the terms ''linear'' and ''non-linear'' are misleading, as periodization is non-linear in nature.
+  Previous literature has shown evidence that periodized training is superior to non-periodized training in the development of muscular strength [17, 33-36]. However, recent studies suggest periodized resistance training may not always produce significant improvements in maximal strength when compared to non-periodized training [37, 38]. A prior meta-analysis by Rhea and Alderman [39] indicated that periodized training is superior for enhancing strength [effect size (ES) = 0.62] and power (ES = 2.06). However, due to the limited availability of published studies before 2001, non-peer reviewed data were included in the analysis. With multiple studies [37, 38, 40-47] being published since January 1, 2001, a quantitative review of the current peer-reviewed literature is necessary. Addi- tionally, a recent meta-analytic review by Harries et al. found LP and UP to have similar effects on muscular strength [48]. However, this review only compared LP to UP, wherein there was not a non-periodized control group. Thus they were unable to compare periodized resistance training to non-periodized training. Therefore, the primary aim of this study was to examine the previous literature comparing periodized training to non-periodized training and determine a quantitative estimate of effect on 1RM in upper-body and lower-body, multi-joint exercises.
+
+
+2 Methods
+
+2.1 Search Strategy
+
+The review was conducted in accordance with PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-analyses) statement guidelines [49]. Articles pub- lished before October 2, 2015 were located using searches of PubMed, SPORTDiscus, Physical Education Index, and
+
+
+
+SCOPUS. The following search terms were used to identify potential articles: periodiz*, periodis*, periodiz* training, periodiz* and strength, periodiz* and resistance training, periodiz* and weight lifting, periodiz* and weight training, periodiz* and performance, linear periodiz*, undulating periodiz*, non-linear periodiz*, and block periodiz*. Duplicate publications were removed, and the authors manually reviewed reference lists from retrieved articles for additional publications not discovered by using the database search.
+
+2.2 Study Selection
+
+The inclusion criteria for our analysis were as follows: [1] peer-reviewed publication; [2] available in English; [3] comparison of a periodized resistance training group to a non-periodized resistance training group; [4] maximal strength measured by 1RM squat, bench press, or leg press;
+
+[5] mean and standard deviation (SD) provided in the text, table(s), or figure(s). A total of 2011 articles were identified from the initial search. Three other articles [35, 46, 50] were identified through other sources. Excluded records had the following characteristics: [1] full-text not available;
+[2] non-English version; [3] did not use resistance training exercise; [4] 1RM not reported for back squat, bench press, or leg press; [4] lack of information to calculate ES; [5] did not include a non-periodized resistance training compar- ison condition. Additionally, the duration of the training program had to be a minimum of 2 weeks in length in order to be included in the analysis. Attempts were made to contact the authors of articles [51-53] missing data needed to calculate an ES; no additional data were provided. There was no age, sex, or training status restrictions on included studies. Figure 1 provides a flowchart of the study selection process.
+
+
+
+
+
+Fig. 1 Flow chart of study selection. n Number of studies, SD standard deviation, 1RM 1 repetition maximum
+
+
+
+2.3 Effect Size (ES) Calculation
+
+Study effects were calculated using the following formula: g = (DMtreatment - DMcontrol)/Spooled, where g is the mag- nitude of the ES, DMtreatment is the mean change of the intervention group, DMcontrol is the mean change of the control group, and Spooled is the pooled baseline SD [54]. These effects were then converted to Hedges' d to correct for sampling error using Hedges and Olkin's small sample adjustment [54]. A positive effect was interpreted as an improvement in maximal strength.
+
+2.4 Bias Assessment
+
+Study quality was assessed using a modified Physiotherapy Evidence Database (PEDro) scale [55] because blinding in exercise training studies is not feasible. The minimum score was 0 and the maximum was 10, with a higher number reflecting a better study quality. Two independent reviewers (TW and DT) performed the quality assessments, and dis- crepancies were resolved by consensus, with a third reviewer (MF) if needed. In addition, publication bias was evaluated by funnel plots, Egger's test, and fail-safe N [56, 57]. A fail-safe number of effects was calculated to determine how many unretrieved null effects would be needed to diminish the significance of the observed effects to P \ 0.05. A fail-safe N? represents the minimal number of additional null effects from multiple studies of an average sample size needed to lower the mean ES to a nonsignificant value. A fail-safe N1 represents the relative sample size of one additional effect that would be needed to reach a similar null conclusion.
+2.5 
+Statistical Analysis
+
+Studies were individually coded by two of the investiga- tors, and two-way (effects 9 raters) intra-class correlation coefficients for absolute agreement were calculated to examine interrater reliability for the effects. The original agreement between the investigators yielded an intra-class correlation of 0.99. Discrepancies were resolved by adju- dication after recalculation and/or recoding, with 100% agreement prior to further analysis. The mean ES and the 95% confidence interval (CI) were calculated for 1RM using a random effects model using IBM SPSS version
+23.0 (IBM SPSS Statistics, IBM Corporation, Armonk, NY, USA) [58]. Heterogeneity of mean effects was assessed using the I2 statistic, in which values of 25, 50, and 75% correspond to low, moderate, and high levels of heterogeneity [59]. An exploratory subgroup and modera- tor analysis was used to determine the source of variation between effects. Multi-level linear regression was used according to standard procedures to adjust for between- study variance and the correlation between effects nested within studies [60, 61]. This was required as multiple effects were gathered from studies involving repeated measures [17, 33, 35, 37, 40, 41, 43, 45, 62], multiple
+intervention groups [34, 37, 38, 46, 63], or multiple lifts
+[17, 37, 40, 41, 43-47, 62-64]. The data analysis for the multi-level model was performed using SAS 9.4 (SAS Institute Inc., Cary, NC, USA). Moderator and subgroup definitions can be found in Table 1. Data are presented as mean, SD, and 95% CI.
+
+
+
+Table 1 Definitions for levels of moderators Effector moderator	Levels
+Age	Continuous variable, mean age of the experimental group reported in years
+Sex	Continuous variable, the percentage of male participants in the experimental group Training status	Untrained: less than 1 year of resistance training experience
+Trained: at least 1 year of resistance training experience or an athlete participating in a competitive sport at the high school, collegiate, or professional level
+1RM exercise	Back squat Bench press Leg press
+Study length	Continuous variable, number of weeks from pre to post measures of maximal strength Training frequency	Continuous variable, number of days per week of resistance training participation Training volume	Volume equated: experimental and control group performed same amount of total work
+Volume not equated: experimental and control group differed in the amount of total work performed
+
+Model of periodization
+
+Control: non-periodized resistance training
+Undulating: non-linear periodization or undulating periodization
+Linear: linear periodization, traditional periodization, or any other periodized approach that was not classified as undulating periodization
+
+
+
+1RM 1 repetition maximum
+
+
+
+3 Results
+
+3.1 Mean ES
+
+Effects were extracted from 18 studies published between 1988 and 2015 (mean 4.5 ± 3.0 effects per study). A total of 612 participants were pooled from the included studies. The cumulative results from 81 effects indicate greater improvements in 1RM occur with periodized training (ES = 0.43, 95% CI 0.27-0.58; P \ 0.001). The mean ES
+remained positive in the multi-level, intercept-only model after adjusting for the nesting of effects within studies (ES = 0.38, 95% CI 0.09-0.66), P = 0.012). Fifty-two
+(64.2%) of the effects were larger than zero. A forest plot of effects of periodization on 1RM is presented in Fig. 2, with descriptive characteristics presented in Table 2.
+  Fifty-three effects (65.4%) were from all male partici- pants, and 26 effects (32.1%) were from all female par- ticipants. Two effects from one study contained groups
+
+with mixed sex. The sample size ranged from five to 46 participants (mean 12.2 ± 7.4) with an age range of
+15.4-70.6 years (mean 22.9 ± 8.7). Untrained participants
+accounted for 43 effects (53.1%), while 38 effects (46.9%) were from trained participants. Thirteen effects (16.0%) were from five studies [33-35, 47, 50] that did not report training status and were included in the untrained group. Study duration ranged from 3 to 36 weeks (mean 12.3 ± 7.6), with a training frequency of 2-4 times per week (mean 3.1 ± 0.8). Training volume was equated in 45 effects (55.6%), and the remaining 36 effects (44.4%) did not have equal training volume. LP was indicated in 27 effects (33.3%), while UP accounted for 37 effects (45.7%). Seventeen effects (21.0%) from six studies [33-35, 40, 50, 64] did not specify the model of peri- odization as LP or UP and were coded as LP. The bench press exercise was used for 1RM testing in 32 effects (39.5%), while back squat and leg press comprised 26 and 41 effects (32.1 and 50.6%), respectively.
+
+
+
+
+
+
+Fig. 2 Forest plot of ES for maximal strength. The aggregated Hedges' d is the random effects mean ES for periodized resistance training on 1RM weighted by the pooled standard deviation. CI confidence interval, ES effect size, 1RM 1 repetition maximum
+
+Table 2 Studies examining the effect of periodized resistance training on maximal strength
+Study	Participants	Training
+status
+
+
+
+Training frequency
+
+
+
+Study length
+
+
+
+Volume equated
+
+
+
+Comparison
+
+
+
+
+
+Ahmadizad et al. [46]
+
+32 overweight, sedentary males; mean age 23.4 ± 0.6 years; CON (n = 8), LP (n = 8), and UP (n = 8)
+
+Untrained	3 days/
+week
+
+8 weeks	No	CON vs. LP and UP on 1RM
+bench press and leg press strength
+
+Baker et al. [63]
+
+DeBeliso
+ et al. [42]
+Herrick and Stone [17]
+Hoffman
+et al. [37]
+
+22 male participants; CON (n = 9): mean age 19 ± 1.1 years; LP (n = 8): mean age
+20.2 ± 1.2, UP (n = 5): mean age 21.4 ± 5.0 years
+
+60 elderly male and females; CON (n = 18): mean age 71.4 ± 5.4 years, LP (n = 21): mean age 70.6 ± 4.7 years
+20 women in beginning weight training class; CON (n = 10): mean age 20.7 ± 2.2 years, LP (n = 10): mean age 24.1 ± 5.6 years
+51 Division III collegiate American Football players; CON (n = 17): mean age
+19.9 ± 1.3 years, LP (n = 17): mean age 19.5 ± 1.1 years, UP (n = 17): mean age
+19.6 ± 0.9 years
+
+Resistance- trained
+
+3 days/ week
+
+12 weeks  Yes	CON vs. LP and UP on 1RM
+bench press and back squat strength
+CON vs. LP on 1RM bench press strength
+CON vs. LP on 1RM bench press and back squat strength
+CON vs. LP and UP on 1RM bench press and back squat strength
+
+Kraemer [62]
+Kraemer
+et al. [41]
+Kramer
+ et al. [35] Marx et al.
+[40]
+
+24 female tennis players; CON (n = 8): mean age 18.9 ± 1.2 years, UP (n = 8): mean age
+19.0 ± 0.9 years
+30 collegiate female tennis players; CON (n = 10): mean age 18.6 ± 1.3 years, UP (n = 9): mean age 19.2 ± 1.1 years
+43 male college students; SS CON (n = 16), MS CON (n = 14), PER (n = 13); age reported for total sample: mean age 20.3 ± 1.9 years
+34 healthy female participants; SS CON (n = 10): mean age 23.2 ± 4.5 years, PER (n = 12): mean age 22.6 ± 3.7 years
+
+Athlete	2-3 days/ week
+
+
+
+
+
+Untrained	3-4 days/
+week
+
+36 weeks  No	SS CON vs. UP on 1RM bench
+ press and leg press strength CON vs. UP on 1RM bench
+press and leg press strength
+SS CON and MS CON vs. PER
+                    on 1RM back squat strength. 24 weeks No	SS CON vs. PER on 1RM bench
+press and leg press strength
+
+McGee et al. [50]
+Monteiro
+et al. [43]
+
+27 male participants; SS CON (n = 8): mean age 20.4 ± 2.0 years, MS CON (n = 10): mean age 20.6 ± 5.0 years, PER (n = 9): mean age 19.3 ± 1.2 years
+27 male participants; CON (n = 9): mean age 26.6 ± 2.2 years, LP (n = 9): mean age
+27.6 ± 2.7 years, UP (n = 9): mean age 28.1 ± 2.9 years
+
+Not
+reported
+Resistance- trained
+
+3 days/ week
+4 days/ week
+
+7 weeks	No	SS CON vs. PER on 1RM back
+squat strength
+12 weeks  Yes	CON vs. LP and UP on 1RM
+bench press and leg press strength
+
+Moraes et al. [45]
+
+38 adolescent male participants; CON (n = 14): mean age 15.5 ± 0.9 years, UP (n = 14): mean age 15.4 ± 1.1 years
+
+Untrained	3 days/
+week
+
+12 weeks  Yes	CON vs. UP on 1RM bench
+press and leg press strength
+
+O'Bryant et al. [33]
+Pacobahyba et al. [44]
+Schiotz
+ et al. [64] Souza et al.
+[38]
+Stone et al. [34]
+
+90 male participants; CON (n = 44): mean age 19.1 ± 0.2 years, PER (n = 46): mean age
+19.1 ± 0.2 years
+24 soccer players; CON (n = 12) mean age 17.7 ± 0.5 years, UP (n = 12) mean age
+17.5 ± 1.0 years; sex was not reported
+22 collegiate ROTC participants; CON (n = 8): mean age 24.1 ± 1.3 years, PER (n = 6): mean age 21.1 ± 1.8 years
+31 recreationally active males; CON (n = 9): mean age 25.0 ± 7.7 years, LP (n = 9): mean age 26.2 ± 7.3 years, UP (n = 8): mean age 23.8 ± 4.3 years
+21 male participants; CON (n = 5), PER1 (n = 9), PER2 (n = 7); age not reported
+
+Not
+reported
+
+
+
+
+
+
+
+
+
+reported
+
+3 days/ week
+
+
+
+
+
+
+
+
+
+week
+
+11 weeks  No	CON vs. PER on 1RM back
+squat strength
+CON vs. UP on 1RM bench press and back squat strength
+CON vs. PER on 1RM bench press and back squat strength
+CON vs. LP and UP on 1RM back squat strength
+CON vs. PER1 and PER2 on 1RM back squat strength
+
+
+
+
+3.2 Homogeneity of Results
+
+Heterogeneity was indicated if Q total reached a signifi- cance of P [ 0.05 and by the examination of the I2 statistic [54, 59]. The significant effect of periodization was highly heterogeneous (Q = 213.56, P \ 0.001, I2 = 62.5%), with sampling error accounting for 41% of the observed vari- ance. With a significant Q statistic and an I2 of 62.5% indicating moderate heterogeneity, the variability among 1RM strength is greater than would have occurred natu- rally based on sampling error. Therefore, the null hypothesis for homogenous distribution was rejected and further analyses were used to identify potential moderators.
+
+3.3 Moderator Analysis
+
+An exploratory multi-level, meta-regression model was used to determine potential variables influencing the change in 1RM, adjusting for the non-independence of multiple effects nested within a single study. Periodization model (b = 0.51; P = 0.0010), training status (b = - 0.59; P = 0.0305), study length (b = 0.03; P = 0.0067),
+and training frequency (b = 0.46; P = 0.0123) were
+associated with a change in 1RM. These data indicate that UP produced more favorable gains in maximal strength. Additionally, untrained individuals experienced greater increases in 1RM than trained individuals. Also associated with changes in 1RM were longer training periods and higher training frequencies. The final meta-regression analysis is presented in Table 3.
+
+3.4 Bias Assessment
+
+There may be no way to truly know the number of unpublished studies that exist in the ''file drawer''. A conservative estimate suggests that for the 18 published studies identified in the current analysis, upwards of 100 unpublished and undiscovered studies may still be filed
+
+
+Table 3 Summary of multivariate meta-regression analysis for the effect of periodized resistance training on maximal strength
+
+Effect moderator	ba	SEP valueIntercept-1.37250.57090.0296Periodization model0.51450.14880.0010Training status-0.58660.26480.0305Study lengthb0.02900.14880.0067Training frequencyc0.46450.18000.0123SE standard errora Parameter estimates presented as unstandardized b coefficients
+b Study length measured in weeks
+c Training frequency measured in sessions per week
+
+
+
+
+Fig. 3 Funnel plot of Hedges' d ES versus study standard error. The aggregated Hedges' d is the random effects mean ES for periodized resistance training on 1RM weighted by the pooled standard deviation. ES effect size, 1RM 1 repetition maximum
+
+
+away [65]. However, the fail-safe number of effects was calculated, and it was determined that fail-safe N? = 1038.4 and fail-safe N1 = 252.1. This means that 1038 additional null effects from multiple studies of an average sample size would be needed to lower the mean ES to a nonsignificant value. Additionally, null results from a study containing a minimum of 252 participants would be needed to reach a similar null conclusion. The results of the Egger's test suggest that the mean effect of periodized resistance training on maximal strength may be subject to publication bias (P = 0.006). A funnel plot was used to visually assess symmetry and identify potential outliers. A sensitivity analysis identified and removed 14 effects from five studies [33, 37, 40, 43, 45] that fell outside the 95% CI. Although statistically significant, excluding these effects reduced the mean effect of periodized resistance training on 1RM to 0.23 (95% CI 0.13-0.33, P \ 0.001) and
+eliminated  the  observed  heterogeneity  (Q = 51.17; P = 0.9103). Figure 3 contains the funnel plot for the effect of periodization on 1RM strength. The results of the PEDro study quality assessment are listed in Table 4. The median quality score for the 18 studies assessed was 7 points, which can be interpreted as high methodological quality.
+4 
+Discussion
+
+The cumulative results of the current analysis support the hypothesis that periodized resistance training is superior to non-periodized resistance training for increasing maximal strength. In addition, it appears that the improvements in maximal strength following periodized resistance training are consistent regardless of age and sex given the diverse sample of studies that included adolescents [44, 45], young-to-middle aged adults [17, 33-35, 37, 38, 40, 41,
+43, 46, 47, 50, 62-64], and older adults [42]. Moreover, the ES of 0.43 would translate to an increase in bench press 1RM equal to 11.4 kg (95% CI 7.2-15.4) among Divi- sion 1A college American Football players [66] over a 12-week periodized resistance training program. Similar improvements in bench press 1RM of 10.2 kg (95% CI 6.4-13.7) and 6.6 kg (95% CI 4.2-8.9) would occur for untrained females and untrained males, respectively [67]. After removing potential outliers in our analysis, the overall mean ES was reduced to 0.23. While the magnitude of the effect is smaller, periodization still appears to pro- vide an advantage in strength development. In previous Olympics, the difference between first and fourth was less than 1.5% in many sports and events [20, 68]. Therefore,
+
+
+Table 4 Assessment of study quality using a modified Physiotherapy Evidence Database (PEDro) scale
+
+StudyEligibility criteriaRandomly allocatedAllocation concealedBaseline similarBlinding therapistBlinding assessorsKey outcome 85%Intention to treatBetween groupPoint and variability measureTotal PEDro score (max = 10)Ahmadizad et al. [46]YesYesNoYesNoNoYesYesYesYes7Baker et al.	YesNoNoYesNoNoNoYesYesYes5[63]DeBeliso et al. [42]YesYesNoYesNoNoNoYesYesYes6Herrick and Stone [17]YesYesNoYesNoNoYesYesYesYes7Hoffman et al. [37]YesYesNoYesNoNoYesYesYesYes7Kraemer [62]YesYesNoYesNoNoYesYesYesYes7Kraemer et al. [41]YesYesNoYesNoNoYesYesYesYes7Kramer et al. [35]YesYesNoYesNoNoNoYesYesYes6Marx et al. [40]YesYesNoYesNoNoYesYesYesYes7McGee et al. [50]YesNoNoYesNoNoYesYesYesYes6Monteiro et al. [43]YesYesNoYesNoNoYesYesYesYes7Moraes et al. [45]YesYesNoYesNoNoYesYesYesYes7O'Bryant et al. [33]YesYesNoYesNoNoYesYesYesYes7Pacobahyba et al. [44]YesYesNoYesNoNoYesYesYesYes7Schiotz et al. [64]YesYesNoYesNoNoNoYesYesYes6Souza et al. [38]YesYesNoYesNoNoNoYesYesYes6Stone et al. [34]YesNoNoYesNoNoNoYesYesYes5Storer et al. [47]YesYesNoYesNoYesNoYesYesYes7
+
+the training approach is an important aspect to be consid- ered when attempting to develop a specific fitness charac- teristic, and based on the findings of this meta-analysis, we recommend utilizing a periodized resistance training plan to increase maximal strength.
+
+4.1 Periodization Model
+
+The preferred approach of periodization for strength development is debated. While some of the previous lit- erature favors UP over LP for increasing maximal strength [29, 43, 45, 69], other studies have found no difference [30, 63, 70-73] or greater strength increases in the LP group [74]. A recent meta-analysis found no significant differences in upper-body and lower-body strength between LP and UP [48]. In the current analysis, model of periodization had a positive association with maximal strength, indicating that UP had a more favorable impact on 1RM than LP. The contradictory results can be explained by a difference in inclusion criteria. The current review included only studies that compared a non-peri- odized resistance training group to a periodized resistance training group. Of the 17 studies included in the meta- analytical review of LP and UP [48], only three [37, 43, 63] contained a non-periodized training group and were included in the current review. Therefore, the intent of the present study was not to exhaustively review the literature comparing LP to UP as performed by Harries et al. [48], but was instead to compare the effects of non-periodized training to periodized training. It is worth mentioning our analysis did not include any studies claiming to use BLP; however, some studies included [34, 37] contained LP groups that utilized a training structure that resembles block programming [20]. This demonstrates a valuable point that different periodization models and programming strategies may be integrated into the annual training plan. Classifying models of periodization has also brought about much confusion, as different interpretations of peri- odization are commonly presented in publications and practice [22]. LP is commonly used to describe the tradi- tional model of periodization in which training volume decreases and training intensity increases throughout a mesocycle or macrocycle [63, 75]. However, the term 'linear' may be misleading, as periodization consists of nonlinear variation in training variables [22, 28, 32, 75]. Linear increases in intensity and decreases in volume may be apparent when looking at the macrocycle and mesocycle level, yet fluctuations in volume and intensity occur within each microcycle [18, 76], similar to the variation seen in UP models. The daily variations at the microcycle level are characteristic of daily undulating periodization (DUP), which alters training phases (i.e., endurance, strength, power) [68, 69, 77] or repetition patterns [29, 43, 78]
+
+within the week. While the literature refers to both of these structures as DUP, a more appropriate term for the daily alterations in repetition patterns is daily undulating pro- gramming [78]. Periodization deals with fitness phases and time periods, while programming deals with manipulation of acute training variables. As such, there is often confu- sion between periodization and programming. In reality, studies comparing different periodization models in the literature are actually making comparisons at the pro- gramming level. Programming strategies should be used to structure a periodized training plan. It has been suggested that DUP or daily undulating programming can be used to structure the training variables within a block periodized plan [77, 78]. For instance, accumulation blocks are noted for extensively high volumes to develop basic fitness abilities [24, 26]. However, this block may also consist of a heavy and light day system [23], which at the microcycle level contains fluctuations in volume and intensity. These daily undulations produce greater variation in training stimuli, which may allow for better fatigue management and utilization of higher workloads on heavy days. Therefore, a variety of programming strategies can be used to direct training toward desired goals within specific phases or time periods in the periodized plan.
+  In our analysis, the greater improvements seen in the UP group may be due to the short-term nature of the studies. The UP groups showed greater variation in training at the microcycle level compared to the groups categorized as LP. With 69 effects extracted from short-term comparisons (\16 weeks), it should be noted that the daily fluctuations in volume and intensity provided greater variation in training stimuli, promoting greater strength gains. There- fore, when considering a periodized training plan, greater variations in the training variables within the microcycle appear to have more favorable results for increasing strength during short-term periods. However, it is specu- lated that increases in training intensity and reductions in training volume over a mesocycle or macrocycle will enhance strength performance.
+
+4.2 Training Status
+
+Training status was inversely associated with a change in 1RM, indicating that untrained individuals experienced greater increases in maximal strength. Untrained individ- uals are capable of experiencing tremendous increases in muscular strength from resistance training, and noticeable physiological adaptations may occur within a short period of time [75]. Previous studies have indicated that untrained men acquired greater increases in maximal strength from resistance training compared to strength-trained men [79]. During the initial weeks of resistance training, enhance- ments in neurological function may include the number and
+
+rate of motor units recruited, synchronization in motor unit firing, and reduction in antagonist muscle activity [80, 81]. These neural adaptations allow for greater force production [75], which is vital for increasing maximal strength. Neural adaptations are primarily responsible for increases in strength during the early period of training, while mea- surable increases in muscle hypertrophy may occur after several weeks [80, 82, 83]. It is suggested that the contri- bution of muscle hypertrophy may be sooner than expected and that the current methods for measuring muscle hypertrophy may lack sensitivity to detect small yet sig- nificant increases [82]. Untrained individuals have a high potential for the occurrence of these physiological adap- tations and are capable of high rates of strength develop- ment. As individuals transition from untrained to trained, they move closer to their genetic limits for muscle hyper- trophy and neuromuscular adaptations. Therefore, trained individuals experience strength gains at a slower rate than untrained individuals [83-85]. This was noted in a group of athletes who experienced a non-significant 3.5% increase in maximal strength of the leg extensors over the course of a year [86]. It is not unrealistic for the same strength increase to occur in a few weeks for a group of untrained individuals. While untrained individuals are capable of developing strength using almost any reasonable training program [83], advanced lifters require greater variations in training stimuli, more sophisticated program strategies, and longer training periods in order to achieve increases in strength [22, 32]. In the current analysis, 12 effects from four studies contained training periods lasting longer than 16 weeks. Therefore, these studies may have provided insufficient time for trained individuals to attain significant increases in strength. With short-term studies accounting for a majority of the effects, untrained individuals are expected to have a greater response to training, and the superiority over non-periodized training may imply that variation in training brings about quicker neural adapta- tions [84]. Our results indicate that regardless of training experience, variations in training stimuli through peri- odized programs yield superior gains in maximal strength; however, untrained individuals may experience larger improvements.
+
+4.3 Study Length
+
+Study length was positively associated with a change in 1RM experienced from periodized resistance training. The positive relationship indicates that an increase in study duration leads to greater gains in maximal strength. Pre- vious studies have hypothesized that periodized training is most beneficial in long-duration training programs [48], and the results of our analysis support these beliefs. Stone and colleagues noted that periodization should be viewed
+
+as a long-term approach to training [18]. Periodization revolves around the athlete's competitive calendar and serves to decrease the risk of overtraining while optimizing peak performance [20, 22]. As a result, multi-year and annual training plans are developed to provide the appro- priate training stimulus at specific time points [4]. As previously mentioned in Sect. 1, the annual plan outlines the competition schedule, projected testing sessions, and planned recovery periods. Developing a sound annual plan is the most important aspect of the training process, and includes the periodized plan and programmed variations in the training variables [20]. These variations allow for better fatigue management and recovery, which may not be experienced with non-periodized training. According to the general adaptation syndrome, inadequate recovery from continuous linear loading and training monotony can lead to stagnation and in some cases overtraining [4, 22]. Because periodization and appropriate programming incorporates variation in training stimuli and implements planned recovery periods, fatigue can be better managed and performance can be optimized during long-term training. While periodized resistance training is superior to non-periodized resistance training in producing short-term strength gains, the greatest effects occur during longer periods of training.
+
+4.4 Training Frequency
+
+Training frequency is the number of training sessions completed during a specific period of time, typically 1 week [2, 4]. The results of the meta-regression indicate that training frequency was positively associated with a change in 1RM. The positive relationship indicates that higher training frequencies lead to greater gains in maximal strength. Training frequency is dependent on several fac- tors, mainly volume and intensity [2]. The greater the magnitude of training-related stress, the more fatigue accumulates and a longer period of recovery is required [4, 21, 22]. However, training sessions with lower average work will reduce the necessary recovery period and allow for more frequent training to occur. This is the principle behind the stimulus-fatigue-recovery-adaptation theory. While this may provide the basis for establishing training frequency, the results of studies investigating training fre- quency on maximal strength have been inconsistent. A previous study examined the effects of 1 day per week versus 3 days per week training on upper-body strength [87]. Despite equating volume between groups, the 3 days per week group had significantly greater increases in upper-body strength than the 1 day per week group. A limitation mentioned in the study is that the 1 day per week group contained fewer women, had greater resistance training experience, and was stronger at baseline than the
+
+3 days per week group. While these factors may have confounded the differences in strength that occurred between groups, other studies have demonstrated higher training frequencies produce superior gains in strength [88, 89].
+  A study not included in the present analysis examined changes in strength in a group of Norwegian powerlifters split into two groups where training volume was equalized over three training sessions per week or six training ses- sions per week [89]. After 15 weeks of training, squat and bench press 1RM increased more for the high frequency group. Similar results occurred in female athletes who were divided into two groups based on performing either one or two daily resistance training sessions that were equated for volume [88]. The group that performed two training ses- sions per day had superior increases in strength compared to the group that completed one session per day.
+  An additional component of training frequency is training density. Training density deals with the frequency of training in a specified time period. While training den- sity can be manipulated to increase volume, a major benefit of increased training density is the ability to maintain a higher training intensity [20]. For instance, a common training approach by fitness enthusiasts is to train a specific muscle group with extremely high volume during a single training session, and then wait an entire week to repeat the same process. By spreading the same training volume over three sessions, training density would increase, which may allow for a greater weekly training intensity. Therefore, training density is an important consideration for strength development. While higher training frequency allows for more frequent muscular stimulation, another aspect that may enhance the training outcome is skill acquisition [90]. The law of practice explains how frequent repetition of a skill leads to greater proficiency [91]. This would be par- ticularly important in untrained or novice individuals attempting to perform multi-joint exercises using maximal loads. Multi-joint exercises commonly used to assess 1RM, such as the back squat and bench press, are also prescribed in training programs to develop strength. Practicing the movements more frequently over a training period may improve the economy of movement, which may enhance maximal strength.
+  While this may seem plausible, not all studies have found higher training frequencies to be superior. An investigation of a split-body versus total-body training program found no differences in 1RM squat and bench press [92]. However, a different approach for determining training frequency compared to the aforementioned studies was employed. The group that performed the split-body training program trained across 3 days per week, but each muscle group was only targeted 1 day per week [92]. This is similar to methods commonly used by bodybuilders. The
+
+total-body group also trained 3 days per week, with each muscle group specifically targeted during each training session [92]. It would be expected that the greater fre- quency of muscular stimulation would produce superior results, though this was not the case. However, while the study suggested that the subjects were well-trained [92], review of the baseline squat and bench press 1RMs was not indicative of highly resistance-trained individuals. A study comparing different training frequencies in untrained men and women produced similar increases in strength after 6 weeks [93]. While the training status may influence the response to training frequency, it must be noted the training volume was equated in these studies [92, 93]. One reason high training frequency is utilized in the field is to increase training volume over a specific time period. It has been suggested that as one becomes more trained, a greater training stimulus is necessary to produce further adaptation [83]. Therefore, higher training frequencies may benefit elite sports and strength athletes [88, 89], yet novice or moderately trained individuals can still benefit from lower frequency of training.
+
+4.5 Training Volume
+
+Training volume is one of the key variables manipulated in resistance training programs, and it has been suggested that accumulating adequate training volume is crucial in max- imizing the training effect [12, 35]. There appears to be a dose response, as multiple studies have presented greater increases in maximal strength using multiple sets compared to a single set of resistance exercise [14-16, 94, 95]. Three studies in our analysis compared periodized resistance training to a single-set control group [35, 40, 50]. Each study reported significantly higher 1RM strength in the periodized resistance training group. The amount of work performed may account for the main reason these peri- odized groups experienced greater improvements in strength. In the current analysis, training volume was not a significant predictor of change in 1RM, which contradicts the traditional belief that when training volume was equated, gains in strength will be equal [63]. In fact, a previous study concluded no statistically significant dif- ferences in strength between BLP and DUP; however, the BLP group performed 35% less work [68]. The authors went on to note that appropriate manipulation of the training variables may be more important in developing peak performance.
+  Many studies equate volume in order to study the effects of other program variables, yet not all studies equate vol- ume using the same method. Seven of the 18 studies in the current analysis equated volume between groups. Of these seven, four studies [34, 41, 42, 63] calculated training volume based on total repetitions (sets 9 repetitions), one
+
+study [64] used relative training volume (repeti- tions 9 relative intensity), and two studies [17, 38] quan- tified volume as volume load (sets 9 repetitions 9 load). Volume load is proposed to be the preferred indicator of amount of work performed [18, 96, 97]. While total repe- titions may be equated, the volume load and the total amount of work being performed may be substantially different. A study included in the present analysis com- pared a non-periodization training group to a stepwise periodization group and an overreaching periodization group [34]. Though the stepwise periodization group and non-periodization training group were equated by total repetitions, the volume load for the non-periodization group was 23% higher than the stepwise periodization group. Additionally, the stepwise periodization group per- formed 19% more repetitions than the overreaching peri- odization group. However, due to training with higher loads, the overreaching periodization group accumulated a 6% greater volume load than the stepwise periodization group. This indicates that training intensity may confound the relationship between equated volume and gains in strength. High-intensity, low-volume programs have been promoted to be superior in developing strength [4, 75]. According to the principle of specificity, training with higher loads would promote greater strength gains. Previ- ous investigations have concluded that when volume is controlled, groups training with higher loads experienced greater strength adaptations [98, 99].
+
+4.6 Limitations
+
+While the results of this study indicate that periodized resistance training has a significant effect on maximal strength, some limitations must be noted. Selection bias is possible assuming the inclusion of studies was limited to peer-reviewed articles. Three studies were identified that met the inclusion criteria, but did not present sufficient data to calculate an ES [51-53]. Requests were sent to the authors to provide missing data, yet no additional infor- mation was provided. In addition, it is possible that addi- tional studies were not identified in the electronic database search or the manual reference search. Our electronic database search successfully identified 83.3% (n = 15) of the total records included in this analysis. This is slightly lower than the target search sensitivity identified in previ- ous systematic reviews [100]. This highlights the impor- tance of including a manual search of references as part of a comprehensive systematic literature review to identify all relevant studies, as no database included all relevant records [101-103].
+  Since periodization consists of programmed variations in training intensity throughout a specific phase or time period, training intensity was not quantified in this review
+
+and should be noted as a limitation of this meta-analysis. When volume is controlled, utilizing higher loads during training yields greater increases in strength [98, 99]. An additional limitation of this meta-analysis is the inclusion of studies consisting of training to failure and non-failure training. Of special interest are the studies in which the non-periodized group and periodized group differed in training to failure [33-35]. A recent meta-analysis con- cluded that non-failure training was superior to training to failure when volume was not equated (ES = 0.41) [104]. It is important to note that Davies et al. [104] showed that a 11.5% increase in strength occurred in the non-failure groups when more sets were completed than in the failure group; however, strength increased by *0.8% when the non-failure group performed fewer total sets than the fail- ure group. In the current analysis, one study [35] consisted of a comparison between a single set to failure group and a periodized non-failure group. Due to the multiple sets, the volume load for the periodized group was significantly greater than the non-periodized single-set group. Davies et al. concluded that when total volume was controlled, no differences in muscular strength occurred between groups training to failure and non-failure training groups [104]. It appears that training to failure provides no additional benefit; however, it can lead to greater levels of fatigue, which may negatively impact the ability to perform during strength testing sessions. A major benefit of periodization is greater training variation allowing for enhanced recovery and physical preparedness. As a result, groups utilizing a periodized training plan may have experienced greater increases in maximal strength because of better fatigue management and readiness to perform.
+  Another limitation of this study is the inclusion of sin- gle-set control groups compared to multiple-set groups. As previously discussed in Sect. 4.5, there is substantial evi- dence that multiple sets of resistance exercise produce superior increases in strength because of the greater amount of work performed. Upon observation of the funnel plots, many of the outliers occurred because of studies comparing a single-set, non-periodized group to a multi- set, periodized group. This may misrepresent the true effect of periodized training in these studies. Therefore, the interpretation of the results of this meta-analysis should be taken with caution.
+  In our analysis, participants were assumed to be untrained within the studies where training status was not reported [33-35, 50]. Only two studies compared peri- odized and non-periodized training with groups that were reported as resistance trained [43, 63]. However, studies containing competitive sports athletes [37, 41, 44, 62] were combined with the resistance-training sample to form the trained group. Athletes were quantified as resistance trained  because  of  the  neuromuscular  demands  of
+
+competitive sports. While they may not have participated in previous resistance training, athletes participate in activities requiring large amounts of force production, such as sprinting and jumping. It must also be noted that athletes may respond differently than untrained or even resistance- trained individuals. Besides participating in resistance training, athletes may be required to perform additional forms of training that may influence changes in maximal strength [68]. Nevertheless, a concern is the criteria often used to classify participants as resistance trained. In some studies,  resistance  training  experience  greater  than 6 months is considered resistance trained [63]; however, observation of their baseline 1RM performances makes this classification questionable. Even the resistance training experience among sports athletes varies greatly. Division III American Football players [37] would be expected to have more resistance training experience than adolescent female tennis players [41, 62]. While both groups are considered competitive sports athletes, the two may have tremendous differences in their responses to resistance training. Although greater variations in training stimuli are expected to be more effective in resistance-trained indi- viduals, more investigations need to be performed using samples of highly resistance-trained subjects.
+  The moderator and subgroup analysis was also possible because of the large number of effects gathered. A number of variables were selected a priori because of the influence on training adaptations reported in previous literature; however, a number of exploratory variables were included as potential sources of heterogeneity among effects. In addition, this meta-analysis was performed using summa- rized data extracted from published literature, and not individual participant data (IPD). Although we feel confi- dent that the results of the current analysis represent the true effect of periodized training, IPD analyses allow for greater sensitivity in identifying potential moderators [105]. As such, because of the exploratory nature of the meta-regression analysis and the potential limitations of using summarized data, an attempt should be made to replicate these results in future experimental studies.
+
+
+5 Conclusion
+
+Periodized resistance training has been suggested to be superior to non-periodized training for increasing muscular strength. The present findings provide evidence that peri- odized resistance training has a small to moderate effect on maximal strength in upper-body and lower-body, multi- joint exercises. Training status, training frequency, model of periodization, and study length were all associated with changes in 1RM. Untrained individuals appear to have greater increases in strength than trained subjects. Higher
+
+frequency and longer periods of training provided a greater effect on maximal strength. While there is considerable controversy regarding the terminology of periodized models, more frequent undulations observed in UP pro- duced greater increases in 1RM. Although volume has been shown to be a major factor in strength adaptation, training volume was not a significant moderating variable in the analysis. While many variables must be accounted for in designing a resistance training program, the findings of the current analysis indicate that daily, weekly, or phasic variations in training stimuli yield a greater effect on maximal strength.
+
+Author contributions TDW conceptualized and designed the study, coded and analyzed effects, carried out the initial analysis, drafted the initial manuscript, and approved the final manuscript as submitted. DVT coded and analyzed effects, reviewed and revised the initial manuscript, and approved the final manuscript as submitted. MVF analyzed effects, reviewed and revised the initial manuscript, and approved the final manuscript as submitted. MRE reviewed and revised the initial manuscript and approved the final manuscript as submitted.
+
+Compliance with Ethical Standards
+
+Funding No sources of funding were used to assist in the preparation of this article.
+
+Conflict of interest Tyler Williams, Danilo Tolusso, Michael Fedewa, and Michael Esco declare that they have no conflicts of interest relevant to the content of this review.
+
+
+References
+
+1. Kenney WL, Wilmore JH, Costill DL. Physiology of sport and exercise. 5th ed. Champaign: Human Kinetics; 2011.
+2. Kraemer WJ, Ratamess NA. Fundamentals of resistance train- ing: progression and exercise prescription. Med Sci Sports Exerc. 2004;36(4):674-88.
+3. Siff MC. Supertraining. Denver: Supertraining Institute; 2003.
+4. Baechle TR, Earle RW. Essentials of strength training and conditioning. Champaign: Human Kinetics; 2008.
+5. Baker D, Nance S. The relation between strength and power in professional rugby league players. J Strength Cond Res. 1999;13(3):224-9.
+6. Moss B, Refsnes P, Abildgaard A, et al. Effects of maximal effort strength training with different loads on dynamic strength, cross-sectional area, load-power and load-velocity relationships. Eur J Appl Physiol Occup Physiol. 1997;75(3):193-9.
+7. Baker D. Comparison of upper-body strength and power between professional and college-aged rugby league players. J Strength Cond Res. 2001;15(1):30-5.
+8. Stone MH, Sanborn K, O'Bryant HS, et al. Maximum strength- power-performance  relationships  in  collegiate throwers. J Strength Cond Res. 2003;17(4):739-45.
+9. Cormie P, McGuigan MR, Newton RU. Influence of strength on magnitude and mechanisms of adaptation to power training. Med Sci Sports Exerc. 2010;42(8):1566-81.
+10. Taber C, Bellon C, Abbott H, et al. Roles of maximal strength and rate of force development in maximizing muscular power. Strength Cond J. 2016;38(1):71-8.
+
+11. Fry AC. The role of resistance exercise intensity on muscle fibre adaptations. Sports Med. 2004;34(10):663-79.
+12. Tan B. Manipulating resistance training program variables to optimize maximum strength in men: a review. J Strength Cond Res. 1999;13(3):289-304.
+13. Campos GE, Luecke TJ, Wendeln HK, et al. Muscular adapta- tions in response to three different resistance-training regimens: specificity of repetition maximum training zones. Eur J Appl Physiol. 2002;88(1-2):50-60.
+14. Rhea MR, Alvar BA, Burkett LN, et al. A meta-analysis to determine the dose response for strength development. Med Sci Sports Exerc. 2003;35(3):456-64.
+15. Peterson MD, Rhea MR, Alvar BA. Maximizing strength development in athletes: a meta-analysis to determine the dose- response relationship. J Strength Cond Res. 2004;18(2):377-82.
+16. Peterson MD, Rhea MR, Alvar BA. Applications of the dose- response for muscular strength development: a review of meta- analytic efficacy and reliability for designing training prescrip- tion. J Strength Cond Res. 2005;19(4):950-8.
+17. Herrick AB, Stone WJ. The effects of periodization versus progressive resistance exercise on upper and lower body strength in women. J Strength Cond Res. 1996;10(2):72-6.
+18. Stone MH, O'Bryant HS, Schilling BK, et al. Periodization: effects of manipulating volume and intensity. Part 1. Strength Cond J. 2000;49(2):56-62.
+19. DeWeese B, Gray H, Sams M, et al. Revising the definition of periodization: merging historical principles with modern con- cern. Olympic Coach. 2013;24:5-19.
+20. DeWeese BH, Hornsby G, Stone M, et al. The training process: planning for strength-power training in track and field. Part 1: theoretical aspects. J Sport Health Sci. 2015;4(4):308-17.
+21. Plisk SS, Stone MH. Periodization strategies. Strength Cond J. 2003;25(6):19-37.
+22. Stone MH, Stone M, Sands WA, et al. Principles and practice of resistance training. Champaign: Human Kinetics; 2007.
+23. DeWeese BH, Hornsby G, Stone M, et al. The training process: planning for strength-power training in track and field. Part 2: Practical and applied aspects. J Sport Health Sci. 2015;4(4):318-24.
+24. Issurin VB. New horizons for the methodology and physiology of training periodization. Sports Med. 2010;40(3):189-206.
+25. Bartolomei S, Hoffman JR, Merni F, et al. A comparison of traditional and block periodized strength training programs in trained athletes. J Strength Cond Res. 2014;28(4):990-7.
+26. Issurin V. Block periodization versus traditional training theory: a review. J Sports Med Phys Fit. 2008;48(1):65.
+27. Haff GG, Triplett NT. Essentials of strength training and con- ditioning. 4th ed. Champaign: Human Kinetics; 2015.
+28. Stone M, Wathen D. Letter to the editor. Strength Cond J. 2001;23(5):7.
+29. Rhea MR, Ball SD, Phillips WT, et al. A comparison of linear and daily undulating periodized programs with equated volume and intensity for strength. J Strength Cond Res. 2002;16(2):250-5.
+30. Buford TW, Rossi SJ, Smith DB, et al. A comparison of peri- odization models during nine weeks with equated volume and intensity for strength. J Strength Cond Res. 2007;21(4):1245-50.
+31. Bradley-Popovich GE. Nonlinear versus linear periodization models. Strength Cond J. 2001;23(1):42.
+32. Stone MH, O'Bryant HS. Letter to the editor. J Strength Cond Res. 1995;9(2):125-6.
+33. O'Bryant HS, Byrd R, Stone MH. Cycle ergometer performance and maximum leg and hip strength adaptations to two different methods of weight-training. J Strength Cond Res. 1988;2(2):27-30.
+34. Stone MH, Potteiger JA, Pierce KC, et al. Comparison of the effects of three different weight-training programs on the one
+
+repetition maximum squat. J Strength Cond Res. 2000;14(3):332-7.
+35. Kramer JB, Stone MH, O'Bryant HS, et al. Effects of single vs. multiple sets of weight training: Impact of volume, intensity, and variation. J Strength Cond Res. 1997;11(3):143-7.
+36. Willoughby DS. A comparison of three selected weight training programs on the upper and lower body of strength trained males. Appl Res Coaching Athletics. 1992;1:124-46.
+37. Hoffman JR, Ratamess NA, Klatt M, et al. Comparison between different off-season resistance training programs in division III American college football players. J Strength Cond Res. 2009;23(1):11-9.
+38. Souza EO, Ugrinowitsch C, Tricoli V, et al. Early adaptations to six weeks of non-periodized and periodized strength training regimens in recreational males. J Sports Sci Med. 2014;13(3):604-9.
+39. Rhea MR, Alderman BL. A meta-analysis of periodized versus nonperiodized strength and power training programs. Res Q Exerc Sport. 2004;75(4):413-22.
+40. Marx JO, Ratamess NA, Nindl BC, et al. Low-volume circuit versus high-volume periodized resistance training in women. Med Sci Sports Exerc. 2001;33(4):635-43.
+41. Kraemer WJ, Hakkinen K, Triplett-Mcbride NT, et al. Physio- logical changes with periodized resistance training in women tennis players. Med Sci Sports Exerc. 2003;35(1):157-68.
+42. DeBeliso M, Harris C, Spitzer-Gibson T, et al. A comparison of periodised and fixed repetition training protocol on strength in older adults. J Sci Med Sport. 2005;8(2):190-9.
+43. Monteiro AG, Aoki MS, Evangelista AL, et al. Nonlinear periodization maximizes strength gains in split resistance training routines. J Strength Cond Res. 2009;23(4):1321-6.
+44. Pacobahyba N, de Souza Vale RG, de Souza SLP, et al. Muscle strength, serum basal levels of testosterone and urea in soccer athletes submitted to non-linear periodization program. Rev Bras Med Esporte. 2012;18(2):130-3.
+45. Moraes E, Fleck SJ, Ricardo Dias M, et al. Effects on strength, power, and flexibility in adolescents of nonperiodized vs. daily nonlinear periodized weight training. J Strength Cond Res. 2013;27(12):3310-21.
+46. Ahmadizad S, Ghorbani S, Ghasemikaram M, et al. Effects of short-term nonperiodized, linear periodized and daily undulating periodized resistance training on plasma adiponectin, leptin and insulin resistance. Clin Biochem. 2014;47(6):417-22.
+47. Storer TW, Dolezal BA, Berenc MN, et al. Effect of supervised, periodized exercise training vs. self-directed training on lean body mass and other fitness variables in health club members. J Strength Cond Res. 2014;28(7):1995-2006.
+48. Harries SK, Lubans DR, Callister R. Systematic review and meta-analysis of linear and undulating periodized resistance training programs on muscular strength. J Strength Cond Res. 2015;29(4):1113-25.
+49. Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-analyses: the PRISMA state- ment. Ann Intern Med. 2009;151(4):264-9.
+50. McGee D, Jessee TC, Stone MH, et al. Leg and hip endurance adaptations to three weight-training programs. J Strength Cond Res. 1992;6(2):92-5.
+51. Stowers T, McMillan J, Scala D, et al. The short-term effects of three different strength-power training methods. NSCA J. 1983;5(3):24-7.
+52. Willoughby DS. The effects of mesocycle length weight training programs involving periodization and partially equated volumes on upper and lower body strength. J Strength Cond Res. 1993;7:2-8.
+53. Conlon JA, Haff GG, Tufano JJ, et al. Application of session rating of perceived exertion among different models of
+
+resistance training in older adults. J Strength Cond Res. 2015;29(12):3439-46.
+54. Hedges LV, Olkin I. Statistical methods for meta-analysis. Orlando: Academic; 1985.
+55. Maher CG, Sherrington C, Herbert RD, et al. Reliability of the PEDro scale for rating quality of randomized controlled trials. Phys Ther. 2003;83(8):713-21.
+56. Egger M, Smith GD, Schneider M, et al. Bias in meta-analysis detected by a simple, graphical test. BMJ. 1997;315(7109):629-34.
+57. Rosenberg MS. The file-drawer problem revisited: a general weighted method for calculating fail-safe numbers in meta- analysis. Evolution. 2005;59(2):464-8.
+58. Lipsey MW, Wilson DB. Practical meta-analysis. Thousand Oaks: Sage Publications; 2001.
+59. Higgins JP, Thompson SG, Deeks JJ, et al. Measuring incon- sistency in meta-analyses. BMJ. 2003;327(7414):557.
+60. Hox J. Multilevel analysis: techniques and applications. 2nd ed. New York: Taylor & Francis; 2010.
+61. Singer JD, Using SAS. PROC MIXED to fit multilevel models, hierarchical models, and individual growth models. J Educ Behav Stat. 1998;23(4):323-55.
+62. Kraemer WJ. Influence of resistance training volume and peri- odization on physiological and performance adaptations in col- legiate women tennis players. Am J Sports Med. 2000;28:626-33.
+63. Baker D, Wilson G, Carlyon R. Periodization: the effect on strength of manipulating volume and intensity. J Strength Cond Res. 1994;8(4):235-42.
+64. Schiotz MK, Potteiger JA, Huntsinger PG, et al. The short-term effects of periodized and constant-intensity training on body composition, strength, and performance. J Strength Cond Res. 1998;12(3):173-8.
+65. Rosenthal R. The file drawer problem and tolerance for null results. Psychol Bull. 1979;86(3):638.
+66. Oba Y, Hetzler RK, Stickley CD, et al. Allometric scaling of strength scores in NCAA division I-A football athletes. J Strength Cond Res. 2014;28(12):3330-7.
+67. Hoeger WW, Hopkins DR, Barette SL, et al. Relationship between repetitions and selected percentages of one repetition maximum: a comparison between untrained and trained males and females. J Strength Cond Res. 1990;4(2):47-54.
+68. Painter KB, Haff GG, Ramsey MW, et al. Strength gains: block versus daily undulating periodization weight training among track and field athletes. Int J Sports Physiol Perform. 2012;7(2):161-9.
+69. Peterson MD, Dodd DJ, Alvar BA, et al. Undulation training for development of hierarchical fitness and improved firefighter job performance. J Strength Cond Res. 2008;22(5):1683-95.
+70. Rhea MR, Phillips WT, Burkett LN, et al. A comparison of linear and daily undulating periodized programs with equated volume and intensity for local muscular endurance/Comparaison entre des programmes d'entrainement periodises, quotidiens et lineaires avec des intensites et des volumes egaux pour l'en- durance musculaire locale. J Strength Cond Res. 2003;17(1):82-7.
+71. Prestes J, Frollini AB, de Lima C, et al. Comparison between linear and daily undulating periodized resistance training to increase strength. J Strength Cond Res. 2009;23(9):2437-42.
+72. Miranda F, Simao R, Rhea M, et al. Effects of linear vs. daily undulatory periodized resistance training on maximal and sub- maximal strength gains. J Strength Cond Res. 2011;25(7):1824-30.
+73. Franchini E, Branco BM, Agostinho MF, et al. Influence of linear and undulating strength periodization on physical fitness,
+
+physiological, and performance responses to simulated judo matches. J Strength Cond Res. 2015;29(2):358-67.
+74. Hoffman JR, Wendell M, Cooper J, et al. Comparison between linear and nonlinear in-season training programs in freshman football players. J Strength Cond Res. 2003;17(3):561-5.
+75. American College of Sports Medicine. American College of Sports Medicine position stand. Progression models in resistance training for healthy adults. Med Sci Sports Exerc. 2009;41(3):687-708.
+76. Stone M, O'Bryant H, Schilling B, et al. Periodization: effects of manipulating volume and intensity. Part 2. Strength Cond J. 1999;21(3):54.
+77. Zourdos MC, Jo E, Khamoui AV, et al. Modified daily undu- lating periodization model produces greater performance than a traditional configuration in powerlifters. J Strength Cond Res. 2015;30(3):784-91.
+78. Klemp A, Dolan C, Quiles JM, et al. Volume-equated high-and low-repetition daily undulating programming strategies produce similar hypertrophy and strength adaptations. Appl Physiol Nutr Metab. 2016;41(999):1-7.
+79. Ahtiainen JP, Pakarinen A, Alen M, et al. Muscle hypertrophy, hormonal adaptations and strength development during strength training in strength-trained and untrained men. Eur J Appl Physiol. 2003;89(6):555-63.
+80. Moritani T. Neural factors versus hypertrophy in the time course of muscle strength gain. Am J Phys Med Rehabil. 1979;58(3):115-30.
+81. Mangine GT, Hoffman JR, Fukuda DH, et al. Improving muscle strength and size: the importance of training volume, intensity, and status. Kineziologija. 2015;47(2):131-8.
+82. Phillips SM. Short-term training: when do repeated bouts of resistance exercise become training? Can J Appl Physiol. 2000;25(3):185-93.
+83. Stone MH, Plisk SS, Stone ME, et al. Athletic performance development: volume load -1 set vs. multiple sets, training velocity and training variation. Strength Cond J. 1998;20(6):22-31.
+84. Fleck SJ. Periodized strength training: a critical review. J Strength Cond Res. 1999;13(1):82-9.
+85. Ha¨kkinen K, Pakarinen A, Komi PV, et al. Neuromuscular adaptations and hormone balance in strength athletes, physically active males and females during intensive strength training. J Biomech. 1989;22(10):1017.
+86. Ha¨kkinen K, Komi PV, Ale´n M, et al. EMG, muscle fibre and force production characteristics during a 1 year training period in elite weight-lifters. Eur J Appl Physiol Occup Physiol. 1987;56(4):419-27.
+87. McLester JR, Bishop E, Guilliams M. Comparison of 1 day and 3 days per week of equal-volume resistance training in experi- enced subjects. J Strength Cond Res. 2000;14(3):273-81.
+88. Ha¨kkinen K, Kallinen M. Distribution of strength training vol- ume into one or two daily sessions and neuromuscular adapta- tions in female athletes. Electromyogr Clin Neurophysiol. 1994;34(2):117-24.
+89. Raastad T, Kirketeig A, Wolf D, et al., editors. Powerlifters improved strength and muscular adaptations to a greater extent when equal total training volume was divided into 6 compared to 3 training sessions per week. In: 17th annual conference of the European College of Sport Science: Bruges; 2012.
+90. Lidor R, Tenenbaum G, Ziv G, et al. Achieving expertise in sport: deliberate practice, adaptation, and periodization of training. Kinesiol Rev. 2016;5(2):129-41.
+91. Newell A, Rosenbloom PS. Mechanisms of skill acquisition and the law of practice. Cognitive skills and their acquisition. Hillsdale: Lawrence Erlbaum Associates; 1981. p. 1-55.
+
+92. Schoenfeld BJ, Ratamess NA, Peterson MD, et al. Influence of resistance training frequency on muscular adaptations in well- trained men. J Strength Cond Res. 2015;29(7):1821-9.
+93. Candow DG, Burke DG. Effect of short-term equal-volume resistance training with different workout frequency on muscle mass and strength in untrained men and women. J Strength Cond Res. 2007;21(1):204-7.
+94. Krieger JW. Single versus multiple sets of resistance exercise: a meta-regression. J Strength Cond Res. 2009;23(6):1890-901.
+95. Rhea MR, Alvar BA, Ball SD, et al. Three sets of weight training superior to 1 set with equal intensity for eliciting strength. J Strength Cond Res. 2002;16(4):525-9.
+96. Haff GG. Quantifying workloads in resistance training: a brief review. Strength Cond J. 2010;10:31-40.
+97. Scott BR, Duthie GM, Thornton HR, et al. Training monitoring for resistance exercise: theory and applications. Sports Med. 2016;46(5):1-12.
+98. Schoenfeld BJ, Peterson MD, Ogborn D, et al. Effects of low-vs. high-load resistance training on muscle strength and hypertro- phy in well-trained men. J Strength Cond Res. 2015;29(10):2954-63.
+99. Schoenfeld BJ, Ratamess NA, Peterson MD, et al. Effects of different volume-equated resistance training loading strategies
+
+on muscular adaptations in well-trained men. J Strength Cond Res. 2014;28(10):2909-18.
+100. Lemeshow AR, Blum RE, Berlin JA, et al. Searching one or two databases was insufficient for meta-analysis of observational studies. J Clin Epidemiol. 2005;58(9):867-73.
+101. Linder SK, Kamath GR, Pratt GF, et al. Citation searches are more sensitive than keyword searches to identify studies using specific measurement instruments. J Clin Epidemiol. 2015;68(4):412-7.
+102. Papaioannou D, Sutton A, Carroll C, et al. Literature searching for social science systematic reviews: consideration of a range of search techniques. Health Info Libr J. 2010;27(2):114-22.
+103. Whiting P, Westwood M, Burke M, et al. Systematic reviews of test accuracy should search a range of databases to identify primary studies. J Clin Epidemiol. 2008;61(4):357. e1-10.
+104. Davies T, Orr R, Halaki M, et al. Effect of training leading to repetition failure on muscular strength: a systematic review and meta-analysis. Sports Med. 2016;46(4):487-502.
+105. Stewart LA, Tierney JF. To IPD or not to IPD? Advantages and disadvantages of systematic reviews using individual patient data. Eval Health Prof. 2002;25(1):76-97.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,226 @@
+European Journal of Sport Science, 2015	 Vol. 15, No. 1, 21-28, http://dx.doi.org/10.1080/17461391.2014.936325
+
+
+REVIEW ARTICLE
+
+
+Considerations for protein intake in managing weight loss in athletes
+
+
+CAOILEANN H. MURPHY1,2, AMY J. HECTOR1,2, & STUART M. PHILLIPS1,2
+1Department of Kinesiology, McMaster University, Hamilton, ON, Canada; 2Exercise Metabolism Research Group, McMaster University, Hamilton, ON, Canada
+
+
+Abstract
+A large body of evidence now shows that higher protein intakes (2-3 times the protein Recommended Dietary Allowance (RDA) of 0.8 g/kg/d) during periods of energy restriction can enhance fat-free mass (FFM) preservation, particularly when combined with exercise. The mechanisms underpinning the FFM-sparing effect of higher protein diets remain to be fully elucidated but may relate to the maintenance of the anabolic sensitivity of skeletal muscle to protein ingestion. From a practical point of view, athletes aiming to reduce fat mass and preserve FFM should be advised to consume protein intakes
+in the range of ~1.8-2.7 g kg-1 d-1 (or ~2.3-3.1 g kg-1 FFM) in combination with a moderate energy deficit (-500 kcal) and the performance of some form of resistance exercise. The target level of protein intake within this recommended range requires consideration of a number of case-specific factors including the athlete's body composition, habitual protein intake and broader nutrition goals. Athletes should focus on consuming high-quality protein sources, aiming to consume protein feedings evenly spaced throughout the day. Post-exercise consumption of 0.25-0.3 g protein meal-1 from protein sources with high leucine content and rapid digestion kinetics (i.e. whey protein) is recommended to optimise exercise-induced muscle protein synthesis. When protein is consumed as part of a mixed macronutrient meal and/or before bed slightly higher protein doses may be optimal.
+
+Keywords: Protein, weight loss, body composition, nutrition
+
+
+Introduction
+Weight loss is not an uncommon goal in athletes and is frequently motivated by factors relating to per- formance issues germane to the sport in which the athlete is engaged. More often than not, this involves loss of weight to enhance performance (i.e. improv- ing the ratio of body weight to strength, power or endurance) or for aesthetic reasons. Weight loss can be achieved by restricting energy intake, increasing the volume/intensity of training or, most frequently, a combination of both of these strategies. For many athletes, the desire for "weight loss" translates to the desire for fat loss, rather than the loss of lean tissue, which is due to the recognised role that skeletal muscle plays in sports performance. On the other hand, fat loss in some athletes may result in physio- logical benefits such as more effective thermoregula- tion, reduced energy cost or a greater power-to-mass ratio (O'Connor, Olds, & Maughan, 2007). In aesthetically oriented sports, such as bodybuilding, diving, gymnastics and figure skating, low body fat
+
+levels are often considered to enhance appearance and consequently confer advantage in competition (Sundgot-Borgen & Garthe, 2011). In many cases, optimising the fat-to-muscle ratio of lost weight during caloric imbalance is important, and this has been referred to as "high -quality" weight loss (Churchward-Venne, Murphy, Longland, & Phillips, 2013; Josse, Atkinson, Tarnopolsky, & Phillips, 2011; Phillips & Zemel, 2011). A growing body of evidence now shows that higher protein intakes during periods of energy restriction (ER) can enhance the retention of fat-free mass (FFM) (Helms, Zinn, Rowlands, & Brown, 2013; Krieger, Sitren, Daniels, & Langkamp-Henken, 2006; Wycherley, Moran, Clifton, Noakes, & Brinkworth, 2012), particularly when combined with exercise (Mettler, Mitchell, & Tipton, 2010), although studies specif- ically examining elite athletes are limited.
+The aims of this review are to examine some of the
+mechanisms underpinning the influence of higher protein intake on FFM preservation during ER.
+
+
+
+
+Correspondence: Stuart M. Phillips, Department of Kinesiology, McMaster University, 1280 Main St. West, Hamilton, ON L8S 4K1, Canada. E-mail: phillis@mcmaster.ca
+(c) 2014 European College of Sport Science
+
+22	C. H. Murphy et al.
+
+
+We also aim to explore the associated practical issues relevant to the athlete undergoing weight loss.
+
+Skeletal muscle protein turnover: regulation of muscle protein synthesis and muscle protein breakdown
+The maintenance of skeletal muscle mass is achieved with a net neutral balance between muscle protein synthesis (MPS) and muscle protein breakdown (MPB) (Rennie, Wackerhage, Spangenburg, & Booth, 2004). In the postprandial state, MPS is stimulated and exceeds MPB, resulting in a net positive protein balance; however, in the post-absorptive state, the rate of MPB exceeds the rate of MPS and results in a net negative protein balance. It is well established that MPS can be stimulated by protein ingestion and resistance exercise independently and synergistically (Churchward-Venne, Burd, & Phillips, 2012). A key protein in the regulation of MPS is the mammalian (mechanistic) target of rapamycin com- plex-1 (mTORC1). Upon provision of amino acids, especially leucine, the increase in the downstream phosphorylation of targets of mTORC1 [4E Binding Protein-1 (4EBP-1) and S6K1] ultimately leads to increased protein translation efficiency (Wullschleger, Loewith, & Hall, 2006). For further details on this pathway and its regulation, the reader is directed to several reviews (Drummond, Dreyer, Fry, Glynn, & Rasmussen, 2009; Kimball, 2014).
+
+Consequences of ER on changes in FFM
+MPS is an energetically expensive process (Browne & Proud, 2002). During ER, the availability of energy from dietary sources is limited, and therefore, the cell is forced to prioritise energy demands. Therefore, it is not unrealistic to expect that ER would result in a reduction in MPS. Pasiakos et al. (2010) demon- strated a 19% reduction in MPS as well as an alteration in the phosphorylation of 4EBP-1 in the post-absorptive state during a 10-day 20% energy deficit in healthy individuals, despite daily protein intake being almost twice the Recommended Dietary Allowance (RDA). The ER-induced reduction in MPS may suggest an adaptive mechanism to conserve energy. Consequently, if the rate of MPS is blunted, the balance between MPS and MPB may shift from a state of balanced protein turnover to negative protein balance, resulting in the loss of muscle mass. In fact,
+meta-analysis revealed that ~25% of the mass lost during weight loss in healthy individuals undergoing
+ER is FFM (Weinheimer, Sands, & Campbell, 2010). Few weight loss studies have been conducted in elite athletes (Garthe, Raastad, Refsnes, Koivisto, & Sundgot-Borgen, 2011). During weight loss in nor- mal weight individuals, it has been shown that FFM
+
+loss during the early ER phase can be more rapid and severe compared to the overweight/obese popu- lation, depending on the level of ER (Heymsfield et al., 2011). One explanation for the differences in weight loss patterns between overweight/obese and normal weight individuals appears to be the amount of stored body fat. For example, Elia, Stubbs, and Henry (1999) explained that subjects with low body fat during total starvation excrete twice the urinary nitrogen and use more energy from protein sources than those with higher body fat. Considering that elite athletes typically have lower body fat and participate in short-term weight loss plans, this population may be more vulnerable to FFM loss, and further research in this area is required.
+
+
+High protein diets and FFM preservation in ER: potential mechanisms
+Understanding the mechanisms affecting muscle protein turnover during weight loss would allow the design of more effective weight loss programmes for maintaining FFM. The current literature on protein intakes and weight loss in athletes is sparse and uses fairly extreme dietary comparisons. For example, Pasiakos et al. (2013) compared protein levels at the
+RDA (0.8 g kg-1 d-1), or two and three times higher than the RDA on FFM and MPS over a 21-day
+period at 40% energy deficit in healthy and over- weight volunteers. It was observed that subjects ingesting two or three times the RDA for protein retained significantly more FFM and lost more fat mass during ER. The authors also demonstrated that the sensitivity or the anabolic response to protein is only maintained during ER when protein levels higher than the RDA are consumed. For example, after consumption of a protein-containing mixed meal, the MPS response was maintained during ER only in those consuming two and three times the RDA, but was inhibited during ER for those con- suming the RDA. This diminished MPS response has also been demonstrated in states of disuse atrophy, where interestingly, the possibility of accel- erated MPB contributing to FFM loss has been ruled out (Phillips, Glover, & Rennie, 2009). Although there were no differences in the MPS responses and FFM retention between the two and three times RDA protein groups with the healthy/overweight population, considering the differences in body composition and physical activity in elite athletes, protein at an intake of close to three times RDA protein may prove to be beneficial, and more precise dose-response studies are necessary to determine the optimal dose of protein, which may be somewhere in the middle of these extreme dietary comparisons. In addition, there are other factors such as protein
+
+Considerations for protein intake in weight loss	23
+
+
+timing and quality (discussed later in this review) which can optimise the effects of protein quantity.
+  There are conflicting reports on the effects of ER on post-absorptive rates of MPS. While a 10-day (Pasiakos et al., 2010) and a 5-day (Areta et al., 2014) ER period showed decreased post-aborptive rates in MPS, after a 21-day period, there were no differences in the post-absorptive rates of MPS, regardless of dietary protein level (Pasiakos et al., 2013). Villareal, Smith, Shah, and Mittendorfer (2012) has also demonstrated a maintenance of post-absorptive MPS rate in subjects after 3 months on a weight loss diet, suggesting that the MPS response may adapt to more prolonged weight loss. Heymsfield et al. (2011) provide support for this theory by suggesting that weight loss should be viewed in phases instead of as a continuous process, whereby the early phase, lasting from days to a few weeks is characterised by rapid weight loss and is likely the phase where lean mass loss is most pronounced, while a plateau is reached as weight loss progresses. Such a model is suggestive of early phase adaptations and a new "steady-state" as weight loss progresses. Interestingly, the reduced post-absorptive rate of MPS following short-term ER is rescued by resistance exercise and protein ingestion (Areta et al., 2014), and these strategies could preserve FFM during short-term ER.
+  Increasing dietary protein intake during ER results in an increased expression of human vacuolar pro- tein sorting-34 (Vps34) mRNA, which is involved in amino acid sensing and stimulation of mTORC1 (Pasiakos et al., 2013). The increased markers of MPB in response to ER are reduced by feeding. For example, after consumption of a protein-containing mixed meal (480 kcal, 20 g protein, 8 g fat and 82 g carbohydrate), protein ubiquitylation and 26S pro- teasome activity were reduced during ER, regardless of whether the protein content of the diet was 0.8,
+1.6 or 2.4 g kg-1 d-1 (Carbone et al., 2013).
+However, it may not be the level of protein affecting
+postprandial Ubiquitin Proteasome Pathway (UPP) regulation, but rather the level of insulin, which would have been constant, following the consump- tion of a mixed meal containing 82 g of carbohyd- rate. Greenhaff et al. (2008) demonstrated that increasing insulin to 30 mU/L (equivalent to post- prandial levels) halved MPB without further inhibi- tion at higher insulin doses. Additionally, there were no further increases in the MPS rate above 5 mU/L insulin. At the same time, the authors observed a decrease in the expression of ubiquitin ligase MAFbx and the C2 proteasome subunits with insulin levels similar to what is seen in the postprandial period. Increased amino acid availability augmented MPS beyond 5 mU/l insulin with no change in MPB.
+
+
+  The mechanistic advantage of high-protein diets to spare FFM during ER can be explained by considering the roles protein plays in stimulating MPS by maintaining muscle's anabolic sensitivity as evidenced by both the increased Vps34 (amino acid sensing) expression and retained rates of postpran- dial MPS during ER with protein levels two and three times the RDA. Furthermore, it appears that fluctuations in MPS are the main determinants of FFM, as rates of MPS fluctuate 10 to 20-fold more than rates of MPB between post-absorptive and postprandial states (Tang & Phillips, 2009).
+
+Practical aspects for athletes: how much protein?
+The optimal intake of protein for athletes is difficult to define, however, general guidelines state that, under conditions of energy balance, protein recom- mendations for endurance and strength trained
+athletes range from 1.2 to 1.7 g kg-1 d-1 (Rodriguez, DiMarco, & Langley, 2009). What is less clear is the
+optimal protein intake for athletes during periods of ER, although a number of researchers have high- lighted that these requirements likely increase while athletes are consuming hypocaloric diets (Helms et al., 2013; Mettler et al., 2010; Phillips & Van Loon, 2011). In a recent review, Helms and collea- gues (2013) evaluated the effects of dietary protein intake on body composition in energy-restricted, resistance-trained, lean athletes. However, highlight- ing the lack of available research in this area, of the six studies included in the review only two actually compared well-matched groups of athletes consum- ing different protein intakes (Mettler et al., 2010; Walberg et al., 1988). Mettler and colleagues (2010) reported that consuming protein at the level of
+2.3 g kg-1 d-1 (~2.7 g kg-1 FFM) during a two- week period of marked ER (40% reduction in energy
+intake) resulted in a relative preservation of FFM and the loss of ~1.2 kg fat mass in resistance-trained athletes. In contrast, a control group consuming protein intakes of 1 g kg-1 d-1 (~1.2 g kg-1 FFM) not only lost similar body fat but also experi-
+enced a significant reduction in FFM. In amateur body builders, Walberg and colleagues (1988) showed that while protein intakes of ~0.8 g kg-1 d-1 (0.9 g kg-1 FFM) resulted in negative nitrogen balance during
+1 week of severe ER (~50% reduction in energy intake), positive nitrogen balance was achieved when higher protein intakes of ~1.6 g kg-1 d-1 (1.9 g kg-1 FFM) were consumed. Supporting the notion that FFM loss can be attenuated by higher dietary protein intake, the mean FFM loss in this study was 2.7 kg and
+1.4 kg, in the lower protein and higher protein groups, respectively. Although the difference between groups did not reach statistical significance the authors noted
+
+24	C. H. Murphy et al.
+
+
+that this may have related to the large variability in body composition between participants.
+  The changes in body composition experienced by athletes undergoing ER may be affected by a number of other factors including the relative energy deficit during ER (Garthe et al., 2011) and initial body fat levels (Elia et al., 1999). Also relevant is the mode(s) of exercise training undertaken by the athlete. It is likely that whole body resistance exercise, as a fundamentally anabolic stimulus, is the most effect- ive in promoting FFM retention. Thus it is possible that these factors may interact with protein intake and influence ideal protein recommendations in a case-specific manner. Indeed, it has been postulated that protein intake recommendations should be higher for athletes attempting to lose body fat who are leaner and/or are undergoing a severe energy deficit (Helms et al., 2013); however, we propose that there is currently no conclusive evidence to support this hypothesis and studies are required to examine optimal protein intakes during caloric restriction in high-level athletes under a range of different conditions (i.e. severe vs. moderate energy deficit, higher vs. lower initial body fat and resistance vs. endurance training).
+  In the absence of sufficient data necessary to make a truly evidence-based recommendation, protein intakes of ~1.8 - 2.7 g kg-1 d-1 (or ~2.3 - 3.1 g kg-1 FFM) have been proposed, although intakes towards
+the higher end of this range are largely speculative (Helms et al., 2013; Phillips & Van Loon, 2011). Nevertheless, from a practical point of view, intakes towards the higher end of the recommended range may be appropriate in the case of athletes consuming large preweight loss protein intakes. The body adapts to relatively high protein loads by increasing the capacity for amino acid (or at least leucine) catabolism (Millward, 2001). Thus, it is likely that the habitual consumption of a high-protein diet means the athlete is "forced" to continue consuming greater protein intakes so that fed-state gains can balance fasted-state losses. Considering that very high-protein intakes in
+the range of ~2.4-3.2 g kg-1 d-1 are frequently reported in some groups of athletes (Phillips, 2004),
+avoiding a sudden reduction in these levels, especially when undertaking a phase of ER, would likely be advisable to attenuate FFM losses. Equally, the "more is better approach" can become problematic as unne- cessarily high-protein intakes could potentially inter- fere with their ability to achieve adequate intakes of other macro-nutrients within a tight energy budget,
+possibly resulting in impaired training adaptations and/or limiting the ability to train effectively.
+  Few studies have been conducted to examine whether athletes are self-selecting protein intakes within the recommended range during periods of ER. Umeda et al. (2004) reported that over a 20-day
+
+period of weight loss prior to competition male judoists progressively decreased their protein intake, along with caloric intake, such that protein intakes
+declined from ~1.5 g kg-1 d-1 at baseline to ~1 g kg-1 d-1 four days before competition. In another study, body builders gradually decreased their con-
+sumption of all three macro-nutrients over 11 weeks prior to competition (Maestu, Eliakim, Jurimae, Valter, & Jurimae, 2010); however, the magnitude of the reduction in protein intake was less (from 2.7 to 2.5 g kg-1 d-1) compared to the findings of
+Umeda and colleagues. The relative maintenance of
+protein intake reported by Maestu et al. (2010) was likely facilitated by the longer time frame allocated for body mass reduction (11 weeks vs. 20 days) and consequently necessitated a reduction in energy intake which was considerably less severe.
+  Clearly, if a higher protein intake (1.8 - 2.3 g kg-1 d-1) is recommended to preserve lean mass during ER,
+this will necessitate a reduction in at least one other macro-nutrient. Whether it is more appropriate for athletes to reduce fat and/or carbohydrate intake is currently hotly debated. It has been reported that low- carbohydrate diets (= 35-40% energy from carbohyd-
+rate) enhance fat and body mass loss, although they were
+also associated with greater FFM loss unless protein was higher (Krieger et al., 2006). The vast majority of the available literature on carbohydrate restriction and fat loss comes from studies conducted in overweight and obese populations. Consequently, concern has been raised regarding the influence of low-carbohydrate diets on sports performance and training ability in athletes. Paoli et al. (2012) recently reported no decrements in explosive strength performance in elite male gymnasts after 30 days of a high-protein, low-carbohydrate
+(~22.0 g/d) hypocaloric diet combined with normal training. On the other hand, Walberg et al. (1988)
+reported a reduction in isometric quadriceps endur- ance in bodybuilders consuming lower carbohydrate intakes of ~2.3 g kg-1 d-1 during 1 week of ER, whereas a group consuming slightly higher carbohyd- rate intakes of ~3.2 g kg-1 d-1 did not experience a decrement. In endurance athletes, a number of stud- ies have reported no impairment in endurance-based performance tasks, following short-term (1-2 weeks) high-fat, low-carbohydrate (~2.5 g kg-1 d-1) diets designed to achieve energy balance (Yeo, Carey, Burke, Spriet, & Hawley, 2011), although decrements in high-intensity sprint performance have been demonstrated (Havemann et al., 2006). Importantly, the responses of athletes to low-carbohydrate intakes appear to be highly variable and can impair training
+capacity in some athletes (Yeo et al., 2008). Thus, it appears reasonable to suggest that the decision to reduce carbohydrate and/or fat intake to facilitate increased protein consumption should be made on a case-by-case basis with consideration of the athlete's
+
+Considerations for protein intake in weight loss	25
+
+
+sport-specific training needs and personal tolerance, along with the amount of time available to achieve weight loss.
+
+Protein quality
+Another key factor to consider when providing advice to an athlete desiring to achieve high-quality weight loss is the quality of the protein in the diet. Until recently, the Food and Agricultural Organisa- tion (FAO)/World Health Organisation (WHO) recommended the use of the Protein Digestibility Corrected Amino Acid Score (PDCAAS) method to evaluate protein quality. The PDCAAS of a food protein is determined from the limiting amino acid score (i.e. the content of the first-limiting essential amino acid - EAA - of the target food protein as a percentage of the content of the same amino acid in a reference pattern of EAA) corrected for the digestibility of the target food protein. Although this method was widely accepted, it has been criticised in the scientific community for a variety of reasons (Schaafsma, 2000). A controversial con- cern related to use of PDCAAS was its truncation at
+1.0 even if proteins had values exceeding this score. It was argued that truncation removes any nutri- tional differences between higher-quality protein foods such as milk protein and soy since both have a PDCAAS score of 1.0 even though they have true PDCAAS scores of 1.21 and 1.04, respectively (Phillips, Tang, & Moore, 2009). In order to address some of these shortcomings, a report published by the FAO Expert Consultation in 2013 has recom- mended that the Digestible Indispensable Amino Acid Score (DIAAS) should replace the PDCAAS as the preferred method of measuring protein quality. According to the DIAAS method values above 100% are not truncated for individual foods consumed as part of a mixed diet and amino acid digestibility is determined at the terminal ileum, which more accurately reflects the extent of amino acid absorp- tion. Importantly, and in contrast to the PDCAAS method, dietary amino acids are treated as individual nutrients and digestibility correction factors specific to each individual amino acid are used (where available) rather than a single value for crude protein digestibility (Schaafsma, 2000). While the FAO Expert Consultation has highlighted that further research is needed to ensure full implementation and adoption of DIAAS, this method has demon- strated greater variation in protein quality between plant and animal protein sources. For example, while milk and soy protein share the same PDCAAS value, they differ in DIAAS value: milk at 122 and soy at 94.
+  A role for protein quality (encompassing amino acid composition, digestibility and availability) in
+
+
+muscle protein turnover becomes apparent when we consider that an increase in plasma amino acid concentrations is a potent stimulator of MPS and this effect is primarily attributable to the EAA (Tang & Phillips, 2009). It follows that emphasis on higher- quality protein sources may be advantageous in the preservation of muscle mass under conditions of ER.
+
+Protein distribution
+A rationale for considering protein distribution throughout the day comes from acute studies show- ing that ~8-10 g of EAA is sufficient to induce a maximal stimulation of MPS both at rest and after resistance exercise (Cuthbertson et al., 2005; Moore et al., 2009). From a practical standpoint, 8-10 g of EAA translates into approximately 20-25 g of high- quality protein, or ~0.25-0.3 g kg-1 d-1. The protein feeding-induced enhancement of MPS
+returns to baseline ~2-3 hours after amino acid provision, even in the presence of continuing amino
+acid availability (Atherton et al., 2010). Thus, it has been suggested that athletes aiming to preserve lean mass during ER may benefit from consuming 4-5 evenly spaced feedings containing 20-25 g of high- quality protein throughout the day. Providing some support for this hypothesis, it was observed that both whole body (Moore et al., 2012) and muscle (Areta et al., 2013) protein synthesis tended to be greater
+when 80 g of whey protein was consumed as 4 g × 20 g doses every 3 h compared to the same amount consumed as either two large (40 g) doses every 6 h, or eight small (10 g) doses every 1.5 h over the 12 h recovery period following a session of resistance exercise. However, there are a number of important points to consider when applying this concept to the energy-restricting athlete. First, the dose-response studies conducted to determine the quantity of protein required to maximally stimulate MPS were conducted in weight-stable participants consuming a diet designed to ensure energy balance in the days leading up to the trial. Consequently, how this value may be altered in athletes undergoing weight loss and prolonged ER remains unknown. Second, pro- tein or free amino acids were ingested in isolation in these studies, typically in liquid form. In reality, protein is often in a solid (more slowly digested) form and is often co-ingested with carbohydrate and fat during meals, which would generally slow amino acid absorption and subsequently the profile of aminoacidemia (Burke et al., 2012). Studies have shown that the achievement of a rapid and pro- nounced increase in plasma EAA concentration, particularly leucine, is associated with increased rates of MPS compared to a slow rate of appearance of these amino acids (West et al., 2011). Therefore, it would appear that when protein is consumed as part
+
+26	C. H. Murphy et al.
+
+
+of mixed meal quantities greater than 20 g per meal may be necessary to achieve the minimal threshold for blood leucine concentration required to maxim- ally stimulate MPS. Thus, in the post-exercise period, athletes aiming to preserve FFM would likely
+benefit from the consumption ~20 g of protein from source with high leucine content and rapid digestion
+kinetics in order to optimise the exercise-induced MPS response. A recent study characterising the plasma amino acid responses to the ingestion of 20 g of protein from a range of commonly consumed protein-rich foods reported that skimmed milk pro- duced a significantly higher and faster peak leucine concentration than all other foods/liquids (soy bev- erage, beef steak, egg and liquid meal supplement; Burke et al., 2012). Peak values for EAAs and leucine after the consumption of a soy beverage tended to be lower than for the other protein sources, perhaps reflecting the lower leucine content of soy. In addition, ingestion of liquid forms of protein achieved peak plasma amino acid concentra- tions twice as quickly as solid protein-rich foods, suggesting that post-exercise consumption of liquid protein sources may be preferable, although more research is needed to determine the physiological relevance of food form in the regulation of MPS.
+  Unfortunately, there are few data available on the meal-to-meal protein intakes of energy-restricting athletes. Erdman, Tunnicliffe, Lun, and Reimer (2013) recently assessed the distribution of macro- nutrient intake of 324 Canadian athletes competing at national or international levels. Although the athletes in this study were consuming total protein
+intakes (~1.9 g kg-1 d-1) exceeding those typically recommended for athletes in energy balance, meals/
+snacks containing at least 20 g of protein were only consumed three times per day on average. A potentially important and perhaps underappreciated opportunity to consume a protein-rich meal is before bed. It has recently been demonstrated that the ingestion of a larger protein dose (40 g of casein) immediately before bed resulted in a greater stimu- lation of MPS overnight (Res et al., 2012), presum- ably offsetting the FFM losses that would be expected to occur during the 8-10-hour fast that typically accompanies sleep. Such a pre-sleep meal would likely also facilitate recovery as it would allow repair/remodelling of proteins during the overnight period. Considering the prolonged duration of the overnight fast, larger protein doses such as those used in the study by Res and colleagues may be optimal in the pre-bed meal. In contrast to these recommendations, the athletes studied by Erdman
+et al. (2013) reported protein intakes of ~6-8 g in the evening snack. While the latter study did not
+specifically investigate athletes undergoing ER, these findings indicate that athletes may have suboptimal
+
+practices when it comes to the pattern of daily protein consumption.
+
+
+Summary
+Athletes aiming to achieve high-quality weight loss should be advised to consume higher protein intakes
+in the range of ~1.8-2.7 g kg-1 d-1 (or ~2.3-3.1 g kg-1 FFM) in combination with a moderate energy deficit (-500 kcal) and the performance of resistance exercise. The target level of protein intake within this
+recommended range requires consideration of a number of case-specific factors including the athlete's body composition, training regimen, habitual protein intake, personal tolerance and broader nutrition goals. A reduction in dietary fat (to ~20% of total energy intake) and carbohydrate may allow athletes to achieve higher protein intakes without the excessive
+restriction of any one macro-nutrient which may adversely affect health and/or performance. Athletes should be advised to focus on consuming higher- quality protein sources, aiming to consume 4-5 protein feedings evenly spaced throughout the day. Post-exercise consumption ~0.25-0.3g/kg of protein from source with high leucine content and rapid
+digestion kinetics (i.e. whey protein or skimmed milk) is recommended to optimise the exercise- induced MPS response. When protein is consumed as part of a mixed macro-nutrient meal and/or before bed slightly higher protein doses may be preferable.
+
+References
+Areta, J. L., Burke, L. M., Camera, D. M., West, D. W., Crawshay, S., Moore, D. R., ... Coffey, V. G. (2014). Reduced resting skeletal muscle protein synthesis is rescued by resistance exercise and protein ingestion following short-term energy deficit. American Journal of Physiology: Endocrinology and Meta- bolism, 306, E989-E997. Retrieved from http://www.ncbi.nlm. nih.gov/pubmed/24595305
+Areta, J. L., Burke, L. M., Ross, M. L., Camera, D. M., West, D. W., Broad, E. M., ... Coffey, V. G. (2013). Timing and distribution of protein ingestion during prolonged recovery from resistance exercise alters myofibrillar protein synthesis. Journal of Physiology, 591, 2319-2331. doi:10.1113/jphysiol.
+2012.244897
+Atherton, P. J., Etheridge, T., Watt, P. W., Wilkinson, D., Selby, A., Rankin, D., ... Rennie, M. J. (2010). Muscle full effect after oral protein: Time-dependent concordance and discordance between human muscle protein synthesis and mTORC1 signal- ing. American Journal of Clinical Nutrition, 92, 1080-1088. doi:10.3945/ajcn.2010.29819
+Browne, G. J., & Proud, C. G. (2002). Regulation of peptide-chain elongation in mammalian cells. European Journal of Biochemistry, 269, 5360-5368. Retrieved from http://www.ncbi.nlm.nih.gov/ pubmed/?term=Browne%2C+G.+J.%2C+%26+Proud%2C+C.
++G.+(2002) doi:10.1046/j.1432-1033.2002.03290.x
+Burke, L. M., Winter, J. A., Cameron-Smith, D., Enslen, M., Farnfield, M., & Decombaz, J. (2012). Effect of intake of different dietary protein sources on plasma amino acid profiles at rest and after exercise. International Journal of Sport Nutrition
+
+Considerations for protein intake in weight loss	27
+
+
+and Exercise Metabolism, 22, 452-462. Retrieved from http:// www.ncbi.nlm.nih.gov/pubmed/23212318
+Carbone, J. W., Margolis, L. M., McClung, J. P., Cao, J. J.,
+Murphy, N. E., Sauter, E. R., ... Pasiakos, S. M. (2013). Effects of energy deficit, dietary protein, and feeding on intracellular regulators of skeletal muscle proteolysis. FASEB Journal, 27, 5104-5111. doi:10.1096/fj.13-239228
+Churchward-Venne, T. A., Burd, N. A., & Phillips, S. M. (2012). Nutritional regulation of muscle protein synthesis with resist- ance exercise: Strategies to enhance anabolism. Nutrition and Metabolism, 9(1), 40. doi:10.1186/1743-7075-9-40
+Churchward-Venne, T. A., Murphy, C. H., Longland, T. M., & Phillips, S. M. (2013). Role of protein and amino acids in promoting lean mass accretion with resistance exercise and attenuating lean mass loss during energy deficit in humans. Amino Acids, 45, 231-240. doi:10.1007/s00726-013-1506-0
+Cuthbertson, D., Smith, K., Babraj, J., Leese, G., Waddell, T., Atherton, P., ... Rennie, M. J. (2005). Anabolic signaling deficits underlie amino acid resistance of wasting, aging muscle. FASEB Journal, 19, 422-424. doi:10.1096/fj.04-2640fje
+Drummond, M. J., Dreyer, H. C., Fry, C. S., Glynn, E. L., & Rasmussen, B. B. (2009). Nutritional and contractile regulation of human skeletal muscle protein synthesis and mTORC1 signal- ing. Journal of Applied Physiology, 106, 1374-1384. doi:10.1152/ japplphysiol.91397.2008
+Elia, M., Stubbs, R. J., & Henry, C. J. (1999). Differences in fat, carbohydrate, and protein metabolism between lean and obese subjects undergoing total starvation. Obesity Research, 7, 597-604. doi:10.1002/j.1550-8528.1999.tb00720.x
+Erdman, K. A., Tunnicliffe, J., Lun, V. M., & Reimer, R. A. (2013). Eating patterns and composition of meals and snacks in elite Canadian athletes. International Journal of Sport Nutrition and Exercise Metabolism, 23, 210-219. Retrieved from http:// www.ncbi.nlm.nih.gov/pubmed/?term=Erdman%2C+K.+A.% 2C+Tunnicliffe%2C+J.%2C+Lun%2C+V.+M.%2C+%26
++Reimer%2C+R.+A.+(2013)
+Garthe, I., Raastad, T., Refsnes, P. E., Koivisto, A., & Sundgot- Borgen, J. (2011). Effect of two different weight-loss rates on body composition and strength and power-related performance in elite athletes. International Journal of Sport Nutrition and Exercise Meta- bolism, 21, 97-104. Retrieved from http://journals.humankinetics. com.libaccess.lib.mcmaster.ca/AcuCustom/Sitename/Documents/
+DocumentItem/02-Garthe_J3212%20IJSNEM_2010_0037%20 97-104.pdf
+Greenhaff, P. L., Karagounis, L. G., Peirce, N., Simpson, E. J., Hazell, M., Layfield, R., ... Rennie, M. J. (2008). Disassoci- ation between the effects of amino acids and insulin on signaling, ubiquitin ligases, and protein turnover in human muscle. American Journal of Physiology: Endocrinology and Metabolism, 295, 595-604. doi:10.1152/ajpendo.90411.2008
+Havemann, L., West, S. J., Goedecke, J. H., Macdonald, I. A., St Clair Gibson, A., Noakes, T. D., & Lambert, E. V. (2006). Fat adaptation followed by carbohydrate loading compromises high-intensity sprint performance. Journal of Applied Physiology, 100, 194-202. doi:10.1152/japplphysiol.00813.2005
+Helms, E. R., Zinn, C., Rowlands, D. S., & Brown, S. R. (2013). A
+systematic review of dietary protein during caloric restriction in resistance trained lean athletes: A case for higher intakes. Interna- tional Journal of Sport Nutrition and Exercise Metabolism. Advance online publication. Retrieved from http://journals.humankinetics. com/AcuCustom/Sitename/Documents/DocumentItem/Helms_ ijsnem_2013_0054-in%20press.pdf
+Heymsfield, S. B., Thomas, D., Nguyen, A. M., Peng, J. Z., Martin, C., Shen, W., ... Muller, M. J. (2011). Voluntary weight loss: Systematic review of early phase body composition changes. Obesity Reviews, 12, 348-361. doi:10.1111/j.1467- 789X.2010.00767.x
+
+
+Josse, A. R., Atkinson, S. A., Tarnopolsky, M. A., & Phillips, S. M. (2011). Increased consumption of dairy foods and protein during diet- and exercise-induced weight loss promotes fat mass loss and lean mass gain in overweight and obese premeno- pausal women. Journal of Nutrition, 141, 1626-1634. doi:10.3945/ jn.111.141028
+Kimball, S. R. (2014). Integration of signals generated by nutrients, hormones, and exercise in skeletal muscle. American Journal of Clinical Nutrition, 99, 237-242. doi:10.3945/ajcn.113.
+068387
+Krieger, J. W., Sitren, H. S., Daniels, M. J., & Langkamp- Henken, B. (2006). Effects of variation in protein and carbo- hydrate intake on body mass and composition during energy restriction: A meta-regression. American Journal of Clinical Nutrition, 83, 260-274. Retrieved from http://www.ncbi.nlm. nih.gov/pubmed/?term=Effects+of+variation+in+protein+and
++carbohydrate+intake+on+body+mass+and+composition+duri ng+energy+restriction%3A+a+meta-regression
+Maestu, J., Eliakim, A., Jurimae, J., Valter, I., & Jurimae, T.
+(2010). Anabolic and catabolic hormones and energy balance of the male bodybuilders during the preparation for the competition. Journal of Strength and Conditioning Research, 24, 1074-1081. doi:10.1519/JSC.0b013e3181cb6fd3
+Mettler, S., Mitchell, N., & Tipton, K. D. (2010). Increased protein intake reduces lean body mass loss during weight loss in athletes. Medicine and Science in Sports and Exercise, 42, 326-
+337. doi:10.1249/MSS.0b013e3181b2ef8e
+Millward, D. J. (2001). Protein and amino acid requirements of adults: Current controversies. Canadian Journal of Applied Physi- ology, 26, 130-140. Retrieved from http://www.ncbi.nlm.nih.gov/ pubmed/?term=Millward%2C+D.+J.+(2001).+Protein+and
++amino+acid+requirements+of+adults%3A+current+controver sies doi:10.1139/h2001-048
+Moore, D. R., Areta, J., Coffey, V. G., Stellingwerff, T., Phillips,
+S. M., Burke, L. M., ... Hawley, J. A. (2012). Daytime pattern of post-exercise protein intake affects whole-body protein turnover in resistance-trained males. Nutrition and Metabolism, 9(1), 91. doi:10.1186/1743-7075-9-91
+Moore, D. R., Robinson, M. J., Fry, J. L., Tang, J. E., Glover, E. I., Wilkinson, S. B., ... Phillips, S. M. (2009). Ingested protein dose response of muscle and albumin protein synthesis after resistance exercise in young men. American Journal of Clinical Nutrition, 89, 161-168. doi:10.3945/ajcn.2008.26401
+O'Connor, H., Olds, T., & Maughan, R. J. (2007). Physique and
+performance for track and field events. Journal of Sports Sciences, 25, 49-60. doi:10.1080/02640410701607296
+Paoli, A., Grimaldi, K., D'Agostino, D., Cenci, L., Moro, T.,
+Bianco, A., & Palma, A. (2012). Ketogenic diet does not affect strength performance in elite artistic gymnasts. Journal of the International Society of Sports Nutrition, 9(1), 34. doi:10.1186/ 1550-2783-9-34
+Pasiakos, S. M., Cao, J. J., Margolis, L. M., Sauter, E. R.,
+Whigham, L. D., McClung, J. P., ... Young, A. J. (2013). Effects of high-protein diets on fat-free mass and muscle protein synthesis following weight loss: A randomized con- trolled trial. FASEB Journal, 27, 3837-3847. doi:10.1096/fj.13- 230227
+Pasiakos, S. M., Vislocky, L. M., Carbone, J. W., Altieri, N., Konopelski, K., Freake, H. C., ... Rodriguez, N. R. (2010). Acute energy deprivation affects skeletal muscle protein synthesis and associated intracellular signaling proteins in physically active adults. Journal of Nutrition, 140, 745-751. doi:10.3945/jn.109. 118372
+Phillips, S. M. (2004). Protein requirements and supplementation in strength sports. Nutrition, 20, 689-695. doi:10.1016/j.nut. 2004.04.009
+
+28	C. H. Murphy et al.
+
+
+Phillips, S. M., Glover, E. I., & Rennie, M. J. (2009). Alterations of protein turnover underlying disuse atrophy in human skeletal muscle. Journal of Applied Physiology, 107, 645-654. doi:10.1152/japplphysiol.00452.2009
+Phillips, S. M., Tang, J. E., & Moore, D. R. (2009). The role of milk- and soy-based protein in support of muscle protein synthesis and muscle protein accretion in young and elderly persons. Journal of the American College of Nutrition, 28, 343-354. Retrieved from http://www.ncbi.nlm.nih.gov/pubmed/?term=The+role+of
++milk-+and+soy-based+protein+in+support+of+muscle+protein
++synthesis+and+muscle+protein+accretion+in+young+and+elde rly+persons
+Phillips, S. M., & Van Loon, L. J. (2011). Dietary protein for athletes: From requirements to optimum adaptation. Journal of Sports Sciences, 29, 29-38. doi:10.1080/02640414.2011.619204
+Phillips, S. M., & Zemel, M. B. (2011). Effect of protein, dairy components and energy balance in optimizing body composi- tion. Nestle Nutrition Institution Workshop Series, 69, 97-108. doi:10.1159/000329288
+Rennie, M. J., Wackerhage, H., Spangenburg, E. E., & Booth, F. W. (2004). Control of the size of the human muscle mass. Annual Review of Physiology, 66, 799-828. doi:10.1146/annurev. physiol.66.052102.134444
+Res, P. T., Groen, B., Pennings, B., Beelen, M., Wallis, G. A., Gijsen, A. P., ... Van Loon, L. J. (2012). Protein ingestion before sleep improves postexercise overnight recovery. Medicine and Science in Sports and Exercise, 44, 1560-1569. doi:10.1249/ MSS.0b013e31824cc363
+Rodriguez, N. R., DiMarco, N. M., & Langley, S. (2009). Position of the American dietetic association, dietitians of Canada, and the American college of sports medicine: Nutrition and athletic
+performance. Journal of the American Dietetic Association, 109, 509-527. Retrieved from http://www.dietitians.ca/downloadable-- content/public/noap-position-paper.aspx
+Schaafsma, G. (2000). The protein digestibility-corrected amino acid score. Journal of Nutrition, 130, 1865-1867. Retrieved from http://www.ncbi.nlm.nih.gov/pubmed/10867064
+Sundgot-Borgen, J., & Garthe, I. (2011). Elite athletes in aesthetic and Olympic weight-class sports and the challenge of body weight and body compositions. Journal of Sports Sciences, 29, 101-114. doi:10.1080/02640414.2011.565783
+Tang, J. E., & Phillips, S. M. (2009). Maximizing muscle protein anabolism: The role of protein quality. Current Opinion in Clinical Nutrition and Metabolic Care, 12(1), 66-71. doi:10.1097/ MCO.0b013e32831cef75
+
+Umeda, T., Nakaji, S., Shimoyama, T., Yamamoto, Y., Totsuka, M., & Sugawara, K. (2004). Adverse effects of energy restric- tion on myogenic enzymes in judoists. Journal of Sports Sciences, 22, 329-338. doi:10.1080/0264041031000140446
+Villareal, D. T., Smith, G. I., Shah, K., & Mittendorfer, B. (2012). Effect of weight loss on the rate of muscle protein synthesis during fasted and fed conditions in obese older adults. Obesity (Silver Spring), 20, 1780-1786. doi:10.1038/ oby.2011.280
+Walberg, J. L., Leidy, M. K., Sturgill, D. J., Hinkle, D. E., Ritchey, S. J., & Sebolt, D. R. (1988). Macronutrient content of a hypoenergy diet affects nitrogen retention and muscle function in weight lifters. International Journal of Sports Medi-
+cine, 9, 261-266. doi:10.1055/s-2007-1025018
+Weinheimer, E. M., Sands, L. P., & Campbell, W. W. (2010). A systematic review of the separate and combined effects of energy restriction and exercise on fat-free mass in middle- aged and older adults: Implications for sarcopenic obesity. Nutrition Reviews, 68, 375-388. doi:10.1111/j.1753-4887.2010. 00298.x
+West, D. W., Burd, N. A., Coffey, V. G., Baker, S. K., Burke,
+L. M., Hawley, J. A., ... Phillips, S. M. (2011). Rapid aminoacidemia enhances myofibrillar protein synthesis and anabolic intramuscular signaling responses after resistance exer- cise. American Journal of Clinical Nutrition, 94, 795-803. doi:10.3945/ajcn.111.013722
+Wullschleger, S., Loewith, R., & Hall, M. N. (2006). TOR signaling in growth and metabolism. Cell, 124, 471-484. doi:10.1016/j.cell.2006.01.016
+Wycherley, T. P., Moran, L. J., Clifton, P. M., Noakes, M., & Brinkworth, G. D. (2012). Effects of energy-restricted high- protein, low-fat compared with standard-protein, low-fat diets: A meta-analysis of randomized controlled trials. American Journal of Clinical Nutrition, 96, 1281-1298. doi:10.3945/ ajcn.112.044321
+Yeo, W. K., Paton, C. D., Garnham, A. P., Burke, L. M., Carey,
+A. L., & Hawley, J. A. (2008). Skeletal muscle adaptation and performance responses to once a day versus twice every second day endurance training regimens. Journal of Applied Physiology, 150, 1462-1470. doi:10.1152/japplphysiol.90882.2008
+Yeo, W. K., Carey, A. L., Burke, L., Spriet, L. L., & Hawley, J. A. (2011). Fat adaptation in well-trained athletes: Effects on cell metabolism. Applied Physiology Nutrition and Metabolism, 36(1), 12-22. doi:10.1139/h10-089

@@ -1,0 +1,345 @@
+
+
+Effects of anti-obesity drugs, diet, and exercise on weight-loss maintenance after a very-low-calorie diet or low-calorie diet:
+a systematic review and meta-analysis of randomized controlled trials1-3
+Kari Johansson, Martin Neovius, and Erik Hemmingsson
+
+
+ABSTRACT
+Background: Weight-loss maintenance remains a major challenge in obesity treatment.
+Objective: The objective was to evaluate the effects of anti-obesity drugs, diet, or exercise on weight-loss maintenance after an ini- tial very-low-calorie diet (VLCD)/low-calorie diet (LCD) period (,1000 kcal/d).
+Design: We conducted a systematic review by using MEDLINE, the Cochrane Controlled Trial Register, and EMBASE from January 1981 to February 2013. We included randomized controlled trials that evaluated weight-loss maintenance strategies after a VLCD/ LCD period. Two authors performed independent data extraction by using a predefined data template. All pooled analyses were based on random-effects models.
+Results: Twenty studies with a total of 27 intervention arms and 3017 participants were included with the following treatment categories: anti-obesity drugs (3 arms; n = 658), meal replacements (4 arms; n = 322), high-protein diets (6 arms; n = 865), dietary supplements (6 arms; n = 261), other diets (3 arms; n = 564), and exercise (5 arms; n = 347). During the VLCD/LCD period, the pooled mean weight change was 212.3 kg (median duration: 8 wk; range 3-16 wk). Compared with controls, anti-obesity drugs improved weight-loss maintenance by 3.5 kg [95% CI: 1.5, 5.5 kg; median duration: 18
+mo (12-36 mo)], meal replacements by 3.9 kg [95% CI: 2.8, 5.0 kg; median duration: 12 mo (10-26 mo)], and high-protein diets by 1.5 kg [95% CI: 0.8, 2.1 kg; median duration: 5 mo (3-12 mo)]. Exercise
+[0.8 kg; 95% CI: 21.2, 2.8 kg; median duration: 10 mo (6-12 mo)]
+and dietary supplements [0.0 kg; 95% CI: 21.4, 1.4 kg; median duration: 3 mo (3-14 mo)] did not significantly improve weight-loss maintenance compared with control.
+Conclusion: Anti-obesity drugs, meal replacements, and high- protein diets were associated with improved weight-loss maintenance after a VLCD/LCD period, whereas no significant improvements were seen for dietary supplements and exercise.  Am J Clin Nutr 2014;99:14-23.
+
+
+INTRODUCTION
+  Treatment with a very-low-calorie diet (VLCD; ,800 kcal/d) or low-calorie diet (LCD; ,1200 kcal/d) is associated with substantial initial weight loss, but also greater weight regain compared with weight loss achieved through a more moderate restriction in energy intake (1, 2). Maintaining a large weight
+
+loss requires substantial behavioral efforts, especially when non- bariatric surgical methods are used (3, 4).
+  Effects of different maintenance strategies after a VLCD have been tested in randomized trials, such as anti-obesity drugs (5-9), meal replacements (10, 11), high-protein diets (12-17), low- glycemic-index diets (15), low-fat diets (18), green tea extracts (14, 19), a prolonged refeeding period (20), waist corsets (21), and exercise (22, 23). The effects of these maintenance strategies remain unclear, and previous meta-analyses that investigated long-term effects of a VLCD have only compared the effects of VLCDs with LCDs (1, 24).
+  The aim of this systematic review and meta-analysis was to quantify the effects of anti-obesity drugs, diet, and exercise on weight-loss maintenance after a VLCD or LCD. We included randomized controlled trials in which all participants started with a VLCD or LCD (caloric intake cutoff set at ,1000 kcal/d) and thereafter were randomly assigned to either a maintenance strategy or control or placebo.
+
+MATERIALS AND METHODS
+Data sources and searches
+  A systematic search of 3 bibliographic databases [MEDLINE (http://www.ncbi.nlm.nih.gov/pubmed), EMBASE (http://www. embase.com), and Cochrane Controlled Trials Register (http:// www.thecochranelibrary.com)] from 1981 to February 2013 was performed by using 3 search strings: 1) "VLED" or "VLCD" or "very low energy diet" or "very low calorie diet," 2) "LED" or "LCD" or "low energy diet" or "low calorie diet," and 3) "weight loss main- tenance" or "maintained weight loss" or "weight maintenance" or
+
+1 From the Clinical Epidemiology Unit (KJ and MN) and the Obesity Center
+(EH), Department of Medicine, Karolinska Institutet, Stockholm, Sweden.
+   2 Supported in part by a grant from Cambridge Manufacturing Ltd, North- ants, United Kingdom (to EH). This is a free access article, distributed under terms (http://www.nutrition.org/publications/guidelines-and-policies/license/) that permit unrestricted noncommercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+   3 Address correspondence and reprint requests to K Johansson, Clinical Ep- idemiology Unit, Department of Medicine, Karolinska Institutet, SE-171 76, Stockholm, Sweden. E-mail: kari.johansson@ki.se.
+Received July 9, 2013. Accepted for publication October 10, 2013. First published online October 30, 2013; doi: 10.3945/ajcn.113.070052.
+
+
+
+14	Am J Clin Nutr 2014;99:14-23. Printed in USA. (c) 2014 American Society for Nutrition
+
+WEIGHT-LOSS MAINTENANCE AFTER VLCD/LCD	15
+
+"weight regain." The search was limited to humans, randomized controlled trials, English language publications, and adults in the databases where limitations were possible (MEDLINE and EMBASE). The reference lists of identified articles were also searched for additional studies, as were reference lists of previously published reviews. Two reviewers (KJ and EH) separately screened the abstracts for inclusion or exclusion. Full text articles were retrieved from all abstracts that were potentially relevant and were reviewed independently by the 2 researchers. In case of conflicting views, a third researcher (MN) was asked to resolve the conflict.
+
+
+Study selection
+  Studies were included if they were randomized controlled trials of adults (age $18 y), and consisted of an initial weight- loss period with a VLCD or LCD (,1000 kcal/d) followed by randomization to a maintenance strategy (anti-obesity drug, diet, and/or exercise) or control. No restrictions regarding study du- ration were imposed. Studies were excluded if they evaluated anti-obesity drugs that never reached approval by regulatory agencies or if the weight-loss period did not include a VLCD or LCD. Sibutramine and rimonabant were eligible for inclusion because they had been approved and widely used as anti-obesity drugs before being withdrawn from the market in 2010 and 2009, respectively.
+
+Data extraction and quality assessment
+  Data on participants, interventions, weight loss, and weight- loss maintenance were extracted by 2 researchers (KJ and EH) independently by using predefined data templates. Disagree- ments were resolved through discussion. For the meta-analysis, data on number of subjects and mean changes with corresponding SDs in the intervention and control arm were extracted. Many studies did not report these values. In those cases, SDs and mean changes were calculated from other data (see "Supplemental data" in the online issue).
+  Five studies included .2 arms (14, 15, 18, 25, 26). Weighted mean differences were calculated between the 2 groups that showed the most resemblance to other studies in the treatment category. Larsen et al (15) reported both the isolated and com- bined effects of a high-protein diet and a low-glycemic-index diet. In the meta-analysis, the isolated main effects of high protein compared with low protein and low glycemic index compared with high glycemic index were included. Due et al (18) reported the effect of 2 interventions (low fat and the Healthy Eating Pyramid, which is high in MUFAs and has a low glycemic in- dex), and both treatment arms were included and compared with the control group. In the study by Hursel et al (14), the green tea effect was analyzed by comparing the green tea/adequate-protein group with the placebo/adequate-protein group, and the high- protein effect was analyzed by comparing the green tea/high- protein with the green tea/adequate-protein group. The study by Kamphuis et al (25) included 2 different doses of conjugated linoleic acid (1.8 and 3.6 g) compared with placebo (1.8 and 3.6 g). Both doses were included.
+Two reviewers (KJ and EH) independently evaluated the in-
+dividual studies regarding the extent of loss to follow-up and the adequacy of randomization and concealment of allocation, blinding of patients, data collectors, and outcome assessors.
+
+Data synthesis and analysis
+Primary outcome
+  The primary outcome was the weighted mean difference in weight change (kg) during the weight-loss maintenance phase between the intervention and control groups. The random-effects model was used to weight and pool the studies within each maintenance category (anti-obesity drug, diet, and exercise). The diet studies were further subdivided into high-protein diet, meal replacement, dietary supplements, and macronutrients other than protein, including low glycemic index, low fat, and eating ac- cording to the Healthy Eating Pyramid.
+  Heterogeneity between studies was assessed by the I2 statistic (27), and if this exceeded 50% or was statistically significant, the reasons for heterogeneity were explored by subgroup anal- yses or meta-regression. Low, moderate, and high heterogeneity were defined according to cutoffs of 25%, 50%, and 75%, re- spectively (28). To investigate possible publication bias, a funnel plot of the inverse of the SE was inspected visually, and statistical significance was calculated by using Egger's test (29).
+
+Secondary outcome
+  A secondary aim was to illustrate weight change after the VLCD or LCD phase and weight-loss maintenance phase within each treatment arm. The random-effects model was used to weight and pool the weight changes within each treatment and control arm during the maintenance period. The mean monthly change was es- timated from these 2 measurements. The statistical analyses were conducted by using Comprehensive Meta Analysis (version 2; Biostat Inc). P values ,0.05 were regarded as statistically significant.
+
+RESULTS
+Study selection
+  The systematic search resulted in 20 randomized controlled trials that met the inclusion criteria (Figure 1), which included 27 intervention arms with 3017 participants. Of these, 3 arms evaluated anti-obesity drugs (n = 658), 4 meal replacements (n = 322), 6 high-protein diets (n = 865), 6 dietary supplements
+(n = 261), 3 other diets (n = 564), and 5 exercise (n = 347).
+
+Study characteristics
+Participants
+  Participant characteristics were similar, with a greater pro- portion of women than men in most of the studies (Table 1). The mean age ranged between 28 and 48 y and mean BMI (kg/m2) between 27.9 and 41.6. All studies but one were from Europe; most were from the Netherlands (6, 12, 14, 16, 17, 19, 25, 30)
+and Scandinavia (7, 10, 11, 18, 20, 22, 23, 26, 31), and the re-
+maining 3 studies were from France (5), Australia (13), or 8 European countries (multicenter study) (15).
+
+VLCD/LCD period
+  During the weight-loss phase preceding the randomization, 18 of the 20 studies used a VLCD (,800 kcal/d), whereas 2 studies (15, 18) used an LCD of 800 to 1000 kcal/d. Eight of the studies used a strict VLCD, ie, no other food was allowed except for the VLCD powder mixed with water (6, 7, 10, 11, 20, 22, 23, 25). In
+
+16	JOHANSSON ET AL
+the intervention and control groups were advised to consume a 600-kcal deficit diet based on their estimated energy expen- diture. In the third study the participants were advised to follow the French nutrition guidelines (5).
+
+Diet studies
+  Of the diet studies/study arms, 6 evaluated a high-protein diet, 6 dietary supplements with a suggested satiating or thermic effect, 4 meal replacements or a prolonged refeeding, and 3 macronutrients other than protein, including low glycemic index, low fat, and eating according to the Healthy Eating Pyramid (32). In addition to the specific maintenance intervention, 10 of the
+15 diet studies reported using a co-intervention, such as in- structions to the participants to maintain their habitual physical activity levels, dietitian visits, and cooking classes. Two of the studies also supplied the participants with free food from a study supermarket (15, 18).
+
+Exercise studies
+  The 3 exercise studies (22, 23, 26) investigated resistance training, walking, and arthritis-adapted knee exercises, respec- tively. During the active treatment period, both groups were given dietary counseling based on the LEARN manual (33) in the study by Borg et al (22), and group meetings were given in the study by Fogelholm et al (23); only arthritis-tailored knee exercises were given in the study by Christensen et al (26).
+
+
+
+
+
+
+
+  FIGURE 1. Flowchart of included studies. RCT, randomized controlled trial.
+
+7 of the studies, the participants were allowed to consume vegetables (12-17, 19), and in 2 of the studies the powder for- mulas were mixed with milk (26) or a small ad libitum breakfast was allowed within the 800-kcal/d limit (31).
+
+Weight-loss maintenance period
+  After the weight-loss phase the participants were randomly assigned to a maintenance intervention or a control group. Most (n = 11; 55%) of the studies randomly assigned participants only if they had lost 5-10% of the initial weight during the VLCD or LCD period. This applied for all of the drug studies (5-7) and 8 of the 14 diet studies (12, 13, 15, 16, 18, 20, 30, 31) but not for the exercise studies, for which all the participants were ran- domly assigned despite weight loss.
+  The duration of the maintenance period ranged from 3 mo to 3 y (Figure 2). Twelve of the 20 studies had a maintenance period of ,1 y, with an overrepresentation of short maintenance pe- riods among the diet studies (10 of 14). All included drug studies had a maintenance period of .1 y. The 2 studies that studied exercise exclusively had an active maintenance period of
+,1 y, but both included a 2-y unsupervised follow-up (22, 23).
+
+Anti-obesity drug studies
+  Of the 3 anti-obesity drug studies, 2 evaluated sibutramine (5, 6) and 1 orlistat (7). In 2 (6, 7) of the 3 studies, participants in both
+
+Risk of bias
+  Most studies did not report the randomization process, but simply stated that the participants were randomized. All studies specified the eligibility criteria, and characteristics were similar for the intervention and control groups at randomization in all studies. Seven (5-7, 14, 19, 25, 31) of the studies were double- blind. Most of the studies only analyzed and reported data on completers, except for the anti-obesity drug studies and the diet and exercise study by Christensen et al (26), which analyzed all the included participants. (An intention-to-treat analysis with last observation carried forward analysis for missing data were used in all the anti-obesity drug studies, whereas baseline ob- servation carried forward was used in the diet and exercise study by Christensen et al).
+
+Main findings
+VLCD/LCD period
+  During the VLCD or LCD run-in period, before random- ization, the pooled mean weight change was 212.4 kg (95% CI: 216.6, 28.2; median weight-loss phase duration: 8 wk) for the anti-obesity drug studies, 211.1 kg (95% CI: 212.1, 210.1; median weight-loss phase duration: 8 wk) for the diet studies, and 213.5 kg (95% CI: 214.0, 213.0 median weight-loss phase duration: 12 wk) for the exercise studies (Figure 3).
+
+Weight-loss maintenance period
+  Weight regain during the maintenance period differed between individual studies, ranging from a further mean weight change of 25 kg to a regain of 14 kg in the intervention groups and from 21 kg to a gain of 13 kg in the control groups (Figure 2).
+
+TABLE 1
+Description of included randomized controlled trials (n = 20) that evaluated the success of drugs, diet, and exercise strategies at improving weight-loss maintenance after an initial period of weight loss with a VLCD or LCD (,1000 kcal/d)1
+Characteristics before
+weight loss	Weight-loss period (VLCD/LCD)	Weight-loss maintenance period
+
+
+
+Author
+
+
+Age
+
+
+Women
+
+
+BMI
+
+
+Weight
+
+
+Subjects
+
+
+Energy
+
+
+Duration
+
+Weight loss
+
+
+Intervention
+
+
+Control
+Participants randomly assigned (Trt/Ctrl)
+Participants who completed (Trt/Ctrl)
+
+
+Durationy%kg/m2kgnkcal/dmokgnnmoAnti-obesity drugsRichelsen, 2007 (7)475137.5111383600-8002214.4Orlistat (360 mg/d)Placebo309 (153/156)201 (103/98)36Mathus-Vliegen, 2005 (6)438636.61052214803215.2Sibutramine (10 mg/d)Placebo189 (94/95)120 (62/58)18Apfelbaum, 1999 (5)387938.3104205220-800127.6Sibutramine (10 mg/d)Placebo160 (82/78)108 (60/48)12Diet: proteinDelbridge, 2009 (13)445039.0112179500-5503216.5High protein: 30 E%
+protein, ,30 E% fatHigh carbohydrate: 15 E%
+protein, ,30 E% fat2141 (71/70)82 (42/40)12Claessens, 2009 (12)456532.997605001.2529.4High protein: 25 E%
+protein, 30 E% fatHigh carbohydrate: 15 E%
+protein, 30 E% fat254 (NR/NR)48 (32/16)3Lejeune, 2005 (16)45NR29.383120502126.3High protein: +30 g/Habitual diet113 (53/60)113 (53/60)6d (w18-20 E%)Westerterp-Plantenga,44NR29.587180502126.4High protein: +48 g/Habitual diet150 (NR/NR)148 (73/75)32004 (17)d (w18-20 E%)Diet: protein and othermacronutrientsLarsen, 2010 (15)42NR34.299938800-10002211Low protein (13 E%) &Country-specific dietary773 (150/154)548 (106/114)6.5low GIguidelines (in all 5diets: fat 25-30 E%)Low protein (13 E%) &Country-specific dietary(155/154)(97/114)high GIguidelines (in all 5diets: fat 25-30 E%)High protein (25 E%) &Country-specific dietary(159/154)(124/114)low GIguidelines (in all 5diets: fat 25-30 E%)High protein (25 E%) &Country-specific dietary(155/154)(107/114)high GIguidelines (in all 5
+Due, 2008 (18)
+28
+58
+31.5
+95
+154
+800-1000
+2
+212.8
+Healthy Pyramid: 35-45diets: fat 25-30 E%)
+Western diet2 35 E% fat,
+131 (54/26)
+106 (39/24)
+6E% fat, 10-20 E%
+protein3
+Low fat: 20-30 E% fat,10-20 E% protein
+
+Western diet2 35 E% fat,
+
+(51/26)
+
+(43/24)10-20 E% protein210-20 E% protein(Continued)
+TABLE 1 (Continued )
+
+Characteristics before
+weight loss	Weight-loss period (VLCD/LCD)	Weight-loss maintenance period
+
+
+
+
+Author
+
+
+
+Age Women BMI Weight Subjects	Energy	Duration
+
+
+Weight
+loss	Intervention	Control
+
+Participants randomly assigned (Trt/Ctrl)
+
+Participants who completed
+(Trt/Ctrl)	Duration
+
+
+Diet: protein and supplementsHursel 2009 (14)445529.68592502127.0Green tea (2.7 g/d) +Placebo + protein (10 E%)80 (20/20)80 (20/20)3protein (10 E%)Green tea (2.7 g/d) + highPlacebo + high protein (2080 (20/20)80 (20/20)3protein (20 E%)E%)Kovacs, 2004 (19)NR7529.785120502126.4Green tea capsules (2.7 g/Placebo104 (51/53)104 (51/53)3.25d)Pasman, 1997 (30)4110032.989494782210.7Fiber supplement (guarHabitual diet (no fiber39 (NR/NR)20 (10/10)14gum 20 g/d)supplement)Kamphuis, 2003 (25)385227.984605020.7525.9CLA 1.8 g/dPlacebo 1.8 g/dNR (NR/NR)54 (14/13)3.25CLA 3.6 g/dPlacebo 3.6 g/dNR (NR/NR)NR (13/14)3.25Olsson, 2011 (31)4810028.39454444-5571.527.1Meal replacement forMeal replacement for46 (23/23)43 (22/21)3lunch (addinglunch (placebo;vegetable-oil emulsion;containing dairy fat 160160 kcal/d)kcal/d)Diet: meal replacementand prolonged refeedingGripeteg, 2010 (20)416441.6124269479-8133216.5Prolonged refeeding (6Normal refeeding (1 wk)169 (85/84)123 (65/58)10wk)Ryttig, 1997 (10)445637.7113544202218.9Meal replacement (1600Hypocaloric (1600 kcal/d)54 (27/27)26 (15/11)26kcal/d; 240 kcal asreplacement)
+
+
+
+
+
+
+
+
+
+
+
+1 CLA, conjugated linoleic acid; Ctrl, control group; E%, percentage of energy; GI, glycemic index; LCD, low-calorie diet; NR, not reported; Trt, treatment group; VLCD, very-low-calorie diet.
+      2 In this study, the dietary guidelines group is called "the high-carbohydrate group." The composition of the diet, however, is equivalent to the Nordic Nutrition Recommendations 2004 (55 E% carbohydrates, 15 E% protein, 30 E% fat); hence, it was used as the control group.
+      3 Healthy Pyramid corresponds to Willett's new Healthy Eating Pyramid, which is high in MUFAs and has a low GI; .20% of the prescribed fat was MUFAs. The low-fat diet corresponded to the Nordic Nutrition Recommendations (low in fat and a medium GI), and the average Danish diet (similar to the Western diet; high in SUFAs and a high GI) represented the control group.
+4 Unsupervised follow-up.
+
+
+
+  FIGURE 2. Overview of body weight changes in the included randomized controlled trials (n = 20) that evaluated different anti-obesity drugs, diet, and exercise weight-loss maintenance strategies after an initial very-low-calorie diet or low-calorie diet (,1000 kcal/d). CLA, conjugated linoleic acid; GI, glycemic index.
+
+
+
+  FIGURE 3. Overview of changes in body weight during the rapid weight- loss phase and the weight-loss maintenance period in 20 randomized con- trolled trials that evaluated different anti-obesity drug, diet, and exercise weight-loss maintenance strategies after an initial very-low-calorie diet or low-calorie diet (,1000 kcal/d). The gray lines represent the control subjects in each subcategory. Anti-obesity drugs: sibutramine and orlistat. Dietary supplements: green tea, high fiber, oil supplement, and conjugated linoleic acid. Other macronutrients: low fat, low glycemic index, and Healthy Eating Pyramid. The random-effects model was used to weight and pool the studies within each treatment arm (intervention and control) after the very-low- calorie diet or low-calorie diet period and maintenance period. The mean in- crease for each month was estimated from these 2 measurements. Weighted mean differences between the intervention and control groups at follow-up were estimated by using a random-effects model.
+
+
+Anti-obesity drug studies
+  Use of an anti-obesity drug compared with placebo improved weight-loss maintenance by 3.5 kg (95% CI: 1.5, 5.5 kg; P , 0.001; median maintenance phase duration: 18 mo; Figure 3 and Figure 4). There was evidence of significant heterogeneity (I2 = 70%, P = 0.04). This heterogeneity was explained by the study by Apfelbaum et al (5), in which the participants in the sibutr- amine arm continued to lose weight during the maintenance period. In a sensitivity analysis that excluded this study, the heterogeneity disappeared (I2 = 0%, P = 0.88).
+
+Diet studies
+  Overall, the diet maintenance strategies improved weight-loss maintenance by 1.4 kg (95% CI: 0.7, 2.1 kg; P , 0.001; median maintenance phase duration: 6 mo) compared with the control group. A significant degree of heterogeneity (I2 = 63%, P , 0.001) was explained by the different dietary strategies.
+  After the dietary studies were stratified into subcategories, extended use of meal replacements and prolonged refeeding improved weight-loss maintenance by 3.9 kg (95% CI: 2.8, 5.5 kg; P , 0.001; median maintenance phase duration: 12 mo) compared with controls. A high-protein diet improved weight- loss maintenance by 1.5 kg (95% CI: 0.8, 2.1 kg; P , 0.001; median maintenance phase duration: 5 mo), nonprotein macro- nutrients improved weight-loss maintenance by 1.2 kg (95% CI: 0.4, 2.0 kg; P = 0.003; median maintenance phase duration: 6 mo), and the use of dietary supplements showed no effect (0.0 kg; 95% CI: 21.4, 1.4 kg; P = 0.99; median maintenance phase
+duration: 3 mo; Figures 3 and 4).
+
+Exercise
+  Exercise as compared with diet counseling did not improve weight-loss maintenance (weighted mean difference: 0.8 kg; 95% CI: 21.2, 2.8; P = 0.43; median maintenance phase duration: 10 mo). There was significant heterogeneity in the exercise trials (I2 = 78%, P = 0.001), which was explained by the study by Christensen et al (26), which had a negative treatment effect, ie, worse weight-loss maintenance (Figure 4). When only the 2 studies that focused solely on exercise (22, 23) were included, weight-loss maintenance was significantly improved (weighted mean difference: 1.6 kg; 95% CI: 0.3, 2.9 kg; P = 0.02; median maintenance phase duration: 8 mo; I2 = 10%, P = 0.34). In the analysis of the unsupervised follow-up included in these 2 studies (22, 23), weight-loss maintenance was not improved (weighted mean difference: 20.7 kg; 95% CI: 23.0, 1.8; P = 0.63; median unsupervised follow-up duration: 24 mo).
+
+Publication bias and meta-regression
+  No evidence of publication bias could be detected for any of the maintenance strategies neither based on the Egger's test (P-drug = 0.28, P-diet = 0.88, P-exercise = 0.08) nor by visual inspection of funnel plots (see Supplemental Figure 1 under "Supplemental data" in the online issue). The heterogeneity within each treatment category was largely diminished after conducting subgroup analyses as described above and was not explained by varying weight-loss magnitudes across the control groups (b: 20.2; 95% CI: 20.4, 0.1; P = 0.2) or by differences in study duration when investigated via meta-regression (b: 0.1; 95% CI: 20.2, ,0.1; P = 0.2; see Supplemental Figure 2 under "Supplemental data" in the online issue).
+
+
+DISCUSSION
+
+Summary
+  In this meta-analysis of 20 randomized controlled trials, we found that both anti-obesity drugs and extended use of low- calorie meal replacements improved weight-loss maintenance relative to controls. A high-protein diet was also associated with improved maintenance, although smaller than for meal re- placements and drugs. A combined category consisting of low fat, low glycemic index, and the Healthy Eating Pyramid was also associated with improved maintenance, similar in effect to eating a high-protein diet. Exercise and dietary supplementation strategies-such as green tea, high fiber, conjugated linoleic acid, and oil supplementation-were not associated with im- proved maintenance.
+
+Previous research
+  Previous meta-analyses investigating long-term effects of a VLCD or LCD (1, 24) have not included analyses of weight- loss-maintenance strategies. Tsai and Wadden (1) included studies that randomly assigned participants to either a VLCD or LCD at baseline. VLCDs were found to induce significantly greater short-term weight change than were LCDs (216% compared with 210%), but similar long-term changes (26% compared with 25%) after a 1.9-y follow-up. In most of the included studies, the maintenance programs did not incorporate
+
+
+
+  FIGURE 4. Forest plot of control group subtracted weight change (kg) at the end of a weight-loss maintenance program, after an initial very-low-calorie diet or low-calorie diet (,1000 kcal/d), in 20 randomized controlled trials. Data are weighted mean differences from a random-effects model. Error bars depict 95% CIs. The I2 statistic refers to heterogeneity. CLA, conjugated linoleic acid; E%, percentage of energy; GI, glycemic index.
+
+
+
+those strategies that the current meta-analysis identified as being beneficial for weight-loss maintenance (anti-obesity drugs, meal replacements, and high-protein diets).
+  Anderson et al (24) performed a meta-analysis of 29 long-term observational studies using VLCDs or hypoenergetic balanced diets and found that the VLCD group maintained significantly more net weight loss than the hypoenergetic balanced diet par- ticipants after 5 y (29% compared with 18%). Indeed, an in- creasing number of studies now indicate that a substantial initial weight loss predicts a larger long-term net weight loss (2, 34-36). In comparison, the current analysis found that most of the weight loss was maintained at the end of follow-up (92% in the protein studies compared with 75% in the control group, 91% in the anti-obesity drug studies compared with 65% in the control group, 86% in the combined category compared with 75% in the control group, 74% in the supplement category compared with 74% in the control group; and 66% compared with 49% in the meal replacement category). However, the mean duration of follow-up in the studies in our meta-analysis of weight main- tenance was much shorter (mean follow-up of 5-22 mo, de- pending on category) than that in the randomized controlled trials in the meta-analyses by Tsai and Wadden (1) and An-
+
+
+derson et al (24) for all the subgroups, except for the anti-obesity drug studies that had a similar follow-up of 22 mo.
+  Weight regain was common during the maintenance phase (Figures 2 and 3), which highlights the need for an increased understanding of weight-loss defenses. There appear to be $3 different drivers behind weight regain after a large weight loss, including adaptive thermogenesis and reduced energy expendi- ture (37), increased circulation of appetite-mediating hormones (38), and relapse into old habits (39). At least some, if not all, of these defenses are mobilized in relation to weight loss (40).
+
+
+Mechanisms behind improved weight-loss maintenance
+  In terms of drug mechanisms, orlistat works by reducing fat uptake, whereas sibutramine reduces appetite. Apart from the 2 randomized controlled trials on sibutramine included in the current meta-analysis, James et al (41) also found a large effect of sibutramine on weight-loss maintenance after a 600-kcal/d deficit weight-loss program. Similarly, topiramate (one of the compo- nents in Qsymia that is currently approved in the United States)- which acts to reduce energy intake, possibly through increased satiety-has been evaluated specifically for weight-loss maintenance
+
+after a VLCD with similar results to sibutramine (8), which indicates that other anti-obesity drugs also may improve weight- loss maintenance.
+  Meal replacements, rich in nutrients but low in caloric content, work both directly and indirectly to reduce energy intake. Be- cause many obese patients underestimate energy intake (42), meal replacements can be effective at reducing food choices and therefore facilitate a balanced energy intake. High-protein diets (w20-30 of energy) have been shown to increase satiety, pre- serve fat-free mass, and sustain energy expenditure via diet- induced thermogenesis (43).
+  Low-glycemic-index foods may also be beneficial in weight control by increasing satiety and possibly by promoting fat oxidation at the expense of carbohydrate oxidation. Even though we did not find that exercise improved weight-loss maintenance, other studies have found exercise to be effective at promoting long-term weight control (4, 44), including after periods of weight loss (36, 45). Indeed, 2 of the 3 included randomized controlled trials on exercise in the current study (22, 23) indicated improved weight-loss maintenance in the short term. The long- term follow-up data from the same trials were negative, however, probably because of reduced compliance with the high amounts of exercise needed for weight control (60-90 min/d) (4, 45).
+
+Limitations and strengths
+  Our study had several strengths. First, this was the first meta- analysis of randomized controlled trials of weight-loss mainte- nance strategies after treatment with a VLCD or LCD. Second, we only included randomized controlled trials, meaning they had a low probability of bias and other confounding factors in the original studies. There was also little variation in effect direction, that is, most studies indicated a positive treatment effect. We were also able to directly test the effects of all 3 investigated treatment principles: drugs, diet, and exercise. We also synthesized data from different dietary strategies, which provides clarity in terms of which diets promote weight-loss maintenance. Meta-analysis as a method also allows for greater statistical power than in- dividual trials, which is a common limitation in obesity lifestyle- intervention studies.
+There were also benefits of studying maintenance after a
+VLCD or LCD, as opposed to diets with a higher caloric intake. A VLCD induces a larger short-term weight loss than a does a standard 1500-1800-kcal/d diet (2), although there is also more regain (1, 2). We were therefore able to analyze data from trials in which a large proportion of participants were likely to regain lost weight.
+  Our study also had several limitations. Considerable variation was observed in study protocols, mainly relating to type of strategy for preventing weight regain and study duration. Most of the evidence came from dietary strategies, with only 3 ran- domized controlled trials on the effects of exercise and 3 on anti- obesity drugs. Whereas our analysis clearly supports the use of anti-obesity drugs, 2 of the 3 drug studies were of sibutramine, which was withdrawn in 2010.
+  A second limitation was in the maintenance-phase duration of the included studies, which varied from 3 to 36 mo (Figure 3). Because there were so few studies on weight-loss maintenance after a VLCD or LCD, we chose not to include a duration re- striction. Hence, short- and long-term studies were assigned
+
+equal importance. A third limitation was that most of the studies analyzed only the participants who completed the studies. The anti-obesity drug trials (5-7) and the diet and exercise study (26) were the only studies that provided data from intention-to-treat analyses. The anti-obesity drug studies used last observation carried forward, which includes the last measured value, and, similar to the completers analysis, could lead to an overesti- mation of the treatment effect. Baseline observation carried forward, which includes the baseline values of each missing value, could on the other hand lead to an underestimation of the treatment effect.
+
+Conclusions
+  In this meta-analysis of randomized controlled trials, the largest improvements in weight-loss maintenance after a VLCD or LCD were seen for anti-obesity drugs and meal replacements. A high-protein diet also improved weight-loss maintenance, as did a combined category consisting of low fat, low glycemic index, and the Healthy Eating Pyramid. Exercise and dietary supplements were not associated with improved weight-loss maintenance. Future studies are needed to clarify the potential effect of combining several successful maintenance strategies in obesity-treatment programs.
+  The authors' responsibilities were as follows-KJ, MN, and EH: designed the research (project conception, development of overall research plan, and study oversight); KJ and EH: conducted the research (hands-on conduct of the experiments and data collection) and wrote the manuscript; and KJ: had primary responsibility for the final content and provided the essential re- agents or materials (applies to authors who contributed by providing ani- mals, constructs, databases, etc, necessary for research), analyzed the data, and performed the statistical analysis. All authors read and approved the final manuscript. EH received a grant from Cambridge Manufacturing Ltd, North- ants, United Kingdom, for the current study. KJ received a grant from Cam- bridge Manufacturing Ltd for 2 studies that examined the effect of weight loss on obstructive sleep apnea (published in the British Medical Journal in 2009 and 2011). MN has been a consultant for Abbott, Sanofi-Aventis, Itrim International, and Strategic Health Research. The funders had no role in the design or conduct of the study; analysis or interpretation of the data; or preparation, review, or approval of the manuscript.
+
+
+REFERENCES
+1. Tsai AG, Wadden TA. The evolution of very-low-calorie diets: an update and meta-analysis. Obesity (Silver Spring) 2006;14:1283-93.
+2. Hemmingsson E, Johansson K, Eriksson J, Sundstrom J, Neovius M, Marcus C. Weight loss and dropout during a commercial weight-loss program including a very-low-calorie diet, a low-calorie diet, or re- stricted normal food: observational cohort study. Am J Clin Nutr 2012; 96:953-61.
+3. Bond DS, Phelan S, Leahey TM, Hill JO, Wing RR. Weight-loss maintenance in successful weight losers: surgical vs non-surgical methods. Int J Obes (Lond) 2009;33:173-80.
+4. Klem ML, Wing RR, McGuire MT, Seagle HM, Hill JO. A descriptive study of individuals successful at long-term maintenance of substantial weight loss. Am J Clin Nutr 1997;66:239-46.
+5. Apfelbaum M, Vague P, Ziegler O, Hanotin C, Thomas F, Leutenegger
+E. Long-term maintenance of weight loss after a very-low-calorie diet: a randomized blinded trial of the efficacy and tolerability of sibutr- amine. Am J Med 1999;106:179-84.
+6. Mathus-Vliegen EM. Long-term maintenance of weight loss with si- butramine in a GP setting following a specialist guided very-low- calorie diet: a double-blind, placebo-controlled, parallel group study. Eur J Clin Nutr 2005;59(suppl 1):S31-9.
+7. Richelsen B, Tonstad S, Rossner S, Toubro S, Niskanen L, Madsbad S, Mustajoki P, Rissanen A. Effect of orlistat on weight regain and
+
+cardiovascular risk factors following a very-low-energy diet in ab- dominally obese patients: a 3-year randomized, placebo-controlled study. Diabetes Care 2007;30:27-32.
+8. Astrup A, Caterson I, Zelissen P, Guy-Grand B, Carruba M, Levy B, Sun X, Fitchet M. Topiramate: long-term maintenance of weight loss induced by a low-calorie diet in obese subjects. Obes Res 2004;12: 1658-69.
+9. Wadden TA, Fujioka K, Toubro S, Gantz I, Erondu NE, Chen M, Suryawanshi S, Carofano W, Johnson-Levonas AO, Shapiro DR, et al. A randomized trial of lifestyle modification and taranabant for main- taining weight loss achieved with a low-calorie diet. Obesity (Silver Spring) 2010;18:2301-10.
+10. Ryttig KR, Flaten H, Rossner S. Long-term effects of a very low calorie diet (Nutrilett) in obesity treatment. A prospective, randomized, comparison between VLCD and a hypocaloric diet+behavior modifi- cation and their combination. Int J Obes Relat Metab Disord 1997;21 (7):574-9.
+11. Ryttig KR, Rossner S. Weight maintenance after a very low calorie diet (VLCD) weight reduction period and the effects of VLCD supple- mentation. A prospective, randomized, comparative, controlled long- term trial. J Intern Med 1995;238:299-306.
+12. Claessens M, van Baak MA, Monsheimer S, Saris WH. The effect of a low-fat, high-protein or high-carbohydrate ad libitum diet on weight loss maintenance and metabolic risk factors. Int J Obes (Lond) 2009; 33:296-304.
+13. Delbridge EA, Prendergast LA, Pritchard JE, Proietto J. One-year weight maintenance after significant weight loss in healthy overweight and obese subjects: does diet composition matter? Am J Clin Nutr 2009;90:1203-14.
+14. Hursel R, Westerterp-Plantenga MS. Green tea catechin plus caffeine supplementation to a high-protein diet has no additional effect on body weight maintenance after weight loss. Am J Clin Nutr 2009;89:822-30.
+15. Larsen TM, Dalskov SM, van Baak M, Jebb SA, Papadaki A, Pfeiffer AF, Martinez JA, Handjieva-Darlenska T, Kunesova M, Pihlsgard M, et al. Diets with high or low protein content and glycemic index for weight-loss maintenance. N Engl J Med 2010;363:2102-13.
+16. Lejeune MP, Kovacs EM, Westerterp-Plantenga MS. Additional protein intake limits weight regain after weight loss in humans. Br J Nutr 2005; 93:281-9.
+17. Westerterp-Plantenga MS, Lejeune MP, Nijs I, van Ooijen M, Kovacs EM. High protein intake sustains weight maintenance after body weight loss in humans. Int J Obes Relat Metab Disord 2004;28(1):57-64.
+18. Due A, Larsen TM, Mu H, Hermansen K, Stender S, Astrup A. Comparison of 3 ad libitum diets for weight-loss maintenance, risk of cardiovascular disease, and diabetes: a 6-mo randomized, controlled trial. Am J Clin Nutr 2008;88:1232-41.
+19. Kovacs EM, Lejeune MP, Nijs I, Westerterp-Plantenga MS. Effects of green tea on weight maintenance after body-weight loss. Br J Nutr 2004;91:431-7.
+20. Gripeteg L, Torgerson J, Karlsson J, Lindroos AK. Prolonged refeeding improves weight maintenance after weight loss with very-low-energy diets. Br J Nutr 2010;103:141-8.
+21. Wikstrand I, Torgerson J, Bostrom KB. Very low calorie diet (VLCD) followed by a randomized trial of corset treatment for obesity in pri- mary care. Scand J Prim Health Care 2010;28:89-94.
+22. Borg P, Kukkonen-Harjula K, Fogelholm M, Pasanen M. Effects of walking or resistance training on weight loss maintenance in obese, middle-aged men: a randomized trial. Int J Obes Relat Metab Disord 2002;26(5):676-83.
+23. Fogelholm M, Kukkonen-Harjula K, Nenonen A, Pasanen M. Effects of walking training on weight maintenance after a very-low-energy diet in premenopausal obese women: a randomized controlled trial. Arch Intern Med 2000;160:2177-84.
+24. Anderson JW, Konz EC, Frederich RC, Wood CL. Long-term weight- loss maintenance: a meta-analysis of US studies. Am J Clin Nutr 2001; 74:579-84.
+25. 
+Kamphuis MM, Lejeune MP, Saris WH, Westerterp-Plantenga MS. The effect of conjugated linoleic acid supplementation after weight loss on body weight regain, body composition, and resting metabolic rate in overweight subjects. Int J Obes Relat Metab Disord 2003;27(7): 840-7.
+26. Christensen P, Frederiksen P, Bliddal H, Riecke BF, Bartels EM, Henriksen M, Juul-Sorensen T, Gudbergsen H, Winther K, Astrup A, et al. Comparison of three different weight maintenance programs on cardiovascular risk, bone, and vitamins in sedentary older adults. Obesity (Silver Spring) (in press).
+27. Higgins JP, Thompson SG. Quantifying heterogeneity in a meta- analysis. Stat Med 2002;21:1539-58.
+28. Higgins JP, Thompson SG, Deeks JJ, Altman DG. Measuring in- consistency in meta-analyses. BMJ 2003;327:557-60.
+29. Egger M, Davey Smith G, Schneider M, Minder C. Bias in meta- analysis detected by a simple, graphical test. BMJ 1997;315:629-34.
+30. Pasman WJ, Westerterp-Plantenga MS, Muls E, Vansant G, van Ree J, Saris WH. The effectiveness of long-term fibre supplementation on weight maintenance in weight-reduced women. Int J Obes Relat Metab Disord 1997;21(7):548-55.
+31. Olsson J, Sundberg B, Viberg A, Haenni A. Effect of a vegetable-oil emulsion on body composition; a 12-week study in overweight women on a meal replacement therapy after an initial weight loss: a random- ized controlled trial. Eur J Nutr 2011;50:235-42.
+32. Willett WC. Eat, drink, and be healthy the Harvard Medical School guide to healthy eating. New York, NY: Simon & Schuster, 2001.
+33. Brownell KD. The LEARN program for weight management: lifestyle, exercise, attitudes, relationships, nutrition. Dallas, TX: American Health Pub. Co, 2004.
+34. Astrup A, Rossner S. Lessons from obesity management programmes: greater initial weight loss improves long-term maintenance. Obes Rev 2000;1:17-9.
+35. Wadden TA, Neiberg RH, Wing RR, Clark JM, Delahanty LM, Hill JO, Krakoff J, Otto A, Ryan DH, Vitolins MZ. Four-year weight losses in the Look AHEAD study: factors associated with long-term success. Obesity (Silver Spring) 2011;19:1987-98.
+36. Saris WH. Very-low-calorie diets and sustained weight loss. Obes Res 2001;9(suppl 4):295S-301S.
+37. Rosenbaum M, Hirsch J, Gallagher DA, Leibel RL. Long-term per- sistence of adaptive thermogenesis in subjects who have maintained a reduced body weight. Am J Clin Nutr 2008;88:906-12.
+38. Sumithran P, Prendergast LA, Delbridge E, Purcell K, Shulkes A, Kriketos A, Proietto J. Long-term persistence of hormonal adaptations to weight loss. N Engl J Med 2011;365:1597-604.
+39. Elfhag K, Rossner S. Who succeeds in maintaining weight loss? A conceptual review of factors associated with weight loss maintenance and weight regain. Obes Rev 2005;6:67-85.
+40. Maclean PS, Bergouignan A, Cornier MA, Jackman MR. Biology's response to dieting: the impetus for weight regain. Am J Physiol Regul Integr Comp Physiol 2011;301:R581-600.
+41. James WP, Astrup A, Finer N, Hilsted J, Kopelman P, Rossner S, Saris WH, Van Gaal LF. Effect of sibutramine on weight maintenance after weight loss: a randomised trial. STORM Study Group. Sibutramine Trial of Obesity Reduction and Maintenance. Lancet 2000;356: 2119-25.
+42. Lichtman SW, Pisarska K, Berman ER, Pestone M, Dowling H, Of- fenbacher E, Weisel H, Heshka S, Matthews DE, Heymsfield SB. Discrepancy between self-reported and actual caloric intake and ex- ercise in obese subjects. N Engl J Med 1992;327:1893-8.
+43. Westerterp-Plantenga MS, Lemmens SG, Westerterp KR. Dietary protein-its role in satiety, energetics, weight loss and health. Br J Nutr 2012;108(suppl 2):S105-12.
+44. Curioni CC, Lourenco PM. Long-term weight loss after diet and ex- ercise: a systematic review. Int J Obes (Lond) 2005;29:1168-74.
+45. Fogelholm M, Kukkonen-Harjula K. Does physical activity prevent weight gain-a systematic review. Obes Rev 2000;1:95-111.
+
+
+
+
+
+

@@ -1,0 +1,625 @@
+
+
+
+
+STRENGTH AND HYPERTROPHY ADAPTATIONS BETWEEN LOW- VS. HIGH-LOAD RESISTANCE TRAINING: A SYSTEMATIC REVIEW AND META-ANALYSIS
+BRAD J. SCHOENFELD,1 JOZO GRGIC,2 DAN OGBORN,3 AND JAMES W. KRIEGER4
+1Department of Health Science, Lehman College, Bronx, New York; 2Institute of Sport, Exercise and Active Living (ISEAL), Victoria University, Melbourne, Australia; 3Ogborn Research & Consulting, Winnipeg, Manitoba, Canada; and 4Weightology, LLC, Issaquah, Washington
+
+
+
+ABSTRACT
+Schoenfeld, BJ, Grgic, J, Ogborn, D, and Krieger, JW. Strength and hypertrophy adaptations between low- vs. high-load resistance training: a systematic review and meta-analysis. J Strength Cond Res 31(12): 3508-3523, 2017-The purpose of this article was to conduct a systematic review of the current body of literature and a meta-analysis to compare changes in strength and hypertrophy between low- vs. high-load resistance training protocols. Searches of PubMed/MEDLINE, Cochrane Library, and Scopus were conducted for studies that met the following criteria: (a) an experimental trial involving both low-load training [#60% 1 repetition maximum (1RM)] and high-load training (.60% 1RM); (b) with all sets in the training protocols being performed to momentary muscular failure; (c) at least one method of estimating changes in muscle mass or dynamic, isometric, or isokinetic strength was used; (d) the training protocol lasted for a minimum of 6 weeks; (e) the study involved participants with no known medical conditions or in- juries impairing training capacity. A total of 21 studies were ultimately included for analysis. Gains in 1RM strength were significantly greater in favor of high- vs. low-load training, whereas no significant differences were found for isometric strength between conditions. Changes in measures of muscle hypertrophy were similar between conditions. The findings indicate that maximal strength benefits are obtained from the use of heavy loads while muscle hypertrophy can be equally achieved across a spectrum of loading ranges.
+
+
+
+
+INTRODUCTION
+urrent resistance training (RT) guidelines profess that loads in excess of 70% 1 repetition maximum (RM) are required to maximize adaptations in muscular strength and hypertrophy (2). Similarly,
+the so-called "RM continuum" purports that gains in mus- cular strength are optimal with loads of 1-5RM and hyper- trophic gains are best achieved with loads of 6-12RM (5). These recommendations are predicated on the belief that heavy loads are necessary to recruit the highest threshold motor units (MUs) responsible for promoting maximal mus- cular adaptations.
+It remains debatable as to whether lighter load training is
+capable of recruiting the entire MU pool during a given set of repetitions. Prevailing research indicates that muscle fiber recruitment follows the size principle, which dictates that the smallest MUs are recruited first during a given move- ment with successively larger MUs engaged as force pro- duction requirements increase (21). Although this would seem to support the need for heavy loads to maximize mus- cular adaptations, some researchers have alternatively pos- tulated that training with intensities as low as 30% 1RM will ultimately result in complete MU recruitment provided sets are carried out to momentary muscular failure (8,10).
+Surface electromyography (sEMG) studies consistently
+show lower mean electrical amplitudes when training at low (,50% 1RM) vs. high (.70% 1RM) intensities of load, even when sets are carried out to muscular failure (24,41). Con- versely, others have demonstrated comparable peak EMG amplitudes between high- and low-load training, and mod- erate- and high-load training, and such discrepant findings may result from differing methods of analysis through the time-course of a set to failure (18,40). It should be noted that
+
+		sEMG amplitude is not only a function of recruitment but
+
+Address correspondence to Brad J. Schoenfeld, brad@workout911.com.
+31(12)/3508-3523
+Journal of Strength and Conditioning Research
+(c) 2017 National Strength and Conditioning Association
+3508	Journal of Strength and Conditioning Research
+
+also includes factors such as rate coding (firing frequency), synchronization (simultaneous discharge of MUs), propaga- tion velocity (speed at which an action potential travels along the membrane of a muscle fiber), and intracellular
+
+	Jothue rnal of Strength and Conditioning ResearchTM | www.nsca.com
+
+
+
+
+
+action potentials (6,12). These factors, in turn, can be influ- enced by exercise-induced fatigue, thus potentially con- founding the ability to draw inferences as to the effects of loading intensity from EMG findings. Moreover, it has been posited that MUs may momentarily de-recruit and re-recruit (MU "cycling") throughout a light-load set of repetitions to maintain force output (16), thereby altering the magnitude of sEMG amplitude. Importantly, the level of sEMG amplitude does not necessarily correlate with long-term exercise- induced increases in strength and hypertrophy, and thus, conclusions must be tempered in the context of these limitations.
+  Ultimately, determination of causality on the topic requires longitudinal studies that directly investigate the effects of RT using low vs. high loads. A meta-analysis of such trials by Schoenfeld et al. (43) concluded that both high- and low-load training produced significant increases in both muscle strength and hypertrophy, but noted that statistical probability favored the heavier load conditions for both outcomes. At the time of that search (December 2013), only 9 studies met inclusion criteria, limiting statistical power of the analysis. Subsequently,
+
+
+there have been a number of additional studies published on the topic (4,14,15,32), providing a greater ability to draw prac- tical inferences and carry out subanalysis of potential covariates. Therefore, the purpose of this article was to conduct a system- atic review of the current body of literature and a meta-analysis to compare changes in strength and hypertrophy between low- vs. high-load RT protocols.
+METHODS
+Inclusion Criteria
+Our analysis was confined to studies published in English- language peer-reviewed journals that met the following criteria: (a) an experimental trial involving both low-load training (#60% 1RM) and high-load training (.60% 1RM);
+(b) with all sets in the training protocols being performed to momentary muscular failure; (c) at least one method of esti- mating changes in muscle mass or dynamic, isometric, or isokinetic strength was used; (d) the training protocol lasted for a minimum of 6 weeks; (e) the study involved participants with no known medical conditions or injuries impairing train- ing capacity. As some studies reported loading as the number
+VOLUME 31 | NUMBER 12 | DECEMBER 2017 | 3509
+
+
+TABLE 1. Overview of studies meeting inclusion criteria.*
+
+Duration ofTempointervention;Comparison groups(concentric-weeklyResistanceParticipants'[sets 3 repetition (restisometric-VolumetrainingtrainingHypertrophy/strengthStudycharacteristicsinterval duration†)]eccentric)equated?frequencyexercise(s)measurementFindings
+Aagaard et al. (1)
+
+Young
+untrained
+
+High load: 4 3 8RM	Not reported
+
+No	12 wks; 33 Knee extension Isokinetic knee
+extension
+
+Significant preintervention to
+
+men
+(n = 22)
+
+Low load: 4 3 16RMz	Isokinetic knee flexion
+Low load: 4 3 24RM Non-exercising control
+groupz
+
+postintervention increases in strength only in the high-load group
+
+Anderson et al. (3)
+
+Young
+untrained men
+(n = 43)
+
+High load: 3 3 6-8RM	Not
+reported
+
+Yes	9 wks; 33	Bench press	1RM bench press	Significant
+preintervention to postintervention increases in strength in all groups
+
+Low load: 2 3 30-40RM	Significantly greater
+
+
+
+
+Au et al. (4) Young trained
+men
+
+Low load: 1 3 100-150RM
+
+
+High load: 3 3 8-12RM
+(1 min)
+
+
+
+
+Not
+reported
+
+
+
+
+No	12 wks; 43 Seated row, bench press,
+
+increases in strength in the high-load vs. low-load groups
+BOD-POD	Significant preintervention to
+
+(n = 46)
+
+Low load: 3 3 20-25RM
+(1 min)
+Non-exercising control groupz
+
+front plank, machine- guided shoulder press, bicep curls, triceps extension, wide grip pull-downs, inclined leg press, cable hamstring curl, machine- guided knee extension
+
+1RM bench press 1RM leg press
+
+postintervention increases in lean body mass, upper- and lower-body strength in both exercising groups, with significant between-group differences only in 1RM bench press strength for high- load vs low-load group
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(continued on next page)
+
+
+
+HisaedaYoungHigh load: 8-9 3 5RMFast asYes8 wks; 33Knee extensionMRISignificantet al. (22)untrained("sufficient")possiblepreintervention towomanLow load: 5-6 3 15RM (90MVCpostintervention(n = 11)s)increases in CSAand strength for bothgroups, with nosignificant between-group differencesKerr et al.UntrainedHigh load: 3 3 8RMNotNo1 year; 33Hip extension,1RM hip extensionSignificant(25)middle-aged(2-3 min)reportedhip flexion,1RM hip flexionpreintervention towomanhip1RM hip abductionpostintervention(n = 46)abduction,1RM hip adductionincreases in strengthhip1RM leg pressfor both groups, withadduction,1RM wrist curlno significantleg press,1RM reverse wrist curlbetween-groupwrist curl,1RM wrist pronation/differencesreverse wristsupinationcurl, wrist1RM biceps curlpronation/1RM triceps press-supination,downbiceps curl,tricepspress-downMitchellYoungHigh load: 3 3 80%RMNotNo10 wks; 33Unilateral kneeMRISignificantet al. (29)untrainedreportedextensionpreintervention tomenpostintervention(n = 18)increases in CSA forall groups, with nosignificant between-group differencesHigh load: 1 3 80% 1RMzBiopsySignificantLow load: 3 3 30% 1RM1RM knee extensionpreintervention toMVCpostinterventionincreases in strengthfor all groups, withsignificantly greaterincreases in 1RMmuscle strength inthe high-load vs. low-load group
+
+
+
+
+
+
+
+
+
+
+
+
+Low load: 3 3 20-25RM
+(1 min)
+
+inclined leg press, cable hamstring curl, machine- guided knee extension
+
+1RM leg press
+1RM shoulder press 1RM knee extension
+
+Ogasawara
+
+Young
+
+High load: 3 3 75% 1RM
+
+1-0-1 for
+
+No	6 wks; 33	Bench press	MRI	Significant
+
+et al. (36)
+
+untrained men
+(n = 9)
+
+(3 min)
+
+both groups
+
+1RM bench press
+
+preintervention to postintervention increases in CSA for all groups, with no significant between- group differences
+
+
+
+
+
+
+
+
+
+Popov et al. (37)
+
+
+
+
+
+
+
+
+
+Young
+untrained
+
+Low load: 4 3 30% 1RM
+(3 min)
+
+
+
+
+
+
+High load: 3 and 7 3 80%
+MVC (10 min)
+
+
+
+
+
+
+
+
+
+Not
+reported
+
+MVC	Significant
+preintervention to postintervention increases in strength for all groups, with significantly greater increases in strength in the high-load vs. low-load group
+No	8 wks; 33	Leg press	MRI	Significant preintervention to
+
+men
+(n = 18)
+
+Low load: 1 and 4 3 50%
+MVC (10 min)
+
+MVC
+
+postintervention increases in CSA and strength for all groups, with no significant between- group differences
+(continued on next page)
+
+
+
+
+
+Rana et al.
+
+Young
+
+High load: 3 3 6-10RM	1-0-2 for
+
+No	6 wks; 2-
+
+Leg press,
+
+BOD-POD	Significant
+
+(38)
+
+untrained females (n = 34)
+
+High load low velocity: 3 3
+6-10RMz
+Low load: 3 3 20-30RM Non-exercising control
+groupz
+
+high- and low-load groups
+
+33	back squat (Smith machine), and knee extension
+
+1RM squat
+
+1RM leg press
+1RM knee extension
+
+preintervention to postintervention increases in lean body mass for all groups, with no significant between- group differences
+
+Schoenfeld et al. (42)
+
+Young trained men
+(n = 18)
+
+High load: 3 3 8-12RM	1-0-2 for
+both groups
+
+No	8 wks; 33	Bench press, barbell military press, wide grip pull- downs, seated cable row, barbell back squat, machine leg press, and machine knee
+
+Ultrasound	Significant preintervention to postintervention increases in muscle thickness in both groups, with no significant between- group differences
+
+Low load: 3 3 25-35RM	Extension	1RM bench press	Significantly greater
+
+1RM squat
+
+increases in 1RM squat strength in the high-load vs. low- load group
+
+Schuenke
+
+Young
+
+High load: 3 3 6-10RM	1-0-2 for
+
+No	6 wks; 2-
+
+Leg press,
+
+Skinfolds	No significant
+
+et al. (44)
+§
+
+untrained females (n = 34)
+
+High load low velocity: 3 3
+6-10RMz
+Low load: 3 3 20-30RM Non-exercising control
+groupz
+
+high- and low-load groups
+
+33	back squat (Smith machine), and knee extension
+
+preintervention to postintervention differences in lean body mass
+
+Stone and Coulter
+
+Young
+untrained
+
+High load: 3 3 6-8RM
+(2-3 min)
+
+Not
+reported
+
+Yes	9 wks; 33	Bench press,
+triceps push-
+
+1RM bench press	Significant
+preintervention to
+
+(45)
+
+females (n = 50)
+
+Low load: 2 3 15-20RM
+(2-3 min)
+Low load: 1 3 30-40RM
+(2-3 min)
+
+down, arm curl, lat pull- down, squat
+
+1RM squat
+
+postintervention increases in strength in all groups, with no significant between- group differences
+
+
+
+
+
+TanimotoYoungHigh load: 3 3 80% 1RM1-1-1 forNo12 wks; 33Knee extensionMRISignificantand Ishiiuntrained(1 min)the high-preintervention to(46)menand low-postintervention(n = 24)loadincreases in CSA andgroupsMVC strength only inthe high-load groupLow load low velocity: 3 33-0-3 for1RM knee extensionSignificant50% 1RM (1 min)zthe low-preintervention toLow load: 3 3 50% 1RMload, low-MVCpostintervention(1 min)velocityincreases in 1RMgroupknee extensionstrength in allgroups, with nosignificant between-group differencesTanimotoYoungHigh load: 3 3 80% 1RM1-1-1 forNo13 wks; 23Chest press,UltrasoundSignificantet al. (47)untrained(1 min)thelat pull-down,preintervention tomenhigh-loadabdominalpostintervention(n = 36)groupbend, andincreases in muscleLow load: 3 3 55-60%
+1RM (1 min)3-0-3 for
+the low-back
+extension,DEXAthickness, lean body
+mass, and strengthNon-exercising controlloadsquat1RM squatin both groups, withgroupzgroup1RM chest pressno significant1RM lat pull-downbetween-group1RM abdominal benddifferences1RM back extensionVan RoieYoungHigh load: 1 3 10-12RM1-0-2 forNo9 wks; 33Knee extension1RM knee extensionsSignificantet al. (50)untrainedbothpreintervention tomengroupspostintervention(n = 21) andincreases in 1RMwomenstrength in all groups(n = 15)Low load: 1 3 60RM +MVCSignificantly greater10-20RMincreases in 1RMstrength in the high-load vs. low-loadgroupsLow load: 1 3 10-12 withIsokinetic kneeSignificant40% 1RMzextensionpreintervention topostinterventionincreases in MVConly for the high-loadgroupSignificantpreintervention to postintervention increases in isokinetic strength only for the low-load group
+(continued on next page)
+
+
+
+	Jothue rnal of Strength and Conditioning ResearchTM | www.nsca.com
+
+
+of repetitions, rather than a percentage of 1RM, all repetitions up to 15RM were considered as high load, whereas repeti- tions .15RM were considered as low load.
+Search Strategy
+The systematic literature search of English-language journals was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines (30). Searches of PubMed/MEDLINE, Cochrane Library, and Scopus were conducted from inception of index- ing to March 2017. The following syntax was used to carry out the search: muscle hypertrophy AND muscle strength AND (skeletal muscle OR resistance training OR cross-sectional area OR growth OR training intensity OR training load OR high load OR low load OR muscle fibers OR loading OR muscle thickness OR bodybuilding OR fitness). The reference lists of articles retrieved in the search were subsequently perused for any additional articles that had potential applica- bility to the topic as outlined by Greenhalgh and Peacock (19). Forward citation tracking of the studies meeting the inclusion criteria was performed in Google Scholar. To reduce the potential for selection bias, each of these studies were inde- pendently perused by 2 of the investigators (B.J.S. and J.G.), and a mutual decision was made as to whether they met basic inclusion criteria. Any interreviewer disagreements were set- tled by consensus or consultation with the third investigator (D.O.).
+  Of the studies initially reviewed, 49 were determined to be potentially relevant to the topic based on information contained in the abstracts. Full text of these articles were then screened and 24 studies were regarded as suitable for inclusion based on the criteria outlined. Attempts were made to contact the authors of a given study in the case that relevant data were missing. Three studies (27,53,54) had to be omitted from analysis because of lack of adequate data, hence leaving 21 studies for analysis. Figure 1 shows a flow chart of the literature search. Table 1 summarizes the studies included for analysis.
+Coding of Studies
+Studies were read and individually coded by 2 of the investigators (B.J.S. and J.G.) for the following variables: (a) authors, title, and year of publication; (b) participant information, such as sample size, gender, age, and training status. For age, the following classification was used: participants aged 18-39 years are classified as young adults, participants aged 40-64 years are classified as middle-aged adults, and participants aged 65 years and older are classified as older adults. Training status was categorized as in the study by Schoenfeld et al. (43); (c) description of the training intervention, including duration, the intensity of load, weekly training frequency, RT exercises, and where reported, the tempo, and rest interval length; (d) methods used for the assessment of hypertrophy. Methods of measurement were classified as direct (magnetic resonance imaging, computerized tomography, and ultrasound), indirect (skinfolds, dual-energy
+
+x-ray absorptiometry, and air displacement plethysmography) and in vitro (i.e., biopsy); (e) test(s) used for assessing strength outcomes [isokinetic knee extension and/or flexion, maximal voluntary contraction and/or maximal dynamic strength (i.e., 1RM)]; (f ) region/muscle of body measured (upper, lower, or both); (g) preintervention and postintervention mean 6 SD values related to hypertrophy and strength outcomes; (h) re- ported adverse effects and adherence to the training program. Coding files were cross-checked between the authors, with discussion and agreement required for any observed differences. To prevent the potential for coder drift, we randomly selected 30% of the studies for recoding as outlined by Cooper et al. (11). Per case agreement was determined by dividing the number of variables coded the same by the total number of variables. Acceptance required a mean agreement of 90%.
+Methodological Quality
+The quality of each study was independently assessed by 2 of the authors (J.G. and B.J.S.), and agreement was mutually determined for any observed discrepancies. Study quality was evaluated by use of the 11-point Physiotherapy Evidence Database (PEDro) scale, which has been shown to be a valid measure of the methodologic quality of randomized trials (13) and displays acceptable interrater reliability (33). Given that the assessors are rarely blinded, and that is impossible to blind the participants and inves- tigators, in supervised exercise interventions, we elected to remove items 5-7 from the scale, which are specific to blinding. With the removal of these items, the maximum result on the modified PEDro 8-point scale was 7 (i.e., the first item is not included in the total score). The qualitative methodology ratings were adjusted similar to that used in previous exercise-related systematic reviews (26) as fol- lows: 6-7 = "excellent"; 5 = "good"; 4 = "moderate"; and, 0-3 = "poor."
+Calculation of Effect Size
+For each hypertrophy outcome, an effect size (ES) was calculated as the pretest-posttest change, divided by the pooled pretest SD (31). A percentage change from pretest to posttest was also calculated. An adjustment for small sample bias was applied to each ES (31). The variance around each ES was calculated using the sample size in each study and mean ES across all studies (7).
+Statistical Analyses
+A random-effects model was employed using robust vari- ance meta-regression for multilevel data structures, with adjustments for small samples (20,49). Study was used as the clustering variable to account for correlated effects within studies. Observations were weighted by the inverse of the sampling variance. Model parameters were estimated by the method of restricted maximum likelihood (48). Separate meta-regressions were performed on ESs for 1RM, isometric strength, isokinetic strength, body composition, direct as- sessments of muscle size, and muscle fiber size via biopsy. Load classification (high or low) was included as a moderator
+VOLUME 31 | NUMBER 12 | DECEMBER 2017 | 3517
+
+High- vs. Low-Load Training Meta-analysis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+in all regression models. To assess the practical significance of the outcomes, the equivalent percent change was calcu- lated for each meta-regression outcome. To allow generation of a forest plot, mean differences in ESs were calculated for each study to give a study-level ES, and a meta-regression was performed on those ESs. To explore whether an inter- action existed between training load and upper- or lower- body muscle groups, separate regressions were performed on
+
+training load and its interaction with body half (upper or lower) if sufficient data were available.
+  To identify the pres- ence of highly influen- tial studies that might bias the analysis, a sen- sitivity analysis was car- ried out for each model by removing one study at a time and then examining the training load predictor. Studies were identified as influ- ential  if  removal  re-
+sulted in a change of the predictor going from significant or a trend (p # 0.10) to nonsignificant (p . 0.10), or vice versa, or if removal caused a large change in the magnitude of the coefficient.
+  All analyses were performed using package metafor in R version 3.3.2 (The R Foundation for Statistical Comput- ing, Vienna, Austria). Effects were considered significant at p # 0.05, and trends were declared at 0.05 , p # 0.10.
+
+
+
+
+
+3518	Journal of Strength and Conditioning Research
+
+	Jothue rnal of Strength and Conditioning ResearchTM | www.nsca.com
+
+
+
+
+
+Data are reported as mean 6 SEM and 95% confidence intervals (CIs).
+RESULTS
+Results of all outcomes are presented in Table 2. The mean rating of study quality as assessed by the PEDro scale was 5.6, indicating the pool of studies to be of good to excellent quality; no study in the analysis was deemed to be of poor quality.
+One Repetition Maximum
+The final analysis comprised 84 ESs from 14 studies. The mean ES across all studies was 1.50 6 0.23 (CI: 1.01-1.99).
+The mean percent change was 31.6 6 4.5% (CI: 22.0-41.2). There was a significant difference in mean ES between high and low loads (D = 20.37 6 0.10; CI: 20.59 to 20.16; p = 0.003), with high load resulting in a greater mean ES and percentage gain (Table 2). Study level anal- ysis revealed an ES that significantly favored high loads (ES = 0.58 6 0.16; CI: 0.28-0.89; p = 0.002; Figure 2).
+There was no interaction between training load and the half of the body trained (p = 0.69). Sensitivity analyses did not reveal any influential studies.
+Isometric Strength
+The final analysis comprised 23 ESs from 8 studies. The mean ES across all studies was 0.60 6 0.19 (CI: 0.15-1.05). The mean
+
+
+percent change was 21.5 6 5.3% (CI: 8.9-34.2). There was no significant difference in mean ES between high and low loads (D = 20.09 6 0.10; CI: 20.34 to 0.17; p = 0.43; Table 2). Study
+level analysis showed no significant impact of load (ES = 0.16 6 0.11; CI: 20.10 to 0.41; p = 0.19; Figure 3). There
+was insufficient data to examine the interaction between train- ing load and the half of the body trained. Sensitivity analysis revealed one influential study. Removal of the study by Van Roie et al. (51) changed the magnitude of the nonsignificant difference between high and low loads (D = 20.24 6 0.13; CI: 20.57 to 0.08; p = 0.11).
+
+Isokinetic Strength
+There were 41 isokinetic strength ESs from 4 studies. There was an insufficient number of studies to model the impact of loading on isokinetic strength.
+
+Lean Body Mass
+There were 14 body composition ESs from 5 studies. There was an insufficient number of studies to model the impact of loading on lean mass changes.
+Muscle Hypertrophy
+The final analysis comprised 41 ESs from 10 studies. The mean ES across all studies was 0.47 6 0.08 (CI: 0.28-0.65).
+The mean percent change was 7.6 6 1.2% (CI: 4.9-10.4). There was a trend toward a difference in mean ES between
+VOLUME 31 | NUMBER 12 | DECEMBER 2017 | 3519
+
+High- vs. Low-Load Training Meta-analysis
+
+
+
+
+high and low loads (D = 20.11 6 0.06; CI = 20.24 to 0.03; p
+= 0.10), with high load being slightly greater than low loads (Table 2). However, study level analysis showed no impact of load (ES = 0.03 6 0.05; CI: 20.08 to 0.14; p = 0.56;
+Figure 4). There was no interaction between training load and half of the body trained (p = 0.46). Sensitivity analyses revealed 5 influential studies (Table 3). Removal of each of the 3 most influential studies (37,47,51) resulted in nonsignificant p-values (p = 0.22-0.46) along with decreases in the ES dif- ference between high and low loads (D = 20.06 to 20.09).
+
+Muscle Fiber Size
+There were 23 muscle fiber size ESs from 4 muscle biopsy studies. There was an insufficient number of studies to model the impact of loading on muscle fiber size.
+DISCUSSION
+The present meta-analysis encompassed a total of 21 studies
+-more than double that of the previous meta-analysis on the topic (43). This fairly large body of research provided ample statistical power to draw inferences as to the effects of load-
+ing on muscle hypertrophy and isotonic and isometric strength, although data remain insuffi- cient for assessing changes in measures of isokinetic strength,
+
+
+
+several interesting revelations.
+The outcomes for strength
+Hisaeda et al. (22)20.11 6 0.0620.25 to 0.030.11were somewhat conflicting de-Popov et al. (37)20.08 6 0.0620.23 to 0.070.26pending on the modality ofTanimoto et al. (47)20.06 6 0.0820.25 to 0.120.46testing. Heavy loading showeda clear advantage for gains in 1RM strength, with probability estimates indicating an almost certain likelihood of differences
+3520	Journal of Strength and Conditioning Research
+
+	Jothue rnal of Strength and Conditioning ResearchTM | www.nsca.com
+
+
+compared with low-load training (p = 0.003) (23). The supe- riority of heavy loading for maximal isotonic strength is consistent with the principle of specificity, which dictates that the more closely a training program replicates the re- quirements of a given outcome, the greater the transfer of the training to that outcome (5). Considering the essence of 1RM testing is to lift maximal loads, it logically follows that training closer to one's RM would have the greatest transfer to this outcome. Nevertheless, both heavy and light loads showed large effects for 1RM increases (1.69 and 1.32, respectively), translating into mean percentage gains of
+35.4 and 28.0%, respectively. Our findings therefore indicate that while heavy loads are required to achieve maximal gains in isotonic strength, lighter loads promote substantial in- creases in this outcome as well. It should be noted that our findings on the topic are primarily based on untrained subjects as only 3 studies investigated isotonic strength changes between conditions in those with RT experience. A subanalysis of training status showed that the direction of the interaction was even larger in trained subjects, sug- gesting that heavier loading may become increasingly more important for maximal gains in isotonic strength as one gar- ners training experience. However, the paucity of data on the topic limits the ability to draw definitive conclusions.
+  With respect to isometric strength, both high and low loads produced similar gains, with minimal differences displayed in mean percentage changes (22.6 vs. 20.5%, respectively). At face value, this implies that when training specificity is offset by testing on a neutral instrument, increases in force production can be equally achieved regardless of loading zone. However, sensitivity analysis showed that removal of the study by Van Roie et al. (51) substantially altered the magnitude of the difference between conditions, with the 95% CI (20.08 to 0.57) showing an overt advantage to heavier loading. The relatively low num- ber of studies on the topic limited statistical power to draw firm inferences, but examination of the revised CI (20.57 to 0.08) indicates a likely benefit in favor of heavier loading, albeit of a relatively small magnitude (23).
+  There was an insufficient number of studies to quantify a magnitude of effect on isokinetic strength in high- vs. load- low training. Of the 3 studies that investigated changes in this outcome measure, Aagaard et al. (1) found that only those training with high loads were able to increase isoki- netic strength in a cohort of elite young soccer players. Con- versely, Van Roie et al. (51) and Hisaeda et al. (22) reported no significant differences between conditions in untrained community-dwelling elderly adults and young women, respectively. Whether physical activity levels or factors spe- cific to these diverse populations contributed to the discrep- ancies remains to be determined.
+  Data from direct measures of muscle size indicate similar hypertrophic changes between high- and low-load condi- tions. Although differences in mean ES (p = 0.10) suggest a likely probability favoring heavier load training (23), study
+
+level analysis as illustrated in Figure 4 showed no impact of load (p = 0.56) and the mean percentage gains were com- parable between high- and low-load conditions (8.3 vs. 7.0%, respectively). Moreover, sensitivity analysis revealed a num- ber of studies unduly influenced results, and the removal of the most influential studies markedly reduced the probability of a difference in mean ES (p = 0.22-0.46). The findings therefore indicate that both heavy and light loads can be equally effective in promoting muscle growth provided train- ing is carried out with a high level of effort. Intriguingly, emerging research shows a potential fiber type-specific effect of loading zones, with heavier loads showing greater increases in type II muscle fiber cross-sectional area and lighter loads showing greater increases in type I muscle fiber growth (34,35,52). This implies a potential benefit to training across a spectrum of repetitions when to goal is maximize hypertrophic adaptations. That said, not all studies have found such an effect (32) and further research is therefore needed to draw relevant practical inferences.
+  Although not all studies reported attendance during the training programs, those that did report a high level of adherence (i.e., .87% of total training sessions). It has been suggested that low-load training might result in greater dis- comfort compared with high-load training (17). However, the findings would suggest that both the types of training were equally effective regarding adherence to the training protocols. Furthermore, it would seem that training with both high- and low-load might be equally safe, as only 2 of the 21 included studies (25,43) reported mild adverse effects [i.e., minor tendonitis and 2 minor injuries (1 in each group), respectively].
+  It should be noted that several studies included in the analysis had potential confounding variables that may have impacted results. In the study by Fink et al. (14), interset rest intervals for the low-load condition were 30 seconds, whereas the high-load condition rested 3 minutes. In the study by Popov et al. (37), the low-load group performed repetitions without relaxation, whereas those in the high- load group paused during the isometric portions of the lift. Repetition durations in both studies by Tanimoto et al. (46,47) were different between conditions, with the low- load condition lifting at a tempo of 3s-0s-3s (concentric- isometric-eccentric) vs. a 1s-1s-1s tempo in the high-load condition. The extent and direction to which these factors may have influenced hypertrophic adaptations is not clear.
+PRACTICAL APPLICATIONS
+The findings of this meta-analysis can provide specific guidance regarding the prescription of training loads to promote increased muscular hypertrophy and strength. With respect to the development of muscular strength, one must consider the needs of the individual first and foremost. For those who participate in strength sports, particularly where maximal loads are required in specific lifts, then training with high loads on the evaluated lifts is advantageous (principle of
+VOLUME 31 | NUMBER 12 | DECEMBER 2017 | 3521
+
+High- vs. Low-Load Training Meta-analysis
+
+
+specificity). Training with low loads to failure requires exercise volume (work) and time in excess of high-load training, suggesting high-load training may be more efficient. Recently, Mattocks et al. (28) demonstrated this principle finding com- parable improvements in muscular strength in those who completed only regular 1RM against a higher volume hyper- trophy program, albeit in untrained participants.
+  Given the robust increases from low-load training on measures of isotonic and isometric maximal strength, and the similar changes in muscle hypertrophy when compared with heavy loading, there is significant flexibility in the loading ranges that can be prescribed to promote muscular strength and mass. Emerging evidence indicating fiber type- specific adaptations from training with high vs. low loads suggests a potential benefit to training across a spectrum of loading zones when maximizing muscle hypertrophy is the primary goal. This hypothesis warrants further study.
+  It should be noted that all included studies in this analysis used momentary muscular failure as the point of set termination. Consequently, application of these findings to RT programming must consider the contribution of concen- tric failure to the observed findings. Although training to failure may not result in superior adaptations than nonfailure RT despite increased training volume (39), comparable re- sults cannot reasonably be assumed for submaximal, non- failure training based on the present analysis. This highlights the need for further research on the role of effort, fatigue, and failure in the relationship between training loads and changes in muscular strength and hypertrophy.
+
+REFERENCES
+1. Aagaard, P, Simonsen, EB, Trolle, M, Bangsbo, J, and Klausen, K. Specificity of training velocity and training load on gains in isokinetic knee joint strength. Acta Physiol Scand 156: 123-129, 1996.
+2. American College of Sports Medicine. American College of Sports Medicine position stand. Progression models in resistance training for healthy adults. Med Sci Sports Exerc 41: 687-708, 2009.
+3. Anderson, T and Kearney, JT. Effects of three resistance training programs on muscular strength and absolute and relative endurance. Res Q Exerc Sport 53: 1-7, 1982.
+4. Au, JS, Oikawa, SY, Morton, RW, Macdonald, MJ, and Phillips, SM. Arterial stiffness is reduced regardless of resistance training load in young men. Med Sci Sports Exerc 49: 342-348, 2017.
+5. Baechle, TR and Earle, RW. Essentials of strength training and conditioning. In: Anonymous. Champaign, IL: Human Kinetics, 2008.
+6. Behm, DG. Neuromuscular implications and applications of resistance training. J Strength Cond Res 9: 264-274, 1995.
+7. Borenstein, M, Hedges, LV, and Higgins, JPT. Effect sizes based on means. In: Introduction to Meta-Analysis. Chichester, UK: John Wiley & Sons, Ltd., 2009. pp. 21-32.
+8. Burd, NA, Mitchell, CJ, Churchward-Venne, TA, and Phillips, SM. Bigger weights may not beget bigger muscles: Evidence from acute muscle protein synthetic responses after resistance exercise. Appl Physiol Nutr Metab 37: 551-554, 2012.
+9. Campos, GER, Luecke, TJ, Wendeln, HK, Toma, K, Hagerman, FC, Murray, TF, Ragg, KE, Ratamess, NA, Kraemer, WJ, and Staron, RS. Muscular adaptations in response to three different resistance- training regimens: Specificity of repetition maximum training zones. Eur J Appl Physiol 88: 50-60, 2002.
+10. 
+Carpinelli, RN. The size principle and a critical analysis of the unsubstantiated heavier-is-better recommendation for resistance training. J Exerc Sci Fit 6: 67-86, 2008.
+11. Cooper, H, Hedges, L, and Valentine, J. The Handbook of Research Synthesis and Meta-Analysis. New York, NY; Russell Sage Foundation, 2009.
+12. Dimitrova, NA and Dimitrov, GV. Interpretation of EMG changes with fatigue: Facts, pitfalls, and fallacies. J Electromyogr Kinesiol 13: 13-36, 2003.
+13. Elkins, MR, Herbert, RD, Moseley, AM, Sherrington, C, and Maher,
+C. Rating the quality of trials in systematic reviews of physical therapy interventions. Cardiopulm Phys Ther J 21: 20-26, 2010.
+14. Fink, J, Kikuchi, N, and Nakazato, K. Effects of rest intervals and training loads on metabolic stress and muscle hypertrophy. Clin Physiol Funct Imaging, 2016.
+15. Fink, J, Kikuchi, N, Yoshida, S, Terada, K, and Nakazato, K. Impact of high versus low fixed loads and non-linear training loads on muscle hypertrophy, strength and force development. Springerplus 5: 698-016-2333-z. eCollection 2016, 2016.
+16. Fisher, J, Steele, J, and Smith, D. High- and low-load resistance training: Interpretation and practical application of current research findings. Sports Med 47: 393-400, 2017.
+17. Fisher, JP and Steele, J. Heavier and lighter load resistance training to momentary failure produce similar increases in strength with differing degrees of discomfort. Muscle Nerve 56: 797-803, 2017.
+18. Gonzalez, AM, Ghigiarelli, JJ, Sell, KM, Shone, EW, Kelly, CF, and Mangine, GT. Muscle activation during resistance exercise at 70% and 90% 1-repetition maximum in resistance-trained men. Muscle Nerve 56: 505-509, 2017.
+19. Greenhalgh, Tand Peacock, R. Effectiveness and efficiency of search methods in systematic reviews of complex evidence: Audit of primary sources. BMJ 331: 1064-1065, 2005.
+20. Hedges, LV, Tipton, E, and Johnson, MC. Robust variance estimation in meta-regression with dependent effect size estimates. Res Synth Methods 1: 39-65, 2010.
+21. Henneman, E, Somjen, G, and Carpenter, DO. Functional significance of cell size in spinal motoneurons. J Neurophysiol 28: 560-580, 1965.
+22. Hisaeda, H, Miyagawa, K, Kuno, S, Fukunaga, T, and Muraoka, I. Influence of two different modes of resistance training in female subjects. Ergonomics 39: 842-852, 1996.
+23. Hopkins, WG, Marshall, SW, Batterham, AM, and Hanin, J. Progressive statistics for studies in sports medicine and exercise science. Med Sci Sports Exerc 41: 3-13, 2009.
+24. Jenkins, ND, Housh, TJ, Bergstrom, HC, Cochrane, KC, Hill, EC, Smith, CM, Johnson, GO, Schmidt, RJ, and Cramer, JT. Muscle activation during three sets to failure at 80 vs. 30% 1RM resistance exercise. Eur J Appl Physiol 115: 2335-2347, 2015.
+25. Kerr, D, Morton, A, Dick, I, and Prince, R. Exercise effects on bone mass in postmenopausal women are site-specific and load- dependent. J Bone Miner Res 11: 218-225, 1996.
+26. Kummel, J, Kramer, A, Giboin, LS, and Gruber, M. Specificity of balance training in healthy individuals: A systematic review and meta-analysis. Sports Med 46: 1261-1271, 2016.
+27. Leger, B, Cartoni, R, Praz, M, Lamon, S, Deriaz, O, Crettenand, A, Gobelet, C, Rohmer, P, Konzelmann, M, Luthi, F, and Russell, AP. Akt signalling through GSK-3beta, mTOR and Foxo1 is involved in human skeletal muscle hypertrophy and atrophy. J Physiol 576: 923- 933, 2006.
+28. Mattocks, KT, Buckner, SL, Jessee, MB, Dankel, SJ, Mouser, JG, and Loenneke, JP. Practicing the test produces strength equivalent to higher volume training. Med Sci Sports Exerc 49: 1945-1954, 2017.
+29. Mitchell, CJ, Churchward-Venne, TA, West, DD, Burd, NA, Breen, L, Baker, SK, and Phillips, SM. Resistance exercise load does not determine training-mediated hypertrophic gains in young men. J Appl Physiol (1985) 113: 71-77, 2012.
+
+3522	Journal of Strength and Conditioning Research
+
+	Jothue rnal of Strength and Conditioning ResearchTM | www.nsca.com
+
+
+30. Moher, D, Liberati, A, Tetzlaff, J, and Altman, DG; PRISMA Group. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med 6:
+e1000097, 2009.
+31. Morris, B. Estimating effect sizes from pretest-posttest-control group designs. Organizational Res Methods 11: 364-386, 2008.
+32. Morton, RW, Oikawa, SY, Wavell, CG, Mazara, N, McGlory, C, Quadrilatero, J, Baechler, BL, Baker, SK, and Phillips, SM. Neither load nor systemic hormones determine resistance training-mediated hypertrophy or strength gains in resistance-trained young men. J Appl Physiol (1985) 121: 129-138, 2016.
+33. Moseley, AM, Herbert, RD, Sherrington, C, and Maher, CG. Evidence for physiotherapy practice: A survey of the physiotherapy evidence database (PEDro). Aust J Physiother 48: 43-49, 2002.
+34. Netreba, A, Popov, D, Bravyy, Y, Lyubaeva, E, Terada, M, Ohira, T, Okabe, H, Vinogradova, O, and Ohira, Y. Responses of knee extensor muscles to leg press training of various types in human. Ross Fiziol Zh Im I M Sechenova 99: 406-416, 2013.
+35. Netreba, AI, Popov, DV, Liubaeva, EV, Bravyi, I, Prostova, AB, Lemesheva, I, and Vinogradova, OL. Physiological effects of using the low intensity strength training without relaxation in single-joint and multi-joint movements. Ross Fiziol Zh Im I M Sechenova 93: 27- 38, 2007.
+36. Ogasawara, R, Loenneke, JP, Thiebaud, RS, and Abe, T. Low-load bench press training to fatigue results in muscle hypertrophy similar to high-load bench press training. Int J Clin Med 4: 114-121, 2013.
+37. Popov, DV, Tsvirkun, DV, Netreba, AI, Tarasova, OS, Prostova, AB, Larina, IM, Borovik, AS, and Vinogradova, OL. Hormonal adaptation determines the increase in muscle mass and strength during low-intensity strength training without relaxation. Fiziol Cheloveka 32: 121-127, 2006.
+38. Rana, SR, Chleboun, GS, Gilders, RM, Hagerman, FC, Herman, JR, Hikida, RS, Kushnick, MR, Staron, RS, and Toma, K. Comparison of early phase adaptations for traditional strength and endurance, and low velocity resistance training programs in college-aged women. J Strength Cond Res 22: 119-127, 2008.
+39. Sampson, JA, and Groeller, H. Is repetition failure critical for the development of muscle hypertrophy and strength? Scand J Med Sci Sports 26: 375-383, 2015.
+40. Schoenfeld, BJ, Contreras, B, Vigotsky, A, Sonmez, GT, and Fontana, F. Upper body muscle activation during low- versus high- load resistance exercise in the bench press. Isokinetics Exerc Sci 24: 217-224, 2016.
+41. Schoenfeld, BJ, Contreras, B, Willardson, JM, Fontana, F, and Tiryaki-Sonmez, G. Muscle activation during low- versus high-load resistance training in well-trained men. Eur J Appl Physiol 114: 2491-2497, 2014.
+42. 
+Schoenfeld, BJ, Peterson, MD, Ogborn, D, Contreras, B, and Sonmez, GT. Effects of low- versus high-load resistance training on muscle strength and hypertrophy in well-trained men. J Strength Cond Res 29: 2954-2963, 2015.
+43. Schoenfeld, BJ, Wilson, JM, Lowery, RP, and Krieger, JW. Muscular adaptations in low- versus high-load resistance training: A meta- analysis. Eur J Sport Sci 16: 1-10, 2016.
+44. Schuenke, MD, Herman, JR, Gliders, RM, Hagerman, FC, Hikida, RS, Rana, SR, Ragg, KE, and Staron, RS. Early-phase muscular adaptations in response to slow-speed versus traditional resistance- training regimens. Eur J Appl Physiol 112: 3585-3595, 2012.
+45. Stone, MH and Coulter, SP. Strength/endurance effects from three resistance training protocols with women. J Strength Cond Res 8: 231-234, 1994.
+46. Tanimoto, M and Ishii, N. Effects of low-intensity resistance exercise with slow movement and tonic force generation on muscular function in young men. J Appl Physiol (1985) 100: 1150-1157, 2006.
+47. Tanimoto, M, Sanada, K, Yamamoto, K, Kawano, H, Gando, Y, Tabata, I, Ishii, N, and Miyachi, M. Effects of whole-body low- intensity resistance training with slow movement and tonic force generation on muscular size and strength in young men. J Strength Cond Res 22: 1926-1938, 2008.
+48. Thompson, SG and Sharp, SJ. Explaining heterogeneity in meta- analysis: A comparison of methods. Stat Med 18: 2693-2708, 1999.
+49. Tipton, E. Small sample adjustments for robust variance estimation with meta-regression. Psychol Methods 20: 375-393, 2015.
+50. Van Roie, E, Bautmans, I, Boonen, S, Coudyzer, W, Kennis, E, and Delecluse, C. Impact of external resistance and maximal effort on force-velocity characteristics of the knee extensors during strengthening exercise: A randomized controlled experiment. J Strength Cond Res 27: 1118-1127, 2013.
+51. Van Roie, E, Delecluse, C, Coudyzer, W, Boonen, S, and Bautmans, I. Strength training at high versus low external
+resistance in older adults: Effects on muscle volume, muscle
+strength, and force-velocity characteristics. Exp Gerontol 48: 1351- 1361, 2013.
+52. Vinogradova, OL, Popov, DV, Netreba, AI, Tsvirkun, DV, Kurochkina, NS, Bachinin, AV, Bravyi, I, Liubaeva, EV, Lysenko, EA, Miller, TF, Borovik, AS, Tarasova, OS, and Orlov, OI. Optimization of training: Development of a new partial load mode of strength training. Fiziol Cheloveka 39: 71-85, 2013.
+53. Weiss, LW, Coney, HD, and Clark, FC. Differential functional adaptations to short-term low-, moderate- and high-repetition weight training. J Strength Cond Res 13: 236-241, 1999.
+54. Weiss, LW, Coney, HD, and Clark, FC. Gross measures of exercise- induced muscular hypertrophy. J Orthop Sports Phys Ther 30: 143- 148, 2000.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VOLUME 31 | NUMBER 12 | DECEMBER 2017 | 3523
+
+
+
+
+
+

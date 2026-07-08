@@ -1,0 +1,1179 @@
+
+PM R 7 (2015) 169-187	www.pmrjournal.org
+Analytical Review
+A Review of the Clinical Value of Isolated Lumbar Extension Resistance Training for Chronic Low Back Pain
+James Steele, PhD, Stewart Bruce-Low, PhD, Dave Smith, PhD
+
+
+
+Abstract
+
+Objective: Chronic low back pain (CLBP) is prevalent, costly, and acknowledged as multifactorial in nature. However, decon- ditioning of the lumbar extensor musculature may be a common factor. Thus specific resistance exercise is often recommended. Many resistance exercises for the lumbar extensors exist, although recent evidence suggests that isolated lumbar extension (ILEX) resistance training may best for conditioning these muscles. Thus this review aimed to examine the use of ILEX resistance training in participants with CLBP to provide a best-evidence synthesis for practitioners and clinicians.
+Literature Survey: Reference lists from previous reviews were searched in addition to SPORTDiscus, PubMed, and Google Scholar databases up to May 2014 using search terms including combinations and synonyms of "isolation," "lumbar extension," "lumbar exercise," "lumbar strength," "lumbar endurance," "lumbar spine," "low back exercise," "CLBP," "pain," and "disability." Methodology: A "snowballing"-style literature search was used that involved an emergent approach. Studies examining ILEX resistance training as an intervention in symptomatic CLBP populations reporting pain, disability, or global perceived outcomes (GPO) as outcomes were examined. Pain and disability were outcomes and were compared to consensus guidelines for minimal clinically important changes. Single case reports were excluded.
+Synthesis: Results suggest that ILEX resistance training produces significant and meaningful improvements in perceived pain, disability, and GPOs, as part of a multiple intervention or stand-alone approach. A low frequency (once per week) yet high in- tensity of effort (to momentary muscular failure) approach using either full or limited range-of-motion ILEX resistance training appears to be sufficient and best for significant and meaningful outcomes. Limited comparative studies between ILEX resistance training and other specific exercise approaches exist; however, only limited evidence supports ILEX resistance training as being more effective.
+Conclusions: These findings highlight ILEX resistance training as effective for significant and meaningful improvements in perceived pain, disability, and GPOs for CLBP participants. Further research should elucidate comparisons between ILEX resis- tance training and other specific exercise approaches and should clarify whether lumbar extensor conditioning is the mechanism responsible for the improvements reported.
+
+
+
+
+Introduction
+
+  Chronic low back pain (CLBP) is one of the most prevalent medical disorders in today's societies [1-5], representing a total economic cost amounting to billions worldwide [5-14]. Although CLBP is acknowledged as a multifactorial condition [15,16], it has been suggested that specific deconditioned extensor muscles of the lumbar spine (lumbar extensor musculature, ie, thoracic and lumbar erector spinae, including the iliocostalis lumborum and longissimus thoracis, the multifidus, and also the quadratus lumborum when contracted bilater- ally) are a risk factor for low back injury and pain [17-20]. Indeed, a recent review of the area concluded
+
+
+that persons with CLBP generally present with decon- ditioning of these muscles identified as reduced lumbar extension strength/endurance, atrophy, and excessive fatigability, and that these may be risk factors for low back injury and pain [21].
+  Historically, progressive resistance exercise has been recommended for CLBP with the purpose of conditioning the musculature (ie, developing strength, endurance, and hypertrophy) [19,20,22,23]. The first attempts at providing therapeutic resistance exercise in treating musculoskeletal conditions occurred around the turn of the 20th century [24,25]. Despite this, mainstream acceptance of progressive resistance exercise was not achieved until around the 1940s by DeLorme and
+
+
+1934-1482/$ - see front matter ª 2015 by the American Academy of Physical Medicine and Rehabilitation http://dx.doi.org/10.1016/j.pmrj.2014.10.009
+
+
+
+Watkins [22,23]. They reported use of specialised equipment used to address the lumbar extensor musculature by attempting to restrict concurrent pelvic movement and found that with increasing strength, symptoms of CLBP were relieved [22]. The use of pro- gressive resistance exercise historically in treating musculoskeletal disorders such as CLBP [19,20,22,23], as well as the suggested role of lumbar extensor deconditioning in low back injury and pain [17-21], has resulted in development of more specific devices for exercising the lumbar extensors. A number of devices are commercially available (eg, Lumbar Extension Ma- chine, MedX, Ocala, FL; BackUp Dynamometer, Priority One Equipment, Grand Junction, CO; Lower Back Revival System, OriGENE Concepts BV, Delft, the Netherlands), and some researchers have developed customized seats and restraints to use with generic dynamometers [26,27]. All provide isolated lumbar extension (ILEX) through their unique method of restraining the pelvis. The necessary features for achieving ILEX have been described previously [20,28]. In addition, Figure 1 presents the restraint system considered as necessary for isolation of lumbar exten- sion. The mechanism of the restraint system should be considered for its ability to specifically isolate and ex- ercise the lumbar extensors. Indeed it has been sug- gested for some time that specific exercise must be isolated to effectively address the lumbar extensor musculature [17-20,22].
+  Typically, however, when exercise is examined in relation to CLBP, the varied and different approaches available are often considered in the same category and as being equal [29,30]. Specific deconditioning of the lumbar extensor musculature may be an important factor [21], and thus it is unlikely that all exercise programs are equally effective in addressing CLBP [29-31]. Both Helmhout et al [31] and Mayer et al [29] emphasize the issue with many previous reviews examining "exercise" as a single class of treatment without consideration of the variation in exercise approaches that have been used. Many studies of exercise have also been criticized as lacking an adequate description of the precise exer- cises used [30,31]. Previous Cochrane reviews have not adequately described, defined, and categorized the "exercise" studies that they have examined, potentially explaining the generally inauspicious conclusions drawn [32,33]. The Cochrane reviews have been specifically criticized for this flaw and wide-sweeping conclusions [33-35]. In a recent meta-regression, the authors noted first that exercise type may be an important factor that explains the heterogeneity between "exercise" studies, yet because of the limitations of the methodology used, the authors were unable to analyze the trials included based on differences in this characteristic [36]. This issue of specificity of exercise type has also been discussed more recently and continues to be suggested as a potentially important factor to consider [37,38].
+  
+Despite the proposed importance of such specificity in exercise type, the necessity of devices to isolate the lumbar extensors for the purposes of specifically condi- tioning them, and particularly for use in treatment of CLBP, is at present controversial. Many specific exercise approaches for the lumbar extensors have been defined and presented by Mayer et al [29]. These are considered to be exercises designed to specifically address and con- dition the lumbar extensors, and include the following: bench and roman chair trunk extensions (TEX), use of free weights (eg, deadlifts, squats, good mornings), floor and stability ball exercise (eg, TEX, bridging, 4-point kneeling), and resistance machines including those with and without restraints capable of providing ILEX. How- ever, a recent review has examined the efficacy of these exercises and has concluded that, although many may offer some degree of lumbar extensor conditioning, ILEX resistance training appears to be most effective for this purpose [28]. Considering the potential role of specific lumbar extensor deconditioning in CLBP [21], it is of in- terest to review the efficacy of ILEX resistance training in symptomatic populations, as it appears to be an approach that is potentially most effective in addressing this spe- cific factor. Thus the aim of this study was to conduct a mixed review to search and appraise the literature examining the use of ILEX resistance training in partici- pants with CLBP, to provide a best-evidence synthesis for practitioners and clinicians. The intention was to consider 1) studies examining ILEX resistance training's efficacy in this population upon perceived pain, disability, and global perceived outcomes (GPO) including the clinical meaningfulness of these outcomes; 2) the manipulation of ILEX resistance training variables for best outcome so as to provide recommendations for clinical prescription; and 3) to examine comparative studies of ILEX resistance training and other specific exercise approachesa, including use of ILEX resistance training as part of a multiple or single intervention approach.
+Methods
+
+  Reference lists from previous reviews [19,20,29,39] were searched in addition to SPORTDiscus, PubMed, and Google Scholar databases up to May 2014, using search terms including combinations and synonyms of "isola- tion" "lumbar extension" "lumbar exercise" "lumbar strength" "lumbar endurance" "lumbar spine" "low back
+
+
+  a When referring to specific exercise in this review, we are referring to those defined by Mayer et al.[29]. However, a currently standard exercise approach used in addressing CLBP is that of training motor control and the neuromuscular system, which is sometimes referred to as being "specific" in the sense of training a specific movement. Therefore, to reiterate and clarify for readers of this review in order to avoid confusion, "specific" exercise in this review refers to exercise approaches designed to specifically target and condition the lumbar extensor musculature and not to motor controlebased approaches aimed at training the neuromuscular system.
+
+
+
+
+
+
+Figure 1. Example of a restraint system used to allowed isolated lumbar extension (ILEX) resistance training to be performed. (Reprinted with permission from MedX Corporation).
+
+
+exercise" "CLBP" "pain" "disability." A "snowballing" style literature search [40] was used, involving an emer- gent approach as the search progressed, including searching references of references and using personal contact with authors and colleagues knowledgeable in the area. Broadly, any studies examining ILEX resistance training as an intervention in symptomatic CLBP pop- ulations reporting pain, disability, or GPOs as outcomes were examined. Single case reports were excluded.
+
+Results
+
+  Table 1 presents a summary of all of the identified studies using ILEX resistance training that were located and considered in this review.
+
+Pain, Disability, and Clinical Meaningfulness of Outcomes
+
+  The most common measurement of pain is the visual analogue scale (VAS) [41]. Several studies have examined the use of ILEX resistance training upon perceptions of pain through this measurement. Many have been designed as prospective single arm trials of symptomatic partici- pants with intervention periods of 8 to 12 weeks and training frequencies of once or twice per week [42-45]. Samples sizes ranged from 18 to 55 participants indicating sufficient power to detect significant changes in VAS [46] with all reporting significant reductions [42-45]. Other studies have adopted randomised controlled trial designs using a nontraining control group comparison to confirm the treatment effect of including ILEX resistance training as an intervention [46-51]. These studies used in- terventions of w12 to 24 weeks with varying frequencies of once or twice per week, and sample sizes ranging from 14 to 74 participants. again suggesting sufficient power. All reported that, compared with the nontraining control groups, the groups performing ILEX resistance training made significant reductions in VAS [46-51]. Con- trol groups in these studies were instructed to perform
+
+home-based exercise [47] or continue with any conser- vative treatments that they were already undergoing [46,48-50], or acted as waiting list controls [51]. A study by Kim et al [52] examined the effects of varying fre- quency of ILEX resistance training over 12 weeks on 40 participants undergoing lumbar diskectomy. The authors reported significant improvement in VAS for ILEX resis- tance training when training once or twice per week.
+  Other methods of measurement have also been used to examine the effects of ILEX resistance training upon pain. In a randomized controlled trial of 54 participants, Risch et al [53] showed significant improvement as a result of 10 weeks of ILEX resistance training in the pain subscale on the West Haven Yale Multidimensional Pain Inventory when compared to a waiting-list control group. In a large single-arm trial involving outcomes from 677 participants who underwent w9 weeks of ILEX resistance training twice per week, Nelson et al [54] reported participant low back pain and leg pain out- comes using a 5-item scale ("worse," "no change," "slight decrease," "decreased," "substantial decrease"). For low back pain and leg pain, respectively, 64% and 62% reported substantial decrease, 14% and 17% reported a decrease, 6% and 6% reported a slight decrease, 12% and 13% reported no change, and only 3% and 2% reported a worsening of their symptoms. There was a moderate but significant correlation between the improvements in
+lumbar extension strength and low back pain (r 1/4
+-0.318), and this relationship appeared even more pro- nounced when participants were grouped based on the
+above categories. Steele et al [46] also reported signifi- cant relationships between improvements in lumbar extension strength and low back pain (VAS) as a result of ILEX resistance training (r 1/4 -0.488 to -0.668). Another single-arm trial conducted by Leggett et al [55] across
+2 independent treatment centers showed significant im- provements in the pain subscale of the Short Form 36 health questionnaire (SF-36; the SF-36 is a common outcome that covers a wide range of possible subscales thus presenting an overall "global picture" of participant well-being). Costa [56], in a small study involving 9 par-
+ticipants, used the McGill Pain Questionnaire and reported a nonsignificant improvement (-3.22, P 1/4 .159), which would appear, in light of other research showing signifi- cant improvements in pain, perhaps a result of low study power. Stephan et al [51] examined the effects of ILEX
+resistance training upon pain severity and effects of pain using the Medical Outcome Scale, and reported significant improvements at both the 3- and 6-month stage of the intervention compared with a waiting list control.
+  Measures of perceived disability, such as the Oswes- try Disability Index (ODI) [57], among others, have also been measured in response to ILEX resistance training interventions. Mooney et al [42] showed a significant improvement in ODI score between pre and post mea- sures for 55 participants undergoing 8 weeks of ILEX resistance training twice per week. Other single-arm
+
+
+
+Table 1
+Summary of studies examining ILEX in CLBP upon pain, disability, and GPOs
+
+Study	Participants	Method	Outcome
+
+
+
+
+Achieved MCICs
+[104] for VAS or ODI? Follow up?
+
+Mooney et al [42]
+
+29 Females, 26 males with CLBP
+
+All participants underwent an 8-wk intervention 2x/wk using ILEX resistance training, other resistance training exercises and bicycle, stair, or treadmill exercise
+Load, whether exercise was performed to MMF, sets, repetitions, repetition duration, and ROM for ILEX, was not reported
+Pre and post VAS and ODI were completed
+
+Significant improvement in both VAS (12.3 to 18.3 mm; P 1/4
+.0001) and ODI
+(2.12 points to
+2.29 points; P 1/4
+.001)
+
+VAS achieved MCIC ODI failed to
+achieve MCIC
+
+N/A
+
+Park et al [43] 6 Males and 22
+females (age
+w42 y) with CLBP
+
+
+
+
+
+
+
+
+Lee et al [44]  29 Participants with
+CLBP
+
+Participants underwent an 8-wk intervention 2x/wk using ILEX resistance training
+Load was estimated at w50%-70% of max isometric torque and 10 repetitions performed; whether exercise was performed to MMF, sets, ROM, and repetition duration for ILEX was not reported
+VAS and daily activity level were completed pre and post
+Participants underwent an 8 wk intervention 2x/wk using ILEX resistance training, other resistance training exercises and aerobic exercise
+A single set of ILEX using 50% of their maximum isometric torque, permitting 15-20 repetitions through their full ROM was performed; whether exercise was performed to MMF, sets, ROM, and repetition duration for ILEX was not reported; load was progressed by 5% once the
+participant could complete >20 repetitions and 10% if they could complete >25 repetitions
+VAS was completed pre and post
+
+Significant improvement in VAS (30 mm;
+P < .01) and daily activity level
+(P < .05)
+
+
+
+
+
+Significant improvement in VAS (26 mm;
+P < .05)
+
+VAS achieved MCIC	N/A
+
+
+
+
+
+
+
+
+
+
+
+VAS achieved MCIC	N/A
+
+Holmes et al [45]
+
+18 Females (age
+68.2 ± 7.5 y,
+stature 162.8 ±
+7.5 cm, body
+mass 63.2 ±
+10.3 kg) with
+CLBP
+
+Participants underwent intervention 2x/wk for the first 4 wk, reducing to 1x/wk if participants did not increase pain during sessions using ILEX resistance training
+A single set of ILEX using a load permitting 20 repetitions through their full ROM before MMF, using a slow controlled manner, taking at least 3-4 s for each repetition; load was progressed once the participant
+could complete >20 repetitions; load was not reported
+VAS (10-point scale) was completed pre and post
+
+Participants significantly improved VAS (w3.2 points;
+P < .05)
+
+VAS achieved MCIC	N/A
+
+Steele et al [46]
+
+14 Males and 10 females (age w41-46 y, stature 173-180 cm, body
+mass 75-85 kg) with CLBP
+
+10 Participants underwent a 12-wk intervention 1x/wk using ILEX resistance training with a full ROM
+7 Participants underwent a 12-wk intervention 1x/wk using ILEX resistance training with a limited ROM (mid 50% of their full ROM)
+Both groups performed a single set of
+
+Both ILEX groups significantly improved in VAS (w16-30 mm) and ODI (w12-18
+points) compared to the control group (P < .05)
+
+VAS and ODI achieved MCIC
+
+N/A
+
+
+
+
+
+
+
+
+(continued on next page)
+
+
+Study	Participants	Method	Outcome
+
+Achieved MCICs
+[104] for VAS or ODI? Follow up?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Choi et al [47]  38 Males and 37
+females (age w42-51 y, stature w165 cm, body mass w63-67 kg) undergoing first- time lumbar diskectomy for disk herniation not responding to conservative treatment
+
+ILEX using 80% of their maximum isometric torque, permitting 8-12 repetitions (70-105 s) before MMF, using a slow controlled manner, taking 2 seconds for the concentric phase, holding for 1 s in extension, and 4 s for eccentric phase; load was progressed by 5% once the participant could
+complete >12 repetitions
+7 Participants acted as nontraining
+controls
+VAS and ODI were completed pre and post
+35 Participants underwent a 12-wk intervention 6 wk post-surgery using ILEX resistance training, other resistance training exercises, and aerobic exercise
+Load, whether exercise was performed to MMF, sets, repetitions, repetition duration, and ROM for ILEX, was not reported
+40 Participants constituted a control group, completing 12 wk of home- based lumbar conditioning exercises
+No details of home-based exercises were reported
+VAS and ODI were completed pre and post and during follow-up; return to work 4 mo after surgery was also reported
+
+with no significant difference between ILEX groups
+
+
+
+
+
+
+
+
+ILEX group improved significantly more than control group in VAS at end of 12-wk intervention (ILEX group 57 mm, control group
+38 mm)
+No significant difference between groups for change in ODI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VAS and ODI achieved MCIC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+At 4 months post- surgery 87% of the ILEX group had returned to work compared to 24% of the controls
+At 6 months post- surgery w92% of both groups had returned to work
+At 1 year follow up VAS was similar between groups
+
+Smith et al. [48]
+
+42 Participants (age
+42.93 ± 10.80 y)
+with CLBP
+
+15 Participants underwent a 12-wk intervention 1x/wk using ILEX resistance training with restraints fastened (STAB)
+15 Participants underwent a 12-wk intervention 1x/wk using ILEX resistance training without restraints fastened (NO-STAB)
+Both groups performed a single set of ILEX using a load that permitted 8-12 repetitions before MMF through a full ROM, using a slow controlled manner, taking 2 s for concentric phase and 4 s for eccentric phase. Load was
+progressed by 5% once the participant could complete >12 repetitions
+12 Participants acted as nontraining
+controls
+VAS and ODI were completed pre and post
+
+STAB significantly improvement in both VAS (w17 mm; P < .01) and
+ODI (w12 points;
+P < .01). No
+change was
+observed for NO- STAB or control groups for either VAS or ODI
+
+VAS and ODI achieved MCICs in STAB group
+
+N/A
+
+Ju et al [49]	14 Participants (age
+w45 y, stature w162 cm, body mass w63 kg) undergoing lumbar disk herniation surgery
+
+7 Participants underwent a 12-wk intervention 3x/wk post-surgery using ILEX resistance training and other resistance training exercises
+ILEX was performed using 40-50% of max isometric torque for 18-20 repetitions; load was progressed based upon results of retesting every 4 wk; whether exercise was performed to MMF, sets, repetition duration, and ROM for ILEX were not reported
+
+ILEX group improved significantly in all VAS measures at the end of the 12- wk intervention (back pain w7.6 mm, night pain
+9.3 mm, exercise
+pain 27.5 mm,
+handicap 29.9 mm; all P < .05).
+
+VAS for back pain did not meet MCIC
+
+N/A
+
+
+(continued on next page)
+
+
+Study	Participants	Method	Outcome
+
+Achieved MCICs
+[104] for VAS or ODI? Follow up?
+
+
+
+
+
+
+
+
+Bruce-Low et al [50]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stephan et al [51]
+
+
+
+
+
+
+
+
+42 Males and 30
+females (age 45.5
+± 14.1 y) with CLBP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+74 Participants (55% females, age w44
+y) with CLBP
+
+7 Participants constituted a control group advised to rest and use conservative treatments
+VAS for back pain; night pain, exercise pain, and handicap were completed pre and post
+31 Participants underwent a 12-wk intervention 1x/wk using ILEX resistance training
+20 Participants underwent a 12-wk intervention 2x/wk using ILEX resistance training
+The 1x/wk group performed a single set of ILEX using 80% of their maximum isometric torque permitting, 8-12 repetitions (70-105 s) before MMF through a full ROM, using a slow controlled manner, taking 2 s for the concentric phase, holding for 1 s in extension and 4 s for eccentric phase; load was progressed by 5% once the
+participant could complete >12 repetitions
+The 2x/wk group performed the same session as above in addition to performing a single set of ILEX using 50% of their maximum isometric torque permitting 15-20 repetitions (105-140 s) before MMF through a full ROM, using a slow controlled manner, taking 2 s for concentric phase, holding for 1 s in extension and 4 s for eccentric phase; load was progressed
+by 5% once the participant could complete >20 repetitions
+21 Participants acted as nontraining
+controls
+VAS and ODI were completed pre and post
+58 Participants underwent an intervention lasting an average of w24.5 wk of average w1.6x/wk using ILEX resistance training and other resistance training exercises
+ILEX and other exercises were performed for a single set using 60% of patients' 1 repetition maximum permitting 6-9 repetitions, stopping before MMF for sessions 1-20, and achieving MMF from session 21 onward, using a slow controlled manner, taking 4 s for concentric phase, holding for 2 s in extension, and 4 s for the eccentric phase through full pain-free ROM; load was progressed but was not reported
+18 Participants acted as nontraining waiting list controls
+VAS, pain severity, and effects of pain were measured using MOS in addition to ODI were completed at 3 and 6 mo
+
+Control group made no significant improvement
+
+
+
+Both ILEX groups significantly improved in VAS (w16-21 mm) and ODI (w12-15
+points) compared to control group (P < .05), with no significant difference between ILEX
+groups
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Significant reductions in VAS, pain severity, effects of pain and ODI were
+seen at 3 and 6 mo (all P < .001).
+Control group
+significant reduced ODI at 3 mo (P < .05) and pain severity at 6 mo (P < .05) but
+did not
+significantly change in any other measure.
+
+
+
+
+
+
+
+
+VAS and ODI achieved MCIC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Both VAS and ODI met MCIC
+
+
+
+
+
+
+
+
+N/A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+N/A
+
+Kim et al [52]  40 Male patients
+undergoing
+
+All patients underwent lumbar diskectomy followed by 6 wk of rest
+
+Group 3 did not improve in either
+
+VAS and ODI did not meet MCICs
+
+N/A
+
+
+
+(continued on next page)
+
+
+Study	Participants	Method	Outcome
+
+Achieved MCICs
+[104] for VAS or ODI? Follow up?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Risch et al. [53]
+
+surgery for lumbar diskectomy (age w40 y, stature w173 cm, body mass w75 kg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+34 Males and 20 females (age w45 y, range 22-70 y) with CLBP
+
+After lumbar diskectomy and 6-wk rest, all participants underwent a 12-wk intervention 2x/wk using ILEX resistance training
+After completion of initial 12 wk intervention:
+10 participants underwent a 12-wk intervention 2x/wk using ILEX resistance training (group 1)
+10 participants underwent a 12-wk intervention 1x/wk using ILEX resistance training (group 2)
+10 Participants underwent a 12-wk intervention 1x/2wk using ILEX resistance training (group 3)
+Each group performed 2 sets of ILEX permitting 15-20 repetitions, taking 3 s for concentric phase and 3 s for eccentric phase; load, ROM, and
+  progression for ILEX was not reported 10 Participants acted as nontraining
+controls
+VAS (for LBP and leg pain) and ODI were completed postsurgery, and the initial 12-wk intervention, and again after the further 12-wk intervention
+31 Participants underwent a 10-wk intervention using ILEX resistance training 2/wk for first 4 wk, then 1x/wk for last 6 wk
+A single set of ILEX was performed using 50% of their maximum isometric torque performed to MMF through a full ROM; load was progressed by
+5 ft.lb once the participant could complete >12 repetitions; repetition duration for ILEX was not reported
+23 Participants acted as a waiting list control group.
+Both completed pre and post West Haven Yale Multidimensional Pain Inventory.
+
+VAS or ODI
+Group 1 and 2 both significantly improved in ODI (0.8 to 1.4 points;
+P < .05)
+Only group 1
+significantly improved VAS (0.5 cm; P < .05)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In the intervention group, there was a significant improvement in pain subscale of West Haven Yale Multidimensional Pain Inventory
+(w0.5; P < .002)
+No significant
+changes occurred for the control group
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+N/A	N/A
+
+Nelson et al484 Males (mean627 Participants completed an averageIn the interventionN/AAt 1-year follow up,[54]age 38.7 y) andof 18 sessions 2x/wk using ILEXgroup for back94% of411 femalesresistance training, other resistanceand leg painparticipants with(mean age 37.1 y)training exercises, and aerobicrespectively, 64%good or excellentwith CLBP wereexerciseand 62% reportedresultsinitially recruitedILEX was performed alternatingsubstantialmaintainedbetween sessions to MMF and sessionsdecrease in pain,improvement,not to MMF14% and 17%and 6% either didLoad, sets, repetitions, repetitionreported anot change orduration, and ROM for ILEX were notdecrease in pain,worsened; ofreported6% and 6%participants with107 Participants acted as nontrainingreported a slightfair or poorcontrolsdecrease in pain,results, 25%All participants underwent educational12% and 13%improved and 75%sessions and were given a home-basedreported nodid not change orexercise program to use duringchange in pain,worsenedfollow-upand 3% and 2%Return to work at 1Pre and post back and leg pain werereported ayear follow-upmeasured using a 5-item scale as wellworsening of painwas 77%as GPOs; return to work initially andIntervention groupat 1-y follow-up was also reportedreported GPOs of46%, 30%, 14%,(continued on next page)
+Study	Participants	Method	Outcome and 8% for
+"excellent," "good," "fair," or "poor," respectively
+Of 139 participants off work due to CLBP (w73 d),
+72% returned to work at completion of ILEX intervention
+
+Achieved MCICs
+[104] for VAS or ODI? Follow up?
+
+Leggett et al [55]
+
+192 Males (age w39-49 y) and 220 females (age w39-51 y) with CLBP
+
+Participants underwent an 8-wk intervention 2x/wk using ILEX resistance training, other resistance training exercises, aerobic exercise, and McKenzie therapy
+ILEX was performed using 50% of their maximum isometric torque performed to MMF through a full ROM; load was progressed by 2%-5% once the participant could complete more than 15 repetitions; sets and repetition duration for ILEX were not reported
+SF-36 and GPOs were completed pre and post
+
+Significant improvement in all subscales of SF-36 (P < .0001).
+w74% to w82%,
+w12% to w 24%, and w1% to 5% rated their outcome as "better,"
+"same," or "worse" between the 2 centers used
+
+N/A	At 1 year follow up maintenance of outcomes was apparent
+
+Costa [56]	4 Males and 5 females (age w63 y) with CLBP
+
+Participants underwent an 8-wk intervention 2x/wk using ILEX resistance training and other resistance training exercises
+A single set of ILEX was performed for 8-12 wk; load was progressed based on participant's perception as exercise became easier; load, whether exercise was performed to MMF, repetition duration, and ROM for ILEX were not reported
+McGill Pain Questionnaire and ODI were completed pre and post
+
+Significant improvement in ODI (5.33 points; P 1/4 .033) but not
+in McGill Pain
+Questionnaire score (3.22 points; P 1/4 .159)
+
+ODI failed to achieve MCIC
+
+N/A
+
+Carlson and MacKay, [58]
+
+28 Males (age w47 y, range 25-80 y) and 27 females (age w46.9 y, range 26-73 y) with CLBP
+
+Participants underwent a 6 wk intervention 2x/wk using ILEX resistance training
+ILEX was performed using a load that permitted 6-9 repetitions before MMF through a full ROM using a slow controlled manner, taking 4 s for concentric phase, holding for 2 s in extension, and 4 s for eccentric phase; load was progressed by 5% once the participant could complete
+>12 repetitions
+Load, sets, and ROM for ILEX were not
+reported
+ODI was completed pre and post
+
+Significant improvement in ODI (9-10.8
+points; P < .05)
+
+ODI achieved MCIC	N/A
+
+Al-Obaidi et al [59]
+
+42 Participants were initially recruited, 22 males (age 45 ± 6.2 y) and 20 females (age 39.25 ± 5.8 y)
+with CLBP
+
+36 Participants underwent a 10-wk intervention 1x/wk using ILEX resistance training
+A single set of ILEX was performed using a load permitting 6-12 repetitions before MMF using a slow controlled manner throughout the full ROM; Load was progressed by 5% once the
+participant could complete >12
+
+RMDQ scores significantly improved (w4 points, w16%; P < .001)
+
+RMDQ achieved MCIC
+Participants were dichotomized individually as to whether MCIC was met, and fear avoidance beliefs and baseline pain
+
+N/A
+
+
+(continued on next page)
+
+
+
+Study
+Participants
+Method
+OutcomeAchieved MCICs
+[104] for VAS or ODI?
+Follow up?repetitions; load and repetitionwere shown to beduration were not reported.higher in thoseRMDQ was completed pre and postfailing to achieveMCICWillemink20 Participants (ageParticipants underwent an ILEXRMDQ significantlyRMDQ achievedN/Aet al [60]46.2 ± 9.7 y) withresistance training interventionimproved at bothMCICCLBPlasting w24 wk including 10 sessionwk 12 and wk 24during the first 12 wk and sessions at(w3 points,participants convenience for thew13%; P 1/4 .024)second 12 wkPFS significantly4 Sets of ILEX for 10 repetitions wereimproved at bothperformed at a load determined bywk 12 and wk 24physiotherapist through a full ROM(w70 points; P <using a slow controlled manner, taking.001)2 s for concentric phase and 3 s forGPO showedeccentric phase; load was progressedcompleteonce the participant could completerecovery or4 sets comfortablysignificantRMDQ, GPO, and patient functionalimprovement inscale (PFS) were completed pre, 1243.8% and 50.0%wk post, and 24 wk postat wk 12 and wk24, respectivelyHelmhout81 Male workingParticipants underwent a 10-wkNo significantODI achieved MCICNo significantet al [61]army participantsintervention 2x/wk for wk 1-2 and 1x/differencesfor both groupsdifferences(age w40 y) withwk for wk 3-12 using ILEX resistancebetween groupsbetween groupsCLBPtraining either as "high intensity"were found forwere found for(HIT) or "low intensity" (LIT).self-assessedself-assessedFor HIT, load was 35% of max isometricimprovement,improvement,torque, and 15-20 repetitionsRMDQ, ODI, or SF-RMDQ, ODI or SF-performed during wk 1-2 and 10-153636 at 6- or 9-morepetitions performed during wk 3-12;TSK wasfollow-upload was progressed by 2.5 kg oncesignificantlyTSK wasthe participant could complete >20greater in LITsignificantlyrepetitions; whether exercise wasmidway throughgreater in LIT atperformed to MMF, sets, repetitionthe intervention9-mo follow-upduration, and ROM for ILEX was not(w0.4 points; P 1/4(w3.4 points; P 1/4reported.03).03).For LIT, load was 20% of max isometricLumbar extensionLumbar extensiontorque and 15 or 20 repetitionsstrength wasstrength wasperformed during wk 1-2 and wk 3-4significantlysignificantlyafter each test; whether exercise wasgreater for HIT atgreater for HIT atperformed to MMF, sets, repetitionall time points6- and 9-moduration, and ROM for ILEX was not(w31-58 Nm; P <follow-up (w24-reported.001)29 Nm; P < .05).
+
+
+
+Helmhout et al [62]
+
+
+
+
+107 Male working army participants (age w35-37 y, stature w183 cm, body mass w85 kg) with subacute LBP or CLBP
+
+RMDQ, ODI, TSK, and SF-36 were
+completed pre and post; follow-up was conducted at 6 and 9 mo
+61 Participants underwent a 10-wk intervention 2x/wk using ILEX resistance training
+Load was estimated at w50%-70% of maximum isometric torque and 15-20 repetitions performed in a slow controlled manner, taking 2 s for concentric phase and 4 s for eccentric phase. Load was progressed by 2.5 kg once the participant could complete
+>20 repetitions; whether exercise
+was performed to MMF, sets, and ROM
+for ILEX, was not reported
+46 Participants underwent a 10-wk intervention using regular physiotherapy
+
+
+
+
+No significant between groups differences for improvements in RMDQ (w4-5
+points), PSFS (w60 mm) at any time
+
+
+
+
+RMDQ achieved MCIC for both groups
+
+
+
+
+Follow-up at 36 wk and 62 wk showed that improvements were maintained for both groups, with no between- group differences
+
+
+
+
+
+
+
+
+
+(continued on next page)
+
+
+Study	Participants	Method	Outcome
+Regular physiotherapy included including 65% of activities as exercise (ie, trunk and leg strengthening, although physiotherapists were instructed not to use the specific lumbar extension device, core stability exercises, stretching, and specific McKenzie exercise); 25% constituted aerobic activity, 10%
+instruction and advice, and <1% as passive modalities.
+RMDQ, and Patient Specific Functional Score (PSFS), were completed pre and post and during follow-up
+
+Achieved MCICs
+[104] for VAS or ODI? Follow up?
+
+Harts et al [63]
+
+65 Male working army participants (age w42 y) with CLBP
+
+Participants underwent an 8-wk intervention 2x/wk for wk 1-2 and 1x/ wk for wk 3-8 using ILEX resistance training either as "high intensity" (HIT) or "low intensity" (LIT) or a waiting list control (WLC)
+For HIT, load was 50% of max isometric torque and 15-20 repetitions performed; load was progressed by
+2.5 kg once the participant could complete >20 repetitions; whether exercise was performed to MMF, sets, repetition duration, and ROM for ILEX was not reported
+For LIT, load was 20% of maximum isometric torque and 15 or 20 repetitions performed; whether exercise was performed to MMF, sets, repetition duration, and ROM for ILEX was not reported
+RMDQ, TSK, and SF-36 were completed pre and post; follow-up was conducted at 6 and 9 mo
+
+HIT group significantly improved in SF-36 compared to both
+LIT and WLC groups (7%; P <
+.05)
+HIT group significantly improved in self- assessed back symptoms also
+compared to WLC (39%; P < .05) and
+nonsignificantly
+compared to LIT (17%)
+No significant differences were found for any other variables
+
+RMDQ did not meet MCIC
+
+No significant differences between groups were found for self-assessed improvement, RMDQ, or SF-36 at
+16 wk follow-up
+
+Udermann et al [82]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vincent et al [83]
+
+9 Females (age
+39.1 ± 2.8 years,
+stature 164.2 ±
+1.6 cm, body
+mass 69.3 ± 4.0 kg), 9 males (age
+45.0 ± 2.5 years,
+stature 180.6 ±
+1.6 cm, body
+mass 87.8 ±
+4.7 kg), with
+CLBP
+
+
+
+
+49 Obese
+participants (67% females, age w68
+y) with CLBP
+
+9 Participants underwent a 4-wk intervention 1x/wk using ILEX resistance training
+Load was 50% of max isometric torque and a single set of 18-20 repetitions was performed to MMF through a full ROM using a slow controlled manner, taking 2 s for concentric phase and 4 s for eccentric phase; load was progressed by 5% once the participant could complete more than 20 repetitions
+9 Participants underwent a 4-wk intervention 2x/wk using McKenzie therapy and home exercises every 2 h
+SF-36 was completed pre and post
+18 Participants underwent a 4-month intervention 3x/wk using ILEX resistance training
+17 Participants underwent a 4-month intervention 3x/wk using ILEX resistance training and other resistance training exercises
+ILEX and other exercises were performed for a single set using 60% of their 1 Repetition Maximum for 15
+
+Significant improvement in 6 of 8 subscales of SF-36 for both
+groups (P < .05) with no
+difference between groups
+
+
+
+
+
+
+
+
+Significant group x time interactions for ODI (P 1/4 .015), RMDQ (P 1/4 .007),
+and PCS (P 1/4
+.002) in favor of
+  full-body group Pairwise
+comparisons between groups
+
+N/A	N/A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Full-body group met ODI MCIC
+
+
+
+
+
+
+
+
+
+(continued on next page)
+
+
+Study	Participants	Method	Outcome
+
+Achieved MCICs
+[104] for VAS or ODI? Follow up?
+
+repetitions, attempting to produce a rating on the Borg scale of 16-18; load was progressed 2%/wk to maintain this; whether exercise was performed to MMF, and ROM was not reported
+14 Participants acted as nontraining waiting list controls who received standard care (including bodyweight resistance exercises, dietary information, and information about back pain)
+ODI, RMDQ, pain catastrophizing, TSK, and fear avoidance beliefs were completed pre and post
+
+were not reported
+
+
+
+ILEX 1/4 isolated lumbar extension; CLBP 1/4 chronic low back pain; GPO 1/4 Global Perceived Outcome; 1x/wk 1/4 once per week; 2x/wk 1/4 twice per week; ROM 1/4 range of motion; MMF 1/4 momentary muscular failure; LBP 1/4 low back pain; VAS 1/4 visual analogue pain scale; ODI 1/4 Oswestry Disability Questionnaire; RMDQ 1/4 Roland Morris Disability Questionnaire; TSK 1/4 Tampa Scale for Kinesiophobia; SF-36 1/4 36-Item Short Form health survey; MOS 1/4 Medical Outcomes Study; MCIC 1/4 minimal clinically important change; N/A 1/4 not available.
+
+
+
+trials have also reported significant improvements in ODI, including Costa [56] (in contrast to the lack of significant results for the McGill Pain Questionnaire), and Carlson and Mackay [58] over a 6-week intervention of ILEX resistance training twice per week for 55 par- ticipants. Randomized controlled trials again have examined this effect on ODI scores as a result of the intervention in comparison to nontraining controls for w12- to 24-week interventions of ILEX resistance training once or twice per week, with samples ranging 24 to 74 participants [4,48-51]. Again, these studies are sufficiently powered to detect changes in ODI [46], with all showing significant reductions. It was also reported that significant relationships existed between improve-
+ments in lumbar extension strength and disability (r 1/4
+-0.414 to -0.539) [46]. Choi et al [47] noted a nonsig- nificant improvement in ODI score that favored the use
+of ILEX resistance training compared with nontraining controls in post-surgery lumbar diskectomy partici- pants; however P values were not reported. Kim et al
+[52] also demonstrated significant improvement in ODI from 12 weeks of ILEX resistance training twice per week for participants undergoing lumbar diskectomy.
+  Other measures of self-reported disability demonstrate similar results. In single-arm trials Al-Obaidi et al [59] showed significant improvement in the overall group mean between pre and post measures, using the Roland Morris Disability Questionnaire (RMDQ) for 42 participants undergoing 10 weeks of ILEX resistance training once per week, as did Willemink et al [60] for 20 participants un- dergoing w24 weeks of ILEX resistance training at a vari- able frequency. Willemink et al [60], however, also examined change in multifidus cross-sectional area reporting no change. Randomized controlled trials have also examined the RMDQ. Helmhout et al [61,62] and Harts et al [63] reported significant improvements in RMDQ in
+
+trials of 65 to 107 participants examining 8 to 10 weeks of ILEX resistance training once or twice per week. These studies also compared both heavy- and light-load ILEX resistance training, waiting list controls, and regular physiotherapy, which are detailed further below. Risch et al [53] also examined the perceived psychological and psychosocial effects of strengthening using ILEX resistance training compared with a nontraining control group. Both subscales of the Sickness Impact Profile (Physical and Psychosocial Dysfunction) showed significant improvement as result of the ILEX resistance training intervention. These improvements in perceived dysfunction occurred without any change in psychological variables such as anxiety and stress. Park et al [43] also reported a spontaneous increase in daily activity levels as a result of 8 weeks of ILEX resis- tance training twice per week, which suggested reduced disability or greater willingness to be active.
+  In terms of GPOs, differing approaches have been re- ported. Nelson et al [54] asked participants to rate the perceived effectiveness of the ILEX resistance training intervention as "excellent," "good," "fair," or "poor," which were rated respectively as 46%, 30%, 14%, and 8%. Leggett et al [55] reported that all subscales of the 36- Item Short Form health survey (SF-36) showed signifi- cant improvement in response to the ILEX resistance training intervention. In addition the investigators asked participants to rate their outcome as "better," "same," or "worse," which, between the 2 centers, ranged respectively from w74% to w82%, w12% to w 24%, and w1% to 5%. Willemink et al [60] measured GPO at 12 and 24 weeks of their ILEX resistance training intervention as
+1 1/4 "completely recovered," 2 1/4 "much improved," 3 1/4 "slightly improved," 4 1/4 "no change," 5 1/4 "slightly worsened," 6 1/4 "much worsened," and 7 1/4 "worse than ever." The results respectively were rated 1 or 2 1/4 43.8%, 3 to 5 1/4 56.3%, and 5 to 7 1/4 0% at 12 weeks, and 1 or
+
+
+
+2 1/4 50.0%, 3 to 5 1/4 37.6%, and 5 to 7 1/4 12.5% at
+24 weeks.
+  Recently, international consensus has been reached on what is referred to as the "minimal clinically important change" (MCIC) for changes in measures of perceived pain and disability [64]. The MCIC refers to the minimal change required in an outcome variable for it to have any meaningful impact upon a participant's perception of the overall outcome from an intervention. Thus it is usually considered with reference to the mean change found in a group for such a variable for which there is also a minimal positive perception of outcome reported in some form of GPO [65,66]. Ostelo et al [64] have suggested MCICs of 15 mm for VAS, 10 points for ODI, 5 points for RMDQ, or at least a 30% improvement from baseline. Considering these MCICs, the studies reported here that have examined ILEX resistance training interventions have consistently achieved these outcomes for VAS [42-48,50,51], ODI [46-48,50,51,58],
+and RMDQ [59-62], with few exceptions [42,49,52,56] in which participants in these studies had very low base- line ODI and VAS scores that may account for the lack of MCIC. Al-Obaidi et al [59] have reported that pre- intervention characteristics, including fear avoidance beliefs and initial pain intensity, may affect whether MCICs are met through ILEX resistance training, sug- gesting that higher scores in both of these characteris- tics predict failure to meet MCIC. However, the intention-to-treat analysis used in this study included 6 participants who did not complete the intervention as not achieving the MCIC, although reasons for not completing the intervention are not reported.
+  A number of studies have also examined whether improvements in pain and disability produced through ILEX resistance training interventions are long lasting. Nelson et al [54] followed up participants 1 year after- ward and reported that 94% of participants who had previously reported a GPO of either "good" or "excel- lent" had maintained these outcomes. This occurred despite low adherence to a prescribed program of home-based exercises during follow up (53%). Leggett et al [55] conducted 1-year follow-ups in both centers used in their study reporting maintenance of positives outcomes on the SF-36 from discharge to 1 year at both centers. Choi et al [47], however, in post lumbar dis- kectomy patients, showed that at 1 year follow-up VAS was similar for both the group training using ILEX resis- tance training and also the nontraining control group; however, the ILEX resistance training group had a significantly greater reduction in pain postintervention, thus benefiting from a longer period of time with mini- mal pain after surgery. Helmhout et al [61,62] and Harts et al [63] in randomised trials conducted 9-month and 16-week follow-ups after 8 to 10 weeks of ILEX resis- tance training once or twice per week, with samples of 81 and 65 participants, respectively. They also reported maintenance of outcomes for pain and disability over
+
+the follow-up; however, a number of participants (84%) elected to continue with the ILEX resistance training intervention over this period.
+  Collectively, a range of studies, including both pro- spective single arm trials and randomised controlled trials, suggest that ILEX resistance training is effective in producing reductions in pain and disability that are significant, clinically meaningful, and may also be long lasting. However, these studies have used varied appli- cations of this exercise approach, and thus examination of control of the specific resistance training variables (ie, the dose of exercise) [67,68] is key to providing recommendations on the best means of using ILEX resistance training in practice. Some have suggested following the American College of Sports Medicine's [69,70] recommendations for resistance training pre- scription [31]. However these have received criticism, and alternative evidence-based recommendations of resistance training to improve strength, endurance, and hypertrophy have been recently reviewed and sug- gested [71-73]. Furthermore, most studies examining recommendations for application of ILEX resistance training have been conducted in asymptomatic pop- ulations [17,74-76]. Although these support recent rec- ommendations for an approach involving a single set of repetitions performed to momentary muscular failure using a load that permits w8 to 12 repetitions before reaching failure, performed in a slow and controlled manner, at a frequency of around once per week to improve strength, endurance, and hypertrophy [71-73], whether training in this manner using ILEX resistance training is most efficacious for improving pain, disability, or other outcomes in symptomatic partici- pants is a different question. As such, the next section will report research that has sought to clarify the manipulation of specific resistance training variables (intensity of effort, load/repetition range, repetition duration, volume, frequency, and range of motion) using ILEX resistance training, so as to offer recommendations for its application in symptomatic populations.
+
+Manipulation of Resistance Training Variables for Use of ILEX Resistance Training
+
+  Two studies have examined the effect of altering "intensity" of lumbar extension resistance training using ILEX resistance training [61,63]. They have compared "high intensity training" (HIT) with "low intensity training" (LIT) [61] and also with a waiting list control group [63], and reported no difference between groups for improvement in disability (RDMQ) or overall outcome (SF-36 and GPOs) for HIT and LIT [61], or among HIT, LIT, and a waiting list control [63]. Unfortunately, however, these studies were not appropriately designed and controlled to examine the effects of "intensity," and have been recently commented upon [77]. In addition, more appropriate definition and use of the term
+
+
+
+"intensity" in resistance exercise has been suggested [72,73,77,78]. Recent proposals [77] define that "in- tensity refers to the degree or magnitude of a measur- able characteristic or variable" and thus cannot specifically be considered to refer to a particular vari- able (eg, load or effort, as is most common). Compari- son of load requires control of effort by having participants train to momentary muscular failure (MMF) [77]. Training for the HIT group in the first study [61] used 35% of their max ILEX strength, whereas the LIT group used 20%. In the second study [63], load was increased for the HIT group to 50% of their maximal lumbar extension strength while keeping the LIT group's training the same as previously. In neither study did the participants train to MMF.
+  Although intensity of load differed, it is impossible to know the degree to which effort also differed between HIT and LIT [61,63]. Effort increases with increased load, assuming that all other variables are constant, yet the loads used and the degree of difference between HIT and LIT was small (HIT used 35%/50% of max strength; LIT used 20% of max strength). In fact, the LIT group may have trained at a relative load similar to the HIT group as the author's note even the lowest possible load the ILEX device could not permit 20% in some participants [61]. Considering typical repetitions ranges possible at different relative loads [79,80], and the repetitions ranges used within these studies, both groups likely trained at similarly low effort. Thus lack of significant differences between groups is unsurprising. Furthermore, HIT and LIT were presented to the par- ticipants as "potentially equally effective for the lower back while targeting different aspects: strength in the HIT group versus mobility in the LIT group" (pp 540 [61]); thus it is not surprising that the HIT group made greater improvements in strength whereas the LIT group made greater improvements in TSK, reflecting fear of movement. Despite the relatively low-effort approach used by both HIT and LIT, the HIT group likely trained at a marginally higher effort, and most outcomes showed a trend toward greater improvement in this group [61,63]. That intensity of effort may be an important factor to consider in determining the effectiveness of ILEX resis- tance training has recently been noted [81]. Other studies already mentioned in which participants have completed repetitions to MMF have shown significant improvements in all outcomes compared to nontraining control groups [46,48,50,53,54] in contrast to the re- sults of the waiting list control group comparison by Harts et al [63]. Although increased load increases effort when repetitions performed are matched, no studies have directly examined the effect of different loads independently on clinical outcomes in CLBP while controlling for other variables. Neither have any studies directly compared differing repetition durations or different set volumes in symptomatic participants.
+  
+Frequency of training has varied in studies of ILEX resistance training using either a twice per week training frequency or a mixed training frequency of twice per week for the first 2 to 4 weeks followed by training once per week for the remainder of the inter- vention. Kim et al [52] examined 40 participants recovering from lumbar diskectomy training twice per week, once per week, once every 2weeks, or a non- training control. After surgery, participants completed 12 weeks of training using ILEX resistance training at a frequency of twice per week. Participants were then tested for lumbar extension strength, ODI, and VAS before then being randomized into a group training twice per week, once per week, once every 2 weeks, or a nontraining control. The group that trained once every 2 weeks did not significantly improve on either the ODI or VAS score. ODI scores improved significantly in both the once per week and the twice per week groups, whereas VAS scores significantly improved only in the twice per week groups. However, both VAS and ODI were very low when the measures were first used after sur- gery and the initial 12-week training (0.9 cm to 1.0 cm and 10.4 points to 10.8 points, respectively). Before surgery, participants' VAS scores ranged from 7.7 cm to
+8.7 cm and ODI from 83.8 points to 85.2 points, indi- cating improvement from before surgery to the first measurement of these variables. However, during the time between these 2 measurements, both surgery and 12 weeks of initial ILEX resistance training were per- formed, and it is unclear as to what degree either exerted these improvements. Bruce-Low et al [50] examined the effect of either once per week or twice per week ILEX resistance training over a 12-week intervention upon VAS and ODI scores. They reported no significant differences between improvements in VAS or ODI scores for either once per week or twice per week training.
+  Steele et al [46] recently examined the effects of manipulation of range of motion (ROM) during ILEX resistance training, comparing full ROM to limited ROM (performed using only the mid 50% of the participants' full ROM) training over 12 weeks. They reported no significant differences between improvements in lumbar extension strength across the full ROM, in agreement with previous literature in asymptomatic participants [82]. In addition, there were no significant differences in improvements for VAS and ODI when training using either full or limited ROM ILEX resistance training.
+  Despite the lack of controlled research examining clinical outcomes in response to different load, set volumes, and repetition durations, collectively research suggests that low frequency (once per week) yet high effort (to momentary muscular failure) ILEX resistance training performed through either a full or limited ROM can be recommended for best improvements in pain and disability. Although research indicates positive out- comes from ILEX resistance training and allows some
+
+
+
+specification of recommendations for achieving such outcomes, the question of its efficacy in comparison to other specific exercise approaches and alongside other co-interventions remains. The next section will report studies of different specific exercise approaches compared with ILEX resistance training in addition to its efficacy as a single intervention or part of multiple interventions.
+
+
+Studies of ILEX Resistance Training and Other Specific Exercise Approaches
+
+  Randomized controlled trials using ILEX resistance training with symptomatic participants appear to have been conducted only in comparison to floor/stability ball exercise approaches, and other TEX resistance machines. Udermann et al [83] reported no differences between 4 weeks of McKenzie exercise with and without ILEX resistance training once per week on 6 significantly improved subscales of the SF-36, including pain, in a sample of 18 participants. Helmhout et al [62] also re- ported no differences between a regular physiotherapy group and a group performing isolated lumbar extension resistance training using ILEX resistance training over 10 weeks and over 6- and 12-month follow-ups. The phys- iotherapy group performed a variety of treatments with the physiotherapist including 65% of activities as exer- cise (ie, trunk and leg strengthening [although physio- therapists were instructed not to use the specific lumbar extension device], core stability exercises, stretching, and specific McKenzie exercise), 25% constituted aero- bic activity, 10% instruction and advice, and less than 1% as passive modalities. However, 1 participant included in the physiotherapy group undertook ILEX resistance training and 2 of the 6 centers used during the study reported utilising the ILEX resistance training device despite being instructed not to for the physiotherapy group. Participants in the physiotherapy group that also received ILEX resistance training were included in analysis despite the co-intervention whereas 2 partici- pants from the group exclusively training on the ILEX resistance training machine who also accidently received a manual therapy co-intervention were excluded from analysis. The selectivity of participant inclusion for analysis is unclear as the authors reported following "intention to treat" principles.
+  Smith et al [48] conducted a randomized controlled trial involving 2 groups performing a 12-week training intervention once per week and a nontraining control group. The 2 training groups performed exercise using an ILEX resistance training device; however, 1 group trained with the restraints tightened as per the manu- facturer's recommendations (thus providing ILEX), and the other group trained without the use of the re- straints. The results showed that only the group that trained with use of the restraints (ie, ILEX) improved in
+
+any of the outcomes measured, which included lumbar extension strength, VAS, and ODI.
+  Many of the studies that have used ILEX resistance training and reported that its effectiveness have used it alongside numerous co-interventions, thus rendering it impossible to definitively conclude that the effective part of the intervention is indeed the inclusion of ILEX resistance training. For example, many studies have included co-interventions such as other forms of resis- tance training exercise (including use of machines and free weights), aerobic exercise using ergometers (eg, bicycle, treadmill), and also behavioral and lifting education [42,47,49,51,54-56,83,84]. Other studies, however, have examined the use of ILEX resistance training as a single intervention [43-46,48,50,52,53, 58-63,83,84]. The results of both studies of ILEX resis- tance training as a single or co-intervention suggest similar efficacy between both approaches. Interventions using ILEX resistance training alongside co-interventions have shown improvements of approximately w30% to w50% gains in lumbar extension strength, w26% to w69% improvement in pain using either SF-36 or VAS (w15 mm to w55 mm), and w17% to w30% improve- ment in ODI score (2.21 points to 5.33 points), compared with studies of ILEX resistance training as a single intervention reporting w20% to w55% gains in lumbar extension strength, w55% improvement in pain measured through VAS (w16 mm to w21 mm), w30% to w50% improvement in ODI score (w10 points to w14 points), and w16% improvement measured using the RMDQ. A randomized controlled trial by Vincent et al
+[84] has recently compared the use of ILEX resistance
+training as a single intervention with ILEX resistance training as part of a full-body machine-based resistance training intervention in addition to a control group undergoing standard care (including bodyweight resistance exercises, dietary information, and informa- tion about back pain) in 49 obese participants with CLBP. They reported that improvements in ODI, RMDQ and pain catastrophizing were significantly greater in the full-body training group compared with the single
+ILEX resistance training group. However, they only reported group x time effects and did not provide p values for pairwise comparisons where the changes reported for ODI qualitatively appear greater for the full-body group (-11.4 points) compared with ILEX
+resistance training (-6 points) and controls (-1.5
+points). Although results for the RMDQ and for lumbar
+extension strength respectively suggested greater im- provements, both the full-body group (-4.7 points and 40 Nm) and control group (-2.1 points and 35Nm) compared to the ILEX resistance training group (-1.1 points and 23 Nm), suggesting that the manipulation of
+resistance training variables in the ILEX resistance training intervention (eg, they did not train to MMF) may have been insufficient to address lumbar extensor deconditioning in these participants.
+
+
+
+Discussion
+
+  Three areas were considered for the purposes of this review: 1) the efficacy of ILEX resistance training upon perceived pain, disability and GPOs including the clinical meaningfulness of these outcomes in CLBP; 2) the manipulation of ILEX resistance training variables for best outcome to provide recommendations for clinical prescription; 3) and the comparison of ILEX resistance training and other specific exercise ap- proaches, including use of ILEX resistance training as part of a multiple- or single-intervention approach. The studies reviewed under these areas demonstrate that interventions using ILEX resistance training consistently produce significant improvements in both pain and disability that consistently meet MCICs. For practitioners considering the implementation of ILEX resistance training when working with persons with CLBP evidence suggests that an approach involving low frequency (once per week) yet high intensity of effort (to momentary muscular failure) using either full or limited range of motion ILEX resistance training is most effective. There is a lack of studies examining, with appropriate control, the impact of manipulating different load, set volumes and repetition duration; thus, prudence suggests that following recent evidence- based recommendations regarding these variables for resistance training may be sensible [71-73]. Further- more, comparison with other specific exercise ap- proaches has not been tested as rigorously as is desired in some studies because of the short duration of interven- tion [83], in addition to comparisons being confounded by both groups using ILEX resistance training [62]. How- ever, 1 study suggests that ILEX resistance training may be better than other specific exercise approaches [48], and studies suggest similar efficacy whether it is used as a single intervention or alongside co-interventions.
+  The nature of exercise performed using ILEX resis- tance training allows accurate quantification of the dose provided and specific application of this dose to an isolated area. In addition to this, the testing features of some ILEX resistance training devices allow accurate quantification of treatment progress. Finally, ILEX resistance training is a time-efficient strategy for tack- ling CLBP [88]. ILEX resistance training sessions require at least w50% less time compared to regular physical therapy [62]. A recent analysis suggests that greater benefit may occur with a greater frequency of exercise sessions (an additional 8 sessions required to improve VAS scores by 1 mm compared to controls) [36]. How- ever, ILEX resistance training specifically is apparently very effective with only a single weekly session, with no further benefit from additional sessions [50]. It seems clear also that ILEX resistance training is just as effec- tive as an individual treatment approach [43-46, 48,50,52,53,58-63,83,84], and that the benefits can occur from as little as 1 session per week taking
+
+approximately 10 to 15 minutes, with only 1 to 2 mi- nutes of that comprising exercise. As one of the biggest economic losses through CLBP occurs because of work hours lost through both treatment and absenteeism, a workplace strengthening program [42,85-87] using ILEX resistance training could be an effective occupational approach.
+  Mooney et al [85] demonstrated that the use of a rehabilitation protocol using ILEX resistance training in a strip mining facility with higher than average injury rates resulted in significantly reduced injuries and a reduction of workers compensation costs from $14,430 per month to $380 per month. In addition, Matheson and Mooney [86] report the results of a study [87] conducted within the airline industry using an ILEX resistance training program with 622 workers and 2937 control workers. Back injuries in the exercise group were 5.7 per year compared to 179 per year in the control group. A difference in costs was also noted, with cost of back injuries at $206 in the exercise group and $4,883 in the control group. Initial return to work also is considerably higher in postelumbar diskectomy patients undergoing ILEX resistance training compared to home-exercise based controls (87% ILEX resistance training compared to 25% controls) [47]. In individuals who are out of work because of CLBP-related complaints (w73 days off work), the initial return to work after ILEX resistance training is around 72% [54]. Nelson et al [88] also showed that the use of a rehabilitation program using ILEX resistance training for those with LBP who had originally been referred for spinal surgery resulted in only 7% of the participants requiring the expensive procedure. On average, the cost of an ILEX resistance training program in this study was $1950 compared to average total sur- gical costs ranging from $60,304 to $168,732. Large- scale studies [54,55] with 1-year follow-ups have also shown that direct health care costs may be reduced, as those individuals who were rehabilitated using ILEX resistance training were significantly less likely to re-use the general health care system. It should be noted that health care re-use because of ineffective treatment is one of the most significant contributors to total costs of LBP [19]. Thus it seems that, in terms of costs, ILEX resistance training perhaps offers an effective solution.
+The use of progressive specific resistance exercise in
+treating CLBP appears relatively uncommon at present, and the use of ILEX resistance training specifically even less so. For example, in the UK, according to 1 ILEX device company website (MedXonline.com), there are only 5 facilities with access to their ILEX device (although the authors of this article are aware of 2 others). Compared with the availability of their device in the United States, there is quite a difference. Within 75 miles of Los Angeles alone there are at least 49 fa- cilities each providing access to an ILEX device. If this is representative of other ILEX devices, then on the whole,
+
+
+
+availability seems limited in comparison with other specific exercise approaches. It seems peculiar that there is relatively little access to the equipment despite evidence supporting its use, and the current burden of CLBP. Some concerns may be with the initial cost of purchasing such equipment [20] and depreciation costs of materials [89]. However, when weighed against the costs to taxpayers and employers incurred by LBP, the cost of ILEX device purchase is paltry [20]. The use of ILEX resistance training can further help to alleviate high costs involved with surgery [88], the direct cost of health care re-use [54,55], and the indirect costs involved with loss of work hours and insurance claims [85,87]. In addition, there are a range of ILEX devices available commercially in a range of prices (eg, Lumbar Extension Machine, MedX, Ocala, FL; BackUp Dyna- mometer, Priority One Equipment, Grand Junction, CO; Lower Back Revival System, OriGENE Concepts BV, Delft, the Netherlands). Some offer sophisticated testing op- tions, whereas others are purely for exercise use. Although sophisticated testing might be desirable in research, it may be less of a concern to clinicians, and so more low-technology options might be considered. The reliability of ILEX resistance training use in treat- ment between separate facilities has also been shown [55], and this would suggest that if more health care facilities were to obtain ILEX devices, the results gained from treatment would be consistent across facilities. The costs of ILEX resistance training should be weighed against the benefits (including reduction of treatment time through its minimal approach) when making de- cisions in this regard [89].
+  Despite the current body of research in this area, there is scope for further research regarding ILEX to be conducted. There is a lack of rigorous research exam- ining ILEX resistance exercise in comparison with other specific exercise approaches. Also, considering this, the extent of potential placebo effects, albeit difficult to examine in exercise-based studies [90], is an area regarding ILEX resistance training that also requires ex- amination, as it is noted that engagement in any type of exercise might offer some benefit through such means [91,92]. CLBP is being considered more commonly as a multifactorial disorder with an array of symptoms and associations [15,16]. The use of ILEX resistance training, however, has yet to be considered in the wider scope of the multifactorial nature of CLBP. Some suggest that it may offer a range of treatment effects [89]; yet it is unknown whether it may also confer as-yet-unseen benefits to other aspects of physical function, and symptoms associated with CLBP as might be deduced from speculations regarding the role of lumbar extensor deconditioning in low back pain and injury [17-21]. Indeed, although a proposed mechanism of action is the specific strengthening of the lumbar extensor muscula- ture that this type of treatment offers and there is some evidence to support a link between clinical
+
+improvements and strength improvements [46,54,81], it is necessary to further examine the "black box" of treatment mechanisms, as this has recently been ques- tioned [60,91,92]. Finally, as some have complained of the costs involved with specialized equipment such as ILEX devices, future research should look into the pos- sibility of the effects of other specific exercise (ie, those described by Mayer et al [29]) as a kind of "mainte- nance" program that could be performed after an initial specific exercise program using ILEX resistance training so as to reduce participants' reliance on specialized equipment, supervision, and locations.
+
+Conclusion
+
+  In conclusion, the studies considered in this review suggest that an ILEX resistance training intervention of low frequency (once per week) yet high intensity of effort (to momentary muscular failure) approach using either full or limited range of motion, either as a single approach or along with co-interventions, is effective in producing significant and clinically meaningful improve- ments in pain and disability for individuals with CLBP. However, because of the lack of research, it is less clear as to whether these improvements are in fact greater than might be achieved through other specific exercises.
+
+References
+
+1. World Health Organisation. The World Health Report 1998: Life in the 21st century: A Vision for All. Geneva: Office of Publications, World Health Organisation; 1998.
+2. Office for National Statistics. Social Trends 30. London: The Sta- tionary Office; 2000.
+3. Waddell G, Burton AK. Occupational health guidelines for the management of low back pain at work: Evidence review. Occup Med 2001;51:126-135.
+4. Walker BF. The prevalence of low back pain: A systematic re- view of the literature from 1966 to 1998. J Spinal Disord 2000; 13:205-217.
+5. National Institute for Health and Clinical Excellence. Low back pain: Early management of persistent non-specific low back pain. London: Royal College of General Practitioners; 2009.
+6. Van Tulder MW, Koes BW, Bouter LM. A cost-of-illness study of back pain in the Netherlands. Pain 1995;62:233-240.
+7. Guo HR, Tanaka S, Halperin WE, et al. Back pain prevalence in US industry and estimates of lost workdays. Am J Public Health 1999; 89:1029-1035.
+8. Maniadakis N, Gray A. The economic burden of back pain in the UK.
+Pain 2000;84:95-103.
+9. Waddell G, Aylward M, Sawney P. Back Pain, incapacity for work and social security benefits: An international literature review and analysis. Glasgow: Royal Society of Medicine Press Ltd; 2002.
+10. Stewart WF, Ricci JA, Chee E, et al. Lost productive time and cost due to common pain condition in the US workforce. JAMA 2003; 290:2443-2454.
+11. Ekman M, Johnell O, Lidgren L. The economic cost of low back pain in Sweden in 2001. Acta Orthop 2005;76:275-284.
+12. Ricci JA, Stewart WF, Chee E, et al. Back pain exacerbations and lost productive time costs in United States workers. Spine 2006;31: 3052-3060.
+
+
+
+13. Katz JN. Lumbar disc disorders and low back pain: Socioeconomic fac- tors and consequences. J Bone Joint Surg Am 2006;88(Suppl 2):21-24.
+14. Freburger JK, Holmes GM, Agans RP, et al. The rising prevalence of chronic low back pain. Arch Intern Med 2009;169:251-258.
+15. National Research Council and the Institute of Medicine. Muscu- loskeletal disorders and the workplace: Low back and upper ex- tremities. Washington, DC: National Academy Press; 2001.
+16. National Research Council. Work-related musculoskeletal disor- ders: A review of the evidence. Washington, DC: National Academy Press; 1998.
+17. Pollock ML, Leggett SH, Graves JE, et al. Effect of resistance training on lumbar extension strength. Am J Sports Med 1989;17: 624-629.
+18. Jones A. The Lumbar Spine, the Cervical Spine and the Knee. Ocala, FL: MedX Corporation; 1993.
+19. Carpenter DM, Nelson BW. Low back strengthening for the pre- vention and treatment of low back pain. Med Sci Sport Exerc 1999; 31:18-24.
+20. Smith D, Bruce-Low S, Bissell G. Twenty years of specific, isolated lumbar extension research: A review. J Orthop 2008;5:14.
+21. Steele J, Bruce-Low S, Smith D. A reappraisal of the deconditioning hypothesis in low back pain: Review of evidence from a triumvi- rate of research methods on specific lumbar extensor decondi- tioning. Curr Med Res Opin 2014;30:865-911.
+22. DeLorme TL, Watkins AL. Technics of progressive resistance ex- ercise. Arch Phys Med Rehabil 1948;29:263-273.
+23. DeLorme TL. Restoration of muscle power by heavy-resistance exercises. J Bone Joint Surg 1945;27:645.
+24. Zander G. OM Medico-Mekaniska Instituteti Stockholm. J Nord Med 1872. Band IV.
+25. Fischinger J, Fischinger A, Fischinger D. Doctor Zander's medico- mechanical institute in Opatija. Acta Med Hist Adriat 2009;7: 253-266.
+26. Da Silva RA, Lariviere C, Arsenault AB, et al. Pelvic stabilization and semisitting position increase the specificity of back exercises. Med Sci Sports Exerc 2009;41:435-443.
+27. Lariviere C, da Silva RA, Arsenault AB, et al. Specificity of a back muscle exercise machine in healthy and low back pain subjects. Med Sci Sports Exer 2010;42:592-599.
+28. Steele J, Bruce-Low S, Smith D. A review of the specificity of ex- ercises designed for conditioning the lumbar extensors. Br J Sports Med 2013. E-pub ahead of print.
+29. Mayer J, Mooney V, Dagenais S. Evidence informed management of chronic low back pain with lumbar extensor strengthening exer- cises. Spine J 2008;8:96-113.
+30. Slade SC, Keating JL. Trunk-strengthening exercise for chronic low back pain: A systematic review. J Manipul Physiol Ther 2006;29: 163-173.
+31. Helmhout PH, Staal JB, Maher CG, et al. Exercise therapy and low back pain: Insights and proposals to improve design, conduct, and reporting of clinical trials. Spine 2008;33:1782-1788.
+32. Van Tulder MW, Malmivaara A, Esmail R, et al. Exercise therapy for low back pain. Cochrane Database Syst Rev 2000;2:CD00335.
+33. Hayden J, Van Tulder MW, Malmivaara A, et al. Exercise therapy for no-specific low back pain. Cochrane Database Syst Rev 2005;3: CD000335.
+34. Manniche C, Jordan A. Letter to the editor. Spine 2001;26:842-843.
+35. Manniche C, Jordan A. Letter to the editor. Spine 2001;26:994.
+36. Ferreira ML, Smeets RJEM, Kamper SJ, et al. Can we explain het- erogeneity among randomized clinical trials of exercise for chronic low back pain? A meta-regression analysis of randomized controlled trials. Phys Ther 2010;90:1383-1403.
+37. Steele J, Bruce-Low S. Steiger et al. 2011: Relationships and specificity in CLBP rehabilitation through exercise. Eur Spine J 2012;21:1887.
+38. Steiger F, Wirth B, de Bruin ED, Mannion AF. Answer to the Letter to the Editor by Steele J, et al concerning the manuscript "Is a positive clinical outcome after exercise therapy for chronic
+
+non-specific low back pain contingent upon a corresponding improvement in targeted aspects(s) of performance? A systematic review," by Steiger F, Wirth B, de Bruin ED, Mannion AF. Eur Spine J 2012;21:575-598.
+39. Miltner O, Wirtz DC, Siebert CH. Strengthening lumbar extensorsd therapy of chronic back paindan overview and meta-analysis. Z Orthop Ihre Grenzgeb 2001;139:287-293.
+40. Greenhalgh T, Peacock R. Effectiveness and efficiency of search methods in systematic reviews of complex evidence: Audit of primary sources. BMJ 2005;331:1064-1065.
+41. Ogon M, Krismer M, Sollner W, et al. Chronic low back pain mea- surement with visual analogue scales in different settings. Pain 1996;64:425-428.
+42. Mooney V, Matheson L, Holmes D, et al. Effect of focused strength training after low back injury. North American Spine Society Annual Meeting; November 1993; San Diego, CA.
+43. Park YJ, Choi KS, Lee SG. Effect of lumbar extensor strengthening in chronic low back pain patients. J Korean Acad Rehabil Med 2000; 24:295-300.
+44. Lee KW, Kwon JY, Kim HS, et al. Back exercise program with lumbar extension resisting exercise in patients with chronic low back pain. J Korean Acad Rehabil Med 2000;24:536-541.
+45. Holmes B, Mooney V, Negri S, et al. Comparison of female geriatric lumbar extension strength: Asymptomatic versus chronic low back pain patients and their response to active rehabilitation. J Spinal Disord 1996;9:17-22.
+46. Steele J, Bruce-Low S, Smith D, et al. A randomised controlled trial of limited range of motion lumbar extension exercise in chronic low back pain. Spine 2013;38:1245-1252.
+47. Choi G, Raiturker PP, Kim M, et al. The effect of early iso- lated lumbar extension exercise program for patients with herniated disc undergoing lumbar discectomy. Neurosurgery 2005;57:764-772.
+48. Smith D, Bissell G, Bruce-Low S, et al. The effect of lumbar extension training with and without pelvic stabilization on lumbar strength and low back pain. J Back Musculoskelet Rehabil 2011;24: 1-9.
+49. Ju S, Park G, Kim E. Effects of an exercise treatment program on lumbar extensor muscle strength and pain of rehabilitation patients recovering from lumbar disc herniation surgery. J Phys Ther Sci 2012;24:515-518.
+50. Bruce-Low S, Smith D, Burnet S, et al. One lumbar extension training session per week is sufficient for gains and reductions in pain in patients with chronic low back pain ergonomics. Ergo- nomics 2012;55:500-507.
+51. Stephan A, Goebel S, Schmidtbleicher D. Effects of machine-based strength training in the therapy of chronic back pain. Deutchse Zeitschrift fu¨r Sportmedizin 2011;62:69-74.
+52. Kim Y, Park J, Hsu J, et al. Effects of training frequency on lumbar extension strength in patients recovering from lumbar discectomy. J Rehabil Med 2010;42:839-845.
+53. Risch SV, Norvell NK, Pollock ML, et al. Lumbar strengthening in chronic low back pain patients. Spine 1993;18:232-238.
+54. Nelson BW, O'Reilly E, Miller M. The clinical effects of intensive, specific exercise on low back pain: A controlled study of 895 consecutive patients with a one year follow up. Orthopedics 1995; 18:971-981.
+55. Leggett S, Mooney V, Matheson LN, et al. Restorative exercise for clinical low back pain: A prospective two-center study with 1-year follow up. Spine 1999;24:889-898.
+56. Costa K. Effects of a trunk strengthening program on pain perception, strength and flexibility on patients with non-specific low back pain. Thesis, Pindara Physiotherapy and Sports Medi- cine, 2010. Available at: http://pindaraphysio.com.au/cms-assets/ documents/97793-627942.kelly-costa-final-manuscript-april-201. Accessed December 31, 2014.
+57. Fairbank JC, Couper J, Davies JB, et al. The Oswestry Low Back Pain Disability Questionnaire. Physiotherapy 1980;66:271-273.
+
+
+
+58. Carlson J, MacKay G. Impact of specific muscular strength therapy on patients with chronic lower back pain. Thesis, Functional Physiol, 2010.
+59. Al-Obaidi SM, Beattie P, Al-Zoabi B, et al. The relationship of anticipated pain and fear avoidance beliefs to outcome in patients with chronic low back pain who are not receiving workers compensation. Spine 2005;30:1051-1057.
+60. Willemink MJ, van Es HW, Helmhout PH, et al. The effects of dynamic isolated lumbar extensor training on lumbar multifidus functional cross-sectional area and functional status of patients with chronic nonspecific low back pain. Spine 2012;37:E1651-E1658.
+61. Helmhout PH, Harts CC, Staal JB, et al. Comparison of a high in- tensity and a low intensity lumbar extensor training program as a minimal intervention treatment in low back pain: A randomized trial. Eur Spine J 2004;13:537-547.
+62. Helmhout PH, Harts CC, Viechtbauer W, et al. Isolated lumbar extensor strengthening versus regular physical therapy in an army working population with nonacute low back pain. Arch Phys Med Rehabil 2008;89:1675-1685.
+63. Harts CC, Helmhout PH, de Bie RA, et al. A high intensity lumbar extensor strengthening program is little better than a low intensity program or a waiting list control group for chronic low back pain: A randomised clinical trial. Aust J Physiother 2008;54:23-31.
+64. Ostelo RWJG, Deyo RA, Stratford P, et al. Interpreting change scores for pain and functional status in low back pain: Towards international consensus regarding minimal important change. Spine 2008;33:90-94.
+65. De Vet HC, Terwee CB, Ostelo RW, et al. Minimal changes in health status questionnaires: Distinction between minimally detectable change and minimally important change. Health Qual Life Out- comes 2006;4:54.
+66. Kovacs FM, Abraira V, Royuela A, et al. Minimum detectable and minimal clinically important changes for pain in patients with non- specific neck pain. BMC Musculoskelet Disord 2008;9:43.
+67. Mooney V. On the dose of therapeutic exercise. Orthopedics 1992; 15:653-656.
+68. Mooney V. The Unguarded Moment: A Surgeon's Discovery of the Barriers to Prescription of Inexpensive, Effective Healthcare in the Form of Therapeutic Exercise. New York: Vantage Press; 2007.
+69. Kraemer WJ, Adams K, Cafarelli E, et al. Progression models in resistance training for healthy adults. Med Sci Sports Exerc 2002; 34:364-380.
+70. American College of Sports Medicine. Progression models in resis- tance training for healthy adults. Med Sci Sports Exerc 2009;41: 687-708.
+71. Carpinelli R, Otto RM, Winett RA. A critical analysis of the ACSM position stand on resistance training: Insufficient evidence to support recommended training protocols. J Exerc Physiol 2004;7: 1-60.
+72. Fisher J, Steele J, Bruce-Low S, Smith D. Evidence based resistance training recommendations. Medicina Sportiva 2011;15:147-162.
+73. Fisher J, Steele J, Smith D. Evidence bases resistance training recommendations for muscular hypertrophy. Medicina Sportiva 2013;17:217-235.
+74. Graves JE, Pollock ML, Foster D, et al. Effect of training frequency and specificity on isometric lumbar extension strength. Spine 1990;15:504-509.
+75. Carpenter DM, Graves JE, Pollock ML, et al. Effect of 12 and 20 weeks of resistance training on lumbar extension torque pro- duction. Phys Ther 1991;71:580-588.
+76. 
+Tucci JT, Carpenter DM, Pollock ML, et al. Effect of reduced fre- quency of training and detraining on lumbar extension strength. Spine 1992;17:1497-1501.
+77. Steele J. Intensity in-ten-si-ty; noun. 1. Often used ambiguously within resistance training. 2. Is it time to drop the term alto- gether? Br J Sports Med 2013;48:1586-1588.
+78. Fisher J, Smith D. Attempting to better define "intensity" for muscular performance: Is it all a wasted effort? Eur J Appl Physiol;112:4183e4185.
+79. Hoeger WWK, Hopkins DR, Barette SL, et al. Relationship between repetitions and selected percentages of one repetition maximum: A comparison between untrained and trained males and females. J Strength Cond Res 1990;4:46-54.
+80. Shimano T, Kraemer WJ, Spiering BA, et al. Relationship between the number of repetitions and selected percentages of one repe- tition maximum in free weight exercises in trained and untrained men. J Strength Cond Res 2006;20:819-823.
+81. Steele J, Bruce-Low S, Smith D. Controlling Resistance Training Variables in Interventions for Chronic Nonspecific Low Back Pain: Letter to the Editor regarding "The Effects of Dynamic Isolated Lumbar Extensor Training on Lumbar Multifidus Functional Cross- Sectional Area and Functional Status of Patients with Chronic Nonspecific Low Back Pain." Spine 2013;38:1609-1610.
+82. Graves JE, Pollock ML, Leggett SH, Carpenter DM, Fix CK, Fulton MN. Limited range-of-motion lumbar extension strength training. Med Sci Sport Exerc 1992;24:128-133.
+83. Udermann BE, Mayer JM, Donelson RG, et al. Combining lumbar extension training with McKenzie therapy: Effects on pain, disability, and psychosocial functioning in chronic low back pain patients. Gundersen Lutheran Med J 2004;3:7-12.
+84. Vincent HK, George SZ, Seay AN, et al. Resistance exercise, disability, and pain catastrophizing in obese adults with back pain. Med Sci Sport Exerc 2014;46:1693-1701.
+85. Mooney V, Kron M, Rummerfield P, et al. The effect of workplace based strengthening on low back injury rates: A case study in the strip mining industry. J Occup Rehabil 1995;5:157-167.
+86. Matheson L, Mooney V. Employment screening and functional ca- pacity evaluation. In: Liebenson C, ed. Rehabilitation of the Spine: A Practitioners Manual. New York: Lippincott Williams & Wilkins; 2007; 276.
+87. Dreisinger TE. Does prevention work? In: San Diego Comprehensive Care Symposium. San Diego CA, July 27-30 2000.
+88. Nelson BW, Carpenter DM, Dreisinger TE, et al. Can spinal surgery be prevented by aggressive strengthening exercise? A prospective study of cervical and lumbar patients. Arch Phys Med Rehabil 1999; 80:20-25.
+89. Helmhout PH, Harts CC, Staal JB, et al. Rationale and design of a multicentre randomized controlled trial on a "minimal interven- tion" in Dutch army personnel with nonspecific low back pain. BMC Musculoskelet Disord 2004;5:40.
+90. Dvir Z. Muscle performance enhancement in some non- orthopaedic conditions: Evidence based on modified randomised controlled trials. Isokinet Exerc Sci 2007;15:1-9.
+91. Lederman E. The myth of core stability. J Bodyw Mov Ther 2010; 14:84-98.
+92. Steiger F, Wirth B, de Bruin ED, et al. Is positive clinical outcome after exercise therapy for chronic non-specific low back pain contingent upon a corresponding improvement in the targeted aspect(s) of performance? A systematic review. Eur Spine J 2012; 21:575-598.
+
+
+
+Disclosure
+
+
+J.S. Centre for Health, Exercise and Sport Science, Southampton Solent Uni- versity, East Park Terrace, Southampton, Hampshire SO14 0YN, UK. Address correspondence to: J.S.; e-mail: james.steele@solent.ac.uk
+Disclosure: nothing to disclose
+
+S.B.-L. Centre for Health, Exercise and Sport Science, Southampton Solent University, Southampton, Hampshire, UK
+Disclosure: nothing to disclose
+
+D.S. Centre for Health, Exercise and Sport Science, Southampton Solent Uni- versity, Southampton, Hampshire, UK; Department of Exercise and Sport Sci- ence, Manchester Metropolitan University, Crewe, Cheshire, UK
+Disclosure: nothing to disclose
+Submitted for publication November 7, 2013; accepted October 5, 2014.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,218 @@
+DOI 10.1186/s12937-017-0229-6
+
+
+
+
+Effect of a high protein diet and/or resistance exercise on the preservation of fat free mass during weight loss in overweight and obese older adults: a randomized controlled trial
+Amely M. Verreijen1*, Mariëlle F. Engberink1, Robert G. Memelink1, Suzanne E. van der Plas1, Marjolein Visser2,3 and Peter J.M. Weijs1,3
+
+
+
+
+
+
+
+* Correspondence: a.verreijen@hva.nl
+1Department of Nutrition and Dietetics, Faculty of Sports and Nutrition, Amsterdam University of Applied Sciences, Dr. Meurerlaan 8, 1067 SM Amsterdam, Netherlands
+Full list of author information is available at the end of the article
+
+(c) The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+
+
+
+
+Background
+Older adults represent the fastest growing population in Europe, but also in the rest of the world [1]. The preva- lence of obesity among this age group is 20-30% which has dramatically increased in the past decades [1]. Obes- ity in older adults is a serious health problem related with multiple chronic health conditions and plays an im- portant role in non-fatal disability [2], which in turn may contribute to lower quality of life [2].
+  Weight loss leads to metabolic and functional benefits [3]. However, a potential drawback of weight loss in older adults is the accompanying loss of skeletal muscle mass [4], which in turn might accelerate the development of sarcopenia [5]. Strategies to reduce the loss of skeletal muscle mass during weight loss include resistance exercise and sufficient intake of high quality protein [6, 7]. Resist- ance exercise stimulates muscle protein synthesis, which in turn supports muscle mass preservation and muscle function [8]. In addition, high dietary protein intake has been shown to stimulate muscle protein synthesis in older adults [1, 9-11]. Several studies indicate that, in contrast to young adults, older adults might be resistant to ana- bolic stimuli from protein, which implies a blunted post prandial response [12, 13].
+  The number of weight loss trials in overweight or obese older adults is limited, and trials combining resistance exer- cise with a high protein diet are scarce [14]. We previously studied the effect of a high whey protein-, leucine- and vita- min D-enriched supplement on muscle mass preservation during a 13-week weight loss program including 3 times/ week resistance exercise in obese older adults [15]. Subjects in the intervention group received a supplement containing 21 g whey protein (10 servings/wk), whereas the control group received an isocaloric control supplement. This study showed that the intervention group significantly preserved their muscle mass compared to the control group with an effect size of 0.95 kg (95% CI: 0.09;1.81).
+Generally, dieticians give dietary advice regarding weight
+loss treatment based on regular foods, not including any specific supplements. Porter-Starr et al. [16] recently evalu- ated the effect of a high protein hypocaloric diet using meal-based protein foods in obese older adults over a 6- month period. They found a positive effect on physical per- formance, but no significant effect on fat free mass (FFM). No studies so far have evaluated the effects of a high pro- tein diet using regular foods with or without resistance ex- ercise on the preservation of FFM during weight loss in older overweight and obese subjects. In the present study we therefore evaluated the effects of a high protein diet and/or resistance training on preservation of FFM, fat mass (FM) loss, waist circumference loss and improvement of handgrip strength and physical performance during a 10- week weight loss trial in overweight and obese adults aged 55 years and over.
+
+Methods
+Subjects
+Overweight and obese men and women (=55 y) with BMI = 28 kg/m2, or BMI > 25 kg/m2 with waist circumference > 88 cm (women) or > 102 cm (men), were recruited from the Amsterdam area through local flyers and advertise- ments. Potential subjects were excluded when they had par- ticipated in any weight loss program three months prior to screening; when participation in the resistance training pro- gram was considered unsafe according to a physiotherapist; or when they were not able to comply with the full study protocol. All women were postmenopausal and did not use hormone replacement therapy. A full description of the eli- gibility criteria is online available in the Dutch Trial Register (NTR4556, www.trialregister.nl). The study was approved by the Medical Ethics Committee Independent Review Board Nijmegen, Netherlands (NL43226.072.14) and writ- ten informed consent was obtained from all subjects. The study took place from May 2014 through December 2014 at the Amsterdam University of Applied Sciences in The Netherlands.
+
+Design and randomization procedures
+We performed a 10-week randomized controlled trial with a 2-by-2 factorial design combining the factors 'high protein diet' and 'resistance exercise'. Eligible sub- jects were randomly allocated to either the control group (C) receiving a hypocaloric normal protein dietary advice, the high protein diet group (Pr) receiving a hypo- caloric high protein dietary advice, the exercise group (Ex) receiving a hypocaloric normal protein dietary ad- vice with an exercise program, or to the high protein diet and exercise group (PrEx) receiving both a hypoca- loric high protein dietary advice and an exercise pro- gram. Randomization envelopes with four different codes stratified by gender were generated using a ran- dom number generator by the study coordinator. Body composition, waist circumference, handgrip strength and physical performance were assessed at study baseline and after 5 and 10 weeks of intervention.
+
+Hypocaloric diet and protein advice
+All subjects followed a hypocaloric diet of 600 kcal below estimated energy needs [17]. Energy needs were estimated by multiplying measured resting energy ex- penditure using indirect calorimetry (Vmax Encore n29; Viasys Healthcare, Houten, the Netherlands) with the es- timated physical activity level using a 3-day physical ac- tivity record. Prescribed dietary protein intake was 0.8 g/ kg body weight (BW) for the normal protein dietary ad- vice, and 1.3 g/kg for the high protein dietary advice (using current BW for BMI < 30 kg/m2 or using BW at BMI 27.5 kg/m2 for those with a BMI = 30 kg/m2) [18].
+
+
+
+
+
+  For each subject the amount of energy (kcal) and pro- tein (g) was calculated and incorporated in the dietary ad- vice, which was given at study baseline, together with a specific food variation list for either the high protein or the normal protein diet. Foods were not provided. During intervention, subjects of all groups received five dietary consultations; two times during a face-to-face visit at week 5 and 9, and three times by telephone in week 2, 4 and 7. Dietary intake was assessed by a 3-day food record at baseline, after 5 and 10 weeks of intervention. Intake after 5 and 10 weeks was used to evaluate compliance to the prescribed diet. Food records were checked for complete- ness during study visits and additional information about unclear items or amounts was obtained. Total energy and macronutrient intakes were calculated using a computer- ized Dutch Food Composition Table [19].
+
+Exercise program
+The exercise program involved resistance training 3 days a week for 1-h sessions. The training started with a 10-min warming up followed by two sets of 50 s of the following exercises: squats, lunges, chest press, shoulder press, bi- ceps curls, triceps extensions, standing rows, step-ups and crunches. During the 10-week period the number of sets was gradually increased from 2 - 3 set for all exercises, the time to perform the exercises increased from 50 - 75 s, and resistance was increased by using dumbbells, elastic bands, medicine balls and a step bench. The train- ing ended with 5-min cooling down. The exercise pro- gram was developed by certified trainers and a physiotherapist and training sessions were supervised by certified trainers. Attendance to the training sessions was recorded by the trainer.
+
+Measurement of body composition, waist circumference, handgrip strength and physical performance
+Body composition including FFM (primary outcome) and FM was determined using air displacement plethys- mography (BODPOD, Life Measurement Inc., Concord, CA). BW was measured on the calibrated scale as part of the BODPOD system. Waist circumference was mea- sured in a standing position halfway between the anter- ior superior iliac spine and the lower rib after normal expiration. Handgrip strength was measured with an isometric handgrip dynamometer (JAMAR 5030 J1, Sammons Preston Rolyan, Bollingbrook, CA) while the subject was seated with the elbow flexed at 90°. Three consecutive measures of handgrip strength (kg) at both hands were recorded to the nearest 0.1 kg and the sum of the maximum value of left and right hand was calcu- lated. Physical performance was assessed with a 400-m gait speed test (m/s) [20], a 4-m gait speed test (fastest of 2 repetitions of usual gait speed, (m/s)), and a chair stand test (s) [21].
+
+Statistical analysis
+Double-data entry was performed and discrepancies were checked and adjusted. Statistical analyses were per- formed with FFM change as primary outcome. A sample size of n = 21 per study group, n = 84 in total, provided 80% power to detect an absolute difference of 0.5 kg FFM with SD 0.4 kg and P < 0.05 (2-sided) [22, 23].
+  Subject characteristics and dietary intake at baseline were compared between groups using an independent samples t-test or the Fisher Exact test. Intention-to-treat analysis was performed using last observations carried for- ward for subjects with missing week 5 and/or week 10 measurements. Between group differences on outcome variables were analysed using a mixed linear model in- cluding time, protein (high/normal), exercise (yes/no) as fixed factors, subject as random factor and sex and base- line value of the outcome variable as covariates. For all outcome variables the interaction for protein*exercise was tested. This interaction tested whether the effect in the ex- ercise groups is dependent on whether the subjects re- ceived the high or the normal protein diet (and vice versa). Within group changes over 10 weeks were esti- mated using a paired t-test.
+Statistical analyses were performed using SPSS software
+(version 22.0, IBM). Data in text and tables are expressed as means with SD, unless stated otherwise. Statistical sig- nificance was defined as a two-tailed P < 0.05.
+
+Results
+Subjects
+We randomized 122 subjects into the four study groups. Before the baseline visits 22 subjects declined study par- ticipation for personal reasons. The number of subjects screened, excluded, randomized, and included in the ana- lysis is shown in Fig. 1. Mean age of the study population was 62.4 ± 5.4 y, 36% was male, mean BMI was 32.2 ±
+4.3 kg/m2 and 66% was obese. There were no relevant dif- ferences in subject's characteristics between the study groups at study baseline (Table 1). Of the 100 subjects with a baseline visit, 32 subjects dropped-out during the study because of adverse events not related to the study (n = 7), adverse events related to the study (n = 1, lash), personal reasons (n = 14), or unknown reasons (n = 10).
+
+Dietary intake and adherence to exercise program
+There were no differences between groups in self- reported mean dietary intake at baseline and the en- ergy reduction during treatment (Table 2). Protein intake during the trial was 1.13 ± 0.35 g/kg/d in the high protein groups. Protein intake was on average 87% of the protein target of 1.3 g/kg/d, with 29% of the subjects reaching this target. In the normal pro- tein groups the protein intake during the trial was
+0.98 ± 0.29 g/kg/d, which was on average 123% of the
+
+
+
+
+
+
+
+
+protein target, with 78% of the subjects reaching the protein target of 0.8 g/kg/d. The high protein groups had on average a 16.3 ± 5.2 g/d higher protein intake during intervention (p = 0.002) compared to the nor- mal protein groups.
+  With respect to the exercise program, mean adherence was 2.8 ± 0.3 times/week.
+
+Effects on body weight, waist circumference, FFM and FM The 10-week weight loss trial resulted in a significantly de- creased BW, waist circumference and FM in all groups.
+
+Overall loss in BW was -2.1 ± 2.6 kg, without significant ef- fects of protein and exercise. Comparable results were ob- served for changes in waist circumference, where a mean decrease of -4 ± 4 cm was observed with no significant ef- fects of protein and exercise (Table 3). Figure 2 shows that the intervention did not significantly affect change in FFM, with exception of the high protein-exercise group which showed a significant increase in FFM of 0.6 ± 1.3 kg (p = 0.011). There was no significant effect of high protein and exercise on change in FFM and FM, but exercise signifi- cantly decreased body fat percentage with 0.8% (p = 0.048).
+
+
+Table 1 Baseline characteristics of 100 obese older subjects by treatmenta
+CharacteristicControl
+(n = 22)Protein
+(n = 21)Exercise
+(n = 25)Protein + Exercise
+(n = 32)p-valuebSex, n (% male)6 (27%)8 (38%)9 (36%)13 (41%)0.786Origin, % Caucasian82%86%68%84%0.418Age, y63.4 ± 4.361.9 ± 6.163.1 ± 6.061.5 ± 5.10.529Body weight, kg92.7 ± 5.193.0 ± 15.390.7 ± 14.793.5 ± 14.40.912BMI, kg/m233.2 ± 4.832.1 ± 4.632.2 ± 4.731.6 ± 3.40.584BMI = 30 kg/m2, n (%)16 (73%)13 (62%)16 (64%)21 (66%)0.886Waist circumference, cmc110 ± 13110 ± 12107 ± 13107 ± 90.761Fat mass, %c45.3 ± 8.244.7 ± 8.543.2 ± 8.741.6 ± 7.80.383Fat free mass, kgd51.0 ± 13.151.2 ± 10.451.5 ± 11.554.8 ± 12.70.584Handgrip strength, kge62.2 ± 22.065.2 ± 17.470.1 ± 21.873.9 ± 24.30.2344-m gait speed, m/sf1.17 ± 0.331.32 ± 0.281.28 ± 0.221.25 ± 0.180.284400-m gait speed, m/sf1.40 ± 0.171.42 ± 0.201.49 ± 0.211.51 ± 0.220.133Time to complete 5 stands, sf13.5 ± 3.212.6 ± 3.111.1 ± 3.011.7 ± 3.40.058aData are presented as means ± SD or as number (percentage); bSignificance level (two-sided p-value) for comparison between groups using One-Way ANOVA or Chi-square test (sex, origin and BMI group); cn protein + exercise group = 31; dn control group = 21; eSum of maximum of left and right hand; n protein group = 20; f n exercise group = 24
+
+
+
+
+Table 2 Dietary intake in the study groups at baseline and during interventiona
+ControlProteinExerciseProtein + ExerciseP valuebProtein groupsControl groupsP valuec(n = 20)(n = 21)(n = 25)(n = 31)(n = 52)(n = 45)Energy, kcal/d	Baseline1928 ± 8491932 ± 5391877 ± 5222061 ± 6210.7302009 ± 5871900 ± 6780.397During intervention1650 ± 5311726 ± 4491569 ± 4631784 ± 5790.4521761 ± 5261605 ± 4900.137Protein, g/day	Baseline85.7 ± 31.082.6 ± 21.482.6 ± 23.493.2 ± 31.20.42588.9 ± 27.983.9 ± 26.70.372During intervention76.6 ± 21.189.3 ± 22.673.9 ± 22.492.8 ± 32.90.02591.4 ± 29.075.1 ± 21.60.002Protein, g/kg/day  Baseline0.95 ± 0.360.92 ± 0.340.93 ± 0.301.00 ± 0.310.8250.97 ± 0.320.94 ± 0.330.662During intervention0.87 ± 0.291.02 ± 0.360.84 ± 0.231.02 ± 0.350.0811.02 ± 0.350.86 ± 0.260.008Protein, g/adj_kg/ Baseline1.12 ± 0.451.04 ± 0.301.08 ± 0.361.14 ± 0.390.8201.10 ± 0.351.10 ± 0.390.972dayd
+During intervention1.00 ± 0.271.13 ± 0.330.97 ± 0.321.13 ± 0.370.1771.13 ± 0.350.98 ± 0.290.027Protein, en%e	Baseline18.5 ± 3.317.6 ± 3.417.9 ± 3.718.3 ± 3.60.83818.0 ± 3.518.2 ± 3.50.814During intervention18.9 ± 2.221.1 ± 3.518.9 ± 3.021.2 ± 4.60.03321.1 ± 4.119.0 ± 2.60.002Carbohydrate,	Baseline44.2 ± 5.243.3 ± 6.545.3 ± 6.043.7 ± 8.60.76043.5 ± 7.744.8 ± 5.70.343en%	During intervention46.2 ± 5.840.4 ± 6.147.1 ± 6.443.3 ± 6.20.00242.2 ± 6.346.7 ± 6.10.001Fat, en%	Baseline33.1 ± 6.334.1 ± 5.632.3 ± 6.932.8 ± 7.70.83233.3 ± 6.932.6 ± 6.60.625During intervention30.9 ± 5.733.3 ± 5.729.2 ± 6.930.6 ± 7.10.21431.7 ± 6.730.0 ± 6.40.204aData represent means ± SD using last observations carried forward; Intake during intervention is mean intake data at week 5 and 10; bSignificance level of differences between four groups using One-Way ANOVA; cSignificance level of differences between protein and non-protein groups using the t-test; dProtein in g/kg/day with adjusted weight using current weight for BMI < 30 kg/m2 or using weight at BMI 27.5 kg/m2 for BMI = 30 kg/m2, to make it comparable to the protein target; een% stands for % of energy intake
+
+
+
+Table 3 Change in outcome measures at 10 weeks of intervention with protein and exercise effectsa
+
+
+
+(95% CI)dBody weight, kg-1.7 ± 1.8*-2.1 ± 3.6*-2.6 ± 2.9*-2.0 ± 2.2*+0.1 (-0.7;1.0)0.763-0.3 (-1.1;0.5)0.472NSBMI, kg/m2-0.6 ± 0.6*-0.8 ± 1.1*-1.0 ± 1.0*-0.9 ± 0.9*-0.0 (-0.3;0.3)0.924-0.2 (-0.5;0.1)0.213NSWaist circumference, cm-3± 4*-3± 4*-4± 4*-3± 3*f+0.3 (-0.9;1.4)0.673-0.4 (-1.6;0.8)0.555NSFat mass, kg-1.5 ± 2.5*g-2.1 ± 3.4*-2.8 ± 3.7*-2.6 ± 2.4*-0.0 (-1.0;0.9)0.946-0.8 (-1.7;0.2)0.124NSFat percentage,
+%-1.0 ± 2.1*g-1.3 ± 2.2*-1.9 ± 3.3*-2.1 ± 2.0*-0.1 (-0.9;0.6)0.736-0.8 (-1.6;-0.0)0.048NSFat free mass, kg-0.0 ± 1.4g0.0 ± 1.5+0.2 ± 2.3+0.6 ± 1.3*+0.1 (-0.4;0.7)0.666+0.3 (-0.2;0.9)0.233NSHandgrip strength, kgh+1.8 ± 6.6-1.7 ± 6.5-1.8 ± 11.6+2.0 ± 6.0-2.2 (-6.4;2.1)0.311-1.9 (-6.0;2.1)0.3466.2 (0.6;11.8)0.0304-m gait speed, m/s+0.13 ± 0.24*+0.08 ± 0.26+0.08 ± 0.13*i+0.20 ± 0.24*-0.04 (-0.15;0.06)0.440-0.04 (-0.14;0.06)0.4760.14 (0.00;0.28)0.045400-m gait speed, m/s+0.04 ± 0.15+0.07 ± 0.10*+0.07 ± 0.07*i+0.08 ± 0.15*+0.02 (-0.03;0.06)0.445+0.01 (-0.03;0.06)0.554NSRepeated chair stands, s-1.6 ± 2.1*-1.6 ± 1.7*-1.0 ± 2.7i-1.4 ± 2.7*-0.1 (-0.9;0.6)0.703-0.2 (-0.9;0.6)0.643NSaData represent means ± SD using last observations carried forward; bEstimate of protein or exercise effect at week 10 using mixed linear model including time, sex, protein (high/normal), exercise (yes/no) and baseline value; cSignificance level of estimate of protein or exercise effect at week 10 using mixed linear model; d Estimate of interaction effect of protein*exercise at week 10 using mixed linear model including time, sex, protein (high/normal), exercise (yes/no), protein*exercise and baseline value only presented when the interaction effect was significant (P < 0.1). The effect of the combined protein-exercise intervention can be calculated by summating the beta's of the protein effect, the exercise effect and the interaction protein*exercise effect; eSignificance level of the interaction effect of protein*exercise at week 10 using mixed linear model; fn = 31; gn = 21; hSum of maximum of left and right hand, n protein group = 20; in = 24; * Significant mean change at week 10 within group using a paired t-test; NS not significant (P = 0.1)
+
+
+
+
+
+
+
+
+There was no significant protein*exercise interaction for FM and FFM.
+
+Effects on handgrip strength and physical performance No significant change in handgrip strength was observed over time whereas all physical performance tests improved over time. However, no significant effects of protein and exercise on handgrip strength and physical performance tests were observed (Table 3). There was a significant interaction for protein*exercise for handgrip strength (p = 0.030) and 4-m gait speed (p = 0.045), indicating that com- bining a high protein diet with exercise had greater posi- tive effects on handgrip strength and 4-m gait speed than high protein diet or exercise only (Table 3).
+
+Discussion
+In the present randomized controlled trial in overweight and obese older adults during weight loss, we observed no significant effect of the high protein diet (although at a lower level than targeted) and resistance exercise on FFM preservation and no statistically significant inter- action between high protein and resistance exercise. However, only in the group with the combined interven- tion of high protein diet and resistance exercise program, FFM significantly increased.
+  The recommended dietary allowance (RDA) for protein is 0.8 g/kg/d and is age-independent [24]. However, the re- cent expert opinion on protein requirements of older adults is higher, and recommended protein intake ranges from 1.0 - 1.2 g/kg/d [25]. Specific recommendations for obese older adults during weight loss do not exist. Weijs et al. [26] showed that protein requirements under the challenged conditions of weight loss may be substantially
+
+higher than 0.8 g/kg/d, and are probably even higher than
+1.2 g/kg/d in order to preserve muscle mass.
+  In this study we demonstrated that it is difficult to reach a 1.3 g/kg/d protein intake using a hypocaloric high protein diet based on regular food products (mean intake was 1.13 g/kg/d).
+  Although subjects in the high protein groups had a 16 g per day higher protein intake compared to the nor- mal protein groups (mean intake was 0.98 g/kg/d), the difference in protein intake might have been too small in order to detect an effect on preservation in FFM. Previ- ously, we studied the effect of a high-whey protein, leu- cine and vitamin D supplement during weight loss on muscle mass preservation in older obese adults [15]. In that study, the difference in protein intake was 28 g/d with an intake of 1.11 g/kg/d in the intervention group and 0.85 g/kg/d in the control group. This difference re- sulted in a muscle preserving effect of 0.95 kg. However, besides the difference in protein intake, also other com- ponents of the supplement, including leucine, vitamin D and other micronutrients might explain the effect on preservation of FFM in that study.
+Two other possible explanations for the absence of a
+high-protein effect on FFM preservation in the present study should be considered. Firstly, older adults might re- quire a minimum threshold of protein with one eating moment to raise muscle protein synthesis levels. Previous studies showed that a minimal amount of 20 g of high quality protein per meal is needed to stimulate protein synthesis above baseline levels [27]. In our former study, the protein supplement was, ten times per week, supplied as 21 g protein at once [15]. In the current study, only 39% of the subjects in the high protein groups had in total
+
+
+
+
+
+at least one eating moment with = 20 g protein over the recorded days during intervention (week 5 and 10).
+  A second explanation for the absence of a high-protein effect on FFM preservation is the protein composition of the diet. Whey protein has been shown to be very effective in stimulating postprandial muscle protein accretion in older men [28, 29], which has been ascribed to its fast di- gestion and to the high leucine content. Since we did not focus on specific types of proteins during dietary counseling it is likely that the amount of leucine known to stimulate muscle protein synthesis (at least 2 g per meal [12]) for older adults was not reached for most subjects in our study. We observed no overall exercise effect, except for relative fat mass (Table 3). However, when analysing the interaction between gender and exercise a significant interaction for FFM with beta +1.1 kg (95%-CI: -0,0;2,3) was shown, indi- cating that FFM in males responds stronger to the exercise program than FFM in females. This is in line with expecta-
+tions based on literature [30].
+  We observed a significant improvement in physical per- formance during 10-weeks intervention in all groups. We did, however, not observe an additional improvement in physical performance as a results of higher protein intake or resistance training. A suggested explanation could be that the observed FM loss overruled the possible effects of improvements in physical functioning due to high protein and exercise [31].
+  Previous studies have shown that on average 25-30% of weight loss is lean mass in older obese adults [14]. In our study, all groups including the control group pre- served their FFM. It could be speculated that subjects in the control group increased their level of physical activ- ities and sports activities themselves to compensate for the fact that they were not allowed to participate in the exercise group training sessions. A slight increase in physical activity level during intervention was observed for all groups, and this was not different between the groups, which could partly explain the FFM preservation even in the control group. Another explanation could be the relatively high intake of protein in the control groups (average was 0.98 g/kg), which further reduced the pro- tein intake contrast between groups and might have been beneficial for FFM preservation.
+A limitation of this study is the unequally distributed
+number of subjects that withdrew from participation in the study groups before the baseline measurements. Group al- location could be a reason for declining further participa- tion. Another limitation was the lower than expected magnitude of weight loss, which can be partly explained by the preservation of (C, Pr, Ex groups) or gain (PrEx group) in FFM. Furthermore, we advised a -600 kcal/d reduction in energy intake, which was not achieved based on the ana- lyses of the 3-d food records. Most of previous successful weight loss trials in overweight older adults [14] had weekly
+
+group sessions with a dietitian. In our study, the subjects had a bi-weekly consultation, which may also have resulted in the limited weight loss observed. Since the amount of weight loss is modest, the change in FFM is also small. Additionally, the duration of the study might have been too short to achieve sufficient weight loss for group differences in FFM preservation due to protein intake to manifest. Fi- nally, our study was designed and powered to find an effect of protein on FFM with a 0.5 g/kg/d difference between groups; however, only a 0.15 g/kg/d difference in protein in- take was achieved, therefore making it difficult to draw firm conclusions regarding a higher versus control protein in- take during weight loss with or without resistance exercise.
+In conclusion, the lower than targeted protein intake of
+1.13 g/kg/d obtained by consuming regular protein rich foods did not significantly affect FFM and FM change dur- ing modest weight loss in older overweight and obese sub- jects. There was no significant interaction between the high protein diet and resistance exercise for FFM. How- ever, only the group with the combined intervention of the high protein diet and the resistance exercise program significantly increased in FFM. This suggests that combin- ing protein with resistance exercise is beneficial for FFM preservation during weight loss in older adults, which should be confirmed by future studies using a larger pro- tein contrast.
+Abbreviations
+BW: Body weight; C: Control group; Ex: Exercise group; FFM: Fat free mass; FM: Fat mass; ITT: Intention-to-treat; Pr: High protein diet group; PrEx: High protein diet and exercise group
+
+Acknowledgments
+We gratefully acknowledge the expert assistance of Minse de Bos-Kuil, Martinet Streppel, Michael Davidson, Suzan Bakker, Yalcin Batur, Darshan Brassinga, Sandra Brug, Roukaya Eter, Inge Evers, Daan van Geebergen, Merel Godyla, Jordy de Groot, Madelief Jambroes, Lois Kaersenhout, Jonathan Klaassen, Roos Klaver, Hetty Korsten, Nikki Kremer, Sofie Krop, Bram Kurk, Yasmine Lhassani, Aline Meijlink, Anna Mickiewicz, Qudsia Mirza, Elise Plat, Mariëtte van Rijmenam, Sadia Rodjan, Anna Rootjes, Eva Sayers, Kim Schut, Esther Sjouwerman, Emiel van der Steen, Alicia Toby, Maarten Troost, Tirza Wennekes, Linda Zevenhek.
+
+Funding
+This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
+
+Availability of data and materials
+The datasets used and/or analysed during the current study available from the corresponding author on reasonable request.
+
+Authors' contributions
+The authors' contributions were as follows: PJMW and AMV: designed the research (project conception, development of overall research plan, and study oversight); SEvdP, AMV, RGM: conducted the research (hands-on conduct of the experiments and data collection); AMV, MFE, PJMW analyzed the data or performed the statistical analysis; AMV, MFE, RGM, MV, and PJMW wrote the manuscript; and PJMW: had primary responsibility for the final content. AMV, MFE, RGM, SEvdP, MV and PJMW had no conflict of interest. All authors read and approved the final manuscript.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+
+
+
+
+
+Consent for publication
+Not applicable.
+
+Ethics approval and consent to participate
+The study was approved by the Medical Ethics Committee Independent Review Board Nijmegen, Netherlands (NL43226.072.14) and written informed consent was obtained from all subjects.
+
+Author details
+1Department of Nutrition and Dietetics, Faculty of Sports and Nutrition, Amsterdam University of Applied Sciences, Dr. Meurerlaan 8, 1067 SM Amsterdam, Netherlands. 2Department of Health Sciences, Faculty of Earth and Life Sciences, VU University Amsterdam, De Boelenlaan 1085, 1081 HV Amsterdam, Netherlands. 3Department of Nutrition and Dietetics, Internal Medicine, VU University Medical Center, De Boelenlaan 1117, 1081 HV Amsterdam, Netherlands.
+
+Received: 19 October 2016 Accepted: 16 January 2017
+
+
+
+References
+1. Mathus-Vliegen EM. Obesity management task force of the european association for the study of obesity. Prevalence, pathophysiology, health consequences and treatment options of obesity in the elderly: a guideline. Obes Facts. 2012;5:460-83.
+2. Groessl EJ, Kaplan RM, Barrett-Connor E, Ganiats TG. Body mass index and quality of well-being in a community of older adults. Am J Prev Med. 2004; 26(2):126-9.
+3. Bales CW, Buhr G. Is obesity bad for older persons? a systematic review of the pros and cons of weight reduction in later life. J Am Med Dir Assoc. 2008;9(5):302-12.
+4. Houston DK, Nicklas BJ, Zizza CA. Weighty concerns: the growing prevalence of obesity among older adults. J Am Diet Assoc. 2009;109(11):1886-95.
+5. Miller SL, Wolfe RR. The danger of weight loss in the elderly. J Nutr Health Aging. 2008;12(7):487-91. Review.
+6. Kim JE, O'Connor LE, Sands LP, Slebodnik MB, Campbell WW. Effects of dietary protein intake on body composition changes after weight loss in older adults: a systematic review and meta-analysis. Nutr Rev. 2016;74(3):210-24.
+7. Weinheimer EM, Sands LP, Campbell WW. A systematic review of the separate and combined effects of energy restriction and exercise on fat-free mass in middle-aged and older adults: implications for sarcopenic obesity. Nutr Rev. 2010;68(7):375-88.
+8. Frimel TN, Sinacore DR, Villareal DT. Exercise attenuates the weight-loss- induced reduction in muscle mass in frail obese older adults. Med Sci Sports Exerc. 2008;40:1213-9.
+9. Wolfe RR, Miller SL, Miller KB. Optimal protein intake in the elderly. Clin Nutr. 2008;27:675-84.
+10. Bosse JD, Dixon BM. Dietary protein in weight management: a review proposing protein spread and change theories. Nutr Metab (Lond). 2012;9:81.
+11. Bauer J, Biolo G, Cederholm T, Cesari M, Cruz-Jentoft AJ, Morley JE, et al. Evidence-based recommendations for optimal dietary protein intake in older people: a position paper from the PROT-AGE study group. J Am Med Dir Assoc. 2013;14(8):542-59.
+12. Breen L, Phillips SM. Skeletal muscle protein metabolism in the elderly: Interventions to counteract the 'anabolic resistance' of ageing. Nutr Metab (Lond). 2011;8:68.
+13. Burd NA, Yang Y, Moore DR, Tang JE, Tarnopolsky MA, Phillips SM. Greater stimulation of myofibrillar protein synthesis with ingestion of whey protein isolate v. micellar casein at rest and after resistance exercise in elderly men. Br J Nutr. 2012;108:958-62.
+14. Waters DL, Ward AL, Villareal DT. Weight loss in obese adults 65 years and older: a review of the controversy. Exp Gerontol. 2013;48(10):1054-61.
+15. Verreijen AM, Verlaan S, Engberink MF, Swinkels S, de Vogel-van den Bosch J, Weijs PJ. A high whey protein-, leucine-, and vitamin D-enriched supplement preserves muscle mass during intentional weight loss in obese older adults: a double-blind randomized controlled trial. Am J Clin Nutr. 2015;101(2):279-86.
+16. Porter Starr KN, Pieper CF, Orenduff MC, McDonald SR, McClure LB, Zhou R, et al. Improved function with enhanced protein intake per meal: a pilot study of weight reduction in frail, obese older adults. J Gerontol A Biol Sci Med Sci. 2016;71(10):1369-75.
+
+
+17. Dutch Institute for Health Improvement CBO. Guideline diagnostics and treatment of obesity in adults and children. Utrecht: Van Zuiden Communications; 2008.
+18. Weijs PJ, Sauerwein HP, Kondrup J. Protein recommendations in the ICU: g protein/kg body weight - which body weight for underweight and obese patients? Clin Nutr. 2012;31(5):774-5.
+19. RIVM/Voedingscentrum. Dutch Food Composition Database (NEVO). The Hague; 2011.
+20. Sayers SP, Guralnik JM, Newman AB, Brach JS, Fielding RA. Concordance and discordance between two measures of lower extremity function:
+400 meter self-paced walk and SPPB. Aging Clin Exp Res. 2006;18(2):100-6.
+21. Guralnik JM, Simonsick EM, Ferrucci L, Glynn RJ, Berkman LF, Blazer DG, et al. A short physical performance battery assessing lower extremity function: association with self-reported disability and prediction of mortality and nursing home admission. J Gerontol. 1994;49:M85-94.
+22. Noakes M, Keogh JB, Foster PR, Clifton PM. Effect of an energy-restricted, high-protein, low-fat diet relative to a conventional high-carbohydrate, low- fat diet on weight loss, body composition, nutritional status, and markers of cardiovascular health in obese women. Am J Clin Nutr. 2005;81(6):1298-306.
+23. Leidy HJ, Carnell NS, Mattes RD, Campbell WW. Higher protein intake preserves lean mass and satiety with weight loss in pre-obese and obese women. Obesity (Silver Spring). 2007;15(2):421-9.
+24. EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Scientific opinion on dietary reference values for protein. EFSA J. 2012;10:2557.
+25. Deutz NE, Bauer JM, Barazzoni R, Biolo G, Boirie Y, Bosy-Westphal A, et al. Protein intake and exercise for optimal muscle function with aging: recommendations from the ESPEN Expert Group. Clin Nutr. 2014;33(6):929-36.
+26. Weijs PJ, Wolfe RR. Exploration of the protein requirement during weight loss in obese older adults. Clin Nutr. 2016;35(2):394-8.
+27. Moore DR, Churchward-Venne TA, Witard O, Breen L, Burd NA, Tipton KD, et al. Protein ingestion to stimulate myofibrillar protein synthesis requires greater relative protein intakes in healthy older versus younger men. J Gerontol A Biol Sci Med Sci. 2015;70(1):57-62.
+28. Pennings B, Boirie Y, Senden JM, Gijsen AP, Kuipers H, van Loon LJ. Whey protein stimulates postprandial muscle protein accretion more effectively than do casein and casein hydrolysate in older men. Am J Clin Nutr. 2011; 93:997-1005.
+29. Hector AJ, Marcotte GR, Churchward-Venne TA, Murphy CH, Breen L, von Allmen M, et al. Whey protein supplementation preserves postprandial myofibrillar protein synthesis during short-term energy restriction in overweight and obese adults. J Nutr. 2015;145(2):246-52.
+30. Sanal E, Ardic F, Kirac S. Effects of aerobic or combined aerobic resistance exercise on body composition in overweight and obese adults: gender differences. A randomized intervention study. Eur J Phys Rehabil Med. 2013; 49(1):1-11.
+31. Davison KK, Ford ES, Cogswell ME, Dietz WH. Percentage of body fat and body mass index are associated with mobility limitations in people aged 70 and older from NHANES III. J Am Geriatr Soc. 2002;50(11):1802-9.
+
+
+
+

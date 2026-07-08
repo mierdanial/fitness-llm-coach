@@ -1,0 +1,319 @@
+
+
+
+
+
+Effects of resistance training intensity on sleep quality and
+strength recovery in trained men: a randomized cross-over study
+
+
+AUTHORS: Domingo Jesús Ramos-Campo1, Luis Manuel Martínez-Aranda1, Luis Andreu-
+Caravaca1,2, Vicente Ávila-Gandía3, Jacobo Ángel Rubio-Arias4
+
+1 Faculty of Sports, Catholic University of San Antonio (UCAM), Murcia, Spain
+2 Chair of Sport Medicine, Catholic University of San Antonio (UCAM), Murcia, Spain
+3 Department of Exercise Physiology, Catholic University of San Antonio (UCAM), Murcia, Spain
+4 LFE Research Group, Department of Health and Human Performance, Faculty of Physical Activity and Sport Science-INEF, Polytechnic University of Madrid, Spain
+
+ABSTRACT: Resistance training (RT) variables can affect sleep quality, strength recovery and performance. The aim of this study was to examine the acute effect of RT leading to failure vs. non-failure on sleep quality (SQ), heart rate variability (HRV) overnight and one-repetition maximum (1-RM) performance 24 hours after training. Fifteen resistance-trained male athletes (age: 23.4 ± 2.4 years; height 178.0 ± 7.6 cm; weight: 78.2 ± 10.6 kg) performed two training sessions in a randomized order, leading to failure (4x10) or non-failure (5x8(10) repetitions), with 90 seconds for resting between sets at 75% 1-RM in bench press (BP) and half squat (HS). The day after, the participants completed the predicted 1-RM test for both exercises. In addition, the subjective and actigraphic SQ and HRV during sleep were measured after each training session. The day after the training protocol leading to failure, the 1-RM of BP (MD = 7.24 kg; -7.2%; p < 0.001) and HS (MD = 20.20 kg; -11.1%; p < 0.001)
+decreased. However, this parameter did not decrease after a non-failure RT session. No differences were observed between failure and non-failure training sessions on SQ and HRV; therefore, both types of training sessions similarly affected the SQ and the autonomic modulation during the night after the training session. This study provides an insight into the influence of different training strategies on SQ, strength performance and recovery after moderate- to high-demand training. This information could be useful especially for professional coaches, weightlifters and bodybuilders, due to the potential influence on the programming processes.
+
+CITATION: Ramos-Campo DJ, Martínez-Aranda LM, Andreu-Caravaca L et al. Effects of resistance training intensity on sleep quality and strength recovery in trained men: a randomized cross-over study. Biol Sport. 2021;38(1):81-88.
+
+Received: 2020-04-14; Reviewed: 2020-06-17; Re-submitted: 2020-07-19; Accepted: 2020-07-20; Published: 2020-08-07.
+
+
+Corresponding author:
+Luis Manuel Martínez-Aranda Catholic University of San Antonio (UCAM); Campus de los Jerónimos, Nº 135 Guadalupe 30107; (Murcia) - Spain Phone: +34 968 27 87 57
+Fax: +34 968 27 87 57
+E-mail: lmmartinez2@ucam.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Key words: Bench press Half squat Insomnia
+Physical performance Heart rate variability
+
+
+
+
+
+INTRODUCTION
+Sports performance in individual and team sports is determined by a high demand for maximum strength and power [1]. Hence, RT has been recommended as the main strategy to stimulate gains in mus- cle strength, power and muscle mass [2]. Thus, the optimization of strength training programmes is one of the main interests of research- ers and coaches for the improvement of strength and power. Thus, manipulation of strength training variables and, in particular, the intensity of the training loads within a periodized programme, is a key factor to maximize strength training gains [3]. Several studies have investigated the effect of different training loads on the improvement of strength and power in active young people and elite ath- letes [2, 4, 5]. In this regard, the effect on hormonal responses, strength, and power muscular gain of training with exercises leading to failure compared to training that does not lead to failure is un- clear [5, 6].
+
+
+   Training exercises that lead to failure have been defined as the inability to complete a repetition in a full range of motion due to fatigue during workouts [5], and recently, researchers and coaches have shown an increased interest due to the greater gains in strength and/or power. It appears that training to repetition failure could in- crease motor unit activation and mechanical stress [7]. Drinkwater et al. [4] suggested that strength training that leads to repetition failure could be more efficient than non-failure training in elite junior team sport athletes. However, several studies have shown that train- ing to failure is not critical to achieve significant neural and struc- tural changes to skeletal muscle [5]. Martorelli et al. [6] observed that after 10-week RT to failure versus 10-week repetitions not to failure with equalized volume did not provide additional strength and muscle hypertrophy gains in young women. These disagreements of training effects on adaptations could be due to numerous factors
+
+
+
+related to exercise prescription and training experience Davies et al. [8] and Mitchell et al. [9] concluded that acute effects of muscle protein synthetic rates with a lower load lifted to failure re- sulted in similar hypertrophy as a heavy load lifted to failure. Thus, the differences in the effects of the training with or without leading to failure with a similar volume are not clear. In addition, the effects of training on recovery and sleep quality are a key factor in training adaptations, but to our knowledge, the acute effects of this type of training have not been studied yet.
+   There is evidence that exercise plays a crucial role as a non- pharmacological alternative to sleep disorders [10]. Adequate sleep duration and quality are important because they provide a recovery period where metabolic, hormonal and neural adaptations occur [11]. Several studies have shown that chronic sleep deprivation can lead to a reduction in muscle mass and thus a decrease in muscle strength [12, 13]. In this sense, inadequate sleep can lead to a de- crease in muscle strength in the post-night session [14]. Furthermore, sleep, post-exercise recovery and athletic performance seem to be significantly related [15] and it appears that vigorous exercise can intensify the negative relationship between sleep deprivation and recovery [14]. In line with this, on exercise days compared to rest days, acute exercise seems to cause earlier rising times and a decrease in the total sleep time. In addition, there is a decrease in the total sleep time on days when the training is more intense. However, changes in rise time, sleep onset latency, sleep efficiency and sleep quality are unclear [15].
+   Previous studies focused on studying the relationship between sleep and physical activity, suggesting that the manipulation of train- ing variables could affect sleep quality and recovery, such as inten- sity of the training or training time [16]. In this way, Roveda et al. [17] showed that a single strength session at high intensity is able to improve the parameters related to both the quantity and the quality of sleep, particularly during the first night after exercise. Nevertheless, other authors conclude that exercise intensity and/or duration cause delayed recovery of nocturnal cardiac autonomic modulation, although long exercise duration was needed to induce changes in nocturnal heart rate variability (HRV). Increased exercise intensity or duration does not seem to disrupt sleep quality [18]. However, no studies comparing these two training types (to failure vs. non-failure) on sleep quality have been found, and the effect that it could have on recovery and HRV is not clear. Therefore, the objective of the study was: to examine the acute effect of RT to failure vs. non-failure on sleep quality, heart rate variability during the first night after the training and the performance at one-repetition maximum (1-RM) in the training session the following day.
+
+MATERIALS AND METHODS
+Subjects
+Fifteen male strength-trained athletes participated in this study (23.4 ± 2.4 years; 178.0 ± 7.6 cm; 78.2 ± 10.6 kg). Participants
+trained between 8.5 and 12 hours per week, with 4.3 ± 2.6 years
+
+of experience in strength training including CrossFit or Powerlifting competitions in some cases. All the volunteers signed the informed consent form before enrolling in the study. They received full informa- tion about the study purposes and possible risks associated with the training test sessions. The study protocol was approved by the Re- gional Ethical Review Board and by the University Institutional Re- search Ethics Committee. Likewise, the research study was con- ducted in accordance with the recommendations of the Declaration of Helsinki.
+
+Experimental approach
+A comparative and randomized cross-over experimental design was used to identify the acute effects of two different resistance-training strategies on the post-24 h 1-RM, actigraphic sleep quality, subjec- tive sleep quality and nocturnal cardiac autonomic activity in trained sports sciences students. Volunteers performed the bench press and squat exercises using two different training sessions based on leading or not leading to failure separated by one week, performing a total of 5 sessions in the laboratory. The velocity-based training (VBT) methodology was used for monitoring all training sessions and tests. In addition, the sleep quality and actigraphy were monitored and evaluated the night after the training session. The next day after each training session, a 1-RM post-test based on movement velocity was performed to determine the changes in that variable.
+
+Procedures
+Subjects performed a pre-programme training session in the labora- tory to predict the 1-RM through the mean propulsive velocity (MPV) for two different exercises (bench press and half squat). During the following 2 weeks, the participants completed a total of 4 training sessions, one of them leading to failure (LF) and the other one not leading to failure (NLF), as well as a RM predictive 24 h post-test for each condition. A standardized warm-up protocol was performed (mobility, self-load exercises and several repetitions of the specific exercise with low loads). The order of the conditions (LF-NLF) for each training session was randomized. All sessions were monitored and supervised by researchers specialized in strength and condition- ing training. Every session was performed at the same time of day for each individual (± 1 h), under constant environmental conditions (20-22ºC and 60% humidity). In addition, the control criteria for the participating subjects were to maintain a regular diet and hydra- tion and not to ingest caffeine or alcohol for at least 24 hours prior to each training session. A demanding training session during the 48 hours prior to each test was not allowed.
+
+1-RM  calculation  based  on  movement  velocity For the predictive RM session, each subject performed a standardized warm-up consisting of joint mobilization and self-load exercises for upper and lower body, with 2 sets of 5 repetitions per exercise (bench press and half squat) performed in the same way with 25-35 kg. Next, the measurements corresponding to load, MPV, calculated%
+
+
+
+FIG. 1. Experimental design and testing procedures.
+
+
+
+
+
+
+
+1-RM, estimated 1-RM, and training load were obtained for each subject for the subsequent training sessions. Participants completed an incremental loading test with the first load set at 18.5 kg (the bar without weights) and, from those starting loads, additional loads were set by adding 10-20 kg increments in each new repetition, with a complete resting time between repetitions. A consensus con- cerning the loads was agreed between the main researcher and the subject. The bar movement velocity was calculated using a linear encoder (Chronojump, Barcelona, Spain). The squat exercise was performed in a Smith machine (Technogym, Cesena, Italy). The calculated%1-RM and the estimated 1-RM in kg were calculated following the formulas by Loturco et al. [19] for the squat exercise and Jidovtseff et al. [20] for the bench press. The full repetition for achieving the nearest value to the 100% 1-RM with proper lifting by the subject was selected in order to establish the training load for the following sessions. In addition, both the 1-RM predictive tests (pre and 24 h post) were calculated using a two-point method as described in previous investigations [21, 22].
+
+Training sessions
+After the 1-RM testing session, the participants performed four dif- ferent sessions divided into two different blocks and in a randomized order, separated by a minimum of 72 h during the following weeks.
+(1) Strength training session predicting the 1-RM through the two- point method (50-80%) in both exercises, followed by one of the following routines: a) routine leading to failure in the last repetition composed of 4x10 repetitions, 90 s for resting between sets at 75%
+
+1-RM in two different exercises (bench press, monitoring MVP at 0.53-0.55 m/s; and half squat at 0.75-0.76 m/s); b) routine not leading to failure composed of 5x8(10) - 2 repetitions in reserve, 90 s for resting between sets at 75% 1-RM in the same exercises (bench press and half squat) [23]. (2) The day after, the participants completed the predicted 1-RM test using the two-point method for both exercises. (3) One week later, the participants performed a strength training session predicting the 1-RM using the two-point method for both exercises, followed by the opposite routine of the one performed the previous week (4). The next day, the participants completed the predicted 1-RM test measured by the two-point method for both exercises (Figure 1). All the tests and training ses- sions (routines focused on sets and repetitions) were monitored through the bar movement velocity using a linear encoder.
+
+Actigraphic sleep quality, subjective sleep quality and nocturnal cardiac autonomic activity
+The actigraphic sleep quality and nocturnal cardiac autonomic activ- ity (HRV) during sleep were measured after each training day (ses- sions 1 and 3), with a previous period of instruction to the participants. The actigraphic sleep quality was recorded using an Actiwatch activ- ity monitoring system (Cambridge Neurotechnology, Cambridge, UK) which measures activity through a piezo-electric accelerometer. Each participant's non-dominant wrist movement was monitored. A low threshold of actigraphic sensitivity was selected (80 counts per time period) and the data recorded by the actigraph were analysed with the Actiwatch sleep analysis software.
+
+
+
+   Data analysis started with the onset of nocturnal rest (bedtime) and ended with the onset of daytime activity (wake time). The fol- lowing sleep parameters were measured: (I) sleep efficiency (%): percentage of time spent asleep; (II) time in bed (min); (III) actual sleep time (min); (IV) actual wake time (min); (V) number of awak- enings; and (VI) average time of each awakening (min).
+   Along with the actigraph, during the night each subject wore an H7 strap Heart Monitor (Polar Electro, Kempele, Finland) to assess HRV. Variables of cardiac autonomic activity were analysed during the 4-hour sleep period that began 30 minutes after bedtime [18]. The R-R series were analysed using Kubios HRV software (version 2.0, Biosignal Analysis and Medical Imaging Group, University of Kuopio, Finland).
+  The following HRV variables were evaluated: (I) ratio of low fre- quency (LF) to high frequency (HF) band; (II) total power (TP); (III) percentage of differences between adjacent normal R-R inter- vals > 50 ms (pNN50); (IV) square root of the mean of the sum of the squared differences between adjacent normal R-R intervals (RMSSD); (V) standard deviation of all NN normal intervals (SDNN);
+(VI) mean heart rate; and (VII) R-R mean intervals.
+   In addition, the participants were instructed to assess the subjec- tive sleep quality in the morning after waking up using the Karolin- ska Sleep Diary (KSD) [24], which addresses the following points:
+(I) sleep quality; (II) sleep comfort; (III) ease of falling asleep; (IV) awakening; (V) ease of waking up; (VI) feeling of rest; (VII) Did you have enough sleep?
+
+Statistical analysis
+Statistical data analysis was performed with SPSS software (SPSS 21.0, IBM Corp.) for Windows. For inferential analysis, the
+
+Shapiro-Wilk W-test was performed to establish the normality of the sampling distribution, and Mauchly's W-test analysed the sphericity between measurements. Moreover, analysis of variance for repeated measures (ANOVA) was calculated (general linear model) to analyse the effects of load training (failure versus not to failure) as well as Bonferroni-adjusted pairwise comparisons on 1-RM test. In addition, a t-test or the nonparametric equivalent (Wilcoxon test) was performed to analyse the effect of the session training on HRV and sleep quality. The effect size was calculated using partial eta-squared (?2p) for variance analysis. Values of 0.01, 0.06, and above 0.14 were
+
+
+
+
+
+
+
+TABLE 1. Main effects of ANOVA analysis for 1RM test
+
+VariableSum of SquaresFp?² pßTimeBP220.01813.4770.0030.5090.923HS1390.01810.4790.0070.4460.848TrainingBP4.0180.3980.5390.030.09HS297.1610.360.5590.0270.086Time * trainingBP212.169.5080.0090.4220.813HS1450.44611.4670.0050.4690.879Note: BP: bench press; HS: Half-Squat
+
+
+
+
+
+TABLE 2. Pair comparation on performance after Failure and Non-Failure sessions
+
+95% CI for Effect Size95% CI for Effect Size  Pre trainingSDPost 24 hSDStatisticpdLowerUpper?SDStatisticpdLowerUpper
+Failure
+100.30
+19.42
+93.06
+19.15
+120.00
+< .001
+1.00
+1.00
+1.00
+-0.077
+0.063BP4.00< .001-0.92-0.98-0.77
+Non-
+Failure97.7218.3697.1620.320.380.710.10-0.410.600.0040.059
+Failure
+182.66
+44.92
+162.46
+40.03
+5.36
+< .001
+1.43
+0.66
+2.18
+-0.109
+0.069HS18.000.03-0.66-0.88-0.19
+Non-
+Failure167.7134.25168.0629.19-0.070.94-0.02-0.540.51-0.0090.095Note: For the Student t-test, effect size is given by Cohen's d; for the Wilcoxon test, effect size is given by the matched rank biserial correlation; BP: bench press; HS: half-squat; SD: standard deviation; CI: confident interval.
+
+
+TABLE 3. Heart rate variability results
+
+Non-FailureFailure Location ParameterEffect Size95% CIVariable HRVMeanSDMeanSDStatisticpLowerUpperMean R-R (ms)1074.9153.41013.4280.150.00.78712.50.099-0.4760.614SDNN (ms)41.16.839.65.01.10.3121.60.293-0.2690.843HR (bpm)57.110.266.630.039.00.675-1.0-0.143-0.6410.440RMSSD (ms)23.33.623.66.2-0.10.938-0.1-0.022-0.5650.522pNN50 (%)5.02.35.02.50.30.7680.20.084-0.4630.626AR LF (ms2)1066.9777.3883.4185.643.00.893-4.5-0.055-0.5860.509AR HF (ms2)153.795.0147.836.333.00.414-7.5-0.275-0.7150.322AR TOTAL (ms)1810.41399.31464.1310.945.01.000-13.5-0.011-0.5560.541AR LF/HF (ms2)7.52.96.32.01.30.2190.80.360-0.2090.915Note: SDNN: standard deviation of all normal NN intervals; HR: mean heart rate; RMSSD: square root of the mean of the sum of the squared differences between adjacent normal R-R intervals; pNN50: percentage of differences between adjacent normal R-R intervals > 50 ms; AR: autoregressive; LF: low-frequency; HF: high-frequency; SD: Standard Deviation; CI: Confident Interval
+
+
+
+
+
+
+TABLE 4. Sleep quality results after each session
+
+Non-FailureFailure95% CI for ESMeanSDMeanSDStatisticpEffect SizeLowerUpperActigraphic sleep qualityLatency (min)5.33.16.34.5-0.4950.63-0.137-0.6810.412Sleep Efficiency (%)89.47.489.19.30.0960.9250.025-0.4820.531Time in bed (min)461.973.9460.782.50.0500.9610.013-0.4930.519Actual sleep time (min)415.081.1420.083.3-0.2060.839-0.053-0.5590.454Actual Wake Time (min)45.626.137.419.51.1230.2840.311-0.2520.863Number of awakenings17.149.2415.717.800.0830.9360.023-0.5210.566Average time of each awakening (min)2.751.302.490.800.6010.5590.167-0.3840.711Karolinska Sleep QuestionnaireSleep quality (item 1)3.870.923.600.7423.0000.518-0.617-0.860-0.143Calm sleep (item 2)3.931.033.531.251.3090.2120.338-0.1890.853Ease of falling asleep (item 3)3.271.223.401.06-0.3970.698-0.102-0.6080.407Amount of dreaming (item 4)2.070.702.000.6616.0000.777-0.733-0.907-0.346Ease of waking up (item 5)3.800.863.870.924.0000.850-0.933-0.978-0.804Feeling refreshed after awakening (item 6)2.330.492.270.464.0000.773-0.933-0.978-0.804Slept throughout the time allotted (item 7)3.331.113.530.9915.5000.774-0.742-0.910-0.362Note: SD: standard deviation; CI: confident interval; ES: effect size.
+
+
+
+considered as small, medium, and large, respectively. Cohen's d was used to show the standardized difference between two means. Thresh- old values for ES were ? 0.1 (small), ? 0.3 (moderate), ? 1.2 (large), and ? 2.0 (very large) [25]. The level of significance was set at p ? 0.05.
+
+RESULTS
+Table 1 provides the main effects obtained from the ANOVA analysis for 1-RM test performance. Main effects significant on Time and Time*Group were observed on 1-RM of BP and HS test.
+   The analysis of the pair comparison (Table 2) showed a significant decrease after the session to failure in the 1-RM test of the exer- cises of BP (mean difference = 7.24 kg; p < 0.001; d = 1.00) and HS (mean difference = 20.20 kg; p < 0.001; d = 1.43). In addi- tion, differences between sessions were observed in 1-RM of BP (p < 0.001; d = 0.92) and HS (p = 0.03; d = 0.66).
+   Table 3 shows the summary statistics for heart rate variability during the night and Table 4 compares the effects of sessions on sleep quality. No significant differences were observed between fail- ure and non-failure sessions in any variable analysed in Tables 3 and 4.
+
+DISCUSSION
+This study aimed to analyse the acute effect of RT to failure vs non- failure on sleep quality, heart rate variability during the night and the strength performance (1-RM) one day after the training session. The results revealed that a single RT session leading to failure produces fatigue that decrease the 1-RM in bench press (7.2%) and half-squat (11.1%) on the following day. However, this parameter did not de- crease after an RT session, with an intensity with two repetitions in reserve. In addition, to the best of our knowledge, this is the first study which analyses the effect of RT on sleep quality and, notably, in resistance-trained athletes. The results showed that both types of training sessions (failure and non-failure) had a similar effect on the sleep quality and quantity, perceived and measured by the question- naire and actigraphy, as well as on the autonomic modulation during the night after the training session.
+   Several studies have analysed the time course of recovery follow- ing RT leading or not to failure [26-28], reporting that non-failure RT seems to speed up the recovery processes between 24 and 48 hours compared to training to failure. These findings are in ac- cordance with the results of the present study, since we did not observe any changes in the values of bench press and half-squat strength performance (measured by 1-RM) 24 hours after non-failure session training. On the other hand, a significant decrease of 7.2% in bench press and 11.1% in half-squat was found 24 hours after RT to failure and is in accordance with the results reported by Morán- Navarro et al. [28] in the attained velocity against the load that elicited 1 ms-1 and 75% of 1-RM loads in the same exercises. One possible reason for these findings may be related to the slow recov- ery of metabolic and hormonal homeostasis after training to muscle
+failure. Previous studies reported higher acute fatigue, determined
+
+by the levels of biochemical and hormonal markers (ammonia, GH, testosterone, cortisol, etc) and higher levels of muscle damage mark- ers (creatine kinase - CK) after RT to failure. Consequently, RT to failure increases the amount of time needed for recovery and it could affect the volume of training, which is the most important factor to develop muscle mass [29]. In addition, non-failure training would be an especially interesting method in sport modalities in which there is a necessity to develop simultaneously strength, endurance and technical capacities due to its faster time course of recovery [30].
+   Sleep is considered the most important method for recovery from daily load [31] assisting in the recovery of the nervous and meta- bolic cost imposed by the waking state [32]. A good sleep is vital in the regulation of hormone secretion and in the restoration of meta- bolic processes in athletes [33]. Therefore, sleep problems can affect the recovery process and future physiological adaptations in the training process. In this way, sleep disturbance in athletes can impair glycogen re-synthesis and muscle damage repair, and it can also increase the mental fatigue and produce cognitive function impair- ment [16]. Specifically, some studies found that vigorous exercise, especially when performed close to bedtime, may impair sleep be- haviour [34]. However, other studies reported that high-intensity training does not disrupt and may even improve subsequent noctur- nal sleep when it is performed in the early evening [35]. Particu- larly, our results showed that both types of RT sessions produce the same effect on sleep quality and quantity. These findings agreed with the previous quantity range of 7-9 h of sleep per night recommend- ed by the National Sleep Foundation for Healthy Sleep [36]. In ad- dition, our participants reported 3.6/5 (failure session) or 3.9/5 (non-failure session) points in the first item of the KSD, which ana- lysed the subjective sleep quality. Moreover, the sleep efficiency measured by actigraphy was 89% in both cases, leading to good values of sleep quantity and quality. Notably, although poor recovery processes that affected strength performance were reported after RT to failure, they did not seem to have an effect on the sleep quality.
+   Even though a similar sleep response was found after both types of RT session (failure vs non-failure), athletes did not obtain the same level of recovery 24 hours after the exercise, obtaining lower strength performance. As we explained above, these findings could be related to higher neuromuscular fatigue and muscle damage after a failure session [28], indicating that participants did not obtain total recov- ery and the same strength values as after a non-failure session. Also, fatigue factors (e.g. muscle damage or biochemical markers) may have a greater influence on strength performance than sleep quality. However, in most of the previous studies which analysed the effect of exercise on sleep quality, endurance training [16, 31, 35] was performed, or the subjects were older in those cases where they studied the effect of RT [37]. Therefore, it is necessary to continue analysing the effect of RT on sleep quality because previous studies found that lower sleep quality is related to higher prevalence of sarcopenia [38] and inadequate sleep impairs maximal muscle
+strength and muscle growth [14].
+
+
+
+   Concerning HRV variables, the sleep quality results reported in our study were in line with those obtained for HRV variables. Thus, both types of training sessions (failure and non-failure) stimulated the same autonomic response during sleep. However, there are no previous studies in analysing the effect of RT session on HRV dur- ing night sleep. Our HRV results are in accordance with some previous studies using endurance training sessions, reporting that late night moderate or high intensity training did not disturb the cardiac nocturnal modulation [16, 31] and that the changes in HRV observed after exercise return to baseline after 5-15 min [39]. In addition, it is known that the fitness status affects parasympa- thetic recovery, showing that highly trained athletes were charac- terized by rapid recovery of parasympathetic balance after exer- cise [40]. Thus, the fitness level of the sample of the current study (i.e., highly trained resistance-trained athletes) may have an ad- ditional effect on the cardiac autonomic modulation result. From an applied perspective and, considering that a recent study re- ported that RT-LF and RT-NLF are similarly effective in promoting increases in muscle mass [41], strength conditioning specialists and athletic coaches should consider that athletes performing an RT session leading to failure will suffer from higher immediate fatigue and they will need a longer time in order not to compromise the recovery processes (? 48 h) in comparison to a non-failure RT session. This fact must be taken into consideration if athletes want to increase their training frequency in order to increase the training volume too.
+   
+Finally, this study has some limitations, since we did not include a control night in order to compare the results of sleep quality after training with one rest day. In addition, the sample size is limited and, for this reason, our results cannot be extrapolated to other types of resistance training (circuit training, cluster, and so on); nor can our findings be generalised to other athlete modalities (e.g., team sport athletes, endurance athletes, ...) or gender (female athletes).
+
+CONCLUSIONS
+In conclusion, a single session of RT to failure produced fatigue that decreased the 1-RM in BP (7.2%) and HS (11.1%) on the following day. However, this parameter did not decrease after a non-failure RT session. In addition, both types of acute training sessions (failure and non-failure) seem to have affected in a similar manner the perceived and measured sleep quantity and quality as well as the autonomic modulation during the night after the training session.
+
+Acknowledgments                       There is no financial support for this project. No founds were received for this study from National Institutes, Welcome Trust, University or others. The authors thank to all the participants in this study and G. Sanz for the help in the proofreading process.
+
+Conflict of interest declaration
+No conflicts of interest, financial or otherwise, are declared by the authors.
+
+
+
+REFERENCES
+1. Cormie P, McGuigan MR, Newton RU. Developing maximal neuromuscular power: Part 2 training considerations for improving maximal power production. Sport Med. 2011;41:125-46.
+2. American College of Sports Medicine. American College of Sports Medicine position stand. Progression models in resistance training for healthy adults. Med Sci Sports Exerc. 2009; 41:687-708.
+3. Moss BM, Refsnes PE, Abildgaard A, Nicolaysen K, Jensen J. Effects of maximal effort strength training with different loads on dynamic strength, cross-sectional area, load-power and load-velocity relationships. Eur J Appl Physiol Occup Physiol. 1997; 75:193-199.
+4. Drinkwater EJ, Lawton TW, Lindsell RP, Pyne DB, Hunt PH, McKenna MJ. Training leading to repetition failure enhances bench press strength gains in elite junior athletes. J Strength Cond Res. 2005;19:382-8.
+5. Izquierdo M, Ibañez J, González- Badillo JJ, Häkkinen K, Ratamess NA,
+Kraemer WJ, et al. Differential effects of strength training leading to failure versus not to failure on hormonal responses,
+
+
+strength, and muscle power gains. J Appl Physiol. 2006; 100(5):1647-56.
+6. Martorelli S, Cadore EL, Izquierdo M, Celes R, Martorelli A, Cleto VA, et al. Strength training with repetitions to failure does not provide additional strength and muscle hypertrophy
+gains in young women. Eur J Transl Myol 2017; 27:113-20.
+7. Jenkins NDM, Housh TJ, Bergstrom HC, Cochrane KC, Hill EC, Smith CM, et al. Muscle activation during three sets to failure at 80 vs. 30% 1RM resistance exercise. Eur J Appl Physiol. 2015; 115:2335-47.
+8. Davies T, Orr R, Halaki M, Hackett D. Effect of Training Leading to Repetition Failure on Muscular Strength:
+A Systematic Review and Meta-Analysis. Sport Med. 2016;46:487-502.
+9. Mitchell CJ, Churchward-Venne TA,
+West DWD, Burd NA, Breen L, Baker SK, et al. Resistance exercise load does not determine training-mediated hypertrophic gains in young men. J Appl Physiol.
+2012;113:71-7.
+10. Rubio-Arias J, Marín-Cascales E, Ramos-Campo DJ, Hernandez A V., Pérez-López FR. Effect of exercise on
+
+
+sleep quality and insomnia in middle- aged women: A systematic review and meta-analysis of randomized controlled trials. Maturitas. 2017;100:49-56.
+11. Allen NG, Higham SM, Duffield R. Recovery Strategies to Optimise Adaptations to Concurrent Aerobic and Strength Training. In, Schumann M, Ronnestad BR. (eds.) Concurrent Aerobic and Strength Training. 1st edition. Switzerland: Springer International Publishing; 2019. p. 213-227.
+12. Chen Y, Cui Y, Chen S, Wu Z. Relationship between sleep and muscle strength among Chinese university students: A cross-sectional study.
+J Musculoskelet Neuronal Interact. 2017;17:327-333.
+13. Nikolaus B, Spira D, Norman K, Nikolov J, Demuth I, Steinhagen- Thiessen E, et al. Prevalence and definition of sarcopenia in community dwelling older people: Data from the Berlin aging study II (BASE-II). Dtsch Arztebl Int. 2016;113:253-260.
+14. Knowles OE, Drinkwater EJ, Urwin CS, Lamon S, Aisbett B. Inadequate sleep and muscle strength: Implications for resistance training. J Sci Med Sport. 2018;21:959-68.
+
+
+
+15. Gupta L, Morgan K, Gilchrist S. Does Elite Sport Degrade Sleep Quality?
+A Systematic Review. Sport Med. 2017; 47:1317-1333.
+16. Ramos-Campo DJ, Ávila-Gandía V, Luque AJ, Rubio-Arias J. Effects of hour of training and exercise intensity on nocturnal autonomic modulation and sleep quality of amateur ultra-endurance runners. Physiol Behav. 2019; 198:134-9.
+17. Roveda E, Sciolla C, Montaruli A, Calogiuri G, Angeli A, Carandente F. Effects of endurance and strength acute exercise on night sleep quality. Int Sport J. 2011;12:113-24.
+18. Myllymäki T, Rusko H, Syväoja H, Juuti T, Kinnunen ML, Kyröläinen H, et al. Effects of exercise intensity and duration on nocturnal heart rate variability and sleep quality. Eur J Appl Physiol. 2012; 112:801-9.
+19. Loturco I, Kobal R, Moraes JE, Kitamura K, Cal Abad CC, Pereira LA, et al. Predicting the Maximum Dynamic Strength in Bench Press: The High Precision of the Bar Velocity Approach. J Strength Cond Res. 2017;
+31:1127-31.
+20. Jidovtseff B, Harris NK, Crielaard JM, Cronin JB. Using the load-velocity relationship for 1RM prediction.
+J Strength Cond Res. 2011; 25(1):267-70.
+21. García-Ramos A, Haff GG, Pestaña- Melero FL, Pérez-Castilla A, Rojas FJ, Balsalobre-Fernández C, et al. Feasibility of the 2-point method for determining the 1-repetition maximum in the bench press exercise. Int J Sports Physiol. Perform. 2018;13(4):474-481.
+22. Garcia-Ramos A, Jaric S. Two-point method: A quick and fatigue-free procedure for assessment of muscle mechanical capacities and the
+1 repetition maximum. Strength Cond J. 2018;40(2):1-13.
+23. Morán-Navarro R, Martínez-Cava A, Sánchez-Medina L, Mora-Rodríguez R, González-Badillo JJ, Pallarés JG. Movement velocity as a measure of level of effort during resistance exercise.
+
+J Strength Cond Res. 2019; 33(6):1496-1504.
+24. Akerstedt T, Hume K, Minors D, Waterhouse J. The subjective meaning of good sleep, an intraindividual approach using the Karolinska Sleep Diary. Percept Mot Skills.1994;
+79(1 Pt 1):287-96.
+25. Hopkins WG, Marshall SW,
+Batterham AM, Hanin J. Progressive statistics for studies in sports medicine and exercise science. Med Sci Sports Exerc. 2009;41:3-12.
+26. Pareja-Blanco F, Rodríguez-Rosell D, Sánchez-Medina L, Ribas-Serna J, López-López C, Mora-Custodio R, et al.
+Acute and delayed response to resistance exercise leading or not leading to muscle failure. Clin Physiol Funct Imaging.
+2017;37(6):630-639.
+27. González-Badillo JJ, Rodríguez-Rosell D, Sánchez-Medina L, Ribas J, López- López C, Mora-Custodio R, et al.
+Short-term Recovery Following Resistance Exercise Leading or not to Failure. Int J Sports Med. 2016; 37(4):295-304.
+28. Morán-Navarro R, Pérez CE, Mora- Rodríguez R, de la Cruz-Sánchez E, González-Badillo JJ, Sánchez-Medina L, et al. Time course of recovery following resistance training leading or not to failure. Eur J Appl Physiol. 2017; 117(12):2387-2399.
+29. Schoenfeld BJ, Grgic J, Krieger J. How many times per week should a muscle be trained to maximize muscle hypertrophy? A systematic review and meta-analysis of studies examining the effects of resistance training frequency. J Sports Sci. 2019;37(11):1286-1295.
+30. García-Pallarés J, Sánchez-Medina L, Carrasco L, Díaz A, Izquierdo M. Endurance and neuromuscular changes in world-class level kayakers during
+a periodized training cycle. Eur J Appl Physiol. 2009;106(4):629-38.
+31. Myllymäki T, Kyröläinen H, Savolainen K, Hokka L, Jakonen R, Juuti T, et al. Effects of vigorous late-night exercise on sleep quality and cardiac autonomic activity.
+J Sleep Res. 2011;20:146-53.
+32. 
+Nédélec M, Halson S, Abaidia AE, Ahmaidi S, Dupont G. Stress, Sleep and Recovery in Elite Soccer: A Critical Review of the Literature. Sport Med. 2015;45:1387-400.
+33. Driver HS, Taylor SR. Exercise and sleep. Sleep Med Rev. 2000;4(4):387-402.
+34. Youngstedt SD, Kripke DF, Elliott JA. Is sleep disturbed by vigorous late-night exercise? Med Sci Sports Exerc. 1999; 31(6):864-9.
+35. Thomas C, Jones H, Whitworth-Turner C, Louis J. High-intensity exercise in the evening does not disrupt sleep in endurance runners. Eur J Appl Physiol. 2019;120(2):359-368.
+36. The National Sleep Foundation. National Sleep Foundation Recommends New Sleep Times. Natl Sleep
+Found. [Internet]. [Revised on 20 Dec 2019]. Available in: https://www. sleepfoundation.org/press-release/ national-sleep-foundation-recommends- new-sleep-times
+37. Viana VAR, Esteves AM, Boscolo RA, Grassmann V, Santana MG, Tufik S, et al. The effects of a session of resistance training on sleep patterns in the elderly. Eur J Appl Physiol. 2012; 112(7):2403-8.
+38. Rubio-Arias JÁ, Rodríguez-Fernández R, Andreu L, Martínez-Aranda LM,
+Martínez-Rodriguez A, Ramos-Campo DJ. Effect of Sleep Quality on the Prevalence of Sarcopenia in Older Adults:
+A Systematic Review with Meta-Analysis. J Clin Med. 2019;8(12):2156.
+39. Gladwell VF, Sandercock GRH, Birch SL. Cardiac vagal activity following three intensities of exercise in humans. Clin Physiol Funct Imaging. 2010; 30(1):17-22.
+40. Seiler S, Haugen O, Kuffel E. Autonomic recovery after exercise in trained athletes: Intensity and duration effects. Med Sci Sports Exerc. 2007;39(8):1366-73.
+41. Santanielo N, Nóbrega SR, Scarpelli MC et al. Effect of resistance training to muscle failure vs non-failure on strength, hypertrophy and muscle architecture in trained individuals. Biol Sport. 2020; 37(4):333-341.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+88		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

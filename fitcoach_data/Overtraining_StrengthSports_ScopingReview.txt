@@ -1,0 +1,408 @@
+
+
+Overreaching and Overtraining in Strength Sports and Resistance Training: A Scoping Review
+BELL, Lee <http://orcid.org/0000-0003-0583-3522>, RUDDOCK, Alan
+<http://orcid.org/0000-0002-7001-9845>, MADEN-WILKINSON, Tom
+<http://orcid.org/0000-0002-6191-045X> and ROGERSON, David
+<http://orcid.org/0000-0002-4799-9865>
+Available from Sheffield Hallam University Research Archive (SHURA) at: https://shura.shu.ac.uk/26176/
+
+
+
+
+
+
+
+
+This document is the Accepted Version [AM]
+Citation:
+BELL, Lee, RUDDOCK, Alan, MADEN-WILKINSON, Tom and ROGERSON, David
+(2020). Overreaching and Overtraining in Strength Sports and Resistance Training: A Scoping Review. Journal of Sports Sciences. [Article]
+
+
+
+Copyright and re-use policy
+See http://shura.shu.ac.uk/information.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sheffield Hallam University Research Archive
+http://shura.shu.ac.uk
+
+Overreaching and Overtraining in Strength Sports and Resistance Training: A Scoping Review
+Bell L1; Ruddock A1; Maden-Wilkinson TM1; Rogerson D1.
+1Academy for Sport and Physical Activity, Faculty of Health and Wellbeing; Sheffield Hallam University; Sheffield; UK.
+Corresponding author: Mr Lee Bell; lee.bell@shu.ac.uk
+Author emails: a.ruddock@shu.ac.uk; t.maden-wilkinson@shu.ac.uk; d.rogerson@shu.ac.uk
+
+Abstract
+
+To date, little is known about overreaching (OR) and the overtraining syndrome (OTS) in strength sports and resistance training (RT) populations. However, the available literature may elucidate the occurrence of both conditions in these populations. A scoping review was conducted. SPORTDiscus, Scopus and Web of Science were searched in a robust and systematic manner, with relevant articles analysed. 1,170 records were retrieved during an initial search, with a total of 47 included in the review. Two broad themes were identified during data extraction: 1) overreaching in strength sports; 2) overreaching and overtraining syndrome in RT. Short-term periods of OR achieved with either high-volume or high-intensity RT can elicit functional OR (FOR) but there is also evidence that chronic high-volume and/or intensity RT can lead to nonfunctional overreaching (NFOR). There is minimal evidence to suggest that true OTS has occurred in strength sports or RT based on the studies entered during this review. More research is needed to develop robust guiding principles for practitioners. Additionally, due to the heterogeneous nature of the existing literature, future research would benefit from the development of practical tools to identify and diagnose the transition from FOR to NFOR, and subsequently OTS in strength athletes and RT populations.
+
+Key Words: Overreaching, Overtraining, Overtraining Syndrome, Strength Sports, Resistance Training
+
+List of Abbreviations/Acronyms
+
+
+RT- Resistance training
+
+OR- Overreaching
+FOR- Functional overreaching NFOR- Non-functional overreaching OTS- Overtraining syndrome
+WP - Weightlifting performance
+
+
+1. Introduction
+
+Resistance training (RT) can induce acute fatigue due to reduction in neuromuscular activation and sequencing,[1] manifested as short-term (seconds to hours) decrease in performance, occurring due to impairment of central and/or peripheral mechanisms.[2] Recovery from RT varies based on the magnitude, duration and mode of training,[3] with typical mechanical and biochemical restoration occurring within 3 hours of moderate-intensity RT using loads at 70% of 1-RM or 24-96 hours during intense RT where muscular failure is achieved and/or muscle damage has occurred.[1,4,5]
+
+Whilst a single overloading RT bout results in acute fatigue and relative decrease in performance, short-term periods of accumulated training above the habitual level followed by subsequent recovery can lead to a supercompensation "rebound" effect known as functional overreaching (FOR), or a diminished adaptive response and long-term performance decrement, known as non-functional overreaching (NFOR). Prolonged exposure to such training may lead to overtraining syndrome (OTS).[6] Large-scale reviews and joint expert statements[6,7,8] have defined these terms as such:
+
+? Functional overreaching (FOR): A short-term decrease in performance lasting days to weeks with subsequent performance supercompensation after a period of recovery.
+? Non-functional overreaching (NFOR): Performance decrement is observed over a period of weeks to months, and while full recovery is achieved (although not always), no supercompensation effects are achieved.
+? Overtraining syndrome (OTS): Long-term reductions in performance capacity observed over a period of several months.
+
+In strength sports such as weightlifting, it is common for athletes and coaches to utilize periods of purposeful increased volume and/or intensity RT within a competition cycle to achieve FOR.[9,10] This may also be the case in other RT populations such as bodybuilding and high- intensity conditioning (e.g. CrossFit) where athletes participate in repeated high volume/intensity RT sessions/blocks in order to achieve a supercompensation effect.[11] To date, there is a lack of research into OR practices and the implications for non-functional outcomes.[6,12] As such, athletes may be at risk of maladaptation and performance decrement due to NFOR and/or OTS
+
+Objectives
+
+
+Scoping reviews are an ideal "reconnaissance" tool to evaluate a body of literature not comprehensively reviewed, or that exhibits a heterogeneous nature not amenable to a more systematic approach.[13] Scoping reviews provide the flexibility to map out broad narratives within a limited literature base, allowing researchers to examine emerging evidence where precise lines of questioning are undetermined.[14,15] Additionally, such reviews help develop key definitions and conceptual boundaries as well as identify gaps for future research.[14]
+
+The available OR/OTS literature in strength-sports and RT contexts appears to be broad, disparate and heterogeneous. After careful investigation and consultation with the appropriate guidance,[15] a scoping review was chosen ahead of a systematic review. Not only is a scoping review a relevant tool to synthesize the cross-disciplinary landscape of available evidence, it also offers a robust but transparent approach, navigating multiple nuanced themes and identifying areas for further exploration where a systematic review is inappropriate.
+
+A PCC framework (population, concept, context)[16] was used to develop the research question: "what is known about overreaching and overtraining in strength sports and resistance training populations?"
+
+2. Methods
+
+2.1 Protocol and registration
+
+This scoping review was developed using guidance from the Joanna Briggs Institute[13] and PRISMA-ScR,[17] together with the methodological framework proposed by Arksey and O'Malley[14] and subsequent recommendations from Levac et al.[18] The protocol was registered with Open Science Framework on 5th July 2019 [https://osf.io/vhp68/].
+
+2.2 Eligibility criteria and definitions
+
+
+A strength sport is defined here as a competitive sport where RT provides the primary overloading stimulus and where maximal strength or high force output is a primary determinant of performance, with limited or no additional overloading from endurance training. Weightlifting, powerlifting, strongman, explosive throwing sports and sprinting met these guidelines.
+
+The term resistance training refers to any study where participants were required to complete a short or long-term RT-based OR protocol without additional, concurrent endurance or technical training. This included studies where both recreational RT subjects and/or competitive athletes were used, or review papers that discussed RT in the context of OR/OTS.
+
+Research was not limited by geographical location or year and was incorporated in the review if it included: 1) human subjects of either sex and at all age groups; 2) OR/OTS in the context of either strength sports or RT, and; 3) peer reviewed data including quantitative/qualitative research, prospective cohort studies, mixed-methods, systematic/scoping/narrative reviews/meta-analyses or case reports. Conference proceedings and poster presentations were not included due to potential limitations in reporting quality and/or duplication.
+
+2.3 Information sources and search strategy
+
+
+The search was conducted using three electronic databases: SPORTDiscus, Scopus and Web of Science during June 2019. These databases were selected to provide relevant literature and were identified by the research team in consultation with an expert information scientist, who assisted with the development of the search strategy and database search.
+
+Boolean search terms AND/OR were used to identify relevant studies: "overreaching" OR "overtraining" AND "resistance training" OR "strength training" OR "weight training" OR "weightlifting" OR "weight lifting" OR "powerlifting" in all databases.
+
+Titles, abstracts, key words and data sources were searched, with relevant articles entered for full paper review. Upon completion, an investigation of additional citations from each reference list was conducted.
+
+2.4 Data charting and synthesis
+
+
+Data charting was carried out by the principal investigator using a charting tool designed for this study, developed to capture key information. The charting tool was independently assessed by the research team to determine robustness. Participant characteristics (trained/untrained, elite/non-elite, age, gender, number), and article characteristics (author, publication date, OR/OT protocols, measures and outcomes) were extracted during data charting. For comprehensive study breakdown see table 1 and 2.
+
+Table 1. Summary of data extraction for theme A: overreaching in strength sports
+
+
+Table 2. Summary of data extraction for theme B: overreaching and overtraining syndrome in resistance training
+
+3. Results
+
+
+3.1 Selection of sources of evidence
+
+
+Initial search yielded 1,170 results. After duplicates were removed, 832 studies were entered for title, abstract, key word and data source review. Subsequently, 137 items were selected for full-text review, with 90 full texts excluded for the following reasons: 7 were symposia or poster presentations and 83 were not relevant to the central review question. 47 studies were included in this scoping review (see Figure 1).
+
+There were two broad investment themes extracted during data charting. These were developed
+a priori and agreed on by the research team:
+
+
+A. Overreaching in strength sports (Theme A) (27.7% total)
+B. Overreaching and overtraining in resistance exercise (Theme B) (72.3% total)
+
+
+
+
+Figure 1. PRISMA-ScR Flow chart of extracted, included and excluded studies
+
+
+3.2 Synthesis of results
+
+
+Publication dates ranged from 1987-2019. 20 studies (42.6%) were published between 2010- 2019. From those 20 studies, 16 (80.0%) are located in theme B. Unlike many areas of sport science research, no obvious global increase in publications was observed, especially for theme
+
+A, further illustrating the need for future research in this area. Figure 2 highlights publications by date and theme.
+
+
+5
+
+
+4
+
+
+3
+
+
+2
+
+
+1
+
+
+0
+
+Publication year
+
+Strength sports (n=13)	Resistance training (n=34)
+
+Figure 2. Publications for strength sports (Theme A, n=13; Black) and resistance training (Theme B, n=34; Grey) meeting search criteria for overreaching and/or overtraining.
+
+
+Overall, 85.1% (n=40) studies included in the review were observation/intervention studies with timelines ranging from a single training session to a ~1-year competition schedule. Participant cohort sizes ranged from 1-28 in theme A and 1-43 in theme B.
+
+2 studies used female only subjects (1 was a single subject case study) and 5 included both males and females. 4 studies did not disclose the sex of participants. 29 used only male subjects. 4 studies involved junior weightlifters.
+
+In theme A, 92.3% (n=12) of studies involved weightlifters, with a single study (7.7%) involving throwing athletes. No studies included powerlifting, strongman or sprinting athletes.
+
+There were 6 systematic/literature reviews included in data extraction, with 1 post-hoc data analysis also included (all located within theme B). 23.5% of studies for Theme B (n=8) were conducted by the same first author; Andrew C. Fry, published between 1994-2006. In theme A, the same author published 2 studies (15.4%) as first author between 1993-1994.
+
+Several measures and tools were used across both themes to identify the onset of OR/OTS and fell under the following broad categories: "weightlifting performance (WP)," "performance measures", "serum hormones" or "serum biomarkers" (see Table 1 and Table 2). These are discussed in detail in the discussion.
+
+Despite the ongoing risk of NFOR, our review considers this area to be underinvestigated based on a lack of studies investigating OR/OTS in strength sports and RT, as well as insufficient data relating to diagnoses and guidelines for coaches.
+
+
+4. Discussion
+
+4.1 Theme A: Overreaching in strength sports
+
+
+4.1.1 Endocrinological measures and biomarkers
+
+
+Studies have investigated the effects of purposeful OR on serum hormones and biomarkers with conflicting results.[19-29] Most studies involved elite-level weightlifters, with a single study comparing the effects of OR in elite- and non-elite subjects.[25] 2 studies involved a female only cohort[27,28] and 4 studies recruited junior-level subjects.[19,23-25] Collectively, the data indicates that endocrinological markers can detect acute changes in training state, which could be useful for monitoring purposes in practice. However, these studies also indicate that such hormonal alterations can occur independent of performance changes, and therefore may not be reliable when identifying NFOR.
+
+Testosterone (T), cortisol (C) and T/C ratio were investigated in several short- and long-term studies,[20,21,23-28] with additional measures of T and sex hormone binding globulin (SHBG) assessed during a single study.[20] Overall, results indicated that training state and anabolic-
+
+catabolic response to RT were somewhat related to T/C changes,[20,27,28] however, disturbances were independent of performance in others.[21,23,25,26] Such effects might indicate that these biomarkers are not be appropriate for the identification of NFOR.
+
+Lifting experience was found to influence both acute[25] and chronic[24] hormonal responses to OR. Attenuation of T/C was observed after 1-week of purposeful OR in year 1, however was augmented in year 2 during a longitudinal observation of male junior weightlifters.[24] Endocrinological responses differed between elite- and non-elite weightlifters during short- term OR, with elite subjects experiencing no relationship between T/C ratio and OR, however, a negative correlation between T/C and OR training in non-elite subjects was observed suggesting training competence and/or experience might affect the hormonal response to overload training.
+
+Other potential biomarkers have been assessed during purposeful OR, including lactate and ammonia,[19] creatine kinase (CK) and plasma iron status.[29] Short-term OR resulted in altered lactate and ammonia concentrations coinciding with reductions in maximum effort jump performance.[19] However, no decrease in performance during a weightlifting-specific snatch test was observed, suggesting alterations in such biomarkers can occur without performance decrement.
+
+A single study assessed the effects of short-term OR on plasma iron status and selective inflammatory markers.[29] OR resulted in altered iron-status-balance parameters (especially in female weightlifters), with concomitant increases in CK. Whilst altered iron status coincided with RT-based OR, performance was not measured, therefore the relationship between iron status and performance is unknown. However, such alterations might indicate acute adaptation rather than detection of NFOR with more research is needed to investigate further.
+
+In summary, endocrinological responses to RT may help coaches identify acute training state, trainability, and long-term adaptive responses to exercise. However, endocrinological alterations can occur independent of performance, and whilst T/C may identify acute hormonal disturbance in strength athletes, does not appear to be a determinant of FOR/NFOR. Changes in iron metabolism and selective biomarkers caused by short-term changes in RT may provide a novel method for identifying FOR/NFOR in elite level weightlifters during intensified training protocols; current evidence, however, is limited and requires further investigation.
+
+4.1.2 Performance measures
+
+
+Several studies have assessed the effects of short-term, purposeful OR on performance outcomes in weightlifters, including weightlifting-specific testing[9,19,20,25,28] /or general measures of performance.[19,21,24,26,27,30] A single study examined throwing performance parameters in Collegiate-level throwers.[31] Overall, changes in maximal force (MF), rate of force development (RFD) and relative peak power output (PPO) through maximal effort jumping[19,26,28,31] and isometric- and/or dynamic mid-thigh pull (IMTP/DMTP) testing[27,30] are able to identify changes in training load and fatigue which may occur prior to performance decrement, however no performance test can currently determine the onset of NFOR.
+
+Periods of increased RT volume have resulted in weightlifting-specific performance improvement in elite/non-elite-level weightlifters[9,21,25,30] and throwers,[31] suggesting that FOR can be achieved through manipulation of training and can be successfully monitored using performance measures. Some studies found that high-volume RT did not lead to changes in weightlifting-specific performance but did result in reduced maximal jump height during purposeful OR,[19,23] suggesting that coaches could use some performance measures to guide successful programming and avoid NFOR. Measures of RFD and MF appear to be sensitive to changes in training load and may provide a viable method to determine changes in neuromuscular characteristics prior to performance decrement, especially with tests that mirror the technical constraints of weightlifting and throwing-specific performance. Further research will elucidate whether such testing can differentiate between typical fatigue associated with increased training load indicative of FOR, or the onset of NFOR.
+
+4.1.3 Changes in body mass and muscle cross-sectional area
+
+
+Reductions in body mass (-6.0 kg) and very likely reduction in muscle cross-sectional area of the vastus lateralis (precision = 99%, effect size = 2.08) were observed in a female athlete during an OR phase in preparation for a national weightlifting competition.[28] Nonsignificant increases in cross-sectional area of the vastus lateralis (p >.05) were observed in male weightlifters training once- or twice-daily for 3-weeks, with researchers speculating that multiple daily training sessions may be more beneficial to muscle hypertrophy and may also
+
+offer a more effective neuromuscular training stimulus.[26] There is limited literature available in the area of OR and muscle hypertrophy in strength sports, and it is unwise to offer a generalised consensus based on the available literature, but investigation into the effects of weight cutting through caloric restriction during OR is needed to expand current understanding in this area.
+
+4.2 Theme B: Overreaching and overtraining in resistance exercise
+
+
+4.2.1 The effects of high-volume and high-intensity resistance training on performance measures
+
+Studies have examined the effects of high-volume and/or high-intensity RT [32-48] as well as phasic, periodized approaches to OR.[49-56] Overall, both short-term increased RT volume and intensity can result in FOR, but excessive exposure in terms of magnitude and/or duration can also result in NFOR - especially during prolonged high-intensity RT. Identifying the transitional threshold from FOR to NFOR is difficult to determine based on the limited, heterogenous studies available within the literature and practitioners need to be aware that optimising performance is reliant on the prescription of appropriate volume and intensity during purposeful OR.
+
+Increases in RT volume designed to induce fatigue over a 4-week period have resulted in performance improvement indicative of FOR.[33] Similarly, increases in intensity-matched lower body RT volume over a 6-week period have resulted in improved maximal strength, with higher volumes superior to moderate or low volume.[32] Reductions in mean power (MP) jumping performance have illustrated greater within-subject variability during periodized overload training, which was greatest during OR, suggesting that whilst jump performance can be used to assess temporal changes to MF, MP, RFD and fatigue in RT populations during OR, practitioners need to be aware of typical error scores when interpreting change from subject to subject.[33]
+
+Differing definitions of "high-volume" training makes inferencing from the existing data challenging. For example, a single upper/lower body RT workout of 3 x 10-12 RM was defined as "high volume, muscle damaging training" in one study,[34] which was notably lower in magnitude and duration (of volume) compared to other high-volume RT studies.[32,33,35,36]
+
+Such ambiguity raises questions around the thresholds used to determine high volume OR in the RT literature, which appear to be poorly defined.
+
+A lack of consistent findings exists within high-intensity OR literature, with short-term, purposeful high-intensity OR of similar duration resulting in FOR in some studies,[39] but performance plateau[42] and NFOR in others.[35,38,41,44] Although designed to invoke OTS, an increase in maximal strength was observed after a 2-week high-intensity OR protocol in 9 recreationally trained men, even in the presence of reduced jumping and sprint performance.[39] Conversely, maximal strength plateaued during a purposeful 3-week OR period (after a period of strength improvement in a preceding 4-week period of normal RT), with associated reduction in peak isokinetic squat force at 0.20 m x s-1.[42] However, several other performance parameters including vertical jump height, 36.6-m sprints, lateral agility and isokinetic squat force at 0.82 and 1.43 m x s-1 were unchanged.
+
+Maximal strength decline with concomitant reductions in isokinetic and stimulated isometric muscle force has been observed during periods of high-intensity OR.[38] Similarly, short-term decreases in maximal strength have been observed after 2-3 week purposeful OR,[41] decrease in maximal strength/mean power at 1-RM after 2 week OR.[44]. A decrease in maximal strength and isokinetic knee-extension strength, as well as joint-centred overload injury of the knee occurred in a male subject after high-intensity OR has been observed in one study, suggesting indices of NFOR could place athletes at a higher risk of injury.[43] Interestingly, voluntary isometric knee-extension and stimulated isometric knee-extension strength increased, suggesting a reduction in performance only affected dynamic strength indices.
+
+Whilst a variety of high-intensity protocols have been observed in the literature, several studies utilised the same protocol, consisting of daily 10 x 1-RM, [38,41,43,44] resulting in performance decrements indicative of NFOR and/or OTS. Such an extreme protocol is unlikely to reflect RT practice, but suggests that a dose-response "threshold" might exist by demonstrating that periods of high-intensity RT can result in NFOR even over short periods of time. One study stated that after completing the 10 x 1-RM protocol, normal training could only be resumed after 2-8 weeks of cessation and may be one of the only available studies in the literature where OTS occurred, based on current definitions [44].
+
+Overall, high-volume and high-intensity RT programming can result in FOR, however, in the presence of excessive magnitude or duration of RT can also result in NFOR. Whilst evidence might suggest a dose-response to both volume and intensity exists, currently there is minimal literature to support at what point that might occur. Further research to determine when FOR capacity is maximized and non-functional effects begin to take place will help coaches programme optimal RT and avoid unnecessary performance decline.
+
+4.2.2 Extreme conditioning practices
+
+
+Studies have investigated the high-volume, high-intensity and multi-adaptive nature of CrossFit (CF) and other extreme RT-based conditioning practices.[47,57,58] Findings suggest that such RT practices can lead to endocrinological alteration,[58] increased inflammatory response,[47] performance decline and increased risk of NFOR and possibly OTS if the balance between training and recovery is not adhered to.[57,58]
+
+Participation in two consecutive "extreme conditioning" workouts resulted in increased anti- inflammatory cytokines without impacting muscle function [47] suggesting that acute disturbances in some biomarkers are sensitive to short-term increases during high-intensity, high-volume RT prior to performance changes being observed. Whilst short-term CF-based RT can result in FOR, increased acute inflammatory markers and measures of mood state may suggest that prolonged exposure could lead to a NFOR state.[57] In a post-hoc analysis of data, those who participated in high-intensity CF training and displayed OTS (defined as fulfilling diagnostic criteria outlined by Meeusen et al.,[6]) reported hormonal and biochemical disturbances including attenuated T and elevated oestradiol (E2).[58] Interestingly, performance decline associated with OTS may have been accelerated by insufficient carbohydrate (CHO) intakes, which were 3 times lower in the OTS CF group compared to healthy CF athletes. The author suggested that compensatory high-CHO meals may offer a protective role against OTS, and that CHO intakes of <5.0 g/kg/day for 8-weeks or more may be a contributing cause of OTS in CF athletes.
+
+Literature in CF populations appears to be limited, however based on existing evidence, the risk of NFOR/appears to be high in these athletes - especially in the presence of restricted CHO intake. In high-intensity, extreme RT-based exercise such as CF, a robust series of systemic markers should be developed to help coaches optimize training.[57]
+
+4.2.3 Training to muscular failure
+
+
+Three review papers have discussed the potential effects of muscular failure on OR/OTS,[59- 61] however no studies appear to have tested this hypothesis in practice. Whilst regular failure training can stimulate increases in strength and athletic performance, it might also result in NFOR/OTS when used to excess. [59-61] Consequently, future research should investigate the effects of training to muscular failure on NFOR/OTS to inform the scientific community,[61] and to provide coaches and athletes with much needed guidance in this area - particularly in experienced recreational bodybuilders where training to failure may be more widely used.[60]
+
+4.2.4 Endocrinological measures and biomarkers
+
+
+The effects of chronic RT exposure on hormonal and biochemical systems has been investigated in several cohort studies,[34-36,38,40,41,44,45,47,49,57] with two systematic reviews investigating the hormonal response to OR,[8,61] a post-hoc analysis[58] and a single review referencing OTS within the broader theme of RT.[62] Overall, chronic exposure to RT can lead to altered hormonal responses, with high-volume RT following similar patterns to endurance training, whereas high-intensity RT appears to result in a differential response.[62] It is unlikely that endocrinological measures can predict NFOR/OTS due to a lack of reliable supporting literature but may be useful to identify acute changes in training state. The heterogeneous nature of the literature coupled with inconsistent findings makes it difficult to corroborate the effects of purposeful OR on hormonal systems and it is likely that serum hormones such as T, C and T/C ratio are able to predict the onset of NFOR/OTS.[8,34,63]
+
+A recent systematic review suggested basal hormone levels are not a reliable predictor of NFOR/OTS and that excessive endurance and/or RT practices could lead to neuroendocrine fluctuations indicative of NFOR.[8] From 38 studies included in this review, only 3 (7.9%) investigated RT, therefore only limited literature relevant to this review was included. A small increase in T and T/C ratio was observed during 2-weeks of daily high-intensity RT,[41] and whilst 1-RM performance decreased over the training period, measures of anabolic status were unable to detect such strength loss. Conversely, reductions in T coincided with an increase in maximal strength during 2-weeks of heavy training[45] and in CF subjects classified as
+
+suffering OTS,[58] illustrating a lack of consistency in hormonal responses to high-intensity RT.
+
+Increases in C-reactive protein (CRP) and CK have been reported during periods of short-term OR.[34,49,57] CK appears to be correlated with perceived recovery after a single RT session,[34] and maximal squat strength.[51] However, increased CRP/CK has been reported after a period of high-intensity, high-volume RT resulting in performance gain,[57] and therefore may be a part of the adaptive process that underpins FOR rather than an indicator of NFOR or OTS. A slight but insignificant increase in nocturnal urinary epinephrine activity during high-intensity RT has been observed, as well as significant downregulation in ß2- adrenergic receptors concurrently with decreased 1-RM strength.[44] Interestingly, OTS was diagnosed through a reduction in maximal strength as well as mean power at 100% 1-RM loads, which is conflicting with current diagnostic criteria[6] based on retrospective recovery time- course. That said, normal training could be resumed only after 2-8 week suggesting NFOR was more likely to have occurred in some participants, but OTS could have occurred in others.
+
+Changes in skeletal muscle signal transduction downstream to ß2-adrenergic receptors have been observed in trained males during 2-4 weeks of high-intensity and high-power OR.[36] Similar reductions in ß2-adrenergic expression and increased nocturnal urinary epinephrine have also been observed during high-intensity OR,[48] and as such, RT subjects may experience alterations in epinephrine-ß2-ERK signalling axis during periods of OR.
+
+A novel marker of cell-free plasma DNA (cf-DNA) has been proposed as a possible tool to detect OTS during intensified RT.[49] cf-DNA increased proportionate to training load during a 12-week period of undulating RT volume, with highest concentrations reported during a high- volume, high-intensity phase. cf-DNA may be sensitive enough to detect short-term response to OR, with transient increases in cf-DNA possibly due to increased muscle fibre damage caused by prolonged overloading RT.
+
+Hormonal and biochemical measures may help coaches identify acute training state, but inconsistent findings in the literature suggest these measures are not sufficiently robust to identify or predict NFOR/OTS; particularly when used in isolation rather than in combination with performance measures.
+
+4.2.5 Supplement use during periods of overreaching periods
+
+
+The effects of various supplements have been examined during purposeful OR periods, including amino acids (AA),[46,51,53] ß-Hydroxy ß-methylbutyric-free acid (HMB-FA),[50] adenosine-5'-triphosphate (ATP),[55] creatine monohydrate (CrM),[54] phosphatidylserine (Ps)[22] and multi-ingredient supplementation.[48,52] Overall, supplementation during purposeful OR may help to offset the deleterious effects of NFOR, however some studies have observed no change. The overall literature to support supplementation during OR RT is less than conclusive.
+
+High volume OR initially leads to a decrease in muscle strength and power, with subsequent rebound effect (FOR) after low volume training in both AA supplementation and placebo.[53] Similarly, a small decrease in 1-RM was observed during high-volume OR in both whey and HMB-FA and whey and leucine groups. However, increased maximal strength was observed during a subsequent taper, indicative of FOR.[50] No differences were observed at any point between groups, suggesting the OR training stimulus and not supplementation was the main driver of FOR outcomes. AA supplementation was found to preserve T and attenuate CK levels during high-volume RT and was highly correlated to reductions in squat 1-RM but a subsequent increase in maximal strength suggests the protocol resulted in FOR.[51]
+
+High-power RT OR led to a reduction in mean squat velocity and concurrent increase in the ratio between serum epinephrine/ ß2-adrenergic receptor expression (ß2-AR), without reduction in maximal strength in both a multi-ingredient supplementation group and control [48]. Whilst these results further illustrate the attenuation in force and velocity prior to maximal strength decay during periods of intensified RT, it is worth noting that maximal strength did begin to plateau, and further stressful RT could have resulted in NFOR. The group receiving supplementation demonstrated a smaller decrease in ß2-AR expression and a lower epinephrine/ß2-AR ratio, suggesting the recovery drink reduced the detrimental effects of OR on sympathetic activity, however had no effect on performance outcome compared to placebo. Interestingly, the authors of this study referred to the 1-wk training phase as an "overtraining" phase, however no incidence of OTS occurred, although some subjects were overreached based on time-course to recovery. Exploration into differences between high power OR and high intensity/volume OR may provide further understanding in this area.
+
+4.2.6 Changes in body mass and muscle cross-sectional area
+
+
+A small number of studies have investigated the effects of dietary supplementation on alterations to lean body mass (LBM) and mCSA during strength training programmes that included short-term OR. [50,52.55] An increase in mCSA of the vastus lateralis was observed in male subjects administered either whey protein with HMB-FA or with leucine during a 12- week RT programme comprising a 2-week OR phase.[50] No differences in mCSA were reported between groups at any phase, suggesting neither supplement was superior in invoking RT-induced muscle hypertrophy, and that OR itself had an impact on mCSA during periodized strength training. Combined HMB-FA plus ATP supplementation led to increased LBM (8.5
+± 0.8 kg vs. 2.1 ± 0.5 kg; p<0.05) and thickness of the quadriceps muscle (7.8 ± 0.4 mm vs. 2.4
+± 0.7; p<0.001) when compared to placebo during a 12-week strength training programme with 2-week OR.[52] Whilst this may appear to illustrate short-term OR could have a positive impact on muscle hypertrophy, is worth noting that an increase in LBM of this magnitude in trained subjects across 12-weeks of RT appears to be somewhat questionable and the authors of this review suggest these particular results be taken with caution. In another study, ATP supplementation was reported to enhance LBM (4.0 ± 0.4 kg vs, 2.1 ± 0.5 kg; p<0.009) and quadriceps muscle thickness (4.9 ± 1.0 mm vs. 2.5 ± 0.6; p<0.02) compared to placebo during a 12-week periodized strength training programme consisting of three phases of varied intensity and volume.[55] Concerns have since been raised regarding the methodological robustness of the data presented in the studies by Lowery et al., and Wilson et al.,.[52;55], with inconsistencies in data suggested by other researchers.[64] To date, there is little evidence suggesting that purposeful OR during RT results in negative alterations in mCSA. However, this is likely due to a significant lack of literature looking specifically at markers of muscle hypertrophy during periods of RT resulting in NFOR or OTS. This provides an interesting gap for future research.
+
+5. Conclusions
+
+Implementing short-term OR is a common practice in some strength sports where the training stimulus is presented typically through high-volume/high-intensity RT over a 2-4 week period and often leads to FOR due to improved performance.
+
+There is a lack of representation in the research from strength sports such as powerlifting, strongman and explosive throwing and sprinting sports, with only a single study assessing the effects of purposeful OR in throwing athletes.
+
+Several performances, neuroendocrine, neuromuscular, and biochemical markers have been proposed as markers to determine NFOR/OTS in both strength sports and RT, but no single test or method has been able to identify the exact point at which FOR becomes NFOR or OTS. A dose-response transition from FOR to NFOR that is identifiable through perturbations in physiological markers or performance testing might exist, however this has not been identified in the current literature.
+
+There is no evidence that planned FOR protocols used in strength sport research have led to true OTS based on current definitions.[6] Studies have demonstrated short-term performance loss indicative of NFOR, however, in these cases, diminished performance has typically been resolved within days to weeks and is therefore not indicative of OTS. Many studies located for this review were published prior to the latest guidelines and definitions proposed by the ACSM/ECSS joint statement[6] and it appears that the definition of "overtraining" is poorly interpreted in the research. Reductions in performance lasting weeks to months, generalised performance reductions, and short-term high-volume/high-intensity training protocols have all been described as "overtraining", adding to confusion around the true meaning of the term. That said, OTS may have occurred during prolonged exposure to high-intensity or combined high-intensity/high-volume RT.
+
+Evidence suggests that NFOR is a real consequence of excessive and chronic training in the absence of sufficient recovery from RT, especially in practices involving extreme conditioning. Coaches and athletes must be cognisant to the deleterious effects of excessive training loads, and there is sufficient justification that a robust testing battery to identify when FOR becomes NFOR is now needed.
+
+Specific areas of interest for further investigation include the effects of muscular failure training, weight cutting during periods of OR (which is a tool often used in weight category strength sports as well as bodybuilding) and the reliability of performance-specific measures and biomarker sensitivity to RT OTS.
+
+6. Acknowledgements
+
+The authors would like to thank Deborah Harrop and Dave Hembrough for their advice on the methodology and input into the designing and implementation of the scoping review.
+
+7. Disclosure of interest
+
+No potential conflict of interest was reported by the authors.
+
+
+8. References
+
+
+1. Raastad T, Hallén J. Recovery of skeletal muscle contractility after high- and moderate- intensity strength exercise. Eur J Appl Physiol 2000;82(3):206-214.
+2. Todd G, Taylor JL, Gandevia SC. Measurement of voluntary activation of fresh and fatigued human muscles using transcranial magnetic stimulation. The Journal of Physiology 2003;551(2):661-671.
+3. Triscott S, Gordon J, Kuppuswamy A, King N, Davey N, Ellaway P. Differential effects of endurance and resistance training on central fatigue. J Sports Sci 2008;26(9):941-51.
+4. Soares S, Ferreira-Junior J, Pereira M, Cleto V, Castanheira R, Cadore E, et al. Dissociated time course of muscle damage recovery between single- and multi-joint exercises in highly resistance-trained men. J Strength Cond Research 2015;29(9):2594-2599.
+5. Morán-Navarro R, Pérez C, Mora-Rodríguez R, de la Cruz-Sánchez E, González-Badillo J, Sánchez-Medina L, et al. Time course of recovery following resistance training leading or not to failure. Eur J Appl Physiol 2017;117(12):2387-2399.
+6. Meeusen R, Duclos M, Foster C, Fry A, Gleeson M, Nieman D, et al. Prevention, diagnosis and treatment of the overtraining syndrome: Joint consensus statement of the European College of Sport Science (ECSS) and the American College of Sports Medicine (ACSM). European Journal of Sport Science 2013;13(1):1-24.
+7. Halson SL, Jeukendrup AE. Does Overtraining Exist?: An analysis of overreaching and overtraining research. Sports Med 2004;34(14):967-981.
+8. Cadegiani FA, Kater CE. Hormonal aspects of overtraining syndrome: a systematic review. BMC sports science, medicine & rehabilitation 2017;9(1):14-15.
+9. Pistilli EE, Kaminsky DE, Totten LM, Miller DR. Incorporating one week of planned overreaching into the training program of weightlifters. Strength Cond J 2008;30(6):39-44.
+10. Stone MH, Pierce E, Kyle C, Sands WA, Stone ME. Weightlifting: program design. Strength Cond J 2006; 28(2):10-17.
+
+11. Szewczyk A, Rebowska E, Jegier A. Prevalence of non-functional overreaching and overtraining syndromes in athletes. Polish J Sports Med 2018;34(4):213-218.
+12. Kreher JB. Diagnosis and prevention of overtraining syndrome: an opinion on education strategies. Open access journal of sports medicine 2016;7:115-122.
+13. Peters MDJ, Godfrey CM, Khalil H, McInerney P, Parker D, Soares CB. Guidance for conducting systematic scoping reviews. International journal of evidence-based healthcare 2015;13(3):141-146.
+14. Arksey H, O'Malley L. Scoping studies: towards a methodological framework. Int J Soc Res methodol 2005;8(1):19-32.
+15. Munn Z, Peters MDJ, Stern C, Tufanaru C, McArthur A, Aromataris E. Systematic review or scoping review? Guidance for authors when choosing between a systematic or scoping review approach. BMC Medical Research Methodology 2018;18(1):1-7.
+16. Peters MDJ, Godfrey C, McInerney P, Baldini Soares C, Khalil H, Parker D. Chapter 11: Scoping Reviews. In: Aromataris E, Munn Z (Editors). Joanna Briggs Institute Reviewer's Manual. The Joanna Briggs Institute, 2017. In: Aromataris E MZ, editor. Joanna Briggs Institute Reviewer's Manual: The Joanna Briggs Institute, 2017.
+17. Tricco AC, Lillie E, Zarin W, O'Brien KK, Colquhoun H, Levac D, et al. PRISMA Extension for scoping reviews (PRISMA-ScR): Checklist and Explanation. Annals of Internal Medicine 2018;169(7):467.
+18. Levac D, Colquhoun H, O'Brien KK. Scoping studies: advancing the methodology.
+Implement Sci 2010;5(69).
+19. Warren BJ, Stone MH, Kearney JT, Fleck SJ, Johnson RL, Wilson GD, et al. Performance measures, blood lactate and plasma ammonia as indicators of overwork in elite junior weightlifters. Int J Sports Med 1992;13(5):372-376.
+20. Häkkinen K, Pakarinen A, Alén M, Kauhanen H, Komi PV. Relationships between training volume, physical performance capacity, and serum hormone concentrations during prolonged training in elite weight lifters. Int J Sports Med 1987;8(S 1):S6-S65.
+21. Häkkinen K, Keskinen KL, Alén M, Komi PV, Kauhanen H. Serum hormone concentrations during prolonged training in elite endurance-trained and strength-trained athletes. Eur J Appl Physiol Occup Physiol 1989;59(3):233-238.
+22. Fahey TD, Pearl MS. The hormonal and perceptive effects of phosphatidylserine administration during two weeks of resistive exercise-induced overtraining. Biol Sport 1998;15(3):135-144.
+23. Fry AC, Kraemer WJ, Stone MH, Warren BJ, Kearney JT, Maresh CM, et al. Endocrine and performance responses to high volume training and amino acid supplementation in elite junior weightlifters. Int J Sport Nutr 1993;3(3):306-322.
+24. Fry AC, Kraemer WJ, Stone MH, Warren BJ, Fleck SJ, Kearney JT, et al. Endocrine responses to overreaching before and after 1 year of weightlifting. 1994a;19(4):400-410.
+
+25. Fry AC, Kraemer WJ, Stone MH, Koziris LP, Thrush JT, Fleck SJ. Relationships between serum testosterone, cortisol, and weightlifting performance. J Strength Cond Res 2000a;14(3):338-343.
+26. Hartman MJ, Clark B, Bembens DA, Kilgore JL, Bemben MG. Comparisons between twice- daily and once-daily training sessions in male weight lifters. Int J Sports Physiol Perf 2007;2(2):159-169.
+27. Haff G, Jackson J, Kawamori N, Carlock J, Hartman M, Kilgore J, et al. Force-time curve characteristics and hormonal alterations during an eleven-week training period in elite women weightlifters. J Strength Cond Res 2008 Mar;22(2):433-446.
+28. Bazyler C, Mizuguchi S, Zourdos M, Sato K, Kavanaugh A, DeWeese B, et al. Characteristics of a national level female weightlifter peaking for competition: a case study. J Strength Cond Res 2017;32(11):3029-3038.
+29. Khlif R, Marrakchi R, Jamoussi K, Sahnoun Z, Chtourou H, Souissi N. Plasma iron status in elite weightlifters after four weeks of intensive training. Science Sports 2019.
+30. Suarez DG, Mizuguchi S, Hornsby WG, Cunanan AJ, Marsh DJ, Stone MH. Phase-specific changes in rate of force development and muscle morphology throughout a block periodized training cycle in weightlifters. Sports (Basel, Switzerland) 2019;7(6):129.
+31. Bazyler CD, Mizuguchi S, Harrison AP, Sato K, Kavanaugh AA, DeWeese BH, et al. changes in muscle architecture, explosive ability, and track and field throwing performance throughout a competitive season and after a taper. J Strength Cond Res 2017;31(10):2785-2793.
+
+32. Robbins D, Marshall P, McEwen M. The effect of training volume on lower-body strength. J Strength Cond Res 2012;26(1):34-39.
+
+33. Taylor K, Hopkins WG, Chapman DW, Cronin JB. The influence of training phase on error of measurement in jump performance. Int J Sports Physiol Perf 2016;11(2):235-239
+
+34. Sikorski E, Wilson J, Lowery R, Joy J, Laurent C, Wilson S, et al. Changes in perceived recovery status scale following high-volume muscle damaging resistance exercise. J Strength Cond Res 2013;27(8):2079-2085.
+
+35. Raeder C, Wiewelhove T, Simola RÁD, Kellmann M, Meyer T, Pfeiffer M, et al. Assessment of fatigue and recovery in male and female athletes after 6 days of intensified strength training. J Strength Cond Res 2016;30(12):3412-3427.
+
+36. Nicoll J, Fry A, Galpin A, Sterczala A, Thomason D, Moore C, et al. Changes in resting mitogen- activated protein kinases following resistance exercise overreaching and overtraining. Eur J Appl Physiol 2016;116(11):2401-2413.
+
+37. Berning JM, Adams KJ, Climstein M, Stamford BA. Metabolic demands of "junkyard" training: pushing and pulling a motor vehicle. J Strength Cond Res 2007;21(3):853.
+
+38. Fry AC, Kraemer WJ, Van Borselen F, Lynch JM, Marsit JL, Roy EP, et al. Performance decrements with high-intensity resistance exercise overtraining. Med Sci Sports Exerc 1994b;26(9):1165-1173.
+
+39. Fry AC, Kraemer WJ, Lynch JM, Triplett NT, Koziris LP. Does short-term near-maximal intensity machine resistance training induce overtraining? J Strength Cond Res 1994c;8(3):188.
+
+40. Fry AC, Kraemer WJ, Van Borselen F, J. Lynch JM, Triplett NT, Koziris LP, et al. Catecholamine responses to short-term high-intensity resistance exercise overtraining. J Appl Physiol 1994d;77(2):941-946.
+
+41. Fry AC, Kraemer WJ, Ramsey LT. Pituitary-adrenal-gonadal responses to high-intensity resistance exercise overtraining. J Appl Physiol 1998;85(6):2352-2359.
+
+42. Fry AC, Webber JM, Weiss LW, Fry MD, Li Y. Impaired performances with excessive high- intensity free-weight training. J Strength Cond Res 2000b;14(1):54-61.
+
+43. Fry AC, Kraemer WJ, Lynch JM, Barnes JM. Overload injury of the knees with resistance-exercise overtraining: a case study. J Sport Rehab 2001;10(1):57-66.
+
+44. Fry AC, Schilling BK, Weiss LW, Chiu L. ß2-Adrenergic receptor downregulation and performance decrements during high-intensity resistance exercise overtraining. J Appl Physiol 2006;101(6):1664-1672.
+
+45. Raastad T, Glomsheller T, Bjøro T, Hallén J. Changes in human skeletal muscle contractility and hormone status during 2 weeks of heavy strength training. Eur J Appl Physiol 2001;84(1):54-63.
+
+46. Sharp C, Pearson D. Amino acid supplements and recovery from high-intensity resistance training. J Strength Cond Res 2010;24(4):1125-1130.
+
+47. Tibana RA, de Almeida LM, Frade de Sousa, NM, Nascimento DdC, Neto, IV, de Almeida JA, et al. Corrigendum: two consecutive days of extreme conditioning program training affects pro and anti-inflammatory cytokines and osteoprotegerin without impairments in muscle power. Frontiers Physiol 2018;9:771.
+
+48. Sterczala A, Fry A, Chiu L, Schilling B, Weiss L, Nicoll J. ß-Adrenergic receptor maladaptations to high power resistance exercise overreaching. Hum Physiol 2017;43(4):446-454.
+
+49. Fatouros IG, Destouni A, Margonis K, Jamurtas AZ, Vrettou C, Kouretas D, et al. Cell-free plasma DNA as a novel marker of aseptic inflammation severity related to exercise overtraining. Clinical Chem 2006;52(9):1820-1824.
+
+50. Jakubowski J, Wong EP, Nunes E, Noguchi K, Vandeweerd J, Murphy K, et al. Equivalent hypertrophy and strength gains in ß-hydroxy-ß-methylbutyrate- or leucine-supplemented men. Med Sci Sports Exerc 2019;51(1):65-74.
+
+51. Kraemer WJ, Ratamess NA, Volek JS, Häkkinen K, Rubin MR, French DN, et al. The effects of amino acid supplementation on hormonal responses to resistance training overreaching. Metabolism 2006;55(3):282-291.
+52. Lowery R, Joy J, Rathmacher J, Baier S, Fuller J, John, Shelley I, Mack, et al. Interaction of beta-hydroxy-beta-methylbutyrate free acid and adenosine triphosphate on muscle mass, strength, and power in resistance trained individuals. J Strength Cond Res 2016;30(7):1843- 1854.
+53. Ratamess NA, Kraemer WJ, Volek JS, Rubin MR, Gómez AL, French DN, et al. The effects of amino acid supplementation on muscular performance during resistance training overreaching. J Strength Cond Res 2003;17(2):250-258.
+
+54. Volek J, Ratamess N, Rubin M, Gómez A, French D, McGuigan M, et al. The effects of creatine supplementation on muscular performance and body composition responses to short-term resistance training overreaching. Eur J Appl Physiol 2004;91(5):628-637.
+55. Wilson JM, Joy JM, Lowery RP, Roberts MD, Lockwood CM, Manninen AH, et al. Effects of oral adenosine-5'-triphosphate supplementation on athletic performance, skeletal muscle hypertrophy and recovery in resistance-trained men. Nutrition & Metabolism 2013;10(1):57.
+56. Stone MH, Potteiger J, Pierce K, Proulx C. O'Bryant HS, Johnson RL, Stone ME. Comparison of the effects of three different weight-training programs on the one repetition maximum squat. J Strength Cond Res 2000;14(3)
+57. Drake N, Smeed J, Carper MJ, Crawford DA. Effects of short-term CrossFit[TM] training: A magnitude-based approach. J Exerc Physiol Online 2017;20(2):111.
+
+58. Cadegiani FA, Kater CE, Gazola M. Clinical and biochemical characteristics of high-intensity functional training (HIFT) and overtraining syndrome: findings from the EROS study (The EROS- HIFT). J Sports Sciences 2019;37(11):1296-1307.
+59. Willardson JM. The application of training to failure in periodized multiple-set resistance exercise programs. J Strength Cond Res 2007;21(2):628.
+60. Willardson JM, Norton L, Wilson G. Training to Failure and Beyond in Mainstream Resistance Exercise Programs. Strength and Cond J 2010;32(3):21-29.
+61. Davies T, Orr R, Halaki M, Hackett D. Effect of training leading to repetition failure on muscular strength: a systematic review and meta-analysis. Sports Med 2016;46(4):487-502.
+62. Fry AC, Kraemer WJ. Resistance exercise overtraining and overreaching. Sports Med 1997;23(2):106-129.
+63. Kraemer WJ, Ratamess NA. Hormonal responses and adaptations to resistance exercise and training. Sports Med 2005;35(4):339-361.
+64. Gentles JA, Phillips, SM. Discrepancies in publications related to HMB-FA and ATP supplementation. Nutr & Metab 2017;14, 42.
+
+

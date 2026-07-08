@@ -1,0 +1,537 @@
+Sports Medicine https://doi.org/10.1007/s40279-019-01242-2
+
+
+Overtraining in Resistance Exercise: An Exploratory Systematic Review and Methodological Appraisal of the Literature
+Clementine Grandou1	· Lee Wallace1 · Franco M. Impellizzeri1 · Nicholas G. Allen1 · Aaron J. Coutts1
+
+
+(c) Springer Nature Switzerland AG 2019
+
+Abstract
+Background The balance between training stress and recovery is important for inducing adaptations to improve athletic per- formance. However, continuously high training loads with insufficient recovery may cause fatigue to accumulate and result in overtraining. A comprehensive systematic review is required to collate overtraining literature and improve the current understanding of the mechanisms underlying functional overreaching (FOR), non-functional overreaching (NFOR) and the overtraining syndrome (OTS) in resistance training.
+Objective The objective of this systematic review was to establish markers of overtraining and elucidate the mechanisms underlying maladaptive resistance training conditions. Furthermore, this review aims to critically evaluate the methodologi- cal approaches of the overtraining literature.
+Methods A systematic literature search was performed on PubMed, Web of Science and SPORTDiscus to identify studies up to June 2019. Electronic databases were searched using terms related to resistance training and overtraining. Records were included if they attempted to induce a state of overreaching or overtraining through resistance exercise in healthy participants. Results A total of 22 studies were selected for review. Among these studies, eight resulted in decrements in performance and measured changes in performance during a follow-up period. There were four studies that reported decrease in performance yet failed to implement follow-up measures. A total of 10 studies reported no decline in performance. Overall, a lack of standardisation in methodology (follow-up performance testing) and diagnostic criteria prevents consistent determination of FOR, NFOR and OTS in resistance training.
+Conclusions Few studies have appropriately established FOR, NFOR or OTS in resistance training. Overtraining may be related to frequent high-intensity and monotonous resistance training. However, no marker other than a sustained decrease in performance has been established as a reliable indicator of overtraining in resistance exercise.
+Registration This systematic review was registered on the Open Science Framework (https://osf.io/) (https://doi.org/10.17605
+/osf.io/5bmsp).
+
+1 Introduction
+Many athletes perform resistance exercise or strength train- ing as a means to improve athletic performance. Resistance training programs can be systematically manipulated through changes in training variables (i.e. intensity, volume, exercise selection and sequence, rest intervals, repetition velocity and
+
+
+Electronic supplementary material The online version of this article (https://doi.org/10.1007/s40279-019-01242-2) contains supplementary material, which is available to authorized users.
+
+* Clementine Grandou Clementine.Grandou@uts.edu.au
+
+1	Human Performance Research Centre, University of Technology Sydney, Sydney, Australia
+
+
+training frequency) to elicit a specific response (i.e. muscular strength, hypertrophy, endurance, motor performance, bal- ance or coordination) [1, 2]. Strenuous resistance training loads should be applied to obtain high-level performance in strength and power-based sports [2]. The physical per- formance of an athlete undertaking resistance training may be influenced by their ability to adapt to increasing training loads. Consequently, athletes and coaches are continually challenged to find the optimal balance between training and recovery to enhance athletic performance. A disruption in this balance may result in impaired performance [3, 4].
+  During a typical training cycle, athletes often undergo periods of overload and recovery in an attempt to optimise physical performance. The process of overload is achieved through an increase in training load [3]. Acute fatigue occurs following overload training which may result in a
+
+
+
+
+
+
+
+
+Key PointsFailure to demonstrate decreases in performance and inadequate performance testing during a follow-up period prohibit the diagnosis of FOR, NFOR or OTS in the majority of studies.Early studies show that frequent and monotonous resist- ance training performed at high intensity may increase susceptibility to training maladaptation.The mechanisms that underlie overtraining in resistance exercise remain unclear. Coaches and athletes must con- tinue to rely on training-specific performance decrements to determine FOR, NFOR or OTS.
+
+
+
+temporary performance decrement [5]. When adequate rest is prescribed, the resultant acute fatigue may be followed by a positive adaptation or improvement in performance [3]. This process is referred to as functional overreaching (FOR). It is well established that periods of physiological stress are required to stimulate the adaptations responsible for enhancing performance [3]. Accordingly, coaches and athletes often induce FOR as part of a training program to elicit a supercompensation effect. However, continuously high training loads with insufficient recovery may cause fatigue to accumulate and result in long-term reductions in performance capacity. This maladaptation to training can manifest as a state of non-functional overreaching (NFOR) and, in extreme and prolonged cases, may develop into the overtraining syndrome (OTS).
+  Many previous studies have investigated the mechanisms of overtraining in an attempt to establish indicators of over- training through the use of various performance, biochemi- cal, physiological and psychological parameters (for review, see Halson et al. [6] and Meeusen et al. [7]). However, despite many attempts, no clear guidelines or diagnostic tools other than a sustained decrease in performance have emerged for the monitoring and detection of FOR, NFOR or OTS in resistance exercise [7]. This may be due to the varied terminology used by previous studies or the difficulty that lies in differentiating between these conditions. This review follows the well-accepted definitions proposed by Meeusen et al. [7], where FOR, NFOR and OTS are differentiated by the length of time required for recovery. FOR is defined as a short-term decrement in performance without severe psy- chological or other lasting negative symptoms that requires 'days-weeks' to recover. FOR is followed by a subsequent supercompensation effect where performance is improved. NFOR and OTS are caused by overtraining and defined as
+
+longer-term decrements in performance with or without a range of other symptoms (e.g. hormonal dysregulation, psychological disturbances, reduced immune function, sleep disorders) that require 'weeks-months' and 'months-...' to recover, respectively [7]. Consequently, the correct diagnosis requires maximal performance testing and can only be made retrospectively. Importantly, the OTS is characterised by an unexplained decline in performance and depends on a wide variety of training and contextual factors. Therefore, the cor- rect diagnosis of OTS should also be based on the exclusion of confounding factors/disorders (e.g. viral disorder, bacte- rial infection and other physical diseases) [7]. The amount that performance must deteriorate before FOR, NFOR or OTS is diagnosed has been debated in the literature. The magnitude of performance decline required to diagnose FOR, NFOR or OTS may vary widely depending on the specific performance assessment and the training status of the athlete. Despite the fact that a meaningful decrease in sport-specific performance is individual, for the purpose of this review, a statistically significant decline in performance was necessary to indicate a state of possible FOR, NFOR or OTS.
+The majority of previous overreaching/overtraining inves-
+tigations have been conducted in endurance activities [7]. However, previous authors have proposed that overtrain- ing in resistance exercise can elicit considerably different biological responses when compared to overtraining with endurance activities [8, 9]. The mechanisms behind these contrasting responses have not been established. Accord- ingly, there is a need to investigate overtraining respective to the training mode. It has also been suggested that the aetiol- ogy of resistance exercise overtraining differs with regard to whether training volume or intensity is manipulated/ increased [7]. However, the mechanisms and manifestation of FOR, NFOR and OTS through resistance exercise remain relatively unknown.
+  Overtraining has been suggested to be a significant prob- lem for strength or power athletes who undertake primar- ily resistance training [8]. Determining the point at which training becomes maladaptive continues to challenge both athletes and coaches in their attempts to achieve optimal performance. At present, there is no systematic review of the studies that have examined NFOR, FOR or OTS in resistance-trained athletes. Therefore, the purpose of this systematic review was to critique and appraise the results and methodology of studies that have attempted to induce FOR, NFOR or OTS through resistance exercise in healthy adults. Additionally, the present review aims to elucidate the physiological alterations and potential mechanisms of over- training, as well as determine if any markers (performance, biochemical, physiological or psychological) may be used to monitor FOR, NFOR or OTS in resistance training.
+
+2 Methods
+This review was conducted according to PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines [10]. A systematic review protocol that included the review question, search strategy, exclusion criteria and risk of bias assessment was registered with the Open Science Framework (10.17,605/OSF.IO/5BMSP; 11 January 2019).
+
+2.1 Eligibility Criteria
+
+Eligibility criteria were drafted and subsequently refined by three authors (CG, LW, FI) using a random sample of studies. Included studies met the following study crite- ria [population, intervention, comparator, outcome, study design (PICOS)] and report characteristics. P: Participants with chronic diseases, metabolic disorders or musculoskel- etal injuries were excluded. Studies were considered eligi- ble if they included an intervention aimed to induce FOR, NFOR or OTS through resistance training. I: Interventions were included regardless of whether or not they were able to induce a decrement in performance which is essential for the diagnosis of FOR, NFOR or OTS. Studies involving an acute bout of intensified training (i.e. increased training load) were not eligible for inclusion in this review unless the authors stated that they were attempting to overreach or overtrain participants. Interventions combining resistance training and aerobic training were excluded to account for a possible interference effect. Supplementation studies were eligible for inclusion if the data provided for non-supplemented par- ticipants were reported separately. C: All comparators and control conditions were eligible for this review. O: Changes in physical performance following the overtraining period and follow-up were the primary outcome measure of this review. Secondary outcome measures included biochemical, neuro-muscular, psychological and morphologic effects. S: This review considered randomised controlled trials (RCTs), non-randomised controlled trials (NRCTs), uncontrolled tri- als (UCTs) and grey literature to ensure literature saturation.
+
+2.2 Search
+
+A literature search was conducted by one author (CG) in the following electronic databases: PubMed, Web of Sci- ence Core Collection and SPORTDiscus. Databases were searched from inception up until June 2019. No language or publication status restrictions were imposed on the search to ensure literature saturation. The following Boolean search string was used on all databases: (resistance training OR resistance exercise OR strength training OR strength exer- cise OR weight training OR weight exercise OR weight lifting OR weightlifting) AND (overtrain* OR over-train*
+
+
+OR overreach* OR over-reach* OR fatigue OR underper- formance OR underperformance OR under performance OR underrecovery OR under-recovery OR under recovery). A comprehensive search strategy is provided in Table S1. Trial/ study registries were searched during a pilot phase; how- ever, due to the non-clinical nature of this review no results were found. In conjunction with the database searches, the reference lists of relevant studies, reviews and books were screened for possible omissions.
+
+2.3 Study Selection
+
+Articles retrieved through the systematic search were exported into a reference management software (EndNote version X8) and all duplicate articles were removed. All references were then imported into Covidence (Covidence Systematic Review Software, Veritas Health Innovation, 2013) for assessment of eligibility. Two authors (CG, NA) independently screened the records by title and abstract, with all potentially eligible references proceeding to full- text screening; conflicts were resolved by a third author (FI). Two authors (CG, NA) then independently screened the full text of all included articles against the eligibility criteria.
+
+2.4 Data Extraction
+
+Data were extracted by two authors (CG, LW) and imported into an Excel spreadsheet that was designed for this review (Table S2). Information extracted from each eligible study included publication details (author, year), participant char- acteristics (sex, training history), study methods (design, randomisation), overtraining intervention (duration, mode, frequency, volume, intensity, length of follow-up) and com- parator. Additionally, pre- and post-intervention values were extracted for primary (physical performance) and second- ary (biochemical, physiological and psychological) outcome measures.
+
+2.5 Risk of Bias Assessment
+
+The results between the groups were not of interest for this review; rather the pre-to-post changes were required for assessment of the effects of overtraining. Accordingly, an assessment of bias was undertaken of relevant methodologi- cal variables. To comply with the AMSTAR 2 (Assessing the Methodological Quality of Systematic Reviews), assess- ment of allocation concealment, blinding of participants and assessors was conducted for RCTs. Additionally, confound- ing and selection bias were assessed for NRCTs and UCTs. Furthermore, risk of bias assessment included a narrative review of the length of follow-up and frequency of perfor- mance testing that is required to accurately diagnose a state
+
+
+
+of FOR, NOR or OTS. The proposed methods of assessment of risk of bias were changed from the review protocol reg- istered on the Open Science Framework. One author (CG) piloted the proposed method of using the Cochrane risk of bias appraisal tool for the included RCTs. However, due to the nature of this review, the results did not accurately reflect risk of bias in terms of overtraining methodology. For example, if the performance of participants was not assessed during a follow-up period, there would be an inherent risk of bias within the results as an accurate diagnosis of FOR, NFOR or OTS cannot be made.
+
+
+3 Results
+3.1 Study Selection
+
+The initial database search yielded 4649 studies. An addi- tional nine studies were identified through other sources (searching reference lists and consultation with experts) (Fig. 1). Once duplicates were removed, 2992 titles and abstracts were screened for inclusion and of those 2923 stud- ies were excluded based on the eligibility criteria (Sect. 2.1). A total of 69 studies were retrieved as full text and assessed for eligibility and of those 47 were excluded (Table S3). The reasons for exclusion at the full text level are displayed
+
+in Fig. 1. Upon completion of these procedures, 22 studies were included for analysis in this systematic review.
+
+3.2 Study Characteristics
+
+Among the 22 included studies, 14 were RCTs, 2 were NRCTs, and 6 were UCTs. Physical performance of par- ticipants was measured by 20 of the included studies. Fry et al. [11, 12] reported on secondary outcomes of a previous study by the same author which did include physical per- formance measures [13]. However, these studies are treated separately throughout this review. At least, one measure of performance significantly declined following the overload program of 12 studies (Fig. 2) [9, 11-21]. Within the stud- ies that reported a decline in a measure of physical perfor- mance, eight included follow-up measures after the overload training intervention [11-13, 16-20]. No decline in physi- cal performance was reported in ten of the included stud- ies [22-31]. Lowery et al. [27] did not present performance data for placebo participants and therefore was included in studies that did not induce a decline in performance. Addi- tionally, authors should exercise caution when interpreting the results of Lowery et al. [27] and Wilson et al. [31] due to the controversy surrounding these manuscripts [32]. The descriptive results of the 12 studies that reported decreases in performance are displayed in Table 1. The descriptive
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1 PRISMA flow diagram of systematic search and included studies
+
+
+
+results of the nine studies that did not adversely affect per- formance are displayed in the Table S4. Among the 12 stud- ies that reported decreases in performance, nine reported on measures of biochemistry [11-13, 15-18, 20, 21], five
+studies investigated physiological changes [13, 16, 18-20], and three studies measured psychological and perceptual responses [9, 13, 18].
+
+3.3 Performance
+
+Twelve studies demonstrated decreases in at least one meas- ure of performance following an overload training interven- tion (Table 2). Among these studies, eight implemented follow-up measures of performance. The majority of studies
+
+reported that performance was restored within the follow- up period. However, many studies failed to report the time course changes of performance within the follow-up period [9, 14, 15, 21]. The most common performance measure was maximal muscular strength. Six studies demonstrated significant decreases in strength [11-13, 16-18]. Contrasting results were found for secondary performance measures. For example, six studies measured vertical jump performance [9, 14-16, 18, 21], of these, three resulted in decreased per-
+formance [15, 18, 21]. Additionally, two studies reported decrements in sprint performance [9, 14]. Fry et al. [14] reported decreases in sprint performance; however, 1RM strength improved following the training intervention. Other secondary performance measures included in the analyses
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+Fig. 2 Flow diagram of performance outcomes and follow-up interventions of included studies
+
+Table 1 Descriptive results of studies that adversely affected at least one measure of physical performance
+
+Study design Study	Subjects	Overload training	Follow-up
+
+Duration	Frequency	Volume and intensity (sets × repetitions)
+
+Mode
+
+
+Follow-up
+RCT	Fry et al. [13]	17 resistance trained, men 2 weeks	OT: 7 days/week
+C: 1 day/week
+
+
+
+OT: 10 × 1 at 100% 1RM
+C: 3 × 5 at 50% 1RM
+
+
+
+Tru-Squat machine (upper body resistance
+exercise held constant)
+
+
+
+Follow up survey (8 weeks)
+
+RCT	Fry et al. [12]	[13]	[13]	[13]	[13]	[13]	[13]
+RCT	Fry et al. [11]	[13]	[13]	[13]	[13]	[13]	[13]
+
+RCT	Fry et al. [16]	16 resistance trained, men 2 weeks	OT: 7 days/week
+C: 2 days/week
+
+OT: 10 × 1 at 100% 1RM
+C: 3 × 5 @ 50% 1 RM
+
+Tru-Squat machine	Follow up interviews
+(8 weeks)
+
+UCT	Margonis et al. [18]	12 recreationally trained,
+men
+
+3 weeks	6 days/week	6 × 1-6 at 85-100% 1RM Bench press, squat,
+snatch, hang clean, deadlift, curl and row
+
+3 weeks, 2 days/week:
+2 × 10-12 at 70% 1RM
+Then 3 weeks rest
+
+UCT	Nicoll et al. [19]	14 resistance trained, men
+HPOR (n = 6) HIOT (n = 8)
+
+HPOR:7.5 days HIOT: [16]
+
+HPOR: 2 sessions/day
+HIOT: [16]
+
+HPOR: 10 × 5 at 70%
+1RM (maximum con- centric velocity)
+HIOT: [16]
+
+HPOR: barbell back squat HIOT: [16]
+
+HPOR: 1-week recovery HIOT: [16]
+
+RCT	Sterczala et al. [20]	17 resistance trained, men
+AA (n = 8)
+Placebo (OT) (n = 3) Control (n = 6)
+
+1 week	AA/OT: 15 sessions C: maintained normal
+training schedule
+
+AA/OT: 10 × 5 at 70% of
+the system 1RM mass. When barbell velocity dropped below 90% of the highest value for the set load was reduced.
+C: maintained normal training schedule
+
+AA/OT: 'speed' barbell back squats
+C: maintained normal training schedule
+
+1 week training cessation
+
+UCT	Hecksteden et al. [17] 23 strength athletes, men
+and women
+
+6 days	11 sessions	4 × 6 at 85% 1RM Implementing drop sets
+to failure and eccentric
+
+Bench press and squat (plus variations)
+
+2 days rest
+
+overload trainingNo follow-upUCTWarren et al. [21]28 elite junior weightlift- ers7 days2-3 sessions/dayApproximate volume: 90,000 kg/week
+Intensity: percentage of the participants best snatch and best cleanSnatch, clean, back squat, front squat, snatch pull and clean pulland jerk
+
+Table 1 (continued)
+
+Study design Study	Subjects	Overload training	Follow-up
+
+Duration	Frequency	Volume and intensity (sets × repetitions)
+
+Mode
+
+
+RCT	Fry et al. [15]	28 male weightlifters
+AA (n = 13)
+Placebo (n = 15)
+
+
+7 days	2-3 sessions/day	Approximate volume:
+90,000 kg/day
+Intensity: 70-100% 1RM
+
+
+Multi-joint barbell exercises: snatch, power snatch, snatch pull, clean, power clean, clean pull, jerk, push jerk, push press, clean and jerk, front squat, back squat
+
+RCT	Fry et al. [14]	9 resistance trained, men	3 weeks	OT: 5 days/week
+C: 2 days/week
+
+OT: 8 × 1 at 95% 1RM
+C: 3 × 5 at 70% body weight
+
+Tru-Squat machine
+
+NRCT	Fry et al. [9]	6 resistance trained, men	3 weeks	3 days/week	Barbell back squat:
+2 × 1 at 95% 1 RM
+3 × 1 at 90% 1RM
+Leg curls: 3 × 10RM
+
+Barbell back squat and leg curls
+(upper body resistance exercise held constant)
+
+
+
+RCT randomised controlled trial, UCT uncontrolled trial, RM repetition maximum, OT overload training, C control, NR not reported, HMB-FA beta-hydroxy-beta-methylbutyrate-free acid, AA
+amino acid, HPOR high power overreaching, HIOT high-intensity overtraining, kg kilogram
+
+were maximal repetitions until exhaustion [13, 15, 21], Win- gate power [18], sit and reach [9], and muscular torque [13, 14].
+
+3.4 Biochemistry
+
+Biochemical responses were reported by nine studies that demonstrated decreases in performance. A variety of blood
+
+and urinary biomarkers including hormones and muscle damage markers as well as oxidative stress and inflamma- tory markers were reported. Four studies reported on the between-group biochemical responses of overload partici- pants in comparison to a control (Table 3). Additionally, nine studies provided pre- to post-intervention results for over- load training participants (Table S5). Commonly reported measures included cortisol [11, 15, 20], testosterone/free
+
+
+
+Table 2 Performance results of studies that adversely affected at least one measure of physical performance
+
+Study	Study design Performance post overload training	Follow-up
+
+Improved	No change	Declined
+
+
+
+Fry et al. [13]	RCT	Squat repetitions @ 70% 1RM
+
+1RM squat
+Isokinetic leg extension torque
+
+Follow-up survey indicated that participants were able to return to normal training load with 2-8 weeks of recovery.
+
+Fry et al. [12]	RCT	[13]	[13]	[13]
+Fry et al. [11]	RCT	[13]	[13]	[13]
+
+Fry et al. [16]	RCT	Vertical jump (CMJ, squat jump, depth jump)
+Mean power, peak velocity and peak force @ 40, 70% 1RM
+
+1RM squat
+Mean power @ 100% 1RM
+
+Follow-up interviews indicated that participants were able to return to normal training load with 2-8 weeks of recovery.
+
+Margonis et al. [18]	UCT	1RM strength
+Vertical jump Wingate power
+Nicoll et al. [19]	UCT	HIOT: [16]	HPOR: squat mean power HIOT: [16]
+
+1RM strength returned to baseline values following 3 weeks of recovery.
+HPOR: muscular power returned to baseline fol- lowing 1 week of recovery.
+HIOT: [16]
+
+Sterczala et al. [20]	RCT	1RM back squat
+Squat mean power @70% 1RM
+
+Squat mean barbell veloc- ity @ 70% 1RM
+
+Mean barbell velocity values returned to baseline fol- lowing 1 week of training cessation
+
+Hecksteden et al. [17] UCT	Squat maximal isometric
+contraction
+Bench press maximal isometric contraction
+
+Performance was not restored to baseline values following 2 days rest
+
+Warren et al. [21]	UCT	Snatch lift test to exhaus- tion
+Fry et al. [15]	Snatch (repetitions, missed
+lifts & successful lifts)
+
+Vertical jump Vertical jump
+
+Fry et al. [14]	RCT	1RM squat Agility run (left)
+
+Isokinetic leg extension torque
+Agility run (right) Vertical jump (CMJ, non-
+CMJ, low depth, high depth)
+
+Sprint
+
+Fry et al. [9]	UCT	1RM squat Sit and reach
+Lower body reaction time Vertical jump
+Back and hip extension isokinetic peak force
+
+Sprint
+Squat isokinetic peak force
+
+
+
+RCT randomised controlled trial, NRCT non-randomised controlled trial, UCT uncontrolled trial, HPOR high power overreaching, HIOT high- intensity overtraining, RM repetition maximum, CMJ countermovement jump
+
+testosterone [11, 15, 20], testosterone:cortisol (T:C) ratio/
+free T:C ratio [11, 15, 20], basal growth hormone [11, 15,
+17] and exercise induced growth hormone [11, 15], catecho-
+lamines [12, 16, 20], creatine kinase (CK) [13, 17] and pre-
+and post-exercise blood lactate/lactic acid [12, 13, 15, 21]. In comparison to a control, overload training participants demonstrated exacerbated responses of cortisol [20], cre- atine kinase [13] and noradrenaline [12]. Blunted responses were reported in T:C and free T:C ratio [11] and exercise- induced lactate concentrations [13].
+
+3.5 Physiology
+
+Amongst the studies that demonstrated declines in perfor- mance, five measured physiological adaptations. For exam- ple, Fry et al. [13] reported no significant changes in resting heart rate upon waking. Decreases in range of motion were demonstrated following 3 weeks of overload resistance train- ing [18]. Three studies investigated the physiological mecha- nisms that may underpin the decline in performance charac- teristic of overtraining [16, 19, 20]. No significant changes were demonstrated in contractile protein isoform expression [16, 19]. Fry et al. [16] and Sterczala et al. [20] reported downregulation of the ß2-adrenergic receptor (ß2-AR) system with simultaneous increases in epinephrine:ß2-AR density following overload training. Additionally, Nicoll et al. [19]
+
+
+Table 3 Between-group biochemical responses of overload partici- pants in comparison to control participant following the completion of overload training
+
+
+
+reported altered mitogen-activated protein kinase (MAPK) activity in response to overtraining in resistance exercise.
+
+3.6 Psychological and Perceptual Responses
+
+Psychological and perceptual responses were reported by three studies that demonstrated declines in performance. Margonis et al. [18] demonstrated increases in delayed onset muscle soreness following the increase in training load. Conflicting results were reported for perceived lower back pain and knee pain. No increases in pain were reported where participants trained 3 days per week [9]. However, increases in pain were demonstrated in a study where par- ticipants trained 7 days per week [13]. Fry et al. [13] also reported decreases in perceived recovery and strength status following the overload training intervention. However, no significant changes in sleep pattern (sleep quality and dura- tion) were reported throughout the trial [13].
+
+3.7 Risk of Bias
+
+The risk of bias assessment results, including selection bias, performance bias and confounding bias, is available in Fig. S6. In the case of UCTs, selection bias was assessed as not applicable as study protocol did not involve allocation of participants. No studies demonstrated adequate allocation concealment. Random sequence generation was performed by one study [31]. Blinding of participants was adequately performed by seven studies [15, 20, 22, 26-28, 31]. How- ever, as these studies involved supplementation groups, only the results of the placebo participants are relevant for discus-
+
+Parameter	Measure Blunted response
+
+
+Hormones
+
+No signifi- cant differ- ence
+
+Elevated response
+
+sion in this review. A total of eight studies are reflective of possible FOR, NFOR or OTS [11-13, 16-20]. These studies demonstrated an adequate decrease in at least one meas- ure of performance and included follow-up measures after
+
+Cortisol	R	[20]
+Testosterone	R	[20]
+T:C ratio	R	[11]	[20]
+EI	[11, 20]
+Free T:C ratio	R	[11]
+EI	[11]
+Adrenaline	R	[12, 20]
+EI	[12]
+Noradrenaline	R	[12]
+EI	[12]
+
+the overload period. Of these studies, only one adequately controlled for nutritional confounders [18]. An additional bias may exist as the majority of the studies included in this review came from the same group of authors.
+
+
+4 Discussion
+Despite the fact that many athletes perform resistance-based exercise as a significant part of their training, much of the
+
+Adrenaline: ß2-AR density
+
+R	[20]
+
+scientific literature on overtraining has focused on endurance activities [7]. This review analysed changes and attempted
+
+Blood biomarkers and muscle damage
+Lactate	R	[13]
+EI	[13]
+Creatine kinase	R	[13]
+
+T:C testosterone:cortisol, ß2-AR ß2-adrenergic receptor, R resting, EI
+exercise induced
+
+to identify relationships between numerous measures of performance, biochemistry, physiology and psychology that occurred in response to FOR, NFOR or OTS in resistance exercise. This systematic review also aimed to develop an understanding of the mechanisms and manifestation of over- training in resistance exercise. Such findings may provide
+
+an early indication of training maladaptation. However, to accurately elucidate the effects of overtraining in resistance exercise, it is important to accurately diagnosis a state of FOR, NFOR or OTS in intervention participants.
+
+4.1 Summary of Evidence
+
+4.1.1 Establishing Overreaching/Overtraining
+
+Previous studies have attempted to investigate the time course changes of training maladaptation in resistance exer- cise. However, many investigations have failed to appropri- ately induce and diagnose FOR, NFOR or OTS. Methodo- logical limitations and contrasting definitions within the literature contribute to the discrepant findings. At present, changes in performance and recovery time are required to diagnose and distinguish between these conditions [7]. Amongst the 22 studies included in this review, only eight studies reported declines in performance and implemented follow-up measures. However, few studies used a longitu- dinal approach to monitor performance during a follow-up/ recovery period. Due to the short duration and lack of per- formance testing throughout the follow-up period, the time course changes of performance in much of the resistance exercise overtraining literature remain unknown. Addition- ally, many studies that adversely affected performance did not measure performance during a follow-up period. Whilst these studies may provide some insight into training mal- adaptation, it is not possible to determine the prognosis of training maladaptation if performance is not adequately monitored throughout a follow-up period.
+Many of the previous resistance overtraining interven-
+tions failed to adversely affect performance following an overload training period. Whilst these studies are not reflec- tive of a state of FOR, NFOR or OTS, many researchers reported that overreaching or overtraining occurred. For example, Raastad et al. [28] did not report any decreases in performance measures (i.e. muscular strength), yet sug- gested that this should be recognised as overreaching as the strength gain per workout was reduced. However, a decline in strength adaptation per training bout may simply reflect the law of diminishing returns rather than a maladaptation to training. Future studies should attempt to standardise methodology (e.g. follow-up period and performance test- ing) and diagnostic criteria (e.g. demonstrated decrease in performance lasting 'days-weeks' for FOR, 'weeks-months' for NFOR and 'months...' for OTS) to avoid inappropri- ate determination of FOR, NFOR and OTS in resistance training.
+4.1.2 
+Performance
+
+Performance outcomes of resistance training have been measured using a number of different tests including maxi- mal muscular strength, muscular torque, force produc- tion and maximal repetitions until exhaustion [9, 16, 21]. To establish training maladaptation, the performance test utilised should be a reflection of an athlete's competition performance [7]. However, there is a lack of consistency in performance measures implemented within studies. This may be due to the diverse nature of resistance training and the variety of athletic performance outcomes (e.g. maximal strength, muscular power or hypertrophy). If the perfor- mance outcome of a resistance-based sport/discipline is not maximal strength, it is counterintuitive to measure maxi- mal strength as a primary performance indicator. Therefore, future studies utilising resistance training must specify a pri- mary performance test reflective of the demands and envi- ronmental context of an athlete's competition performance. The most common methods for assessing performance in included studies are maximal muscular strength tests. Maxi- mal muscular strength tests are a resistance training-specific tool that can be utilised for the detection of FOR, NFOR or OTS in resistance exercise. However, maximal strength tests are exhaustive in nature and may contribute to fatigue levels which increase the risk of training maladaptation. Few stud- ies demonstrated decreases in maximal strength. For exam- ple, Margonis et al. [18] reported significant decreases in 1RM strength which were not restored following a 6-week taper period. These results suggest that athletes developed the OTS. Hecksteden et al. [17] reported a significant decline in maximal isometric force that did not return to normal val- ues following a recovery period of 2 days. However, due to the short follow-up period the length of recovery required to distinguish between FOR, NFOR or OTS, correct diagnosis is not possible. Additional studies that reported decreases in maximal strength utilised participant interviews and surveys to monitor the length of recovery required to re-establish performance [11-13, 16]. Collectively, these studies have reported attenuated performance which may provide impor- tant insight into the mechanisms and manifestation of train- ing maladaptation. However, as these studies did not appro- priately measure performance during a sufficient follow-up period it is not possible to determine if these results reflect FOR, NFOR or OTS. Future research should implement follow-up measures to assess the time course changes of performance to appropriately diagnose FOR, NFOR or OTS. The lack of longitudinal interventions which have dem- onstrated training maladaptation presents difficulties in the attempt to monitor and diagnose overtraining. It appears as though maximal muscular strength is resilient to large acute increases in training load. Therefore, secondary performance measures may be useful for the early detection of FOR,
+
+NFOR or OTS in resistance-trained athletes. Previous stud- ies have employed a variety of performance measures (e.g. sprint time, vertical jump height) not specific to the resist- ance training protocol that may provide important insight into the monitoring of possible overtraining [14-16, 21]. Contrasting results were reported for secondary performance measures. Collectively, it appears as though changes in max- imal strength may not reflect performance in other tasks. Future studies should aim to appropriately establish FOR, NFOR or OTS and determine whether such tests could be used to monitor the manifestation of these conditions. Per- formance testing is an efficient and inexpensive method to monitor and prevent overtraining. However, given the short duration and wide variety of performance measures used by many studies, there remains insufficient evidence to reach a consensus on performance tests that monitor overtraining in resistance exercise.
+  The majority of the literature on overtraining in resistance exercise has been reported following interventions where physical performance was not adversely affected. Although it is difficult to compare without consistent measures between studies, differences in the prescription of overload training protocols may provide insight into the type of resistance training that may increase susceptibility to overtraining. The training frequency and relative training intensity of interven- tions that did induce performance decrements appear to be higher than those that did not adversely affect performance. All studies that performed multiple sets of one repetition at high intensity (e.g. 10 sets × 1 repetition at 100% 1RM, every day for 2 weeks) were able to induce performance decreases [11-13, 16]. Low volume, high-intensity and -frequency protocols such as those used in these interventions may be insightful for research purposes. However, coaches and ath- letes are unlikely to implement such regimes as part of a training program due to the risk of injury associated with training at maximal loads [33]. Previous studies that dem- onstrated no adverse effects on performance implemented training protocols that are likely more reflective of how resistance-based athletes would normally train. However, as many overtraining studies have been unable to induce FOR, NFOR or OTS and the concomitant performance decrements, the trade-off between ecological validity and adequate manipulation of exercise volume and/or intensity to elicit a maladaptive response must be considered. These studies may still provide important insight into resistance exercise FOR, NFOR and OTS.
+Training monotony may be expressed as the amount of
+variation in training load within one training cycle [34]. A previous study has suggested that monotonous training increases susceptibility to overreaching and overtraining in endurance activities [35]. Although there is little empiri- cal evidence examining the relationship between training monotony and overtraining, it appears as through monotony
+
+of training load may increase the likelihood of overtraining in resistance exercise. Many previous studies that reported performance decrements utilised interventions where only one type of resistance exercise was performed (i.e. squat) [11-14, 16, 19, 20]. It appears as though low variation in exercise selection or targeted muscle groups may increase the likelihood of training maladaptation due to a high increase in concentrated training load with limited time to recover. Therefore, coaches and athletes should use caution when programming an overload period targeting a specific lift or muscle group. Collectively, high training frequency, high training intensity and training monotony appear to increase the likelihood of training maladaptation. However, confounding factors such as training status must be consid- ered in future studies.
+
+4.1.3 Biochemistry
+
+Various biochemical markers have also been investigated to gain a greater understanding of the potential mechanisms of overtraining in resistance exercise. Nine studies measured biochemical responses following an overload training period that resulted in a decrease in performance [11-13, 15-18, 20, 21]. Marked responses were observed in overload par- ticipants in comparison to control participants in hormone levels (cortisol, T:C ratio, free T:C ratio and catecholamines) [11, 12, 20], blood biomarkers and muscle damage markers (lactate and creatine kinase, respectively) [13]. However, the biochemical responses of overtraining remain unknown due to the variability of results and lack of studies that have measured the time course changes in performance required to accurately diagnose maladaptive training conditions. A recent systematic review of the hormonal aspects of over- training by Cadegiani et al. [36] also recognised that the improper diagnosis of FOR, NFOR and OTS is a significant problem in overtraining literature. Furthermore, biochemical markers have been unable to distinguish between a normal training response, acute fatigue, FOR, NFOR and OTS. Fur- ther research is needed to understand the biochemical altera- tions during training maladaptation and to determine the validity and reliability of biomarkers for monitoring over- training. It has previously been suggested that overtraining can result in differential biochemical responses depending on whether high relative intensity or high-volume resist- ance training is performed [8, 37]. However, due to the lack of studies that have appropriately established overtraining through high-volume and/or high-intensity training proto- cols, comparisons cannot be made; therefore, this theory cannot be corroborated.
+
+4.1.4 Physiology
+
+Physiological measures have previously been investigated as tools to monitor and/or diagnose overtraining. However, relatively few studies have investigated the response of physiological measures to overtraining in resistance exer- cise. Fry et al. [13] measured resting heart rate upon waking and reported no changes throughout 2 weeks of overload resistance training. However, the multifactorial causes of variation in basal heart rate may limit its ability to moni- tor for overtraining in resistance exercise. Additionally, Margonis et al. [18] reported on knee range of motion as a measure of the swelling/oedema response to overtraining in resistance exercise. The authors reported a decrease in range of motion indicative of swelling and muscle micro trauma following the overload training intervention. How- ever, inflammatory measures may be unable to distinguish between acute fatigue, FOR, NFOR and OTS. The muscle physiology mechanisms that underpin the decline in perfor- mance characteristic of overtraining in resistance exercise have been investigated by relatively few studies [16, 19, 20]. Skeletal muscle fibre composition and muscle fibre contrac- tile properties have previously been examined. Declines in ß2-AR density and altered MAPK activity may be responsi- ble for the muscle maladaptation associated with overtrain- ing. However, future research is needed to determine the validity and reliability of physiological measures as tools to monitor overtraining in resistance exercise. Furthermore, physiological monitoring markers must reflect the nature and mechanisms of resistance training.
+
+4.1.5 Psychology and Perceptual Responses
+
+It is well established that the presence of negative psycho- logical and perceptual responses coincides with overtraining in endurance populations [7]. However, relatively few stud- ies have used psychological and perceptual monitoring tools in resistance exercise overtraining interventions. Increases in delayed onset muscle soreness and pain as well as decreases in perceived recovery status and perception of strength have been reported among interventions that demonstrated a decrease in performance [13, 18]. These are expected find- ings given that the process of overtraining involves an imbal- ance of training stress and recovery. In contrast to the endur- ance literature, Fry et al. [13] reported slight decreases in anxiety following an overload training period which resulted in decreases in 1RM strength. The authors suggested that overtraining through high-intensity resistance exercise may produce different psychological responses in comparison to high-volume endurance training. At present, percep- tual measures of soreness and recovery status may provide information concerning increases in training load. However, these tools are yet to be established as reliable indicators of
+
+overtraining in resistance exercise. Due to the lack of studies demonstrating overtraining and investigating psychological and perceptual responses to overtraining in resistance exer- cise, no clear consensus can be reached. Future investigators should combine tools to measure psychological disturbances with measures of performance to gain a better understanding of this relationship.
+
+4.2 Limitations
+
+This is the first systematic review to critically appraise the methodology and results of studies that have attempted to induce FOR, NFOR or OTS through resistance exercise. This analysis was limited by the inability to perform a meta- analysis due to the heterogeneity of study methodologies and outcomes. Additionally, a possible risk of bias may exist in the selection of search terms and exclusion criteria as defined by the authors. However, this review followed pro- tocols as recommended by the AMSTAR 2 and PRISMA guidelines. Furthermore, due to the criteria required to diagnose overtraining, an adapted risk of bias assessment tool was required to accurately reflect the quality of studies. Limitations are present in this assessment as a clear judge- ment about the risk of bias arising from each domain was not reflected with a validated assessment tool (i.e. Cochrane risk of bias appraisal tool). To address this limitation, an adapted risk of bias assessment tool was used. Additionally, a variety of limitations exist in the included studies. Many studies did not demonstrate decreases in performance or measure the time course changes in performance during a follow-up period. Due to these methodological limitations, an accurate diagnosis of FOR, NFOR or OTS was impossible. The lack of standardised diagnostic criteria and the inconsistency and variability in measurements of performance, biochemistry, physiology and psychology amongst studies make it difficult to establish the relationship between overtraining and resist- ance exercise.
+
+4.3 Future Research
+
+Given the negative impact of overtraining on athletic perfor- mance, it is essential that research in this area is examined critically. Due to the lack of studies demonstrating decreases in performance and implementing follow-up measures, further research is required to develop an understanding of overtraining in resistance exercise. The prevalence and symptoms of overtraining in resistance exercise should be further investigated given the lack of longitudinal studies in resistance-trained populations. Future studies must imple- ment resistance training interventions that are reflective of the sport/discipline to maintain ecological validity; however, the authors should report the primary performance measure. To gain a better understanding of the effects of overtraining,
+
+future studies should attempt to increase consistency amongst measured parameters (biochemical, physiological and psychological markers). There is also a need to inves- tigate the time course changes in performance, biochem- istry, physiology and psychology throughout the recovery/ follow-up stage. Future investigators should also consider examining the aetiology of high-volume versus high rela- tive intensity resistance exercise overtraining. Additionally, future authors should control for confounding factors (i.e. nutritional and sleep characteristics) as these factors may play a role in the development of the OTS [38]. As was recently done in an overtraining study by Cadegiani et al. [38], future authors should consider utilising the flowchart proposed by Meeusen et al. [7] to diagnose OTS and account for confounding factors.
+  It is necessary to consider the clinical and economic implications of studying overtraining in athletic populations. Future researchers must consider the impact of subjecting participants to increased training loads over long periods in an attempt to induce overtraining. This may result in long- term decrements in performance and increased susceptibility to physical or psychological illness and injury. Additionally, overtraining may be experienced differently amongst partici- pants. Future studies must consider interindividual variabil- ity in response to increases in training load. While the dif- ficulties and ethical considerations of inducing overtraining in athletic populations are appreciated, well-designed studies with demonstrated decreases in performance and follow-up measures are required to develop a greater understanding of overtraining in resistance exercise.
+
+
+5 Conclusion
+The primary aim of this review was to critically analyse the existing literature to elucidate the mechanisms that underlie overtraining in resistance exercise. Despite the potentially serious implications of overtraining in athletic populations, to date, there is insufficient literature investigating the effects of FOR, NFOR and OTS in resistance exercise. The majority of previous resistance-based overtraining interventions fail to demonstrate decrements in training-specific performance. Furthermore, many studies do not accurately measure the length of recovery and time course changes in physical per- formance. It is apparent that the misdiagnosis of overtraining is a significant problem in previous research. However, it is necessary to mention that whilst many studies did not appro- priately establish FOR, NFOR or OTS they still provide valuable information regarding the physiological alterations and potential mechanisms of resistance training fatigue.
+  At present, there is insufficient evidence to draw accu- rate conclusions on the effects of overtraining in resist- ance exercise. No diagnostic tool other than a decrease in
+
+sport-specific performance can be taken as an indicator of overtraining in resistance exercise. Given the current evi- dence the exact role of biochemical, physiological and psy- chological markers in overtraining in resistance exercise remains equivocal. Athletes and coaches should regularly monitor a combination of performance, biochemical, physi- ological and psychological variables to identify athletes that may be approaching training maladaptation. The causes and pathogenic nature of overtraining remain unclear; however, frequent, high-intensity, monotonous resistance training appears to increase an athlete's susceptibility to overtrain- ing. However, caution must be exercised when interpreting these findings due to the lack of interventions which have induced FOR, NFOR or OTS through resistance exercise.
+
+Data availability statement All data generated or analysed during this study are included in this published article (and its supplementary information files).
+
+Compliance with ethical standards
+Funding No sources of funding were used to assist in the preparation of this article.
+
+Conflict of interest Clementine Grandou, Lee Wallace, Franco M. Impellizzeri, Nicholas G. Allen and Aaron J. Coutts declare that they have no conflicts of interest relevant to the content of this review.
+
+
+References
+1. Kraemer WJ, Adams K, Cafarelli E, et al. American col- lege of sports medicine position stand. Progression models in resistance training for healthy adults. Med Sci Sports Exerc. 2002;34(2):364-80.
+2. Kraemer WJ, Ratamess NA. Fundamentals of resistance train- ing: progression and exercise prescription. Med Sci Sports Exerc. 2004;36(4):674-88.
+3. Kuipers H, Keizer HA. Overtraining in elite athletes. Sports Med. 1988;6(2):79-92.
+4. Urhausen A, Kindermann W. Diagnosis of overtraining: what tools do we have? Sports Med. 2002;32(2):95-102.
+5. Fry RW, Morton AR, Keast D. Periodisation and the prevention of overtraining. Can J Sport Sci. 1992;17(3):241-8.
+6. Halson SL, Bridge MW, Meeusen R, et al. Time course of perfor- mance changes and fatigue markers during intensified training in trained cyclists. J Appl Physiol. 2002;93(3):947-56.
+7. Meeusen R, Duclos M, Foster C, et al. Prevention, diagnosis, and treatment of the overtraining syndrome: joint consensus statement of the European college of sport science and the American college of sports medicine. Med Sci Sports Exerc. 2013;45(1):186-205.
+8. Fry AC, Kraemer WJ. Resistance exercise overtraining and overreaching: neuroendocrine responses. Sports Med. 1997;23(2):106-29.
+9. Fry AC, Webber JM, Weiss LW, et al. Impaired performances with excessive high-intensity free-weight training. J Strength Cond Res. 2000;14(1):54-61.
+10. Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. PLos Med. 2009;6(7):e1000097.
+
+11. Fry AC, Kraemer WJ, Ramsey LT. Pituitary-adrenal-gonadal responses to high-intensity resistance exercise overtraining. J Appl Physiol. 1998;85(6):2352-9.
+12. Fry AC, Kraemer WJ, Van Borselen F, et al. Catecholamine responses to short-term high-intensity resistance exercise over- training. J Appl Physiol. 1994;77(2):941-6.
+13. Fry AC, Kraemer WJ, Van Borselen F, et al. Performance decre- ments with high-intensity resistance exercise overtraining. Med Sci Sports Exerc. 1994;26(9):1165-73.
+14. Fry AC, Kraemer WJ, Lynch JM, et al. Does short-term near- maximal intensity machine resistance training induce overtrain- ing? J Strength Cond Res. 1994;8(3):188-91.
+15. Fry AC, Kraemer WJ, Stone MH, et al. Endocrine and perfor- mance responses to high volume training and amino acid sup- plementation in elite junior weightlifters. Int J Sport Nutr. 1993;3(3):306-22.
+16. Fry AC, Schilling BK, Weiss LW, et al. Beta2-adrenergic receptor downregulation and performance decrements during high-intensity resistance exercise overtraining. J Appl Physiol. 2006;101(6):1664-72.
+17. Hecksteden A, Skorski S, Schwindling S, et al. Blood-borne mark- ers of fatigue in competitive athletes-results from simulated training camps. PLoS One. 2016;11(2):e0148810.
+18. Margonis K, Fatouros IG, Jamurtas AZ, et al. Oxidative stress biomarkers responses to physical overtraining: implications for diagnosis. Free Radic Biol Med. 2007;43(6):901-10.
+19. Nicoll JX, Fry AC, Galpin AJ, et al. Changes in resting mitogen-activated protein kinases following resistance exer- cise overreaching and overtraining. Eur J Appl Physiol. 2016;116(11-12):2401-13.
+20. Sterczala A, Fry A, Chiu L, et al. ß2-adrenergic receptor malad- aptations to high power resistance exercise overreaching. Hum Physiol. 2017;43(4):446-54.
+21. Warren BJ, Stone MH, Kearney JT, et al. Performance measures, blood lactate, and plasma ammonia as indicators of overwork in elite junior weightlifters. Int J Sports Med. 1992;13(5):372-6.
+22. Fahey TD, Pearl MS. The hormonal and perceptive effects of phosphatidylserine administration during 2 weeks of resistive exercise-induced overtraining. Biol Sport. 1998;15(3):135-44.
+23. Fatouros IG, Destouni A, Margonis K, et al. Cell-free plasma DNA as a novel marker of aseptic inflammation severity related to exercise overtraining. Clin Chem. 2006;52(9):1820-4.
+24. Fry AC, Kraemer WJ, Stone MH, et al. Endocrine responses to overreaching before and after 1 year of weightlifting. Can J Sport Sci. 1994;19(4):400-10.
+25. 
+Hasegawa Y, Kurosawa Y, Goto K. The effect of planned over- reaching and short-term detraining on jump squat performance. J Aust Strength Cond. 2016;24(7):13-8.
+26. Kraemer WJ, Ratamess NA, Volek JS, et al. The effects of amino acid supplementation on hormonal responses to resistance training overreaching. Metabolism. 2006;55(3):282-91.
+27. Lowery RP, Joy JM, Rathmacher JA, et al. Interaction of beta- hydroxy-beta-methylbutyrate free acid and adenosine triphosphate on muscle mass, strength, and power in resistance trained indi- viduals. J Strength Cond Res. 2016;30(7):1843-54.
+28. Raastad T, Glomsheller T, Bjoro T, et al. Changes in human skel- etal muscle contractility and hormone status during 2 weeks of heavy strength training. Eur J Appl Physiol. 2001;84(1-2):54-63.
+29. Ratamess NA, Kraemer WJ, Volek JS, et al. The effects of amino acid supplementation on muscular performance during resistance training overreaching. J Strength Cond Res. 2003;17(2):250-8.
+30. Sweeny M, Brilla L, Suprak D, et al. Comparison of linear and daily undulating periodization in resistance training using simple measures of overreaching. Med Sci Sports Exerc. 2011;43(Suppl 1):836.
+31. Wilson J, Lowery R, Joy J, et al. The effects of 12 weeks of beta- hydroxy-beta-methylbutyrate free acid supplementation on mus- cle mass, strength, and power in resistance-trained individuals: a randomized, double-blind, placebo-controlled study. Eur J Appl Physiol. 2014;114(6):1217-27.
+32. Gentles JA, Phillips SM. Discrepancies in publications related to HMB-FA and ATP supplementation. Nutr Metab. 2017;14(1):42.
+33. Keogh J, Hume PA, Pearson SJJOS. Retrospective injury epide- miology of one hundred one competitive Oceania power lifters: the effects of age, body mass, competitive standard, and gender. J Strength Cond Res. 2006;20(3):672-81.
+34. McGuigan MR, Foster C. A new approach to monitoring resist- ance training. J Strength Cond Res. 2004;26(6):42.
+35. Bruin G, Kuipers H, Keizer H, et al. Adaptation and overtraining in horses subjected to increasing training loads. J Appl Physiol. 1994;76(5):1908-13.
+36. Cadegiani FA, Kater CE. Hormonal aspects of overtraining syndrome: a systematic review. BMC Sports Sci Med Rehabil. 2017;9(1):14.
+37. Kreider RB, Fry AC, O'Toole ML. Overtraining in sport. Cham- paign: Human Kinetics; 1998.
+
+
+
+
+
+
+
+
+
+
+
+
